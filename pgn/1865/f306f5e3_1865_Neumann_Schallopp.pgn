@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Neumann"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "f306f5e3"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. Be3 O-O 10. Rd1 Qe8 11. Nc3 Nd8 12. Nd4 f5 13. f4 d5 14. Nf3 Qg6
+15. Na4 Ne6 16. b3 Qg4 17. Qd2 g5 18. h3 Qh5 19. Kf2 g4 20. Nd4 Ng5 21. fxg5 f4
+22. Bxf4 Bxg5 23. g3 Qxh3 24. Rh1 Bxf4 25. gxf4 g3+ 26. Kg1 Qg4 27. Rf1 Bf5 28.
+Nc5 h5 29. Qe2 1-0

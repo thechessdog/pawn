@@ -1,0 +1,19 @@
+[Event "Riga"]
+[Site "Riga"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Behting, Robert"]
+[Black "Rosenkrantz, Carl"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "52d842d4"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Nxc3 6. bxc3 Be7 7. d4 Bg4
+8. Rb1 b6 9. Bd3 Bh4+ 10. g3 Be7 11. O-O c6 12. c4 O-O 13. cxd5 Qxd5 14. c4
+Bxf3 15. Rxf3 Qxd4+ 16. Kg2 Qxe5 17. Bb2 Qc5 18. Rf5 Qd6 19. Qg4 g6 20. Rd1
+Nd7 21. Bc2 Qe6 22. Qd4 f6 23. Qxd7 Qxd7 24. Rxd7 gxf5 25. Rxe7 Rfe8 26.
+Rxe8+ Rxe8 27. Kf3 Kg7 28. Bxf5 c5 29. g4 h6 30. h4 Kf7 31. Bc1 Re1 32.
+Bxh6 Ra1 33. g5 fxg5 34. hxg5 Rxa2 35. g6+ 1-0
+

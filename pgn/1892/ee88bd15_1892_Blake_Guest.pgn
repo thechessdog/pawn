@@ -1,0 +1,17 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Blake, Joseph Henry"]
+[Black "Guest"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "ee88bd15"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. c3 g6 6. Nbd2 Bg7 7. Nf1 O-O 8. Ng3
+Nd7 9. h4 h5 10. Ng5 Bf6 11. Nxh5 Bxg5 12. hxg5 f5 13. Bc4+ Rf7 14. exf5 Ne7
+15. fxg6 Nxg6 16. Qf3 Qe7 17. Nf6+ Kf8 18. Bxf7 Qxf7 19. Rh7 1-0

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Vienna"]
+[Black "St Petersburg"]
+[Result "1/2-1/2"]
+[ECO "D07"]
+[Opening "QGD"]
+[Variation "Chigorin defence"]
+[HashCode "f7041758"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 Nc6 3. Nc3 dxc4 4. d5 Na5 5. Qa4+ c6 6. b4 b5 7. Qxa5 Qxa5
+8. bxa5 b4 9. Nd1 cxd5 10. e4 e6 11. Ne3 Nf6 12. exd5 exd5 13. Bb2 Be6 14.
+Bxf6 gxf6 15. Ne2 Rc8 16. Nf4 Rc5 17. Rd1 c3 18. a6 Bd6 19. Nfxd5 c2 20.
+Rc1 Bxd5 21. Nxd5 Rxd5 22. Rxc2 Ke7 23. g3 Ra5 24. Be2 Be5 25. O-O Rd8
+1/2-1/2
+

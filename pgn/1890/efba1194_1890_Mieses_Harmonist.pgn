@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Harmonist, Max"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "efba1194"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 b6 4. Bg2 Bb7 5. Nge2 Nc6 6. d3 Be7 7. O-O O-O 8. f4
+Bc5+ 9. Kh1 Ng4 10. Qe1 Nd4 11. Nxd4 exd4 12. Ne2 f5 13. b4 Bd6 14. Nxd4 fxe4
+15. dxe4 Qf6 16. c3 Qh6 17. h3 Rae8 18. Kg1 Bxe4 19. Bxe4 Nf6 20. f5 Qh5 21.
+Bf4 Rxe4 22. Qd2 Bxf4 23. Rxf4 Qxh3 24. Rf3 Rfe8 25. Qg2 Qh5 26. Rf2 Ng4 27.
+Rff1 c5 28. bxc5 bxc5 29. f6 gxf6 30. Nf5 Re2 31. Qd5+ Kh8 32. Qh1 Qg5 33. Qf3
+Nh2 34. Qd3 Nxf1 35. Rxf1 Qh5 36. Nh4 R2e3 37. Qd6 Rxg3+ 38. Ng2 Qg5 39. Qxf6+
+Qxf6 40. Rxf6 Re2 0-1

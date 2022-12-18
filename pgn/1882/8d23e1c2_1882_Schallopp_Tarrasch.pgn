@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Schallopp, Emil"]
+[Black "Tarrasch, Siegbert"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "8d23e1c2"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nf3 Qh5 7. h4 Bg7 8. d4
+Ne7 9. Nc3 h6 10. e5 f6 11. exf6 Bxf6 12. Bc4 Nbc6 13. Ne4 Bg7 14. Be2 Bg4 15.
+Nf2 Nf5 16. Kg1 Ng3 17. Rh2 Nxd4 18. Nxd4 Bxe2 19. Nxe2 Nxe2+ 20. Kf1 Ng3+ 21.
+Kg1 Qxd1+ 22. Nxd1 O-O-O 23. Nf2 Rhe8 0-1

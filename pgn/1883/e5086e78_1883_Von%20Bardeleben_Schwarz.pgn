@@ -1,0 +1,24 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Von Bardeleben, Curt"]
+[Black "Schwarz, Jacques"]
+[Result "1-0"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "e5086e78"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. e3 e6 3. Nf3 Nf6 4. b3 Be7 5. Bb2 O-O 6. Bd3 b6 7. O-O Bb7 8. Ne5
+c5 9. Nd2 Nbd7 10. Ndf3 Bd6 11. Nxd7 Nxd7 12. c4 Rc8 13. Rc1 Bb8 14. Qe2 Qe7
+15. Rc2 Qd6 16. cxd5 exd5 17. Ba3 Qh6 18. Bf5 Rfd8 19. Rfc1 c4 20. Be7 b5 21.
+Bxd8 Rxd8 22. Bxd7 Rxd7 23. a4 a6 24. axb5 axb5 25. Qd2 Qd6 26. b4 f6 27. Ra2
+g5 28. g3 Bc7 29. Rb2 Rg7 30. Qe2 h5 31. Nd2 g4 32. Kg2 h4 33. Nb1 f5 34. Nc3
+Bc6 35. Qc2 Bd7 36. Rh1 h3+ 37. Kf1 Re7 38. Ne2 Qe6 39. Ke1 Qf6 40. Kd2 Bb6 41.
+Ra1 Bc6 42. Rba2 Bb7 43. Rf1 Re8 44. Nc3 Bc6 45. Ra6 Bb7 46. Rxb6 Qxb6 47. Qxf5
+Qe6 48. Qxe6+ Rxe6 49. f3 gxf3 50. Rxf3 Ra6 51. g4 Ra3 52. Rxh3 Rb3 53. Nxb5
+Rxb4 54. Nc3 Rb2+ 55. Kc1 Rg2 56. Rh5 Rxg4 57. Nxd5 Bxd5 58. Rxd5 Rh4 59. Kd2
+Rxh2+ 60. Kc3 Rh1 61. Kxc4 Rc1+ 62. Kd3 Kf7 63. Re5 Kf6 64. e4 Rd1+ 65. Kc4
+Rc1+ 66. Kd5 Rd1 67. Rf5+ Kg6 68. Ke5 Ra1 69. d5 Ra8 70. d6 1-0

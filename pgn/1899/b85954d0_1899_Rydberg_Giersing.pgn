@@ -1,0 +1,17 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1899.??.??"]
+[Round "1"]
+[White "Rydberg, C."]
+[Black "Giersing, Johannes Hjalmar"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "b85954d0"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 d5 4. Qa4 dxe4 5. Nxe5 Bd7 6. Nxd7 Qxd7 7. Qxe4+
+Be7 8. Bb5 Nf6 9. Qf3 O-O 10. O-O Bd6 11. h3 Rae8 12. Bxc6 bxc6 13. d4 c5
+14. Be3 Nd5 15. Nd2 cxd4 16. Bxd4 c5 17. c4 Nf4 18. Bc3 Re6 19. Kh1 Rh6 20.
+Kg1 Rg6 21. Ne4 Nxh3+ 22. Kh1 Rh6 0-1
+

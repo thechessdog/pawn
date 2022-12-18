@@ -1,0 +1,17 @@
+[Event "St Petersburg CC"]
+[Site "St Petersburg CC"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Helbach, G."]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "1dfce36d"]
+[Epoch "Pawn"]
+
+1. e4 Nc6 2. d4 e5 3. Bc4 Nf6 4. Nf3 Nxe4 5. Nxe5 Nxe5 6. dxe5 Qh4 7. Qf3
+Bb4+ 8. c3 Rf8 9. g3 Nxg3 10. Qxg3 Qxc4 11. Nd2 Qd5 12. Rf1 Bc5 13. Qxg7 d6
+14. f4 Bh3 15. Rf3 Rg8 16. c4 Rxg7 17. cxd5 Rg1+ 18. Nf1 Bg2 19. Rf2 Bxd5
+20. Re2 Bc4 21. exd6+ Kd7 22. dxc7 Rxf1+ 23. Kxf1 Re8 0-1
+

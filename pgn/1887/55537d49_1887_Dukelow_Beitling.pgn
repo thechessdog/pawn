@@ -1,0 +1,17 @@
+[Event "Kansas"]
+[Site "Kansas"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Dukelow"]
+[Black "Beitling"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "55537d49"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 bxc6 6. Bc4 Bc5 7. c3 Bxg1
+8. Qh5 Qb6 9. Qxf7+ Kd8 10. Qf8+ Kc7 11. Qxg7+ Nd7 12. Qxh8 Qf2+ 13. Kd1
+Qxg2 14. Rxg1 Qxg1+ 15. Kc2 Ngf6 0-1
+

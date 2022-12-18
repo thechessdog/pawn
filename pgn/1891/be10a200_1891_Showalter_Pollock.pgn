@@ -1,0 +1,25 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Showalter, Jackson Whipps"]
+[Black "Pollock, William Henry Kraus"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "2...Nf6"]
+[HashCode "be10a200"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 Nf6 3. fxe5 Nxe4 4. Nf3 d5 5. d3 Nc5 6. d4 Ne6 7. Bd3 c5 8. c3
+Nc6 9. O-O cxd4 10. cxd4 Ncxd4 11. Nxd4 Nxd4 12. Qa4+ Nc6 13. Qf4 Bc5+ 14. Kh1
+Be6 15. Nd2 Qc7 16. Nf3 O-O-O 17. Qa4 h6 18. Bd2 Kb8 19. b4 Bb6 20. Rfc1 Qd7
+21. b5 Ne7 22. Bb4 Rc8 23. Bd6+ Ka8 24. Qa3 Rxc1+ 25. Rxc1 Rc8 26. Rxc8+ Nxc8
+27. Bf8 Bf5 28. Bxg7 Be4 29. Be2 d4 30. Bxh6 d3 31. Bd1 Qxb5 32. Qf8 Qc4 33.
+Bb3 d2 34. h4 Bxf3 35. gxf3 Qf1+ 36. Kh2 Qf2+ 37. Kh3 Qxf3+ 38. Kh2 Kb8 39.
+Bxd2 Qf2+ 40. Kh3 Qxd2 41. Qxf7 Qe3+ 42. Kg4 Qxe5 43. h5 Bc7 44. h6 a6 45. Qg8
+Qg3+ 46. Kf5 Qf4+ 47. Kg6 Qe4+ 48. Kf7 Qf5+ 49. Ke8 Qf6 50. Qg7 Nd6+ 51. Kd7
+Qd8+ 52. Ke6 Qe8+ 53. Qe7 Qxe7+ 54. Kxe7 Nf5+ 55. Kf6 Nxh6 56. Be6 Bf4 57. a4
+Kc7 0-1

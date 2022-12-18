@@ -1,0 +1,17 @@
+[Event "Clifton"]
+[Site "Clifton"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Thorold"]
+[Black "Skipworth"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird's opening"]
+[HashCode "be9ce1f9"]
+[Epoch "Pawn"]
+
+1. f4 e6 2. Nf3 c5 3. e3 Nc6 4. Be2 f5 5. O-O Nf6 6. b3 Be7 7. Bb2 O-O 8.
+d3 b6 9. Ne5 Nxe5 10. fxe5 Nd5 11. Rf3 Bg5 12. Qd2 Bb7 13. c4 Nxe3 14. Rxe3
+f4 15. Rf3 Bh6 16. Nc3 g5 17. h3 g4 18. hxg4 Qg5 19. Rh3 Bxg2 20. Rh5 Qg6
+21. Ne4 Bxe4 22. dxe4 f3 23. Rxh6 Qxg4+ 24. Kf2 fxe2+ 25. Rf6 1-0
+

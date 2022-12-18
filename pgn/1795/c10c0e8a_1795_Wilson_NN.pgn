@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1795.??.??"]
+[Round "1"]
+[White "Wilson, J."]
+[Black "NN"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "King's knight's gambit"]
+[HashCode "c10c0e8a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. c3 gxf3 6. Qxf3 Bh6 7. d4 Qh4+
+8. g3 fxg3 9. Qxf7+ Kd8 10. Bxh6 g2+ 11. Ke2 Nxh6 0-1
+

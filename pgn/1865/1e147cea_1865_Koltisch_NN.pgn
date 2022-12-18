@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Koltisch, J."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[HashCode "1e147cea"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 b5 3. Bxb5 f5 4. exf5 Nf6 5. g4 Bb7 6. Nf3 Bd6 7. h3 Nc6 8.
+d3 Nd4 9. Nxd4 Bxh1 10. Ne6 Qb8 11. Nxg7+ Kf8 12. Bc4 Kxg7 13. Bh6+ Kxh6
+14. Qd2+ Kg7 15. Qg5+ Kf8 16. Qxf6+ Ke8 17. Bf7+ Kf8 18. Bg6+ Kg8 19. Qf7#
+1-0
+

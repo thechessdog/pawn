@@ -1,0 +1,27 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Amsterdam"]
+[Black "Elberfeld"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Knorre variation"]
+[HashCode "9d8ca61e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. d4 Qc7 12. Bd2 O-O 13. O-O Nb7 14.
+f4 c5 15. Bc3 Nd5 16. Qc1 f6 17. Ng6 Rd8 18. Bc4 Be6 19. Bxd5 Bxd5 20. Qe3
+Bf7 21. Nh4 Bc4 22. Rf2 cxd4 23. Bxd4 Bc5 24. c3 Rxd4 25. cxd4 Bxd4 26. Qg3
+Rd8 27. Na3 e3 28. Rc2 e2+ 29. Kh1 Bf2 30. Qf3 Qxf4 31. Rcc1 Qxf3 32. Nxf3
+Bxa2 33. Ng1 e1=Q 34. Rxe1 Bxe1 35. Rxe1 Nc5 36. Re2 Bd5 37. Nh3 Ne4 38.
+Kg1 Bb7 39. Nf2 Nxf2 40. Kxf2 Rd5 41. Rc2 Rg5 42. g3 Rf5+ 43. Ke3 Rf3+ 44.
+Kd4 Ba6 45. Rd2 Rb3 46. Nb1 h5 47. Nc3 h4 48. Ke3 hxg3 49. hxg3 Kh7 50. Kf2
+Bb7 51. Kg1 Kh6 52. Kh2 Kh5 53. Kh3 Bf3 54. Nd5 Kg5 55. Nf4 Kf5 56. Ne2
+Bg4+ 57. Kg2 Bxe2 58. Rxe2 a5 59. Kh3 Rb4 60. Re7 g6 61. Ra7 Rb5 62. Ra6
+Kg5 63. Rc6 f5 64. Ra6 Kh6 65. b3 Kh5 66. g4+ fxg4+ 67. Kg2 Kg5 68. Rc6
+Rxb3 69. Rc5+ Kh4 70. Rxa5 Rb2+ 71. Kg1 Kh3 72. Ra3+ g3 73. Ra1 g5 74. Rc1
+g4 75. Ra1 Rb3 76. Rc1 g2 0-1
+

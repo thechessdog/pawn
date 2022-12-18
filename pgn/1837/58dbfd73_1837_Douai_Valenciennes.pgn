@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1837.01.01"]
+[Round "1"]
+[White "Douai"]
+[Black "Valenciennes"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "58dbfd73"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2
+Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Nb3 Be6 12. Re1 Nf4 13. Rc1
+Qf6 14. Rc3 Rad8 15. Qc1 h5 16. Be2 Nxe2+ 17. Rxe2 Bxb3 18. Rxb3 Nxd4 19.
+Nxd4 Qxd4 20. Re1 Rfe8 0-1
+

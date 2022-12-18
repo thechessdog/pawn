@@ -1,0 +1,18 @@
+[Event "Criterion"]
+[Site "Criterion"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Bird, Henry"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "ea41bd2d"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nf6 5. d4 Ng4 6. Bg5 f6 7. Bh4 g5 8.
+Bf2 Nxf2 9. Kxf2 g4 10. Nh4 f5 11. g3 f4 12. Qd3 O-O 13. Qb3+ Kh8 14. Kg1 Qf6
+15. Bg2 fxg3 16. hxg3 Qf2+ 17. Kh2 Rf3 0-1

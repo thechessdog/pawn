@@ -1,0 +1,21 @@
+[Event "DSB-05.Kongress"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "14"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "4e3b362c"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d5 6. exd5 Bg4 7. d4 Ne7 8.
+Bxf4 O-O 9. Nc3 Bf6 10. Kf2 Bxf3 11. gxf3 Nf5 12. Ne2 b5 13. Bd3 Nxd4 14. Nxd4
+Bxd4+ 15. Kg2 Qf6 16. Bxc7 Qg5+ 17. Bg3 f5 18. f4 Qd8 19. Be2 Bc5 20. Bxb5 g5
+21. h4 gxf4 22. Bxf4 a6 23. Ba4 Bd6 24. Qd4 Rf7 25. Rae1 Rg7+ 26. Kf3 Qc7 27.
+Rhg1 Rg4 28. Bxd6 Qxd6 29. Rxg4+ fxg4+ 30. Qxg4+ Kf7 31. Be8+ Kf8 32. Qf5+ Kg7
+33. Rg1+ Kh8 34. Qf7 1-0

@@ -1,0 +1,19 @@
+[Event "Kolisch mem"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "17"]
+[White "Marco, Georg"]
+[Black "Weiss, Max"]
+[Result "0-1"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O, d6"]
+[HashCode "2e11ea4a"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 exd4 6. Nxd4 Bd7 7. Nxc6 bxc6 8.
+Bd3 Be7 9. h3 O-O 10. c3 d5 11. e5 Ne8 12. Qc2 h6 13. Be3 f6 14. exf6 Nxf6 15.
+Nd2 Bd6 16. c4 Nh5 17. c5 Be5 18. Be2 Nf4 19. Nf3 Qf6 20. Nxe5 Qxe5 21. Rfe1
+Bxh3 22. Bxf4 Qxf4 23. gxh3 Qxf2+ 24. Kh1 Rf3 25. Bxf3 Qxc2 26. Re7 Rf8 0-1

@@ -1,0 +1,19 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "Birch, P."]
+[Black "Pindar, E."]
+[Result "0-1"]
+[ECO "A43"]
+[Opening "Old Benoni"]
+[Variation "Franco-Benoni defence"]
+[HashCode "8bbe413e"]
+[Epoch "Pawn"]
+
+1. d4 e6 2. e4 c5 3. d5 d6 4. f4 g6 5. Nf3 Bg7 6. Bb5+ Bd7 7. Bxd7+ Qxd7 8.
+c4 Na6 9. O-O Ne7 10. a3 O-O 11. Qd3 exd5 12. cxd5 b5 13. Nc3 c4 14. Qe2
+Nc5 15. Be3 Nb3 16. Rad1 Rfc8 17. e5 Nf5 18. Bf2 Re8 19. Rfe1 a5 20. Ng5
+dxe5 21. Qg4 exf4 22. Qh3 h6 23. Nge4 b4 24. axb4 axb4 25. Nb1 Bxb2 26. Bd4
+Rxe4 27. Rxe4 Qxd5 0-1
+

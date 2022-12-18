@@ -1,0 +1,17 @@
+[Event "Dundee"]
+[Site "Dundee"]
+[Date "1867.01.01"]
+[Round "1"]
+[White "MacDonnell, George"]
+[Black "Fraser, George"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "ae83c8a1"]
+[Epoch "Pawn"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. c3 Nf6 6. d4 exd4 7. cxd4 Bb6 8.
+Bg5 h6 9. Bxf6 Qxf6 10. e5 dxe5 11. dxe5 Qf4 12. Nbd2 Bg4 13. Qa4 O-O 14. Rae1
+Bxf3 15. Nxf3 Nd4 16. Nxd4 Qxd4 17. Kh1 Rae8 18. f4 c6 19. Qc2 Re7 20. a3 Kh8
+21. Rd1 1-0

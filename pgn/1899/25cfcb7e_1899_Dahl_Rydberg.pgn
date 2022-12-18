@@ -1,0 +1,19 @@
+[Event "Copenhagen+"]
+[Site "Copenhagen"]
+[Date "1899.??.??"]
+[Round "3"]
+[White "Dahl, C."]
+[Black "Rydberg, C."]
+[Result "0-1"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "25cfcb7e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Bxc6 bxc6 7. dxe5
+d5 8. Be3 O-O 9. Nd4 Bd7 10. c3 c5 11. Nf3 Bc6 12. Nbd2 f5 13. exf6 Nxf6
+14. Ne5 Bb7 15. Nb3 c4 16. Nd4 Qc8 17. Qe2 c5 18. Ndf3 Bd6 19. Qd1 Qc7 20.
+Bf4 Nh5 21. g3 Nxf4 22. gxf4 Rxf4 23. Re1 Raf8 24. Re3 d4 25. cxd4 cxd4 26.
+Nxd4 Bxe5 27. Nc2 Rxf2 0-1
+

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Neubauer, C."]
+[Black "Meyer, H."]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit, Steinitz variation"]
+[HashCode "4dfb4ccd"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 d4 5. Nce2 Nc6 6. Nf3 Ng4 7. h3 Ne3 8. Bxe3
+dxe3 9. fxe5 Nxe5 10. Ng3 Bd6 11. Nh5 g6 12. Nf4 Ng4 13. hxg4 Bxf4 14. c3 Bg3+
+15. Ke2 Bf2 16. Qa4+ c6 17. e5 Qb6 18. b3 Qc5 19. Rc1 Be6 20. Qe4 O-O-O 21. d4
+Qa3 22. Rc2 h5 23. gxh5 Bf5 0-1

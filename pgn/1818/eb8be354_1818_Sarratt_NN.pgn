@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1818.01.01"]
+[Round "1"]
+[White "Sarratt, Jacob Henry"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit"]
+[HashCode "eb8be354"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. d4 d6 7. c3 c6 8. Qb3 Qe7
+9. O-O Nd7 10. hxg5 hxg5 11. Nxg5 Qxg5 12. Bxf7+ Kf8 13. Bxf4 Qh4 14. Bxd6+ Ne7
+15. Bg6+ Nf6 16. Qf7# 1-0

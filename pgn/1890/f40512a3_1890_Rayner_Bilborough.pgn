@@ -1,0 +1,19 @@
+[Event "Leeds"]
+[Site "Leeds"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Rayner"]
+[Black "Bilborough"]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "f40512a3"]
+[Epoch "Pawn"]
+
+1. f4 d5 2. e3 e6 3. Nf3 c5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. O-O Bd6 7. d4 Nh6
+8. Nc3 a6 9. Kh1 Rc8 10. e4 dxe4 11. Nxe4 Be7 12. d5 exd5 13. Qxd5 Rc6 14.
+Be3 Ng4 15. Rae1 O-O 16. h3 Nxe3 17. Rxe3 Nf6 18. Qxd8 Rxd8 19. Nxf6+ Bxf6
+20. Rfe1 h6 21. c3 Rcd6 22. g4 R8d7 23. h4 g6 24. g5 hxg5 25. hxg5 Bd8 26.
+Kg2 Rb6 27. Re8+ Kg7 28. Rh1 f6 29. Reh8 Rd2+ 30. Nxd2 fxg5 31. R1h7+ Kf6
+32. Rxd8 1-0
+

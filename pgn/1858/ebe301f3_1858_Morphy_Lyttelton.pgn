@@ -1,0 +1,17 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Morphy, Paul"]
+[Black "Lyttelton, George Baron"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Kolisch defence"]
+[HashCode "ebe301f3"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 d6 6. Nxg4 Be7 7. d4 Bxh4+ 8. Nf2
+Bxf2+ 9. Kxf2 Nf6 10. Nc3 Qe7 11. Bxf4 Nxe4+ 12. Nxe4 Qxe4 13. Bb5+ Kf8 14.
+Bh6+ Kg8 15. Rh5 Bf5 16. Qd2 Bg6 17. Re1 Qg4 18. Re8# 1-0

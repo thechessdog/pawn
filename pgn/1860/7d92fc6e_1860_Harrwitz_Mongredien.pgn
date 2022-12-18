@@ -1,0 +1,21 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1860.01.01"]
+[Round "4"]
+[White "Harrwitz, Daniel"]
+[Black "Mongredien, Augustus"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "7d92fc6e"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Bb4 5. Nf3 Bxc3 6. dxc3 d6 7. Bxf4 O-O 8.
+Bg5 Nbd7 9. O-O h6 10. Bxf6 Nxf6 11. Qd3 Be6 12. Bb3 a5 13. Nd4 Re8 14. Rae1 a4
+15. Bxe6 fxe6 16. Qh3 Qe7 17. e5 dxe5 18. Rxe5 Ra6 19. Rfe1 Qd7 20. Rxe6 Raxe6
+21. Rxe6 Rxe6 22. Qxe6+ Qxe6 23. Nxe6 Nd5 24. Kf2 a3 25. bxa3 Nxc3 26. Nxc7
+Nxa2 27. Nb5 Kf8 28. Ke3 Ke7 29. Kd2 Kd7 30. Nc3 Nxc3 31. Kxc3 Kc6 32. Kc4 g5
+33. g4 b6 34. a4 1-0

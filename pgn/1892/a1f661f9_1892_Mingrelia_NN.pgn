@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Mingrelia, Dadian"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "a1f661f9"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Nf6 4. Bc4 Bb4 5. Nd5 Nxe4 6. O-O O-O 7. d3 Nc5
+8. Bg5 f6 9. Nh4 g6 10. Ne7+ Kg7 11. Bh6+ Kxh6 12. Nhf5+ Kg5 13. h4+ Kf4
+14. g3# 1-0
+

@@ -1,0 +1,17 @@
+[Event "Weissenfels"]
+[Site "Weissenfels"]
+[Date "1870.01.01"]
+[Round "1"]
+[White "Alexander, Alexander"]
+[Black "Cordel, Oskar"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "907b0c48"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Nge7 5. c3 f5 6. Bxc6 dxc6 7. Nxe5 fxe4
+8. Qh5+ g6 9. Nxg6 Nxg6 10. Qxc5 Qd3 11. f3 Bh3 12. Qe3 Rg8 13. Qxd3 exd3 14.
+gxh3 Nf4+ 15. Kf2 O-O-O 16. Ke3 Ng2+ 17. Ke4 Rge8+ 18. Kf5 Rd5+ 19. Kf6 Nf4 20.
+Rg1 Re6+ 21. Kg7 Rd7+ 22. Kh8 Re8+ 23. Rg8 Ng6# 0-1

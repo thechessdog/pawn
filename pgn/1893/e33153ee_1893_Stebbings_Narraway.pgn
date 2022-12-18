@@ -1,0 +1,20 @@
+[Event "St John"]
+[Site "St John"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Stebbings, JP"]
+[Black "Narraway, James Ephraim"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Paulsen attack"]
+[HashCode "e33153ee"]
+[Epoch "Pawn"]
+[WhiteCountry "CAN"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 g6 5. Bd2 Bg7 6. Nc3 d6 7. f4 Nf6 8. Bd3
+Bd7 9. Nf3 Nb4 10. a3 Nxd3+ 11. Qxd3 Qe7 12. O-O-O O-O-O 13. Qc4 Bc6 14. Rhe1
+Rhe8 15. Nd5 Qd7 16. Nd4 Rxe4 17. Nxf6 Bxf6 18. Rxe4 Bxe4 19. Nb5 d5 20. Qf1 a6
+21. Nc3 Bf5 22. Qg1 d4 23. Be3 dxc3 24. Rxd7 cxb2+ 25. Kb1 Rxd7 26. g4 Rd3 27.
+Bc1 bxc1=Q+ 28. Kxc1 Bd4 29. Qe1 Re3 0-1

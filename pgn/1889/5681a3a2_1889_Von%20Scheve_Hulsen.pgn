@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Von Scheve, Theodor"]
+[Black "Hulsen, B."]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "5681a3a2"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. O-O Bg4 7. d3 Qd7 8. Be3
+Nd4 9. Qd2 Nf3+ 10. Bxf3 Bxf3 11. Qd1 Qh3 12. Nf4 exf4 13. Qxf3 fxe3 14. fxe3
+Ng4 15. Qe2 Nxe3 16. Rf3 Nxc2+ 17. Kh1 Nd4 18. Qf1 Qxf1+ 19. Rfxf1 c6 0-1

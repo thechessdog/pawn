@@ -1,0 +1,19 @@
+[Event "London "]
+[Site "London"]
+[Date "1841.01.01"]
+[Round "1"]
+[White "Walker, George"]
+[Black "Popert, Wolf Meyer"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Cochrane variation"]
+[HashCode "c4771ba2"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Ba5 7. e5 d6 8.
+O-O dxe5 9. Bxf7+ Kxf7 10. Nxe5+ Ke8 11. Qh5+ g6 12. Nxg6 Nf6 13. Re1+ Be6 14.
+Rxe6+ Kf7 15. Nxh8+ Kxe6 16. Qh3+ Kd5 17. Qf5+ Kc4 18. Na3+ Kxc3 19. Qc5+ Kd3
+20. Qc4# 1-0

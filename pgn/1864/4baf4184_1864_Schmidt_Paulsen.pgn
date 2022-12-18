@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Von Schmidt, Eugen"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "4baf4184"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d4 exd4 5. e5 Ne4 6. O-O Be7 7. Nxd4 O-O 8.
+Nf5 d5 9. Nxe7+ Nxe7 10. f3 Nc5 11. Be3 Ne6 12. f4 Nf5 13. Bd2 c6 14. Bd3 Qb6+
+15. Kh1 Nc5 16. g4 Nxd3 17. cxd3 Ne3 18. Bxe3 Qxe3 19. Nc3 f6 20. exf6 Rxf6 21.
+f5 h5 22. Re1 Qg5 23. Re8+ Kh7 24. Qb3 Qxg4 25. Rg1 Qf3+ 26. Rg2 Bxf5 27. Re2
+Bh3 28. Ne4 Qf1+ 29. Rg1 Qxg1+ 30. Kxg1 Rf1# 0-1

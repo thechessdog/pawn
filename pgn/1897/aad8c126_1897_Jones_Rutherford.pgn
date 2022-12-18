@@ -1,0 +1,18 @@
+[Event "Craigside"]
+[Site "Craigside"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Jones, E."]
+[Black "Rutherford, A."]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "aad8c126"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Be2 Bxf3 5. Bxf3 Nc6 6. exd5 Nce7 7. fxe5
+Nxd5 8. O-O c6 9. d4 g6 10. Nc3 Nge7 11. Bg5 h6 12. Bf6 Rh7 13. Ne4 Ne3 14.
+Bg5 N7f5 15. Bxd8 Nxd1 16. Nf6+ Kxd8 17. Nxh7 Nde3 18. Rf2 Kc7 19. Nxf8
+Rxf8 20. g4 1-0
+

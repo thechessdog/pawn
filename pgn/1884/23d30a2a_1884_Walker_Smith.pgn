@@ -1,0 +1,17 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Walker"]
+[Black "Smith, A (Pawn Era)"]
+[Result "1-0"]
+[ECO "C28"]
+[Opening "Vienna game"]
+[HashCode "23d30a2a"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. Bc4 Nc6 4. f4 d6 5. f5 Na5 6. Be2 d5 7. d4 Nxe4 8. Nxe4
+dxe4 9. d5 Bxf5 10. c4 Bb4+ 11. Bd2 Bxd2+ 12. Qxd2 b6 13. c5 c6 14. b4 Nb7 15.
+Ba6 Rb8 16. dxc6 Qxd2+ 17. Kxd2 Nxc5 18. bxc5 bxc5 19. c7 Rb6 20. c8=Q+ Bxc8
+21. Bxc8 1-0

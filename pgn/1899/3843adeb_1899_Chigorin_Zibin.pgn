@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Zybin, Ivan Andreevich"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "3843adeb"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Nc6 5. Nf3 Bb4 6. O-O d6 7. Nd5 Bg4 8. c3
+Ba5 9. Qb3 Nxd5 10. Bxd5 Bb6+ 11. d4 Na5 12. Bxf7+ Kf8 13. Qd5 Qf6 14. b4 Nc6
+15. Bh5 Bxf3 16. Rxf3 g5 17. Bxf4 gxf4 18. Rxf4 Qxf4 19. Rf1 Qxf1+ 20. Kxf1 Nd8
+21. Qf5+ 1-0

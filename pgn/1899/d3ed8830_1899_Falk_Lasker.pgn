@@ -1,0 +1,16 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Falk & Boyarkov & B"]
+[Black "Lasker, Emanuel"]
+[Result "0-1"]
+[ECO "D08"]
+[Opening "QGD"]
+[Variation "Albin counter-gambit, Lasker trap"]
+[HashCode "d3ed8830"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. c4 e5 3. dxe5 d4 4. e3 Bb4+ 5. Bd2 dxe3 6. Qa4+ Nc6 7. Bxb4 Qh4 8.
+Ne2 Qxf2+ 9. Kd1 Bg4 0-1

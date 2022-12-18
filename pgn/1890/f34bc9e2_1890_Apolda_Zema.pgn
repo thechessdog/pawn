@@ -1,0 +1,19 @@
+[Event "corr Germany"]
+[Site "corr Germany"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Apolda"]
+[Black "Zema"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Richardson attack"]
+[HashCode "f34bc9e2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 O-O 8.
+Nxe5 Nxe4 9. Ba3 Nxe5 10. dxe5 d6 11. Qf3 Qh4 12. g3 Nxg3 13. Bxf7+ Kh8 14.
+Qxg3 Qxg3+ 15. fxg3 Bh3 16. Rf4 Bb6+ 17. Kh1 dxe5 18. Rf3 Rad8 19. Bd5 Rxf3
+20. Bxf3 Rd3 21. Nd2 Rxd2 22. Be4 Re2 23. Bf3 Re3 24. Rd1 h6 25. Bh5 Kh7
+26. Bf7 Re2 27. Bd5 e4 0-1
+

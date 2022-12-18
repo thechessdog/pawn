@@ -1,0 +1,23 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Heral, Joseph"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "1766dc18"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. e3 Nc6 7. a3 O-O 8. Nf3
+b6 9. Qc2 Ne7 10. Bd3 h6 11. h4 dxc4 12. Bxc4 Bb7 13. O-O-O Bxf3 14. gxf3 h5
+15. Rdg1 g6 16. Ba2 Rc8 17. Ne4 Bg7 18. Rg5 Nd5 19. Rhg1 c5 20. dxc5 bxc5 21.
+Bc4 Re8 22. Rd1 Rb8 23. b3 Qa5 24. a4 Qb4 25. Qa2 Nc3 26. Nxc3 Qxc3+ 27. Qc2
+Qa1+ 28. Kd2 Red8+ 29. Ke2 Rxd1 30. Qxd1 Qxd1+ 31. Kxd1 Rc8 32. Rg1 Bf6 33. Rh1
+Kg7 34. Ke2 e5 35. Kf1 Rc7 36. Kg2 Kh6 37. Kg3 g5 38. hxg5+ Bxg5 39. Rd1 Kg7
+40. Rd5 Be7 41. f4 exf4+ 42. Kxf4 h4 43. Kg4 Bf6 44. Rh5 Rc8 45. f4 Re8 46. Kf3
+Rh8 47. Rxh8 Kxh8 48. Bxf7 Kg7 49. Be6 Bc3 50. e4 Kf6 51. Bh3 Bd4 52. e5+ Kf7
+53. Ke4 Bc3 54. Kd5 Bd2 55. f5 Bf4 56. f6 Be3 57. Ke4 Bd4 58. Kf5 Bc3 59. e6+
+Kf8 60. Bg2 1-0

@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Minckwitz, Johannes"]
+[Black "Neumann"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "608330e6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nf6 6. Nxe5 Be7 7. d4 O-O
+8. Nc3 Re8 9. Be3 Bb4 10. Bg5 Bxc3 11. bxc3 a6 12. Bd3 d5 13. f4 Qd6 14.
+Qf3 Ne7 15. Qf2 Bf5 16. g4 Bxd3 17. cxd3 Nd7 18. f5 f6 19. Nxd7 Qxd7 20.
+Bd2 Nc6 21. Qg3 Rad8 22. Bf4 Rxe1+ 23. Rxe1 Re8 24. Rxe8+ Qxe8 25. Kf1 h5
+26. h3 hxg4 27. hxg4 Qe7 28. Bxc7 Qa3 29. Qe1 Qxa2 30. Bf4 Qc2 31. Qe8+ Kh7
+32. Qg6+ Kg8 1/2-1/2
+

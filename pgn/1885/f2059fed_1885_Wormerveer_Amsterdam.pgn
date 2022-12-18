@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Wormerveer"]
+[Black "Amsterdam"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "f2059fed"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8.
+Qe2 Nxc4 9. dxc4 Bc5 10. h3 O-O 11. Nh2 b5 12. Nc3 bxc4 13. Qxc4 Qd6 14.
+Na4 Bb6 15. Nxb6 axb6 16. Qc6 Qxd5 17. Qxd5 Nxd5 18. Bd2 f5 19. c4 Ne7 20.
+O-O Ng6 21. f4 Rd8 22. Be3 Rd3 23. Kf2 Ne7 24. Rfb1 Be6 25. b3 Nc6 26. Rb2
+Nb4 27. Bd2 Rxh3 28. gxh3 Nd3+ 29. Ke3 Nxb2 30. Bc3 Nd3 31. h4 Ra3 32. Nf1
+Bxc4 33. Nd2 Bf7 34. Rg1 g6 35. h5 Rxa2 36. hxg6 Be8 37. g7 Rc2 38. Bf6 Nb4
+39. Nxe4 fxe4 40. Kxe4 Re2+ 41. Kf5 Nd3 42. Be5 Bd7+ 43. Kf6 Nxf4 44. Rf1
+Nd3 0-1
+

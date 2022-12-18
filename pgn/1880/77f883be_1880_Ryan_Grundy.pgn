@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Ryan"]
+[Black "Grundy, James Glover"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "77f883be"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nc6 4. a3 dxc4 5. e3 Nf6 6. Bxc4 a6 7. f4 Be7 8. Nf3
+h6 9. b4 b5 10. Bb3 O-O 11. Qc2 Bb7 12. O-O a5 13. Nxb5 axb4 14. Ne5 Nxe5 15.
+fxe5 Ne8 16. Bb2 c6 17. Nd6 Nxd6 18. exd6 Bxd6 19. a4 Rc8 20. Qe4 Qe7 21. Qg4
+Qg5 22. Bxe6 Qxe3+ 23. Kh1 Qxe6 24. Qf3 Qd5 25. Qg4 f5 26. Qh3 Rf6 27. Rf2 Rcf8
+28. a5 Ra8 29. Qh5 f4 30. Qg4 f3 31. Kg1 Bc8 32. Qh4 g5 33. Qh5 g4 34. Qe8+ Kg7
+35. Re1 Rf8 36. Qe3 Rxa5 37. g3 Ra2 38. Bc1 Rf6 39. Bd2 Re6 40. Qd3 Ba6 41. Qb1
+Re2 42. Rexe2 Bxe2 43. Qc1 Qxd4 44. Bxh6+ Kh7 45. Bg7 Qd2 46. Qb1+ Kxg7 47. Kh1
+Bc5 0-1

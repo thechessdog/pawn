@@ -1,0 +1,20 @@
+[Event "Philadelphia ch-USA"]
+[Site "Philadelphia ch-USA"]
+[Date "1876.01.01"]
+[Round "2"]
+[White "Mason, James"]
+[Black "Martinez, Dion M"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "a32e4842"]
+[Epoch "Pawn"]
+[WhiteCountry "IRE"]
+[BlackCountry "CUB"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Nf6 6. Bd3 O-O 7. O-O Bd6 8.
+Bg5 c6 9. Qd2 Be6 10. Rae1 Nbd7 11. Ne2 Qc7 12. Ng3 Rfe8 13. Bxf6 Nxf6 14. Ne5
+Nd7 15. Qg5 f6 16. Qh5 fxe5 17. Qxh7+ Kf8 18. Bg6 Bg8 19. Qh8 Re6 20. f4 Rxg6
+21. fxe5+ Nf6 22. exf6 gxf6 23. Rxf6+ Rxf6 24. Qxf6+ Bf7 25. Nf5 Bxh2+ 26. Kh1
+Be5 27. Rxe5 1-0

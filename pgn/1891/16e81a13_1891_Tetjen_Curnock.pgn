@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Tetjen"]
+[Black "Curnock, A."]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "16e81a13"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Nd4 Nxd4 11. cxd4 O-O 12. Nc3 Nxc3 13. bxc3 c5 14. Ba3 c4 15.
+Bxe7 Qxe7 16. Bc2 b4 17. f4 f5 18. exf6 Rxf6 19. Qf3 bxc3 20. g4 Rh6 21. f5 Bf7
+22. Qf4 Qe2 23. g5 Rh3 24. Rab1 Re8 25. g6 Ree3 26. gxf7+ Kxf7 27. Rb7+ Kg8 28.
+Rxg7+ Kxg7 29. f6+ Kh8 30. f7 Reg3+ 31. Qxg3 Rxg3+ 32. hxg3 Qxf1+ 33. Kxf1 Kg7
+34. Bxh7 1-0

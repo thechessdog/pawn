@@ -1,0 +1,24 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Schmidt, (Pawn Era)"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "8be0f82c"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Bd3 Nc5 7. Nxe5 Be7 8.
+O-O Nxd3 9. Nxd3 O-O 10. Be3 d6 11. Qf3 Nd7 12. Bd4 f6 13. Qg3 Ne5 14. f4 Nf7
+15. Nd2 Nh6 16. Rae1 Nf5 17. Qf2 c5 18. Be3 Bd7 19. c4 Re8 20. Nf3 b5 21. b3
+Qc8 22. h3 Qa6 23. Qc2 bxc4 24. bxc4 Ba4 25. Qc1 Bd8 26. Bd2 Ng3 27. Rf2 Bc7
+28. Kh2 Ne4 29. Rfe2 Nxd2 30. Nxd2 Ba5 31. Rxe8+ Bxe8 32. Qa3 Qb6 33. Rb1 Qc7
+34. Nb3 Bb6 35. f5 Qd7 36. g4 h5 37. Nf4 Bf7 38. Ne6 hxg4 39. Rg1 Bxe6 40. fxe6
+Qe8 41. Rxg4 f5 42. Rg2 Bd8 43. Nd2 Bf6 44. Nf3 Qh5 45. Qe3 Rb8 46. Qf4 Rb1 47.
+Rf2 Re1 48. Qxd6 Re3 49. Kg2 Bh4 50. Nxh4 Qg5+ 51. Kf1 Qxh4 52. Qh2 Qxc4+ 53.
+Re2 Qc1+ 0-1

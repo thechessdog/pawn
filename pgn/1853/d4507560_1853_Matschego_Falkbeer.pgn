@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1853.01.01"]
+[Round "3"]
+[White "Matschecko"]
+[Black "Falkbeer, Ernst Karl"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "d4507560"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nc3 d6 7. Nc4 Be7 8. d4
+Nh5 9. Be2 Bxh4+ 10. Kd2 Qg5 11. Kd3 Nc6 12. a3 Bf2 13. Nd5 Bxd4 14. Nxc7+ Kd8
+15. Nd5 f5 16. Nxd6 fxe4+ 17. Kc4 Qxd5+ 18. Kxd5 Nf6+ 19. Kc4 Be6+ 20. Kb5 a6+
+21. Ka4 b5+ 22. Nxb5 axb5+ 23. Kxb5 Ra5+ 24. Kxc6 Bd5+ 25. Kd6 Ne8# 0-1

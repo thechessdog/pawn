@@ -1,0 +1,19 @@
+[Event "London m2"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Williams, Elijah"]
+[Black "Harrwitz, Daniel"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[HashCode "d22d4184"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d3 d6 5. Nc3 Nf6 6. h3 Be6 7. Bb3 Ne7 8. d4
+exd4 9. Nxd4 Bxb3 10. axb3 c6 11. O-O b5 12. Bg5 Qd7 13. Bxf6 gxf6 14. Qd3 O-O
+15. Nce2 Kh8 16. Qf3 Kg7 17. Rad1 Bxd4 18. Rxd4 c5 19. Qg3+ Ng6 20. Rxd6 Qe7
+21. Nf4 Qxe4 22. Nh5+ Kh8 23. Rxf6 Qxc2 24. Qg5 Qxb2 25. Qh6 Rg8 26. Rxf7 Nf8
+27. Nf6 Qc2 28. Nxg8 Qg6 29. Qxg6 hxg6 30. Nf6 a5 31. Re1 Ra6 32. Ree7 1-0

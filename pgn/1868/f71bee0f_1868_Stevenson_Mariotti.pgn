@@ -1,0 +1,16 @@
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1868.??.??"]
+[Round "?"]
+[White "Stevenson (Pawn Era)"]
+[Black "Mariotti, S. (Pawn Era) "]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Centre game"]
+[HashCode "f71bee0f"]
+[Epoch "Pawn"]
+[BlackCountry "ITA"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Nf6 4. e5 d5 5. Bb3 Ne4 6. Ne2 Bc5 7. f3 Qh4+ 8. g3
+d3 9. gxh4 Bf2+ 10. Kf1 Bh3# 0-1

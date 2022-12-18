@@ -1,0 +1,19 @@
+[Event "England"]
+[Site "England"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Wilson, Jonathan"]
+[Black "Blecher"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "fad6ae05"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. Nf3 Qh5 7. d4 d6 8.
+Nd5 Kd8 9. e5 dxe5 10. dxe5 Bd7 11. Bd2 Ne7 12. Ba5 b6 13. Nxe7 Kxe7 14.
+Bb4+ Ke8 15. Qd5 Nc6 16. Re1 Rd8 17. e6 Nxb4 18. exf7+ Kf8 19. Qxd7 Bf6 20.
+Qxd8+ Bxd8 21. Re8+ Kg7 22. Rg8+ Rxg8 23. fxg8=Q+ Kh6 24. Qf8+ Kg6 25. Ne5#
+1-0
+

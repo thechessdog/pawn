@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Gelbfuhs, Oscar"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "c1368a58"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. Nc3 Nxc3 10. bxc3 c5 11. a3 c4 12. Ba2 Bg4 13. h3 Bh5 14. Re1 Qd7 15.
+Kh2 Nc6 16. g4 Bg6 17. Nd4 Be7 18. f4 Be4 19. a4 Nxd4 20. cxd4 f5 21. g5 O-O
+22. c3 bxa4 23. Bb1 Bxb1 24. Rxb1 Rfb8 25. Rxb8+ Rxb8 26. Qc2 g6 0-1

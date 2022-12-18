@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1840.01.01"]
+[Round "1"]
+[White "Buckle, Henry"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B50"]
+[Opening "Sicilian"]
+[HashCode "2782cd38"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 d6 3. Nc3 e5 4. Bc4 Nc6 5. d3 Nge7 6. Bg5 Bg4 7. Nd5 Nd4 8.
+Nxe5 Bxd1 9. Nf6+ gxf6 10. Bxf7# 1-0
+

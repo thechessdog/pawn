@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Schwartz, W."]
+[Black "Kieseritzky, Lionel"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "Schwartz defence"]
+[HashCode "83289666"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. e4 f5 4. e5 Be6 5. Nc3 c6 6. Qf3 g6 7. Nh3 Bd5 8. Nxd5
+cxd5 9. Nf4 Qa5+ 10. Bd2 Qb6 11. Qxd5 Qxb2 12. Bxc4 Qxa1+ 13. Ke2 Qxh1 14. Qf7+
+Kd7 15. e6+ Kc7 16. Nd5+ Kc6 17. Qe8+ Kd6 18. Bf4+ Kxe6 19. Nf6+ Kxf6 20. Qf7#
+1-0

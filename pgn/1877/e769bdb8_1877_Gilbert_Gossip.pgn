@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Gilbert"]
+[Black "Gossip, George Hatfeild"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "e769bdb8"]
+[Epoch "Pawn"]
+[BlackCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8.
+Nxe5 Be7 9. d4 Ne6 10. Be3 O-O 11. Nc3 f6 12. Nd3 f5 13. Ne2 Bd6 14. f4 b5 15.
+Rc1 Bb7 16. c4 bxc4 17. Nc5 Bc8 18. Rxc4 Rb8 19. b3 Qf6 20. Qd3 Qg6 21. Ra4
+Nxc5 22. dxc5 Be7 23. Nd4 Kh8 24. Qc2 Bh4 25. Bf2 Bxf2+ 26. Qxf2 Re8 27. Nf3
+Bb7 28. Ne5 Qe6 29. Rc4 Rbd8 30. Rc3 Qf6 31. Rce3 Rf8 32. Qe2 Rd4 33. Qh5 g6
+34. Qh6 Rdd8 35. Rh3 Qg7 36. Nxg6+ Kg8 37. Qxg7+ Kxg7 38. Nxf8 Rxf8 39. Re7+
+Rf7 40. Rxh7+ Kxh7 41. Rxf7+ Kg6 42. Rxc7 Ba8 43. Ra7 Bb7 44. Rxb7 Kf6 45. h4
+Kg6 46. Rc7 Kf6 47. Rxc6+ Ke7 48. h5 Kd7 49. Rg6 Ke7 50. c6 a5 51. c7 Kd7 52.
+h6 Kxc7 53. h7 a4 54. h8=Q axb3 55. Qh7+ Kc8 56. Rg8# 1-0

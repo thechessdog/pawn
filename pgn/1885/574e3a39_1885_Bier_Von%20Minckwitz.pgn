@@ -1,0 +1,18 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.??.??"]
+[Round "2"]
+[White "Bier, Max "]
+[Black "Minckwitz, Johannes"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "574e3a39"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Nxd4 12. cxd4 h6 13. f3 Ng5 14. Bc2 f5 15.
+exf6 Rxf6 16. Bxg5 hxg5 17. Nc3 Qd6 18. Bb3 c6 19. Re5 Rh6 20. g3 Rf8 21. Qd3
+Bf6 22. Ne4 dxe4 23. Rxe6 Bxd4+ 24. Kh1 Rxe6 25. Qxe4 Rf6 26. Re1 Kf7 27. Qh7
+c5 28. Rxe6 Rxe6 29. Qf5+ Ke7 0-1

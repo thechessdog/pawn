@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Mayet, Carl"]
+[Black "Neumann"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "5f00d3ca"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 Bc5 6. O-O b5 7. Bb3 d6 8. a4 b4
+9. Bg5 h6 10. Bh4 g5 11. Bg3 Bg4 12. Nbd2 Qd7 13. h3 Bh5 14. Bd5 Rg8 15. Qe1 g4
+16. hxg4 Rxg4 17. d4 Nxd4 18. Bxa8 Nxf3+ 19. Nxf3 Rxg3 20. Kh2 Rxg2+ 21. Kxg2
+Bxf3+ 22. Kh2 Qg4 0-1

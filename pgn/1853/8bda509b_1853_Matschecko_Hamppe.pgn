@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1853.01.01"]
+[Round "?"]
+[White "Matschecko"]
+[Black "Hamppe, Carl"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Urusov attack"]
+[HashCode "8bda509b"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Bc4+ d5 8.
+Bxd5+ Kg7 9. d4 Nf6 10. Nc3 Bb4 11. Bxf4 Nxd5 12. exd5 Qe7+ 13. Be5+ Kg6 14.
+O-O Bxc3 15. Qd3+ Kh5 16. Rf5+ Bxf5 17. Qxf5+ Kxh4 18. g3+ Kh3 19. Qf1# 1-0

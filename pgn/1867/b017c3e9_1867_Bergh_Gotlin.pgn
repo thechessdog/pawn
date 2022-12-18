@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1867.01.01"]
+[Round "1"]
+[White "Bergh, Severin"]
+[Black "Gotlin, O."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Maurian defence"]
+[HashCode "b017c3e9"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. d4 g5 5. Nf3 Be7 6. O-O Na5 7. Bxf7+ Kxf7
+8. Ne5+ Kf8 9. Bxf4 gxf4 10. Qh5 Qe8 11. Rxf4+ Nf6 12. Qh6+ Kg8 13. Qg5+
+Kf8 14. Nc3 h6 15. Rxf6+ Bxf6 16. Qxf6+ Kg8 17. Rf1 d6 18. Nf7 Rh7 19. Qg6+
+Rg7 20. Nxh6+ Kh8 21. Qxe8+ 1-0
+

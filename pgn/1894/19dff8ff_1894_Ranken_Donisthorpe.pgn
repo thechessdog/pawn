@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1894.01.01"]
+[Round "1"]
+[White "Ranken, C."]
+[Black "Donisthorpe, W."]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "19dff8ff"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bb4 4. Bg2 Nc6 5. Nge2 d6 6. d3 Bg4 7. f3 Be6 8.
+Be3 O-O 9. O-O Nh5 10. f4 exf4 11. Nxf4 Nxf4 12. Bxf4 Bc5+ 13. Kh1 Qd7 14.
+Ne2 Bg4 15. c3 Ne7 16. d4 Bb6 17. Qd3 Ng6 18. Rae1 f5 19. Qc4+ Kh8 20. exf5
+Bxe2 21. Rxe2 Nxf4 22. Rxf4 Rxf5 23. Bh3 Qb5 24. Qxb5 Rxb5 25. Bd7 Rg5 26.
+Kg2 Rg6 27. Be8 Rf6 28. Rxf6 gxf6 29. Kf3 Kg7 30. Kf4 c6 31. Kf5 Rc8 32.
+Bh5 Rc7 33. Re6 d5 34. h4 Rd7 35. Rxf6 Bc7 36. g4 Bd8 37. Re6 Bxh4 38. g5
+Bg3 1-0
+

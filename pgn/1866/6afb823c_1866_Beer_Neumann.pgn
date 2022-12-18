@@ -1,0 +1,17 @@
+[Event "Jicin"]
+[Site "Jicin"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Beer"]
+[Black "Neumann"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Paulsen attack"]
+[HashCode "6afb823c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Bc5 5. Be3 Qf6 6. c3 Nge7 7. Bb5 O-O
+8. Bxc6 dxc6 9. O-O Bb6 10. Re1 Qg6 11. Qf3 f5 12. e5 f4 13. Bxf4 Nd5 14.
+Na3 Rxf4 15. Qe2 Bg4 16. Qd2 Raf8 17. Nc4 Bxd4 18. cxd4 Bf3 19. g3 Rh4 0-1
+

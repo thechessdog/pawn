@@ -1,0 +1,17 @@
+[Event "Dusseldorf"]
+[Site "Dusseldorf"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Rossy, Moritz"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "0a93e28c"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Ne7 6. d4 d6 7. Nf3 Qh6 8. h4
+f6 9. Kg1 Qg6 10. e5 h6 11. exf6 Qxf6 12. Ne4 Qg6 13. Bd3 Bf5 14. Qe2 g4 15.
+Ne1 f3 16. gxf3 gxf3+ 0-1

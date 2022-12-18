@@ -1,0 +1,24 @@
+[Event "Kolisch mem"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "10"]
+[White "Csank, Adolf"]
+[Black "Fleissig, Bernhard"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "42a2ebeb"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Bf4 O-O 11. Nbd2 f5 12. Nd4 Nxd4 13. cxd4 Nxd2 14. Bxd2 f4
+15. f3 c5 16. Qc1 c4 17. Bc2 Qb6 18. Bxf4 Qxd4+ 19. Be3 Qxe5 20. Qd2 Bf6 21.
+Bc5 Rfc8 22. Rae1 Qxb2 23. Rxe6 Rxc5 24. Rd1 Qc3 25. Qe2 Rcc8 26. Kf1 d4 27.
+Bxh7+ Kxh7 28. Qe4+ Kh8 29. Rxf6 Qe3 30. Qh4+ Kg8 31. Qh5 gxf6 32. Qg6+ Kf8 33.
+Qxf6+ Ke8 34. Re1 Kd7 35. Rxe3 dxe3 36. Qd4+ Kc6 37. Qe4+ Kc5 38. Qe7+ Kd4 39.
+Qe4+ Kc3 40. Qxe3+ Kc2 41. Qe2+ Kc1 42. Qe1+ Kc2 43. Qe2+ Kc3 44. Qe1+ Kd4 45.
+Qe4+ Kc5 46. h4 c3 47. h5 Kb6 48. Qc2 Rc6 49. h6 Rh8 50. g4 Rhxh6 51. g5 Rhd6
+52. f4 Rd2 53. Qc1 c2 54. Qxd2 c1=Q+ 55. Qxc1 Rxc1+ 56. Kf2 Kc7 57. Kf3 Kd7 58.
+f5 Ke7 59. Kg4 Kf7 0-1

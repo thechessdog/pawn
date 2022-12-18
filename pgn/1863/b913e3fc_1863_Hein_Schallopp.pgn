@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Hein"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[ECO "C34"]
+[Opening "KGA"]
+[Variation "Schallop defence"]
+[HashCode "b913e3fc"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Nf6 4. e5 Nh5 5. d4 d5 6. c4 Bg4 7. Nc3 Bb4 8. Bd2
+Be7 9. cxd5 Bh4+ 10. Ke2 c6 11. h3 Ng3+ 12. Kd3 Bf5+ 13. Kc4 cxd5+ 14. Nxd5 Na6
+15. Nxh4 Qxd5+ 16. Kxd5 Be6+ 17. Kd6 Rd8# 0-1

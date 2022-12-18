@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Sellman, Alexander"]
+[Black "Moehle, C."]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "bf04d32f"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 d5 7. Nd2 Bd6
+8. f4 Nxd4 9. Bxd4 Bxf4 10. O-O e5 11. Bc5 a6 12. exd5 Qxd5 13. Ne4 Bd7 14.
+Nd6+ Kf8 15. Ne4+ Ke8 16. Nd6+ Kf8 17. b4 Bc6 18. Nf5+ Ke8 19. Qe2 g6 20.
+c4 Qxg2+ 21. Qxg2 Bxg2 22. Nd6+ Kd7 23. Kxg2 b6 24. Nxf7 bxc5 25. Nxh8 Rxh8
+26. bxc5 Rc8 27. Rad1 Kc6 28. Bxg6 Kxc5 29. Bf5 Rg8+ 30. Kf3 Rg5 31. Be6
+Bxh2 32. Rh1 e4+ 33. Kf2 Be5 34. Rh6 a5 35. Ke3 Rg2 36. Rxf6 Bxf6 37. Rd5+
+Kc6 38. Rxa5 Kd6 39. Bd5 Bg5+ 40. Kxe4 h6 41. c5+ Kc7 42. Ra7+ Kc8 43. Ra8+
+Kc7 44. Ra7+ Kc8 45. Ke5 Re2+ 46. Kd6 Bf4+ 47. Kc6 Re1 48. Rf7 Bg5 49. Rf8+
+Bd8 50. Kd6 1-0
+

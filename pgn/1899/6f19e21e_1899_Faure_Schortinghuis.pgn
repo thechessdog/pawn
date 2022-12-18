@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Faure, P."]
+[Black "Schortinghuis, R."]
+[Result "1-0"]
+[ECO "C56"]
+[Opening "Two knights defence"]
+[HashCode "6f19e21e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Nxe4 6. Re1 d5 7. Bxd5
+Qxd5 8. Nc3 Qh5 9. Nxe4 Be7 10. Bg5 Be6 11. Bxe7 Nxe7 12. Qxd4 O-O 13. Qb4
+Nd5 14. Qxb7 Rfb8 15. Qc6 Nb4 16. Qa4 Bd5 17. a3 a5 18. Ng3 Qg4 19. axb4
+axb4 20. Qb5 Be6 21. Qb7 1-0
+

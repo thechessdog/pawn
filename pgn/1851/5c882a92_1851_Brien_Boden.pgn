@@ -1,0 +1,16 @@
+[Event "London PT"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "2"]
+[White "Brien, Robert Barnett"]
+[Black "Boden, Samuel"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "5c882a92"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Bd6 5. Bd3 Nf6 6. O-O O-O 7. h3 h6 8. Be3
+Be6 9. c3 Qd7 10. Ne5 Nc6 11. Nxd7 1-0

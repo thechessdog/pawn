@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Caro, Horatio"]
+[Black "Lasker, Emanuel"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "d3947199"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 c6 4. Qb3 Qc8 5. cxd5 cxd5 6. Nc3 e6 7. Bf4 a6 8. Na4
+Ra7 9. Nb6 Qd8 10. Bxb8 Qxb8 11. Qa4+ Ke7 12. Rc1 g5 13. Ne5 Nh6 14. Nc8+ 1-0

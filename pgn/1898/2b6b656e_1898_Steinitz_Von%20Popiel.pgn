@@ -1,0 +1,18 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Von Popiel, Ignatz"]
+[Result "1-0"]
+[ECO "B15"]
+[Opening "Caro-Kann defence"]
+[HashCode "2b6b656e"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "POL"]
+
+1. e4 c6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 e5 5. dxe5 Qa5+ 6. Nd2 Qxe5+ 7. Be2 Nf6
+8. Ngf3 Qc7 9. O-O Be7 10. b3 Bf5 11. Bb2 Nbd7 12. Nd4 Bg6 13. f4 Bd6 14. g3
+O-O-O 15. Nc4 Be4 16. Bf3 Bc5 17. c3 Nb6 18. Nd2 Bd3 19. Be2 Bxe2 20. Qxe2 Rhe8
+21. Qd3 Nbd5 22. Rae1 g6 1-0

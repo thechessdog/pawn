@@ -1,0 +1,20 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Wental"]
+[Black "Oliphant, N."]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Marshall variation"]
+[HashCode "bca1f0f6"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. Nc3 c5 4. exd5 exd5 5. dxc5 Bxc5 6. Be2 Nf6 7. Nf3 O-O
+8. Be3 Qb6 9. Na4 Qa5+ 10. c3 Bxe3 11. fxe3 Bd7 12. b3 Bxa4 13. bxa4 Qxc3+
+14. Kf2 Ne4+ 15. Kf1 Qxe3 16. Qe1 Nc6 17. Rd1 Nb4 18. Bb5 Qxe1+ 19. Nxe1 a6
+20. Rb1 Nd2+ 21. Kf2 Nxb1 22. Bd3 Nc3 23. a3 Nxd3+ 24. Nxd3 Rfe8 25. Rf1
+Rac8 26. Nf4 Rc4 27. Kg1 Rxa4 28. Nh3 f6 29. g3 Rxa3 30. Kg2 Ra2+ 31. Nf2
+Ne4 0-1
+

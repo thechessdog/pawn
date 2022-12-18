@@ -1,0 +1,19 @@
+[Event "Warsaw"]
+[Site "Warsaw"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Kleczynski, Jan"]
+[Black "Heilpern, J."]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Paulsen variation"]
+[HashCode "49786144"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 Ng6 13. Ne2 c5 14. Rc1
+f6 15. Ng3 Rb8 16. Qd2 Bc7 17. Nf5 Bxf5 18. exf5 Ne5 19. Bxe5 fxe5 20. Ng5
+Qe7 21. Nxh7 e4 22. Rfe1 Kxh7 23. Rxe4 Qf7 24. Re7 Qf6 25. Rxc7 b6 26. g4
+Kg8 27. g5 Qd4 28. Qe2 Rbe8 29. Qh5 Qf4 30. f6 1-0
+

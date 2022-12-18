@@ -1,0 +1,17 @@
+[Event "Bruges"]
+[Site "Bruges"]
+[Date "1849.01.01"]
+[Round "1"]
+[White "De Remouille, Baron"]
+[Black "Deacon, Frederick"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "QP counter-gambit (elephant gambit)"]
+[HashCode "862c085f"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 d5 3. exd5 e4 4. Qe2 Qe7 5. Nd4 g6 6. Nc3 Bg7 7. Qe3 Qe5 8.
+Nxe4 Ne7 9. Nf3 Qxd5 10. Nc3 Qd8 11. Bc4 O-O 12. O-O Nbc6 13. d3 Bg4 14. Ng5
+Nd4 15. Bb3 h6 16. h3 Nef5 17. Qd2 Bh5 18. Nge4 Bf3 19. Kh1 Qh4 20. Qf4 Qxh3+
+21. Qh2 Bxg2+ 22. Kg1 Nf3# 0-1

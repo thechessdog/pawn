@@ -1,0 +1,22 @@
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.01.01"]
+[Round "6"]
+[White "Metger, Johannes"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "1588ecf9"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nc6 5. Bb5 Bd7 6. Bxc6 Bxc6 7. Bg5 Nf6 8.
+Nc3 Be7 9. O-O-O O-O 10. Rhe1 h6 11. Bh4 Nd7 12. Bxe7 Qxe7 13. g3 Qf6 14. Qe3
+Rfe8 15. Nh4 Re6 16. f3 Rae8 17. Ng2 Nb6 18. h4 a5 19. Nf4 Re5 20. Nd3 R5e7 21.
+Nf4 Re5 22. Nd3 R5e7 23. Nf4 Re5 24. Qd4 Kf8 25. Rd2 d5 26. Nd3 R5e7 27. e5
+Qxf3 28. Rf2 Qxg3 29. Ne2 Qh3 30. Nef4 Qg4 31. Rg2 Qf5 32. Ng6+ fxg6 33. Rf2
+Nc4 34. Rxf5+ gxf5 35. b3 Nb6 36. Nf4 Kg8 37. e6 Bd7 38. Rg1 Bc8 39. Nh5 c5 40.
+Rxg7+ Kh8 41. Qf6 1-0

@@ -1,0 +1,24 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.??.??"]
+[Round "1"]
+[White "Von Gottschall, Hermann"]
+[Black "Riemann, Fritz"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "98f4b735"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 d6 5. h3 Bd7 6. Nc3 g6 7. Be3 Bg7 8. Qd2
+h6 9. a3 Ng8 10. Bc4 Nge7 11. O-O-O Nd4 12. Bxd4 exd4 13. Ne2 b5 14. Bb3 Nc6
+15. Rde1 O-O 16. Bd5 a5 17. Bxc6 Bxc6 18. Nexd4 Bd7 19. c4 b4 20. axb4 axb4 21.
+Nb3 Ra2 22. d4 c5 23. Qd3 Ba4 24. Kb1 Bxb3 25. Qxb3 Ra6 26. Kc2 cxd4 27. Kd3
+Qb6 28. Ra1 Rfa8 29. Rxa6 Rxa6 30. Rc1 Qc5 31. Nd2 Ra7 32. f4 f5 33. g4 Kh7 34.
+Re1 Re7 35. Qa4 d5 36. e5 dxc4+ 37. Nxc4 Qd5 38. Qd1 Qg2 39. Qe2 Qg3+ 40. Kxd4
+Qxf4+ 41. Kd5 fxg4 42. Qxg4 Qf7+ 43. Kd4 h5 44. Qe4 Qf2+ 45. Re3 Bh6 46. Kc5
+Bxe3+ 47. Nxe3 Qf8 48. Kd4 Rc7 49. Kd3 Qc5 50. Qd5 Qc1 51. Qd6 Qb1+ 52. Kd4
+Qxb2+ 53. Kd5 Qc3 0-1

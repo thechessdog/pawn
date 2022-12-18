@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Ranken, Rev"]
+[Black "Deacon, Frederick"]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "3...Nf6"]
+[HashCode "d47aa86f"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. e3 c5 5. Nf3 a6 6. Bd3 dxc4 7. Bxc4 b5 8. Bd3
+Bb7 9. O-O Nbd7 10. Qe2 Nb6 11. Rd1 Qc7 12. dxc5 Bxc5 13. a3 Rd8 14. h3 O-O 15.
+b4 Bxf3 16. Qxf3 Qe5 17. Bb2 Bd6 18. g3 Qg5 19. Be2 Nfd5 20. Ne4 Qe7 21. Rac1
+f5 22. Nxd6 Qxd6 23. e4 fxe4 24. Qxe4 Nd7 25. Bg4 Rfe8 26. Bxe6+ Rxe6 27. Qxd5
+Qxd5 28. Rxd5 Re2 29. Bd4 Ree8 30. Rc7 Nf6 31. Rxd8 Rxd8 32. Bxf6 gxf6 33. Rc6
+Ra8 34. Rxf6 a5 35. Rb6 axb4 36. axb4 Kf7 37. Rxb5 Ke6 38. Rb7 Kd6 39. Rxh7 Kc6
+40. Rh4 Kb5 41. Re4 Ra3 42. Kg2 Rb3 43. h4 Kc6 44. h5 Kd5 45. Rf4 Ra3 46. h6
+Ra8 47. g4 Rh8 48. Rf6 Ke5 49. g5 Rb8 50. f4+ Ke4 51. h7 Rxb4 52. h8=Q Rb2+ 53.
+Kg3 Rb3+ 54. Kg4 Kd3 55. Qh3+ Kc2 56. Rc6+ Kb2 57. Qg2+ Ka3 58. Qd2 Ka4 59.
+Qa2+ Kb5 60. Qa6+ Kb4 61. Rc4# 1-0

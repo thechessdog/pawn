@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "4"]
+[White "Olly, Edward"]
+[Black "Lee, Francis Joseph"]
+[Result "0-1"]
+[ECO "A01"]
+[Opening "Nimzovich-Larsen attack"]
+[Variation "classical variation"]
+[HashCode "d1385a40"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. b3 d5 2. Bb2 Nf6 3. e3 e6 4. Nf3 Be7 5. c4 O-O 6. Nc3 b6 7. cxd5 exd5 8. Bd3
+Nbd7 9. Rc1 c5 10. O-O Bb7 11. Bb1 Rc8 12. Ne2 Bd6 13. Ng3 g6 14. Ng5 h6 15.
+Nh3 Re8 16. f4 Ne4 17. Rf3 Ndf6 18. Ne2 c4 19. d3 cxd3 20. Bxd3 Rxc1 21. Qxc1
+Qe7 22. Qe1 Ng4 23. Bxe4 dxe4 24. Rg3 Bb4 25. Nc3 f5 26. Qe2 Rc8 27. Nb5 Ba6
+28. Rxg4 fxg4 29. Qxg4 Qf7 30. Nd4 Bc5 31. Nf2 Bxd4 32. Bxd4 Rc1+ 33. Nd1 Qf5
+0-1

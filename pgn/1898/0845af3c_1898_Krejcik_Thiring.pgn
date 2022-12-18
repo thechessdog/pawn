@@ -1,0 +1,16 @@
+[Event "Vienna CC"]
+[Site "Vienna CC"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Krejcik, Joseph"]
+[Black "Thiring, Julius"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "0845af3c"]
+[Epoch "Pawn"]
+
+1. d4 e5 2. dxe5 d6 3. exd6 Bxd6 4. e4 Nf6 5. Bg5 O-O 6. Qf3 Be5 7. c3 Qd6
+8. Bc4 Rd8 9. Bb3 Bg4 10. Qe3 Qd1+ 11. Bxd1 Rxd1# 0-1
+

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1799.??.??"]
+[Round "1"]
+[White "Atwood, George"]
+[Black "Wilson, J."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "1091adac"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Nc3 c6 8.
+Ngxe4 dxe4 9. Qh5+ g6 10. Qe5 Rg8 11. Bxh6 Bxh6 12. Rd1 Qe7 13. Bc4 Bg7 14.
+Qxe4 Rf8 15. Nb5 cxb5 16. Bxb5+ Nc6 17. Bxc6+ bxc6 18. Qxc6+ Bd7 19. Qxa8+
+Qd8 20. exd7+ Ke7 21. Qe4+ 1-0
+

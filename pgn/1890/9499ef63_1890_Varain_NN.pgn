@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Varain"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "9499ef63"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Nd6 6. Nxe5 Nxb5 7. Re1
+Ne7 8. Qh5 g6 9. Qf3 Nd6 10. Nc3 c6 11. Ne4 Qc7 12. Qxf7+ Kd8 13. Nf6 Qb6
+14. Bf4 Nef5 15. Qe8+ Kc7 16. Nf7 Bg7 17. Nxd6 Rxe8 18. Nb5+ Kd8 19. Rxe8#
+1-0
+

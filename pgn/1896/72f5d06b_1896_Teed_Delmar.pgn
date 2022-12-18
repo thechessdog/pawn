@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Teed, Frank"]
+[Black "Delmar, Eugene"]
+[Result "1-0"]
+[ECO "A80"]
+[Opening "Dutch, 2.Bg5 variation"]
+[HashCode "72f5d06b"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. d4 f5 2. Bg5 h6 3. Bf4 g5 4. Bg3 f4 5. e3 h5 6. Bd3 Rh6 7. Qxh5+ Rxh5 8.
+Bg6# 1-0

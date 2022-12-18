@@ -1,0 +1,18 @@
+[Event "Gouda"]
+[Site "Gouda"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Siebenhaar, William"]
+[Black "Messemaker, Christi"]
+[Result "0-1"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "746c6313"]
+[Epoch "Pawn"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 e6 4. Be2 a6 5. O-O d5 6. e5 Nge7 7. d4 cxd4 8. Nxd4
+Nxe5 9. f4 N5c6 10. Bg4 Nxd4 11. Qxd4 Nc6 12. Qd3 Bc5+ 13. Kh1 O-O 14. f5 Ne5
+15. Qg3 Nxg4 16. Qxg4 exf5 17. Qg3 Bd6 18. Qf3 d4 19. Ne2 Be5 20. Bd2 Be6 21.
+Qxb7 Bd5 0-1

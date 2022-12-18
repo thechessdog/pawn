@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Schmid"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "c5200cac"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3 Bg7 7. d4 Ne7 8.
+Nf3 Qh5 9. h4 h6 10. Kg1 g4 11. Ne1 Nbc6 12. e5 Be6 13. Bxe6 fxe6 14. Bxf4
+O-O-O 15. Ne2 Nxe5 16. c3 Rhf8 17. Qb3 Nd5 18. Ng3 Qf7 19. Bxe5 Bxe5 20. dxe5
+Qf2+ 21. Kh2 Rf3 22. Nxf3 gxf3 23. Rhg1 Rg8 0-1

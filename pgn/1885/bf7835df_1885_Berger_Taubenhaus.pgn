@@ -1,0 +1,27 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "bf7835df"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bb4 6. Nd5 Be7 7. d3 h6 8. O-O
+O-O 9. Kh1 d6 10. Ne3 Be6 11. Bxc6 bxc6 12. Bd2 c5 13. b3 c6 14. Ng1 d5 15. f3
+Qd7 16. Ne2 Rad8 17. Ng3 g6 18. Qe2 h5 19. Rfd1 h4 20. Ngf1 Nh5 21. Ng4 f6 22.
+h3 Kh7 23. Qf2 Qc7 24. exd5 cxd5 25. Re1 Rde8 26. Re2 g5 27. Rae1 Bd6 28. f4
+Qd7 29. Qf3 Kg6 30. f5+ Bxf5 31. Qxd5 Be6 32. Qf3 Bc7 33. c4 Rd8 34. Nf2 f5 35.
+Bc3 g4 36. hxg4 fxg4 37. Qe3 Rf5 38. Qe4 Nf6 39. Qe3 Rf8 40. Ne4 Nh5 41. Kg1
+Qf7 42. Rf2 Nf4 43. Qd2 Re8 44. Re3 Rf8 45. Re1 g3 46. Rf3 Bd8 47. Nd6 Nh3+ 48.
+gxh3 Rxf3 49. Nxf7 R8xf7 50. Qg2 Bg5 51. Bxe5 Bc8 52. d4 cxd4 53. Bxd4 Bb7 54.
+Qc2+ R7f5 55. c5 Bf6 56. Be3 Bc6 57. a4 Be5 58. Qg2 Be4 59. Nd2 Rxe3 60. Qxe4
+Rxe4 61. Rxe4 Bf6 62. b4 Rf2 63. Nc4 Ra2 64. b5 Ra1+ 65. Kg2 Ra2+ 66. Kf3 Rf2+
+67. Ke3 Bg5+ 68. Kd3 axb5 69. axb5 g2 70. Rg4 Kh5 71. Ne5 Bf4 72. Nf7 Rf3+ 73.
+Kc4 Rg3 74. Rxf4 g1=Q 0-1

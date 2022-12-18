@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Solingen"]
+[Black "Witten"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "e8204f84"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 d5 5. exd5 Nxd5 6. Bxd5 Qxd5 7. Nc3
+Qd8 8. h3 Be6 9. Qe2 Bc5 10. Nxe5 Bxf2+ 11. Qxf2 Nxe5 12. d4 Ng6 13. Be3 c6
+14. d5 cxd5 15. Bxa7 O-O 16. Bd4 Qg5 17. Be3 Qh5 18. O-O f5 19. Qe2 Qh4 20.
+Bg5 Qd4+ 21. Qe3 Qxe3+ 22. Bxe3 f4 23. Bf2 f3 24. g4 Nf4 25. Kh2 Ne2 26.
+Nb5 Bxg4 27. hxg4 Ra4 28. Kh3 g5 29. Nd6 Rf6 30. Nf5 h5 31. Rg1 Re4 32. Nh4
+Nxg1+ 33. Rxg1 hxg4+ 34. Rxg4 Rxg4 35. Kxg4 gxh4 36. Kxh4 Rg6 0-1
+

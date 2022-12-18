@@ -1,0 +1,18 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Shipley, Walter"]
+[Black "Weiss, Max"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "b84f6d47"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4 8.
+O-O Bc5 9. Bf4 g5 10. Bd2 Nxe5 11. Qh5 h6 12. Re1 Bd6 13. f4 Be6 14. fxe5 Bc5+
+15. Kh1 Qd7 16. Bxg5 Bf2 17. Re2 Bg4 18. e6 Bxh5 19. exd7+ Kxd7 20. Bf5+ Kd6
+21. Be7# 1-0

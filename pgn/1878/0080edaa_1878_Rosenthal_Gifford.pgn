@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Rosenthal, Samuel"]
+[Black "Gifford, H."]
+[Result "1-0"]
+[ECO "D26"]
+[Opening "QGA"]
+[Variation "4...e6"]
+[HashCode "0080edaa"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 e6 4. e3 Nf6 5. Bxc4 Bd6 6. Nc3 O-O 7. O-O c6 8. e4
+Be7 9. Bd3 h6 10. Bc2 Nh7 11. Be3 f5 12. Ne2 Ng5 13. Nxg5 hxg5 14. f4 g4 15.
+Ng3 Qe8 16. Re1 Bh4 17. exf5 Bxg3 18. hxg3 exf5 19. Bb3+ Kh7 20. d5 cxd5 21.
+Bc5 1-0

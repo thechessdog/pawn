@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Lindehn, H."]
+[Black "Kolisch, Ignatz"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "8ed3aa38"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nd2 Bxd2+ 7. Qxd2
+Nf6 8. e5 Ne4 9. Qd4 Ng5 10. Ne2 Nc6 11. Qf4 Qe7 12. O-O Ne6 13. Qg3 O-O 14.
+Kh1 Qg5 15. Qc3 b5 16. Bxb5 Bb7 17. f4 Qg4 18. Rf3 f5 19. exf6 Rxf6 20. Rg3 Qh4
+21. Qxf6 Qxg3 22. Qxe6+ dxe6 23. Nxg3 Ne7 24. Bd7 Bd5 25. Nh5 Rd8 26. Ba4 Nf5
+27. Kg1 Bxg2 28. Be5 Bf3 29. Bb3 Kf7 30. Ng3 Ne3 31. Kf2 1-0

@@ -1,0 +1,21 @@
+[Event "New York m2"]
+[Site "New York"]
+[Date "1895.??.??"]
+[Round "?"]
+[White "Baird, David Graham"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "5502da89"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Qe7 7. Qe2 Nd5 8.
+c4 Nb6 9. Nd2 Ba6 10. f4 Qe6 11. a3 Be7 12. Qe4 f5 13. Qc2 d6 14. c5 Bxf1 15.
+cxb6 Bxg2 16. Rg1 Bh4+ 17. Ke2 Qg6 18. Nf3 Bxf3+ 19. Kxf3 Qxg1 20. Qxc6+ Kf8
+21. Ke2 Qe1+ 22. Kd3 Qe4+ 23. Qxe4 fxe4+ 24. Kxe4 axb6 25. exd6 cxd6 26. Be3
+Re8+ 27. Kf3 Kf7 28. Bxb6 Rb8 29. Bd4 Bf6 30. Bxf6 gxf6 31. b4 Rhc8 32. Ke4
+Rc4+ 33. Kd5 Rxf4 34. Kxd6 Ra8 35. b5 Rc4 36. b6 Rd8# 0-1

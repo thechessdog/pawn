@@ -1,0 +1,25 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Caro, Horatio"]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Krause variation"]
+[HashCode "6e4779ac"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. O-O Be7 6. h3 Ngf6 7. dxe5 dxe5 8.
+Nc3 O-O 9. Be3 Qc7 10. Qe2 b5 11. Bd3 Nc5 12. Bxc5 Bxc5 13. Nh2 Be6 14. Qf3 Bd4
+15. Nd1 Rfd8 16. Re1 Rd7 17. Nf1 Rad8 18. Nfe3 Qa5 19. Rf1 c5 20. Nf5 c4 21.
+Be2 Bxf5 22. exf5 Qd2 23. Nc3 Bxc3 24. bxc3 e4 25. Qe3 Qxc2 26. Rfe1 Nd5 27.
+Qc5 Nxc3 28. Bf1 Qd2 29. a4 a6 30. axb5 axb5 31. Re3 Rd5 32. Qb6 Na4 33. Qb7
+Rxf5 34. Re2 Qd4 35. Rxe4 Qxa1 36. Qd7 Rf8 37. Qxf5 c3 38. Qxb5 c2 39. Rxa4
+c1=Q 40. Rxa1 Qxa1 41. Kh2 g6 42. Qc4 Rd8 43. Qe2 Rd1 44. Kg1 Qd4 45. g3 Kg7
+46. Kg2 Rd2 47. Qe1 Ra2 48. h4 Kf8 49. Kg1 f5 50. Kg2 Kf7 51. Kh3 Kf6 52. Bg2
+Rxf2 53. Qa5 Qg4+ 54. Kh2 Qe2 55. Qc3+ Kf7 56. Qc7+ Kg8 57. Qd8+ Kg7 58. Qc7+
+Kh6 59. Qc1+ f4 60. Kh3 Qe6+ 61. Kh2 Qe3 62. Qg1 Qxg3+ 63. Kh1 Qxh4+ 0-1

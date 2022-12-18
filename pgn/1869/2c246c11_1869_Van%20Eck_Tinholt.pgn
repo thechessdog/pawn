@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1869.01.01"]
+[Round "1"]
+[White "Van Eck, JL."]
+[Black "Tinholt, C."]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "2c246c11"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1
+Qe7 8. Nc3 c6 9. Bxf7+ Kd8 10. Bh5 b5 11. d4 b4 12. Ne5 g6 13. Nf7+ Ke8 14.
+Qg4 Bf6 15. Nxh8 Bxh8 16. e5 Qe6 17. Qf3 Bg7 18. d5 cxd5 19. Nxd5 Na6 20.
+Bg4 Qxg4 1-0
+

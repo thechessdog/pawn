@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1843.01.01"]
+[Round "1"]
+[White "Michelet"]
+[Black "Kieseritzky, Lionel"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Cochrane gambit"]
+[HashCode "96efae55"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Ne5 Qh4+ 6. Kf1 f3 7. d4 Nf6 8. Nc3
+Bg7 9. g3 Qh3+ 10. Kf2 d6 11. Nxf7 Rf8 12. Ng5 Qg2+ 13. Ke3 Bh6 14. Kd3 Nc6 15.
+a3 Bxg5 16. Bxg5 Nxe4 17. Qe1 Bf5 18. Nxe4 f2 19. Qe3 Kd7 20. Bd5 Rae8 21. Raf1
+Bxe4+ 22. Bxe4 Rf3 23. Qxf3 gxf3 24. Bf5+ Re6 25. d5 Ne5+ 26. Kd4 h5 27. dxe6+
+Ke8 28. Bf6 h4 29. Bxe5 dxe5+ 30. Kxe5 hxg3 31. Kf6 1-0

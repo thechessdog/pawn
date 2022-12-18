@@ -1,0 +1,16 @@
+[Event "Londen m"]
+[Site "Londen m"]
+[Date "1849.01.01"]
+[Round "13"]
+[White "Loewe, Edward"]
+[Black "Kennedy, Hugh Alexander"]
+[Result "0-1"]
+[ECO "B20"]
+[Opening "Sicilian defence"]
+[HashCode "a140bdda"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. Bc4 e6 3. Nc3 Nc6 4. f4 a6 5. a4 Nge7 6. Nf3 d5 7. Ba2 b5 8. axb5
+axb5 9. Nxb5 Nb4 10. Na3 dxe4 11. Ng5 Nf5 12. Qe2 Rxa3 13. bxa3 Nxc2+ 14. Kd1
+Nfe3+ 15. Qxe3 Nxe3+ 16. Ke2 Qd3+ 17. Kf2 Ng4+ 18. Kg1 Ba6 0-1

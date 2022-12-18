@@ -1,0 +1,24 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Solomons"]
+[Black "Green"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English"]
+[Variation "Anglo-Dutch defense"]
+[HashCode "52de5af5"]
+[Epoch "Pawn"]
+
+1. c4 f5 2. f4 Nf6 3. Nc3 e6 4. e3 b6 5. b3 Bb7 6. Nf3 Be7 7. Bb2 O-O 8.
+Bd3 Nc6 9. a3 a6 10. O-O g6 11. Rc1 d5 12. Ng5 Qd7 13. Nxe6 Qxe6 14. cxd5
+Qd6 15. dxc6 Bxc6 16. Bc4+ Kg7 17. b4 b5 18. Bb3 Bb7 19. Ne2 Rac8 20. Nd4
+Bd5 21. Rc5 c6 22. Bxd5 cxd5 23. Qc2 Qd7 24. Rc7 Rxc7 25. Qxc7 Qxc7 26.
+Ne6+ Kf7 27. Nxc7 Rc8 28. Rc1 Bd8 29. Nxa6 Rxc1+ 30. Bxc1 Bb6 31. Bb2 Ne4
+32. Bc3 Nxc3 33. dxc3 Bxe3+ 34. Kf1 Bxf4 35. Kf2 Bxh2 36. g3 f4 37. Kg2
+Bxg3 38. Nc7 Be1 39. Nxb5 Ke6 40. Kf3 Bd2 41. Ke2 Be3 42. a4 Kd7 43. Na3
+Kc6 44. Nc2 Ba7 45. Ne1 g5 46. Kf3 h5 47. Nd3 Be3 48. Ne5+ Kb7 49. c4 g4+
+50. Ke2 dxc4 51. Nxc4 Bd4 52. Nd6+ Ka6 53. Ne4 h4 54. Kf1 f3 55. Ng5 h3 56.
+Ne4 h2 57. Ng3 Be5 58. Nh1 g3 59. b5+ Ka5 60. b6 g2+ 0-1
+

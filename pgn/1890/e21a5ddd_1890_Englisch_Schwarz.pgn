@@ -1,0 +1,17 @@
+[Event "Kolisch mem"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "14"]
+[White "Englisch, Berthold"]
+[Black "Schwarz, Jacques"]
+[Result "1/2-1/2"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "e21a5ddd"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. Nf3 b6 6. e3 O-O 7. Be2 Bb7 8. O-O
+Nbd7 9. Rc1 c5 10. dxc5 Nxc5 11. cxd5 Nxd5 12. Bxe7 Qxe7 13. Nxd5 Bxd5 14. b4
+Ne4 15. a3 Rac8 16. Qd4 1/2-1/2

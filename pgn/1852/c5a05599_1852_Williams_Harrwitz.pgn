@@ -1,0 +1,30 @@
+[Event "London m2"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "7"]
+[White "Williams, Elijah"]
+[Black "Harrwitz, Daniel"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "c5a05599"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. O-O Nge7 6. d4 exd4 7. Bg5 Qg6 8.
+Bxe7 Bxe7 9. Bxc6 bxc6 10. Qxd4 d6 11. Qa4 Bd7 12. e5 O-O 13. Nbd2 Bh3 14. Ne1
+dxe5 15. Ndf3 Bd6 16. Qxc6 e4 17. Nd4 Qh6 18. gxh3 Qf4 19. Nef3 exf3 20. Nxf3
+Rab8 21. b3 Qf5 22. Kg2 Rb6 23. Qc4 Be7 24. Nd4 Rg6+ 25. Kh1 Qxh3 26. Qd5 Qxc3
+27. Rac1 Qh3 28. Qf3 Qxf3+ 29. Nxf3 Bd6 30. Rc4 Re8 31. Rc2 Rge6 32. Nd4 Rh6
+33. f4 Rh5 34. f5 a6 35. Nc6 Re4 36. Rd1 h6 37. Rf1 f6 38. Nb8 a5 39. Nc6 a4
+40. bxa4 Rxa4 41. Re2 Rc4 42. Nd8 Be5 43. Ne6 Rhh4 44. Rd2 Bd6 45. Rb1 Rb4 46.
+Rg1 Rhg4 47. Rc1 h5 48. Rdc2 Rb5 49. Rf1 Re5 50. Nxc7 Bxc7 51. Rxc7 Re2 52. Rg1
+Rxg1+ 53. Kxg1 Rxa2 54. Rc4 Kh7 55. Rf4 Kh6 56. h4 g5 57. fxg6 Kxg6 58. Kh1 f5
+59. Kg1 Kf6 60. Kf1 Ke5 61. Rb4 Rd2 62. Rb3 Rd4 63. Rh3 Kf4 64. Ke2 Kg4 65. Rh1
+Kg3 66. Rg1+ Kxh4 67. Kf3 Rg4 68. Rh1+ Kg5 69. Ra1 h4 70. Ra8 Rg3+ 71. Kf2 Kg4
+72. Rg8+ Kf4 73. Rh8 Rf3+ 74. Kg2 h3+ 75. Kh2 Ke3 76. Re8+ Kf2 77. Re5 Kf1 78.
+Re8 f4 79. Re4 Kf2 80. Ra4 Ke3 81. Ra3+ Ke4 82. Ra4+ Kf5 83. Ra8 Re3 84. Rf8+
+Kg4 85. Rg8+ Kf3 86. Rf8 Re4 87. Kxh3 Kf2 88. Kh2 f3 89. Rh8 Ke2 90. Ra8 f2 91.
+Ra2+ Kf3 92. Ra3+ Re3 93. Ra1 Re1 94. Ra3+ Ke4 0-1

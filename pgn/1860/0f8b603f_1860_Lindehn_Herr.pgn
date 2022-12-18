@@ -1,0 +1,17 @@
+[Event "Uppsala"]
+[Site "Uppsala"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Lindehn, H."]
+[Black "Herr, E."]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "0f8b603f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nf6 5. Ne2 Bc5 6. e5 d5 7. exf6 Qxf6
+8. O-O dxc4 9. Nbxc3 O-O 10. Nd5 Qd8 11. b4 cxb3 12. Qxb3 Be6 13. Nef4 Nc6
+14. Bb2 b6 15. Rad1 Bd6 16. Qg3 Ne5 17. Nh5 Ng6 18. Ndf6+ Kh8 19. Rxd6 Qxd6
+20. Qg5 h6 21. Ne4 Kg8 22. Bxg7 1-0
+

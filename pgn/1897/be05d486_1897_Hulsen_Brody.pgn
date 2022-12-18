@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Hulsen"]
+[Black "Brody"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "be05d486"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. O-O Nxe4 6. d4 exd4 7. cxd4 Be7
+8. d5 Nb8 9. Re1 Nd6 10. Bd3 O-O 11. Nc3 Ne8 12. d6 Nxd6 13. Bf4 Ne8 14.
+Bxh7+ Kxh7 15. Rxe7 Qxe7 16. Nd5 Qd8 17. Ng5+ Kg6 18. Qd3+ f5 19. Qg3 Nc6
+20. Ne6+ Kf7 21. Nxd8+ Nxd8 22. Re1 Ne6 23. Qh3 g6 24. Qh4 c6 25. Qe7+ Kg8
+26. Bh6 N6g7 27. Bxg7 1-0
+

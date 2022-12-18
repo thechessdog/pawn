@@ -1,0 +1,24 @@
+[Event "Dundee"]
+[Site "Dundee"]
+[Date "1867.01.01"]
+[Round "1"]
+[White "Robertson"]
+[Black "MacDonnell, George"]
+[Result "0-1"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor variation"]
+[HashCode "3559f04d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 Qe7 4. Nf3 c6 5. O-O Nf6 6. d4 Bb6 7. Nxe5 O-O 8.
+Bg5 d6 9. Bxf6 Qxf6 10. Nd3 Be6 11. Nd2 d5 12. Bb3 Na6 13. f4 Rad8 14. f5
+Bc8 15. e5 Qg5 16. Nf3 Qxf5 17. Bc2 Qh5 18. Qd2 Rde8 19. Kh1 Nc7 20. Nf4
+Qh6 21. Qd3 g6 22. Ne2 Bf5 23. Qd1 Bg4 24. Qe1 Ne6 25. Qg3 Qh5 26. h3 Bxf3
+27. Rxf3 c5 28. Nf4 Nxf4 29. Rxf4 Qe2 30. Rf2 Qb5 31. Rd1 Re6 32. Qf3 Qc6
+33. Bb3 c4 34. Bc2 Qd7 35. Qg3 Kh8 36. Rdf1 Bc7 37. Qh4 Kg7 38. Qg4 Qe7 39.
+Rf6 Bd8 40. b3 b5 41. b4 Qe8 42. R6f2 Kh8 43. Qf4 f5 44. g4 Bh4 45. Rg2 g5
+46. Qf3 f4 47. Bf5 Rh6 48. Qxd5 Bg3 49. Rxg3 fxg3 50. Kg2 Ra6 51. Ra1 Ra3
+52. Qf3 a5 53. bxa5 Qe7 54. Qxg3 b4 55. Qe1 Rxc3 56. d5 Qc5 57. d6 Re3 58.
+Qg1 Qxe5 0-1
+

@@ -1,0 +1,25 @@
+[Event "DSB-07.Kongress"]
+[Site "Dresden"]
+[Date "1892.??.??"]
+[Round "8"]
+[White "Porges, Moritz"]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[ECO "B42"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Bd3"]
+[HashCode "7c39e2dc"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Bd3 Qc7 6. O-O Nf6 7. Be3 Bc5 8.
+Nc3 O-O 9. Qd2 b5 10. Nde2 Bxe3 11. Qxe3 Nc6 12. h3 Bb7 13. Ng3 Ne5 14. f4 Nc4
+15. Bxc4 Qxc4 16. e5 Nd5 17. Nxd5 Qxd5 18. Rf2 f5 19. Rd2 Qc6 20. Rad1 Rad8 21.
+Qf2 Rf7 22. Rd6 Qc7 23. c3 Bc6 24. Ne2 Ra8 25. Qc5 Qb7 26. Qf2 Rb8 27. Nd4 Bd5
+28. h4 g6 29. Nb3 Qc8 30. Nc5 Ra8 31. Qd4 h6 32. b3 Rg7 33. c4 bxc4 34. bxc4
+Bc6 35. Rd2 Re7 36. Nb3 Qc7 37. Qc5 Qa7 38. Qxa7 Rxa7 39. Na5 Ba4 40. Rb2 Re8
+41. Rbb6 Rea8 42. Kf2 Kf8 43. Ke3 Ke8 44. Kd2 Rc7 45. Rxa6 Rb8 46. Rdb6 Rxb6
+47. Rxb6 Ra7 48. Rb8+ Kf7 49. Nb7 Bc6 50. Nd8+ Ke7 51. Nxc6+ dxc6 52. Rb2 Ra3
+53. Kc1 Rg3 54. a4 Rc3+ 55. Rc2 Ra3 56. Kb2 Rxa4 57. Kb3 Ra7 58. Kb4 Ra1 59.
+Kc5 Ra6 60. Rb2 Ra7 61. Kxc6 Ra4 62. Rb7+ Kf8 63. Kb5 Ra2 64. c5 Rxg2 65. c6
+Rc2 66. Kb6 Ke8 67. Rb8+ Ke7 68. c7 Rb2+ 69. Ka5 Ra2+ 70. Kb4 1-0

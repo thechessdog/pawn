@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1818.01.01"]
+[Round "1"]
+[White "Sarratt, Jacob"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "67286439"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. Bf4 Bf5 3. Nc3 Nc6 4. f3 Nb4 5. e4 dxe4 6. fxe4 Bg6 7. a3 Nc6
+8. Bb5 a6 9. d5 axb5 10. Nxb5 Na5 11. Nxc7+ Kd7 12. Qg4+ e6 13. dxe6+ Ke7
+14. Qg5+ f6 15. Qc5+ Qd6 16. Qxd6# 1-0
+

@@ -1,0 +1,22 @@
+[Event "Kolisch mem"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "2"]
+[White "Meitner, Philipp"]
+[Black "Albin, Adolf"]
+[Result "0-1"]
+[ECO "C10"]
+[Opening "French"]
+[Variation "Rubinstein variation"]
+[HashCode "08350d90"]
+[Epoch "Pawn"]
+[BlackCountry "ROU"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Nc3 dxe4 4. Nxe4 Nd7 5. Nf3 Ngf6 6. Bd3 Nxe4 7. Bxe4 Nf6
+8. Bd3 Bd6 9. Bg5 h6 10. Bh4 c6 11. Qe2 Qb6 12. c3 Bd7 13. Bg3 Be7 14. Ne5 c5
+15. dxc5 Bxc5 16. O-O a6 17. a3 Bc6 18. Rad1 Rd8 19. b4 Be7 20. c4 Ba4 21. Bc2
+Bxc2 22. Rxd8+ Qxd8 23. Qxc2 O-O 24. c5 Qc8 25. Nc4 Rd8 26. f3 Qc6 27. Bf2 Rc8
+28. Qb3 Nd5 29. Rd1 Qb5 30. Rb1 Kf8 31. a4 Qe8 32. Bg3 Kg8 33. Be5 Nxb4 34. Bd6
+Nd5 35. Qxb7 Rxc5 36. Bxc5 Bxc5+ 37. Kh1 Qxa4 38. Nb2 Qc2 39. Qc8+ Kh7 40. h3
+Nf4 41. Rg1 Qf2 0-1

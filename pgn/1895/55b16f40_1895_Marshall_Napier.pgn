@@ -1,0 +1,17 @@
+[Event "Brooklyn"]
+[Site "Brooklyn"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Marshall & allies"]
+[Black "Napier & Elwell"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "55b16f40"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 Ne5 6. Bb3 h6 7. Qxd4 Bd6
+8. f4 Nc6 9. Qc4 Bb4+ 10. c3 d5 11. exd5 Qe7+ 12. Kd2 hxg5 13. Re1 Be6 14.
+dxe6 O-O-O+ 15. Kc2 Rxh2 16. Re2 Qd6 17. Bd2 Na5 18. Qxb4 Qd3+ 19. Kd1 Ng4
+20. e7 Rh1+ 21. Re1 Ne3+ 22. Kc1 Rxe1+ 23. Bxe1 Qd1+ 24. Bxd1 Rxd1# 0-1
+

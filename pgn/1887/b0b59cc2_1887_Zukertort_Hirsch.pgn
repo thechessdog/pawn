@@ -1,0 +1,15 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Hirsch"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "b0b59cc2"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 Nf6 7. Ba3 d5 8. exd5
+Nxd5 9. O-O Bg4 10. Re1 Nxc3 11. Nxe5 Nxe5 12. Qxg4 1-0

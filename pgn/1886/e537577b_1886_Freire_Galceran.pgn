@@ -1,0 +1,18 @@
+[Event "corr Argentina"]
+[Site "corr Argentina"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Freire, I."]
+[Black "Galceran, A."]
+[Result "1/2-1/2"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Ghulam Kassim gambit"]
+[HashCode "e537577b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 d5 6. Bxd5 c6 7. Bxf7+ Kxf7
+8. Ne5+ Ke8 9. Bxf4 Bg7 10. O-O Qb6 11. Qd2 Ne7 12. c3 Be6 13. Na3 Qa6 14.
+Nxg4 Bxg4 15. Bxb8 Rxb8 16. Qf4 Be2 17. Qxb8+ Kd7 18. Qg3 Bxf1 19. Rxf1 Qb6
+20. Qf3 Qxb2 1/2-1/2
+

@@ -1,0 +1,20 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Haller"]
+[Black "Robbins"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "5682ce3b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Be2 exf4 5. exd5 Bxf3 6. Bxf3 Qh4+ 7. Kf1
+Bd6 8. d4 Ne7 9. Nc3 O-O 10. Ne2 Nf5 11. c4 Ne3+ 12. Bxe3 fxe3 13. g3 Qh3+
+14. Kg1 Qf5 15. Kg2 c5 16. b4 b6 17. Rf1 Nd7 18. dxc5 bxc5 19. bxc5 Bxc5
+20. Nc3 Qe5 21. Na4 Rab8 22. Qd3 Rb4 23. Bg4 Rxa4 24. Bxd7 Ra3 25. Qe2 Rb8
+26. Qf3 e2 27. Qxf7+ Kh8 28. Rfe1 Rf8 29. Qe6 Rf2+ 30. Kh1 Rxh2+ 31. Kxh2
+Qxg3+ 32. Kh1 Qh4+ 0-1
+

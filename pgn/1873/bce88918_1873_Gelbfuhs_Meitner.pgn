@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "2"]
+[White "Gelbfuhs, Oscar"]
+[Black "Meitner, Philipp"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "bce88918"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3 Bg7 7. d4 Bg4 8.
+Nf3 Bxf3 9. gxf3 Nc6 10. Bxc6+ bxc6 11. Ne2 Ne7 12. h3 O-O 13. Qe1 Qxe1+ 14.
+Kxe1 Rfd8 15. c3 c5 16. d5 Ng6 17. Kf2 c6 18. h4 h6 19. hxg5 hxg5 20. Rg1 f6
+21. c4 Kf7 22. Rb1 Ne5 23. b3 Rh8 24. Bb2 Nd3+ 25. Kg2 Nxb2 26. Rxb2 f5 27. Rd2
+fxe4 28. fxe4 Rae8 29. dxc6 Rxe4 30. Rf1 Rc8 31. Ng3 Rd4 32. Rxd4 Bxd4 33. Ne4
+Kg6 34. Nd6 Rxc6 35. Nb5 Re6 36. Nxd4 cxd4 37. c5 Re2+ 38. Rf2 Rxf2+ 39. Kxf2
+Kf6 40. b4 Ke6 41. b5 Kd5 42. c6 Kd6 43. a4 a6 44. Ke2 axb5 45. axb5 g4 46. Kd3
+f3 0-1

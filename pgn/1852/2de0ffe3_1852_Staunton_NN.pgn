@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Staunton, Howard"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "B41"]
+[Opening "Sicilian"]
+[Variation "Kan variation"]
+[HashCode "2de0ffe3"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. d4 cxd4 3. Nf3 e6 4. Nxd4 a6 5. g3 Bc5 6. Nb3 Ba7 7. Bg2 Ne7 8. Bf4
+Nbc6 9. Bd6 O-O 10. Nc3 b5 11. e5 Bb7 12. Ne4 Re8 13. Nec5 Bc8 14. O-O Nf5 15.
+c3 Nxd6 16. exd6 Bxc5 17. Nxc5 Qb6 18. b4 a5 19. Re1 axb4 20. cxb4 Ra7 21. a3
+Nb8 22. Qd4 Na6 23. Nxe6 Qxd4 24. Nxd4 Rxe1+ 25. Rxe1 1-0

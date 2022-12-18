@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Knorre & Neumann"]
+[Black "Cordel & Bergell"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Mason variation"]
+[HashCode "5720e49a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O O-O
+8. c4 c6 9. Nc3 Bf5 10. Qc2 Bf6 11. Nxe4 dxe4 12. Bxe4 Bxe4 13. Qxe4 Nd7
+14. Be3 Re8 15. Qc2 Nf8 16. Rad1 Rc8 17. Rd2 Re7 18. Rfd1 Rd7 19. Ne5 Bxe5
+20. dxe5 Qe7 21. Rxd7 Nxd7 22. Qf5 Rc7 23. f4 c5 24. Qd3 Nf8 25. Qd6 b6 26.
+f5 Rd7 27. Qxe7 Rxe7 28. Rd5 h6 29. Rd8 Rd7 30. Re8 Rd3 31. Kf2 Rd7 32. e6
+fxe6 33. fxe6 Rd6 34. e7 1-0
+

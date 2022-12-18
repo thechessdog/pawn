@@ -1,0 +1,16 @@
+[Event "Strasbourg"]
+[Site "Strasbourg"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Goetz"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Orsini gambit"]
+[HashCode "191632b7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. b3 Qh4+ 4. g3 fxg3 5. h3 g2+ 6. Ke2 Qxe4+ 7. Kf2
+gxh1=N# 0-1
+

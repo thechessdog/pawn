@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Taubenhaus, Jean"]
+[Black "Teichmann, Richard"]
+[Result "0-1"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "4ef7afff"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 Nxd2 11. Bxd2 O-O 12. Bg5 Qd7 13. Bc2 Ne7 14. Nd4 Ng6
+15. Qd3 Be7 16. Bxe7 Qxe7 17. f4 c5 18. Nxe6 fxe6 19. Qh3 Nh4 20. g3 Nf5 21. g4
+Nh6 22. Rae1 Rf7 23. Kh1 Raf8 24. g5 Nf5 25. g6 hxg6 26. Rg1 Nh4 27. Rxg6 Rxf4
+28. Reg1 Nxg6 29. Bxg6 Rh4 30. Qg3 Rff4 31. Bh5 d4 32. Bf3 Qf7 33. cxd4 Rxf3
+34. Qxh4 Qb7 0-1

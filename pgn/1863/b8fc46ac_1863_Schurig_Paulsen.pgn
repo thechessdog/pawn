@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Schurig, R."]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "b8fc46ac"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. d4 Nf6 6. Nc3 Ng4 7. Nh3 g5 8. Qf3
+Be6 9. Nd5 Kd8 10. Be2 Bg7 11. c3 Nd7 12. Bd2 Bxd5 13. exd5 f5 14. Bd3 Rf8 15.
+Re1 Ndf6 16. Re6 Ne3+ 17. Ke2 Nfxd5 18. Bxe3 Nxe3 19. Rxd6+ cxd6 20. Qxb7 Qg4+
+21. Kf2 Qxg2+ 22. Qxg2 Nxg2 23. Nxg5 Bh6 24. Ne6+ Ke7 25. Nxf8 Ne3 26. Nxh7 Rh8
+27. Re1 Kf7 28. c4 Rxh7 29. c5 Bg5 30. c6 Bh4+ 31. Ke2 Bxe1 32. c7 Rxh2+ 33.
+Kxe1 f3 34. Bf1 Rc2 35. Bc4+ Kf6 0-1

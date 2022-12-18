@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Pillsbury, Harry Nelson"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "b9a86644"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nc6 5. Ng5 Ne5 6. Qxd4 Qe7 7. O-O h6 8.
+Nf3 Nxf3+ 9. gxf3 d6 10. Nc3 1-0

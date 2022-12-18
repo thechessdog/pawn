@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "Wheelwright"]
+[Black "Frere"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Ghulam Kassim gambit"]
+[HashCode "30a467e8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 b6 6. O-O gxf3 7. Qxf3 d6 8.
+Bxf4 Nc6 9. Bg5 Qxg5 10. Qxf7+ Kd8 11. Qxf8+ Kd7 12. Be6+ Kxe6 13. Qf7# 1-0
+

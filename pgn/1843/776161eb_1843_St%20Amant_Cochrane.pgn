@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1843.01.01"]
+[Round "1"]
+[White "Saint Amant, Pierre"]
+[Black "Cochrane, John"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "776161eb"]
+[Epoch "Pawn"]
+[BlackCountry "SCO"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. Bxc6 dxc6 5. O-O Bg4 6. h3 Bxf3 7. Qxf3 Ne7
+8. Qe2 Qd6 9. c3 Ng6 10. b4 Bb6 11. a4 a5 12. b5 Nf4 13. Qg4 h5 14. Qxg7 O-O-O
+15. d4 Rhg8 16. Qxe5 Nxh3+ 17. Kh2 Qxe5+ 18. dxe5 Nxf2 19. bxc6 Rg4 20. cxb7+
+Kxb7 21. Nd2 Rdg8 22. Rxf2 Bxf2 23. Rb1+ Kc8 0-1

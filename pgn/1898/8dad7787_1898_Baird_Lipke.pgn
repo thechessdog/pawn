@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Baird, David Graham"]
+[Black "Lipke, Paul"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "8dad7787"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Nxc6 bxc6 7. O-O d5 8.
+Nc3 Be7 9. b3 O-O 10. e5 Nd7 11. Re1 f5 12. exf6 Nxf6 13. h3 Bd6 14. Bb2 e5 15.
+Na4 e4 16. Bf1 Ng4 17. Re2 Rxf2 18. hxg4 Qh4 19. Qd4 Bh2+ 20. Kh1 Bg3+ 21. Kg1
+Qh2# 0-1

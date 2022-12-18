@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1846.01.01"]
+[Round "1"]
+[White "Schulten, John William"]
+[Black "Horwitz, Bernhard"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "0680479d"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 b5 4. Bxb5 Bc5 5. d3 c6 6. Bc4 Qb6 7. Qe2 d5 8. exd5
+O-O 9. Ne4 Nxe4 10. dxe4 Bxf2+ 11. Qxf2 Qb4+ 12. Bd2 Qxc4 13. Qf3 f5 14. exf5
+Bxf5 15. Qb3 Qf1+ 16. Kxf1 Bd3+ 17. Ke1 Rf1# 0-1

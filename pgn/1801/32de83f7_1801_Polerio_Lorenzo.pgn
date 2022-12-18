@@ -1,0 +1,20 @@
+[Event "Sora 1575"]
+[Site "Sora 1575"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Polerio"]
+[Black "Lorenzo"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "32de83f7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. O-O d6 6. d4 Bb6 7. Bg5 Nf6 8.
+a4 a6 9. Bd5 Nb8 10. Nbd2 c6 11. Ba2 Bg4 12. Qb3 Ba7 13. Qd1 g6 14. dxe5
+dxe5 15. Bxf7+ Kd8 16. Nxe5 Qxe5 17. Bxf6+ Kc8 18. Qxg4+ Nd7 19. Bxh8 Qxh8
+20. Be6 Qe8 21. Nc4 Kc7 22. Qf4+ Kd8 23. Qd6 Bb8 24. Qxd7+ Qxd7 25. Bxd7
+Kxd7 26. Nb6+ Kd6 27. Nxa8 Ba7 28. Rfd1+ Kc5 29. Rd4 a5 30. Rad1 b5 31. b4+
+axb4 32. cxb4# 1-0
+

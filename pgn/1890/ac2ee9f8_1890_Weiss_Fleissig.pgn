@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Weiss, Max"]
+[Black "Fleissig, Bernhard"]
+[Result "1/2-1/2"]
+[ECO "D00"]
+[Opening "Queen's pawn, Mason variation"]
+[HashCode "ac2ee9f8"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "HUN"]
+
+1. d4 d5 2. Bf4 Bf5 3. e3 e6 4. c4 Nf6 5. Qb3 b6 6. Nc3 a6 7. Nf3 Nc6 8. Qa4
+Qd7 9. cxd5 Nxd5 10. Bb5 Nxc3 11. bxc3 Bc2 12. Bxc6 Bxa4 13. Bxd7+ Kxd7 14. O-O
+f6 15. e4 Ba3 16. Bc1 Be7 17. Re1 Rae8 18. Nd2 Rhf8 19. Nc4 Bb5 1/2-1/2

@@ -1,0 +1,26 @@
+[Event "Berlin it"]
+[Site "Berlin"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "De Riviere, Jules Arnous"]
+[Black "Neumann, Gustav Richard"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "856440fc"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bd3 Ne7 11. Na4 O-O 12. Nxb6 axb6 13. Bb2 Ng6 14. Rc1
+c5 15. Nd2 f6 16. f4 f5 17. Qc2 Qh4 18. g3 Qg4 19. e5 dxe5 20. dxe5 Be6 21. Nc4
+Nxc4 22. Bxc4 Rfe8 23. Bxe6+ Rxe6 24. Qc4 Nf8 25. Rcd1 Qg6 26. Rd6 Qf7 27. Rfd1
+Rxd6 28. Qxf7+ Kxf7 29. Rxd6 Ra6 30. a3 b5 31. Rd5 Rc6 32. Kf2 Ke7 33. Ke3 Nd7
+34. Bc1 Nb6 35. Rd3 Ke6 36. Rd8 Nd5+ 37. Kd3 b4 38. Kc4 Nc7 39. a4 Ke7 40. Rg8
+Ne8 41. Be3 Kf7 42. Rh8 h6 43. Kb3 Ke7 44. a5 Rc8 45. h3 Kd7 46. g4 fxg4 47.
+hxg4 Kc6 48. f5 Rd8 49. f6 Rd3+ 50. Kc2 Rc3+ 51. Kd2 Nxf6 52. exf6 gxf6 53.
+Rxh6 Kb5 54. Rxf6 Kxa5 55. g5 c4 56. Rf5+ Ka4 57. Rd5 Ra3 58. g6 c3+ 59. Ke2
+Kb3 60. Rd8 Ra6 61. g7 Rg6 62. g8=Q+ Rxg8 63. Rxg8 Kc2 64. Rg1 b3 65. Rc1+ Kb2
+66. Kd3 c2 67. Kd2 Ka2 68. Bd4 1-0

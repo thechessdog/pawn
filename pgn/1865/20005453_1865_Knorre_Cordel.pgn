@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Knorre & Neumann"]
+[Black "Cordel & Raaz"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "20005453"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O h6 7. Re1+ Be6
+8. Bf5 Qd7 9. Qe2 Ke7 10. Nc3 c6 11. Bxe6 fxe6 12. Ne5 Bxe5 13. dxe5 Ne8
+14. Qg4 Kd8 15. Ne4 Na6 16. c4 Kc7 17. cxd5 cxd5 18. Nd6 Rd8 19. Be3 Kb8
+20. a4 Nxd6 21. exd6 Rhe8 22. Qd4 b6 23. Bf4 Nc5 24. a5 Nb3 25. Qc3 Nxa5
+26. Qc7+ Ka8 27. b4 Nc6 28. Rec1 Qxc7 29. dxc7 Rc8 30. Rxc6 e5 31. Bg3 Kb7
+32. b5 Re7 33. Re1 1-0
+

@@ -1,0 +1,19 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Schmid, Christoph"]
+[Black "Wayte, William"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bogolyubov variation"]
+[HashCode "6bfb9cc7"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 Nc6 5. Nf3 Bb4 6. e5 d5 7. Bb5 Ne4 8. O-O
+O-O 9. Ne2 Bg4 10. d3 Bc5+ 11. d4 Bb6 12. Bxf4 f6 13. c3 fxe5 14. Bxc6 bxc6 15.
+Nxe5 Bxe2 16. Qxe2 c5 17. Be3 cxd4 18. Rxf8+ Qxf8 19. Rf1 dxe3 20. Rxf8+ Rxf8
+21. Nf3 g5 22. h3 Ng3 23. Qe1 e2+ 24. Kh2 Nf1+ 25. Kh1 Be3 26. Qb1 Rxf3 27.
+gxf3 Bf2 28. Qd3 Ng3+ 29. Kg2 e1=N+ 30. Kxf2 Nxd3+ 31. Kxg3 Nxb2 0-1

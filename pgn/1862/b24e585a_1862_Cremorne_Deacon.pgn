@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Cremorne"]
+[Black "Deacon, Frederick"]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "b24e585a"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. e5 Nc6 5. c3 Qb6 6. d4 Bd7 7. Be2 Nh6 8. O-O
+cxd4 9. cxd4 Nf5 10. Kh1 Nfxd4 11. Nc3 Nxe2 12. Nxe2 Be7 13. Nfd4 O-O 14. Rf3
+f6 15. Be3 Bc5 16. Qg1 Nxd4 17. Nxd4 fxe5 18. fxe5 Rac8 19. Raf1 Rxf3 20. gxf3
+Qc7 21. f4 Bxd4 22. Bxd4 Be8 23. f5 exf5 24. Qg2 Qc4 25. Bxa7 f4 26. b3 Qd3 27.
+Qf3 Qxf3+ 28. Rxf3 g5 29. h4 Bg6 30. Kg1 Be4 31. Rf2 Rc1+ 32. Kh2 Rh1# 0-1

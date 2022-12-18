@@ -1,0 +1,18 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Burn, Amos"]
+[Black "Weiss, Max"]
+[Result "1/2-1/2"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "90b42e56"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. dxc3 c5 7. Bb5+ Nc6 8.
+c4 Be6 9. Ne2 dxc4 10. Bxc6+ bxc6 11. Qxc6+ Bd7 12. Qd5 Be6 13. Qc6+ Bd7 14.
+Qd5 Be6 1/2-1/2

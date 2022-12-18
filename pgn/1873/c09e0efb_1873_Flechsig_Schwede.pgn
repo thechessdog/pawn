@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Flechsig, Ernst"]
+[Black "Schwede, C."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "c09e0efb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3 Bg7 7. d4 Ne7 8.
+Nf3 Qh5 9. h4 h6 10. Kg1 g4 11. Ne1 f3 12. Be3 Nbc6 13. Bxc6+ bxc6 14. Nd3 Ng6
+15. g3 Bb7 16. Na4 Rd8 17. c3 O-O 18. Nac5 Bc8 19. Qa4 f5 20. e5 f4 21. Nxf4
+Nxf4 22. Bxf4 Rxf4 23. gxf4 g3 24. Qc4+ Kh8 25. e6 Rf8 26. Ne4 f2+ 27. Kg2 Rxf4
+28. Ng5 hxg5 29. hxg5 Rh4 30. Rxh4 Qxh4 31. Rh1 Qxh1+ 32. Kxh1 Bxe6 0-1

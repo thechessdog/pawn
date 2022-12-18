@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Levin"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "6817d59f"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O d6 7. d4 exd4 8. Qb3
+Qe7 9. e5 dxe5 10. Re1 Bd7 11. Bd5 O-O-O 12. Bxc6 bxc6 13. Bg5 Nf6 14. Rxe5 Be6
+15. Qa4 Bb6 16. Qa6+ Kb8 17. Nxd4 Qd6 18. Nd2 Bd5 19. Nc4 Qc5 20. Nxb6 cxb6 21.
+Rb1 Rd7 22. Rbe1 Rhd8 23. R1e3 h6 24. Bxf6 gxf6 25. Re8 Be6 26. Rxd8+ Rxd8 27.
+Qd3 Rd6 28. h3 f5 29. Rg3 h5 30. h4 b5 31. Rg5 Qe5 32. Qf3 Qe4 33. Qxe4 fxe4
+34. Nxe6 Rxe6 35. Rxh5 Kc7 36. Rf5 Kd6 37. Rxf7 e3 38. fxe3 Rxe3 39. h5 Rxc3
+40. h6 Re3 41. h7 Re1+ 42. Kh2 Re8 43. g4 Ke6 44. Rg7 1-0

@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Meitner, Philip"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "41548b6c"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Nxe5 Nxe5 8.
+dxe5 Nc5 9. Bb3 Nxb3 10. axb3 Bb7 11. Nc3 Qe7 12. Re1 O-O-O 13. Bf4 g5 14. Be3
+Qe6 15. Qh5 Rg8 16. Rad1 Rg6 17. Bc1 Rh6 18. Qe2 Bxg2 19. f3 Rxh2 20. Kxh2 Qh3+
+21. Kg1 Bxf3 22. Qh2 Bc5+ 23. Be3 Bxe3+ 24. Rxe3 Qg4+ 25. Kf2 Bxd1 26. Nxd1
+Qxd1 0-1

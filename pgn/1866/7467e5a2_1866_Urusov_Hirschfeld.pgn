@@ -1,0 +1,20 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Urusov, Sergey Semenovich"]
+[Black "Hirschfeld, Philipp"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "7467e5a2"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Bc5 6. Be3 Qb6 7. Nb5 Bxe3 8.
+fxe3 a6 9. Nd4 Nc6 10. Nd2 Nxd4 11. Nc4 Qc5 12. exd4 Qxd4 13. Nd2 Qxb2 14. c3
+Qb6 15. Nc4 Qc7 16. e5 Nd5 17. Nd6+ Ke7 18. c4 Nb4 19. Be4 f6 20. exf6+ gxf6
+21. Qg4 Nc2+ 22. Bxc2 Qa5+ 23. Ke2 Qe5+ 24. Ne4 f5 25. Qg5+ Kf7 26. Rad1 d5 27.
+cxd5 exd5 28. Rxd5 Qxd5 29. Bb3 1-0

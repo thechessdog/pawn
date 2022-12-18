@@ -1,0 +1,19 @@
+[Event "Paris 1680"]
+[Site "Paris 1680"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Lionne & Morant"]
+[Black "Auzout & Maubisson"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Pawn's gambit (Stamma gambit)"]
+[HashCode "a91bf4be"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. h4 Be7 4. Qg4 d5 5. Qxf4 dxe4 6. Qxe4 Nf6 7. Qa4+ c6
+8. d3 O-O 9. Bf4 Re8 10. Be2 Na6 11. c4 Bb4+ 12. Kf1 Qd4 13. Bd2 Bc5 14.
+Be1 Bg4 15. Nc3 Re5 16. Nf3 Bxf3 17. gxf3 Rae8 18. Qd1 Nh5 19. Ne4 Bb6 20.
+Bc3 Ng3+ 21. Kg2 Qe3 22. Kxg3 Rxe4 23. dxe4 Rxe4 24. Qd3 Qf2+ 25. Kh3 Rxh4#
+0-1
+

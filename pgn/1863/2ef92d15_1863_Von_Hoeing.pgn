@@ -1,0 +1,17 @@
+[Event "WSB-03.Kongress prel"]
+[Site "Duesseldorf"]
+[Date "1863.08.30"]
+[Round "1.1"]
+[White "Von dem Busch"]
+[Black "Hoeing, Karl"]
+[Result "0-1"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "2ef92d15"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 Be7 4. Nf3 d6 5. Ng5 O-O 6. h3 c6 7. Nc3 d5 8. Bb3
+dxe4 9. Ngxe4 Na6 10. Be3 Nd5 11. Qd2 f5 12. Nxd5 cxd5 13. Ng3 f4 14. Nh5 fxe3
+15. Qxe3 Bc5 16. Qd2 Bxf2+ 17. Ke2 Nc5 18. Raf1 Nxb3 19. cxb3 Qh4 20. Nxg7 Qg4+
+21. hxg4 Bxg4# 0-1

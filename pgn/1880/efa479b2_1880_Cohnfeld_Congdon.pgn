@@ -1,0 +1,19 @@
+[Event "USA-05.Congress"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Cohnfeld, A."]
+[Black "Congdon, James Adams"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "efa479b2"]
+[Epoch "Pawn"]
+
+1. e4 d5 2. e5 e6 3. d4 c5 4. c3 Nc6 5. Be3 cxd4 6. cxd4 f6 7. f4 f5 8. Nf3 Be7
+9. Be2 Nh6 10. h3 Bh4+ 11. Bf2 Bxf2+ 12. Kxf2 O-O 13. Rf1 Qe7 14. a3 Nf7 15.
+Kg1 Bd7 16. Nc3 Rae8 17. b4 a6 18. Qe1 g5 19. Qg3 Kh8 20. fxg5 Nxg5 21. Qxg5
+Qxg5 22. Nxg5 Nxd4 23. Ra2 Nxe2+ 24. Nxe2 Re7 25. Rf4 Bb5 26. Nd4 Bc4 27. Ngxe6
+Rfe8 28. Raf2 Rxe6 29. Nxe6 Rxe6 30. Rxf5 a5 31. bxa5 Ra6 32. Rf8+ Kg7 33.
+R8f7+ Kg8 34. Rxb7 Rxa5 35. e6 Rxa3 36. e7 Re3 37. Rf8+ Kg7 38. e8=Q+ 1-0

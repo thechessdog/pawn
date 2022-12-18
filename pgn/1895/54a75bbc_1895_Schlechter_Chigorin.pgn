@@ -1,0 +1,21 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C79"]
+[Opening "Ruy Lopez"]
+[Variation "Steinitz defence deferred (Russian defence)"]
+[HashCode "54a75bbc"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O d6 6. d4 Nd7 7. Nc3 Be7 8. Ne2
+O-O 9. c3 Bf6 10. Ng3 Ne7 11. Bb3 Ng6 12. Be3 Re8 13. Qd2 Ndf8 14. dxe5 dxe5
+15. Qxd8 Bxd8 16. Ng5 Bxg5 17. Bxg5 Be6 18. Ne2 Bxb3 19. axb3 Ne6 20. Be3 Rad8
+21. Rfd1 f6 22. f3 Kf7 23. Kf2 Ke7 24. g3 Ngf8 25. Ke1 Nd7 26. Nc1 g5 27. Nd3
+h5 28. Ke2 Rh8 29. b4 Rdg8 30. Rg1 g4 31. f4 Nd8 32. f5 Nf7 33. Nf2 Nd6 34. Bc5
+Nb6 35. Nd1 0-1

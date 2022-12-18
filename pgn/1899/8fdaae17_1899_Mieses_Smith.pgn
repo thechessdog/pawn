@@ -1,0 +1,18 @@
+[Event "London-B"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Smith, Stephen Francis"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "8fdaae17"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Be3 Nf6 5. Bd3 Bd6 6. Nc3 O-O 7. Nge2 c6 8.
+Qd2 Ng4 9. O-O-O Re8 10. Bg5 Be7 11. Bxe7 Qxe7 12. Ng3 Qf6 13. f3 Nh6 14. Nh5
+Qh4 15. g4 Na6 16. Ne2 Qf2 17. Nxg7 Kxg7 18. Qg5+ Kh8 19. Qf6+ Kg8 20. Nf4 Qe3+
+21. Kb1 Bf5 22. Nh5 1-0

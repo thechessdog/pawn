@@ -1,0 +1,15 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1822.01.01"]
+[Round "1"]
+[White "Cochrane, John"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "a22f1718"]
+[Epoch "Pawn"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ng4 7. Bd5 Nxf2 8.
+Bxf7+ Kxf7 9. Ng5+ Kg8 10. Qb3+ d5 11. exd6+ Be6 12. Qxe6+ Kf8 13. Qf7# 1-0

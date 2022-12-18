@@ -1,0 +1,15 @@
+[Event "Walka"]
+[Site "Walka"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Kupfer"]
+[Black "Silski"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "fd9a1b4d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f6 4. d4 Nc6 5. Nh4 Bd7 6. Qh5+ g6 7. Nxg6 Bg4 8.
+Bf7+ Kxf7 9. Nxe5+ Ke6 10. Qf7# 1-0
+

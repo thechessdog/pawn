@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1818.01.01"]
+[Round "1"]
+[White "Sarratt, Jacob"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "Queen's gambit accepted"]
+[HashCode "2e1e0cbb"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 dxc4 3. e3 b5 4. a4 Bd7 5. axb5 Bxb5 6. Nc3 Ba6 7. Qf3 c6 8.
+Rxa6 Nxa6 9. Qxc6+ Qd7 10. Qxa8+ Qd8 11. Qc6+ Qd7 12. Qxa6 1-0
+

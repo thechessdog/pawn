@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1818.01.01"]
+[Round "1"]
+[White "Lewis, William"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "6614d73f"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. c3 Nc6 6. d4 Qe7 7. Nf3 Nf6 8.
+Bxf4 Nxe4 9. Nbd2 Bf5 10. Nxe4 Bxe4 11. Qb3 Nd8 12. Re1 f5 13. Ng5 b6 14. Bd5
+c6 15. Bxe4 fxe4 16. Rxe4 Qxe4 17. Nxe4 Be7 18. Nxd6+ Kd7 19. Qd1 h5 20. Nf5 g6
+21. Nxe7 Kxe7 22. Bg5+ Kd7 23. d5 c5 24. g3 b5 25. Qd3 c4 26. Qxg6 Rf8+ 27. Kg2
+Kc7 28. Qg7+ Nf7 29. Rf1 Kb6 30. Rxf7 Rxf7 31. Qxf7 1-0

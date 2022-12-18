@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Conill, Enrique & L"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "8493a3f0"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. dxc3 Bc5 7. Qg3 Kf8 8.
+Bg5 Qe8 9. Nf3 Bf5 10. Bd3 Bxd3 11. cxd3 Nc6 12. d4 Be7 13. O-O-O Bxg5+ 14.
+Nxg5 Nd8 15. Rde1 Kg8 16. e6 fxe6 17. Qxc7 h6 18. Nxe6 Nxe6 19. Qd6 1-0

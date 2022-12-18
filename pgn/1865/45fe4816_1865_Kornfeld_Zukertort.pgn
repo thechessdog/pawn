@@ -1,0 +1,17 @@
+[Event "Posen"]
+[Site "Posen"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Kornfeld, W."]
+[Black "Zukertort, Johannes Hermann"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "45fe4816"]
+[Epoch "Pawn"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Bb4 6. Nge2 c6 7. Bb3 Bg4 8.
+d3 Nxe4 9. dxe4 Qh4+ 10. Kf1 f3 11. gxf3 Bh3+ 12. Kg1 Bc5+ 13. Nd4 Bxd4+ 14.
+Qxd4 Qe1# 0-1

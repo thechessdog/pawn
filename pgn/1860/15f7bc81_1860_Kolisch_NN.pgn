@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "15f7bc81"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qf6 9. e5 dxe5 10. Re1 Bb6 11. Bg5 Qf5 12. Nxe5 Nxe5 13. Qb5+ c6 14. Rxe5+ Be6
+15. Bxe6 fxe6 16. Qe2 Qf7 17. Nd2 Kd7 18. Nc4 Re8 19. Ra5 Qf8 20. Rb1 Bxa5 21.
+Rxb7+ Bc7 22. Qe5 Rc8 23. Qxd4+ Ke8 24. Rxc7 Rxc7 25. Qd8+ Kf7 26. Ne5# 1-0

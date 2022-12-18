@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1888.01.01"]
+[Round "1"]
+[White "Frazer, Dr"]
+[Black "Taubenhaus, Jean"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Steinitz variation"]
+[HashCode "74a11f55"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nc3 Nf6 6. Nf5 Qh5 7. Be2 Qg6 8.
+Nh4 1-0

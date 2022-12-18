@@ -1,0 +1,18 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.??.??"]
+[Round "7"]
+[White "Schottlaender, Adolf"]
+[Black "Berger, Johann Nepomuk"]
+[Result "1/2-1/2"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "c2249e55"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. d3 d6 6. h3 Bxc3+ 7. bxc3 Bd7 8.
+O-O Ne7 9. Bxd7+ Qxd7 10. c4 O-O 11. Nh4 h6 12. f4 exf4 13. Bxf4 Nh7 14. Be3
+Rae8 15. g4 b6 16. Qd2 Qe6 17. Rf3 f6 18. Raf1 Ng5 19. Bxg5 1/2-1/2

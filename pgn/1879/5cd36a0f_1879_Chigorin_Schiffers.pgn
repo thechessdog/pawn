@@ -1,0 +1,23 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Schiffers"]
+[Result "0-1"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "5cd36a0f"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bc5 5. Nc3 O-O 6. Bg5 Bb4 7. O-O Bxc3 8.
+bxc3 d6 9. h3 Ne7 10. Bxf6 gxf6 11. Nh4 Ng6 12. Nf5 Bxf5 13. exf5 Nf4 14. g3
+Nd5 15. c4 Ne7 16. Qh5 c6 17. Ba4 Kh8 18. Kh2 Qd7 19. g4 d5 20. Rg1 dxc4 21.
+Qh4 Ng8 22. dxc4 Qd4 23. Bb3 Rad8 24. Qg3 Ne7 25. Rae1 Qc5 26. Qh4 Ng8 27. c3
+Rd2 28. Rg2 h6 29. Reg1 Rfd8 30. Kh1 Kg7 31. g5 hxg5 32. Rxg5+ fxg5 33. Qxg5+
+Kf8 34. Qxg8+ Ke7 35. Qg5+ Ke8 36. Qf6 Kd7 37. Qxf7+ Kc8 38. Rg7 R2d7 39. Qe6
+Qxf2 40. f6 Qe1+ 41. Rg1 Qe4+ 42. Rg2 Kc7 43. Qg4 Qe1+ 44. Rg1 Qxc3 45. c5 Rd4
+46. Qh5 Rd3 47. Be6 Qxc5 48. f7 Rd2 49. Qh7 Rh2+ 50. Kxh2 Qf2+ 51. Kh1 Qf3+ 52.
+Rg2 Rd1+ 53. Kh2 Qf4+ 54. Rg3 Rd2+ 55. Kh1 Qf1+ 56. Rg1 Qf3+ 57. Rg2 Qxg2# 0-1

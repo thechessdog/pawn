@@ -1,0 +1,16 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Schwartz, (Pawn Era)"]
+[Result "1-0"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "4c2dc7f1"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. Nf3 d5 2. d4 Bf5 3. c4 e6 4. Qb3 b6 5. e3 Nf6 6. Ne5 Bd6 7. cxd5 Bxe5 8.
+dxe5 Nxd5 9. e4 Bxe4 10. Qa4+ 1-0

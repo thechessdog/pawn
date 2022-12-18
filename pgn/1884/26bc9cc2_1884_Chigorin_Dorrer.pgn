@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Dorrer"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Goering attack"]
+[HashCode "26bc9cc2"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bg5 f6 11. Bf4 Nxc4 12. Qa4+ Qd7 13. Qxc4 Qf7 14. Nd5
+Be6 15. Qa4+ Bd7 16. Qc2 Rc8 17. a4 Ba5 18. Rfb1 Ne7 19. Nxe7 Qxe7 20. Rxb7 O-O
+21. Rxa7 Bb6 22. Ra6 Ra8 23. a5 Rxa6 24. Qc4+ Kh8 25. Qxa6 Bxa5 26. Qxa5 Qxe4
+27. Qxc7 Qxf4 28. Qxd7 Rb8 29. Qa7 1-0

@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Fraser"]
+[Black "Farrow"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "11dff277"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. fxe5 Qxe5+ 6. Be2 Bd6 7. Nf3
+Qe7 8. O-O Nf6 9. d4 O-O 10. Bg5 Qd8 11. Ne5 Bxe5 12. dxe5 Qxd1 13. Raxd1
+Ng4 14. Nd5 Nc6 15. Nxc7 Rb8 16. e6 f6 17. Bxg4 fxg5 18. Rxf8+ Kxf8 19.
+Rf1+ Kg8 20. Rf7 g6 21. Nd5 1-0
+

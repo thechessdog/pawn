@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.??.??"]
+[Round "?"]
+[White "Lipke, Paul"]
+[Black "Marco, Georg"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "ab90c0dd"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. a4
+Rb8 9. axb5 axb5 10. dxe5 Be6 11. c3 Bc5 12. Nbd2 O-O 13. Bc2 Nxd2 14. Qxd2 Qd7
+15. b4 Bb6 16. Qd3 g6 17. Bg5 Bf5 18. Qd2 Bxc2 19. Bf6 Ne7 20. Nh4 1-0

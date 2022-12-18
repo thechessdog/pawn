@@ -1,0 +1,22 @@
+[Event "Manhattan"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "7"]
+[White "Baird, John Washington"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "f85c16f3"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O Be7 11. Nd2 O-O 12. Nf3 Bd6 13. b3 Rad8 14.
+Bb2 Ne8 15. Re1 c5 16. Qd3 Qb7 17. Ng5 g6 18. Nxh7 d4 19. Qh3 f5 20. Nxf8 Bxf8
+21. Re6 Qf7 22. Rae1 Ng7 23. R6e2 Nh5 24. Bc1 Rd6 25. Bg5 Ng7 26. Qh4 Ne6 27.
+Bf6 Bg7 28. Bxg7 Kxg7 29. Qg3 f4 30. Qg4 Kf6 31. Rxe6+ Rxe6 32. Qxf4+ Kg7 33.
+Qxf7+ Kxf7 34. Rxe6 Kxe6 35. Kf1 Ke5 36. Ke2 a5 37. Kd3 Kd5 38. a4 g5 39. h3
+Ke5 40. g3 Kd5 41. f3 Ke5 42. Kc4 Kd6 43. h4 gxh4 44. gxh4 1-0

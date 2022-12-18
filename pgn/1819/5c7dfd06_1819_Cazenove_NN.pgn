@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1819.??.??"]
+[Round "?"]
+[White "Cazenove, J."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "5c7dfd06"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Bc5 4. d4 Be7 5. Nf3 Bh4+ 6. g3 fxg3 7. O-O
+gxh2+ 8. Kh1 Be7 9. Bxf7+ Kxf7 10. Ne5+ Ke8 11. Qh5+ g6 12. Nxg6 Nf6 13.
+Rxf6 Bxf6 14. Nxh8+ Ke7 15. Qf7+ Kd6 16. Bf4+ Kc6 17. Qd5+ Kb6 18. Qc5+ Ka6
+19. Bxc7 Qxc7 20. Qxc7 Nc6 21. Nf7 1-0
+

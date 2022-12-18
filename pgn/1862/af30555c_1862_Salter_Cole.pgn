@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Salter, D."]
+[Black "Cole, A."]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Nimzovich system"]
+[HashCode "af30555c"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. Nf3 d5 3. e5 c5 4. d4 Nc6 5. Bb5 Qb6 6. Bxc6+ bxc6 7. O-O Ba6
+8. Re1 cxd4 9. Nxd4 c5 10. Nf3 c4 11. b3 Ne7 12. Be3 Qc7 13. Qd4 Ng6 14. c3
+Be7 15. b4 O-O 16. Bg5 Bb7 17. Nbd2 h6 18. Bh4 Rae8 19. Bg3 Bd8 20. Qxa7
+Qc6 21. Nd4 Qd7 22. N2f3 Be7 23. Qa3 f5 24. h3 Nh8 25. Qc1 g5 26. Kh1 f4
+27. Bh2 Ng6 28. Qc2 Kg7 29. Rg1 Bd8 30. g3 fxg3 31. Rxg3 Rf7 32. h4 Ref8
+33. hxg5 h5 34. Rh3 Rxf3 35. Nxf3 Rxf3 36. Rxf3 d4 37. cxd4 Bxf3+ 38. Kg1
+Qxd4 39. Re1 Qg4+ 40. Bg3 Qh3 0-1
+

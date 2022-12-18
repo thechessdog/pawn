@@ -1,0 +1,24 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1888.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Goering attack"]
+[HashCode "63107f32"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bg5 f6 11. Bf4 Ne7 12. h3 Ng6 13. Bg3 Nxc4 14. Qa4+ Qd7
+15. Qxc4 Qf7 16. Nd5 O-O 17. a4 Be6 18. a5 c6 19. axb6 cxd5 20. exd5 Bxd5 21.
+Qa4 Bxf3 22. gxf3 f5 23. Bxd6 Nh4 24. Qa2 Qxa2 25. Rxa2 axb6 26. Rxa8 Rxa8 27.
+d5 Rd8 28. Be7 Nxf3+ 29. Kg2 Rd7 30. d6 Ne5 31. Rb1 Nc6 32. Rxb6 Nxe7 33. dxe7
+Rxe7 34. Kf3 Kf7 35. Kf4 g6 36. h4 Ke8 37. h5 gxh5 38. Kxf5 Kd8 39. f4 Kc7 40.
+Rh6 b5 41. Rxh5 Kd6 42. Kg4 Rb7 43. f5 Ke5 44. Rh6 b4 45. f6 Kd4 46. Rh3 Ke5
+47. Rh6 Kd5 48. Rh5+ Kc4 49. Rg5 b3 50. Rg7 Rb8 51. Rc7+ Kd5 52. f7 b2 53. Rb7
+Rxb7 54. f8=Q b1=Q 55. Qd8+ Kc6 56. Qe8+ Kb6 57. Qd8+ Ka6 58. Qa8+ Ra7 0-1

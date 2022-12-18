@@ -1,0 +1,18 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "McConnell"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Four knights"]
+[Variation "Italian variation"]
+[HashCode "d4df9040"]
+[Epoch "Pawn"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Nc3 Bb4 5. a3 Bxc3 6. dxc3 Nxe4 7. Bxf7+ Kxf7
+8. Qd5+ Ke8 9. Qxe4 d5 10. Qa4 Rf8 11. Nxe5 Qe7 12. f4 Bd7 13. O-O Nxe5 14. Qd4
+Nc6 15. Qxd5 Be6 16. Qb5 a6 17. Qxb7 Qc5+ 18. Be3 Qxe3+ 19. Kh1 Qb6 20. Qxb6
+cxb6 21. Rae1 Kd7 0-1

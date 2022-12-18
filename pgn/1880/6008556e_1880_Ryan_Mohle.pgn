@@ -1,0 +1,20 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Ryan"]
+[Black "Moehle, Charles"]
+[Result "0-1"]
+[ECO "A84"]
+[Opening "Dutch defence, Rubinstein variation"]
+[HashCode "6008556e"]
+[Epoch "Pawn"]
+
+1. d4 f5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. Bd3 h6 7. Bh4 c5 8. Nge2
+cxd4 9. Nxd4 Nc6 10. Nf3 d6 11. a3 e5 12. Bxf6 Bxf6 13. e4 f4 14. Nd5 Bg4 15.
+Be2 Bxf3 16. Nxf6+ Rxf6 17. Qd5+ Kh8 18. Bxf3 Qa5+ 19. b4 Qxd5 20. exd5 Nd4 21.
+Be4 Rc8 22. Rc1 b6 23. f3 Rf7 24. O-O Ne2+ 25. Kf2 Nxc1 26. Rxc1 Rfc7 27. Bd3
+Kg8 28. g4 Kf7 29. b5 Rc5 30. Rc2 g5 31. Ke2 Ke7 32. Kd2 Rh8 33. Bg6 Kf6 34.
+Bd3 h5 35. h3 hxg4 36. hxg4 Rh2+ 37. Kc3 Rxc2+ 38. Kxc2 Rc8 39. Kc3 Rh8 40. Kb4
+Rh2 41. a4 Rf2 42. Be4 Re2 43. Kc3 Re3+ 44. Kd2 Ra3 45. a5 Rxa5 46. Bc2 Ra3 47.
+Bd3 Ke7 48. Be2 Re3 49. Bd1 e4 50. fxe4 Rxe4 0-1

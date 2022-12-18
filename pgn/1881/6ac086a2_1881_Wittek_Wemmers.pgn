@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Wittek, Alexander"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "6ac086a2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. O-O b5 7. Bb3 d6 8.
+d3 Bg4 9. Be3 Nd4 10. Bxd4 Bxd4 11. Rb1 Ba7 12. h3 Bh5 13. g4 Bg6 14. Kg2
+Qd7 15. Ne2 O-O-O 16. c4 h5 17. g5 Nh7 18. Qd2 f6 19. cxb5 axb5 20. Qa5 c6
+21. Rfc1 Kb8 22. a4 Nxg5 23. Nxg5 fxg5 24. axb5 cxb5 25. Ra1 Rhf8 26. Be6
+Rxf2+ 27. Kh1 Qb7 28. Qxd8+ 1-0
+

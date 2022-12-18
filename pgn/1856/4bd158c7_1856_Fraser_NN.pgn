@@ -1,0 +1,23 @@
+[Event "England"]
+[Site "England"]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Fraser"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Fraser attack"]
+[HashCode "4bd158c7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. Nc3 Bg4 10. Qa4 Kf8 11. Ng5 Nh6 12. d5 Ne5 13. Kh1 Bd7 14. Qb3
+Nhg4 15. f4 Nxc4 16. Qxc4 Nf2+ 17. Rxf2 Bxf2 18. e5 Qe7 19. Nce4 Bc5 20.
+Bb2 h6 21. Nf3 b5 22. Qd3 b4 23. Qc4 a6 24. Nxc5 dxc5 25. a3 Bb5 26. Qe4
+Rd8 27. axb4 cxb4 28. Bd4 c5 29. d6 Qa7 30. Rc1 cxd4 31. Rc7 Qa8 32. Qf5
+Bd7 33. Rxd7 Rxd7 34. Qxd7 a5 35. Qe7+ Kg8 36. d7 Kh7 37. Qxf7 Rf8 38. Qc4
+Qb8 39. Qxd4 b3 40. Nd2 b2 41. Qe4+ Kh8 42. h3 Qd8 43. e6 Qe7 44. f5 a4 45.
+Nc4 a3 46. Nxa3 Qxa3 47. e7 Qa1+ 48. Kh2 b1=Q 49. exf8=Q+ Kh7 50. f6+ Qxe4
+51. Qxg7# 1-0
+

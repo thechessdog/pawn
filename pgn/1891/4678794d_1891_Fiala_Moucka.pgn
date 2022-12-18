@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1891.??.??"]
+[Round "?"]
+[White "Fiala, K."]
+[Black "Moucka, F."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "4678794d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. e5 Ne4 6. Bd5 f5 7. Nxd4 Nxf2
+8. Kxf2 Qh4+ 9. Kf1 Nxd4 10. Be3 Bc5 11. c3 Ne6 12. Bxe6 Bxe3 13. g3 Qe7
+14. Bxf5 O-O 15. Qd5+ Kh8 16. Qe4 Bb6 17. Kg2 d5 18. exd6 Qxe4+ 19. Bxe4
+Rf2+ 20. Kg1 Bg4 0-1
+

@@ -1,0 +1,20 @@
+[Event "Gouda"]
+[Site "Gouda"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Dupre, C."]
+[Black "Loman, Rudolf"]
+[Result "1-0"]
+[ECO "B23"]
+[Opening "Sicilian"]
+[Variation "closed, 2...Nc6"]
+[HashCode "6400d7b0"]
+[Epoch "Pawn"]
+[BlackCountry "NLD"]
+
+1. e4 c5 2. Nc3 Nc6 3. Nf3 g6 4. g3 Bg7 5. Bg2 d6 6. d3 Bd7 7. Be3 Nf6 8. h3
+O-O 9. Qd2 Qb6 10. O-O Rac8 11. Rab1 Nd4 12. Kh2 Ne8 13. Nd5 Nxf3+ 14. Bxf3 Qd8
+15. Bg2 Bc6 16. Nc3 a6 17. Bh6 f5 18. Bxg7 Nxg7 19. f4 e6 20. Ne2 c4 21. Rbd1
+Qb6 22. b3 cxb3 23. axb3 Rc7 24. Rb1 Rfc8 25. c4 d5 26. exd5 exd5 27. cxd5 Bd7
+28. Rfc1 Nh5 29. Rxc7 Rxc7 30. Rc1 Rxc1 31. Nxc1 Nf6 32. Qc3 Qd6 33. Qe5 Qxe5
+34. fxe5 Ne8 35. d6 b6 36. Bd5+ 1-0

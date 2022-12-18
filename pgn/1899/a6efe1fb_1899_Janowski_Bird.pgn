@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Janowski, Dawid Markelowicz"]
+[Black "Bird, Henry"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "a6efe1fb"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. d4 g5 6. Nc3 Ne7 7. Nf3 Qh5 8. h4
+f6 9. e5 Bg7 10. exf6 Bxf6 11. Ne4 Rf8 12. Qe1 h6 13. Kg1 g4 14. Nxf6+ Rxf6 15.
+Nd2 0-1

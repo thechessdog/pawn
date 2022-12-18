@@ -1,0 +1,20 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1899.??.??"]
+[Round "11"]
+[White "Vaage, S."]
+[Black "Moller, Jorgen"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Pianissimo"]
+[Variation "Canal variation"]
+[HashCode "8c46a6c8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 Nf6 5. d3 d6 6. Bg5 Na5 7. Na4 Nxc4
+8. dxc4 Bxf2+ 9. Kxf2 Nxe4+ 10. Ke1 Nxg5 11. Nxg5 Qxg5 12. Qe2 Bg4 13. Qd2
+Qg6 14. Nc3 O-O 15. h3 Be6 16. b3 Rae8 17. Kd1 f5 18. Kc1 e4 19. Kb2 f4 20.
+Rae1 e3 21. Qd4 b6 22. Ne2 c5 23. Qxd6 Rd8 24. Qe5 Rd2 25. Qc3 Bf5 26. Nxf4
+Qh6 27. Qxe3 Rxc2+ 28. Ka1 Qf6+ 29. Qe5 Rc1+ 30. Kb2 Qxe5+ 31. Rxe5 Rxh1
+32. Nd5 Rf1 33. Ne7+ Kh8 0-1
+

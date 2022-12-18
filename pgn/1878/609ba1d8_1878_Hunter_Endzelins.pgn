@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Hunter"]
+[Black "Endzelins"]
+[Result "0-1"]
+[ECO "C17"]
+[Opening "French"]
+[Variation "Winawer, advance, 5.a3"]
+[HashCode "609ba1d8"]
+[Epoch "Pawn"]
+
+1. d4 e6 2. e4 d5 3. Nc3 Bb4 4. e5 c5 5. a3 Ba5 6. b4 cxb4 7. Nb5 Nc6 8.
+axb4 Bxb4+ 9. c3 Be7 10. Qg4 Kf8 11. Bd3 a6 12. Ne2 Na5 13. Nd6 Nb3 14.
+Nxc8 Rxc8 15. Rb1 Nxc1 16. Rxc1 g6 17. h4 h5 18. Qf3 Kg7 19. Nf4 Rc6 20.
+O-O b5 21. g3 Qc8 22. Bb1 Nh6 23. Ne2 Qd7 24. Kg2 Rhc8 25. Qf4 Qd8 26. Bd3
+b4 27. cxb4 Bxb4 28. Qf6+ Qxf6 29. exf6+ Kxf6 30. Bxa6 Rxc1 31. Rxc1 Rxc1
+32. Nxc1 Nf5 33. Ne2 Ba5 34. Bd3 Ne7 35. Bb5 Bb6 36. Kf3 Nf5 37. Bd3 Nxd4+
+38. Nxd4 Bxd4 39. Bb5 Bb6 40. Ke2 e5 41. Bc6 Ke6 42. Be8 e4 43. f3 Bc7 44.
+f4 d4 45. Bc6 d3+ 46. Kd2 f5 0-1
+

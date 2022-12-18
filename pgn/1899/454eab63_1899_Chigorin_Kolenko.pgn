@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Kolenko"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Dubois-Reti defence"]
+[HashCode "454eab63"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 Nc6 2. Nf3 e5 3. Bc4 Nf6 4. d4 exd4 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5 8.
+O-O O-O 9. Nxc6 bxc6 10. Bxc6 Ba6 11. Qxd5 Bxf1 12. Qxe4 Ba6 13. Nc3 Rb8 14.
+Qg4 f5 15. Qg3 Rb6 16. Bh6 Rf7 17. Bg5 Bxf2+ 18. Qxf2 Qxg5 19. Bd5 Bb7 20. Ne4
+Qg6 21. Bxf7+ Kxf7 22. Ng3 Rxb2 23. Nxf5 Ke8 24. Rf1 1-0

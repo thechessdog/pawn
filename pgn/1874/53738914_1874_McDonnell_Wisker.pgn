@@ -1,0 +1,23 @@
+[Event "GBR tour sim"]
+[Site "Great Britain"]
+[Date "1874.01.01"]
+[Round "1"]
+[White "MacDonnell, George Alcock"]
+[Black "Wisker, John"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "53738914"]
+[Epoch "Pawn"]
+[WhiteCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 Be6 10. Qe2 Be7 11. Nd2 Nc5 12. f4 g6 13. Nf3 Nxb3 14. axb3 Qd7
+15. Kh1 c5 16. Rd1 Qc6 17. Be3 O-O 18. Ng5 d4 19. Nxe6 fxe6 20. Bd2 Rf7 21. Rf1
+Bf8 22. Rf3 Bh6 23. h4 Raf8 24. Raf1 Bg7 25. g4 Qd5 26. Kg2 Rxf4 27. Bxf4 Rxf4
+28. Kh3 Rxf3+ 29. Qxf3 Qxf3+ 30. Rxf3 Bxe5 31. Kg2 a5 32. Kf1 h6 33. Ke2 g5 34.
+hxg5 hxg5 35. Kd3 Kg7 36. Ke4 Bf4 37. Rf1 Kf6 38. Ra1 Bc7 39. b4 axb4 40. Ra7
+Be5 41. Rb7 d3 42. cxd3 Bxb2 43. Rxb5 Bd4 44. Rb8 Ke7 45. Rb6 Kd7 46. Rb5 Kc6
+47. Rb8 Bc3 48. Re8 b3 49. Rxe6+ Kb5 50. Rh6 b2 51. Rh1 Bd2 52. Rb1 Bc1 53. d4
+cxd4 54. Kxd4 Kb4 55. Kd3 Kb3 56. Ke4 Kc2 57. Rxb2+ Bxb2 0-1

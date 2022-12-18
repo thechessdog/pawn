@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Thorold, Edmund"]
+[Black "Wayte, William"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "830f1810"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O d6 6. d4 h6 7. c3 c6 8. Qb3 Qe7
+9. g3 g4 10. Nh4 f3 11. Bf4 b5 12. Bd3 Bf6 13. Nf5 Bxf5 14. exf5 d5 15. Nd2 Qd7
+16. Rfe1+ Ne7 17. Be5 Bxe5 18. dxe5 O-O 19. e6 fxe6 20. Rxe6 Kg7 21. Rae1 f2+
+22. Kxf2 Nxf5 23. Kg2 Qf7 24. R1e5 Nd7 25. Rxf5 Qxe6 26. Qc2 Rxf5 27. Bxf5 Qe2+
+28. Kg1 Ne5 0-1

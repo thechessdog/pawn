@@ -1,0 +1,24 @@
+[Event "DSB-02.Kongress"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "17"]
+[White "Schallopp, Emil"]
+[Black "Minckwitz, Johannes"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "5c2383ef"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. e5 Ng4 6. Qe4 d5 7. exd6+ Be6 8.
+dxc7 Qxc7 9. Bb5 Bc5 10. Bxc6+ bxc6 11. Nh3 O-O 12. Ng5 Bxf2+ 13. Ke2 Nf6 14.
+Qa4 Bb6 15. Bf4 Bg4+ 16. Kf1 Qe7 17. Nc3 Rfe8 18. Nf3 Qc5 19. Bg3 Re3 20. Qf4
+Rae8 21. Bf2 Rxf3 22. Qxf3 Qh5 23. Qf4 Be2+ 24. Kg1 Bxf2+ 25. Qxf2 Ng4 26. Qxa7
+Bc4 27. h3 Qh4 28. Ne2 Ne3 29. Qd4 Qg5 30. Nf4 Bd5 31. Re1 Bxg2 32. Rxe3 Be4+
+33. Kf1 Qxf4+ 34. Ke1 Qh4+ 35. Ke2 h6 36. Rg1 Bf3+ 37. Kd3 Be2+ 38. Kc3 Qxd4+
+39. Kxd4 c5+ 40. Kxc5 Rxe3 41. Re1 Re5+ 42. Kd4 f6 43. c4 Kf7 44. b4 Ke6 45. a4
+Bf3 46. Rg1 g5 47. a5 f5 48. a6 Kd6 49. c5+ Ke6 50. b5 Re4+ 51. Kc3 Kd5 52. a7
+Re8 53. Kb4 Ra8 54. Rf1 g4 55. hxg4 fxg4 56. b6 Kc6 57. Re1 g3 58. Re6+ Kb7 59.
+Kb5 Rc8 60. Re7+ Ka8 61. Ka6 g2 0-1

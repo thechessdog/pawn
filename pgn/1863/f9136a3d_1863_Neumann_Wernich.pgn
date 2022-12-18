@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Wernich"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "f9136a3d"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. h4 c6 5. Bxf7+ Kxf7 6. Qh5+ Ke6 7. hxg5 d6 8.
+d4 Kd7 9. Bxf4 Kc7 10. Nc3 Bg7 11. Nf3 Ne7 12. O-O-O a6 13. e5 d5 14. e6+ Kb6
+15. Rhe1 Ng6 16. Bg3 Qe7 17. Qh2 Ka7 18. Bd6 Qe8 19. Bc5+ b6 20. Qc7+ Bb7 21.
+Bxb6# 1-0

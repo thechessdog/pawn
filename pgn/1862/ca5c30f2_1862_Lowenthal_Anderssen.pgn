@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Lowenthal & allies"]
+[Black "Anderssen & allies"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "ca5c30f2"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Nb5 O-O 7. e5 Ne8
+8. Qg4 Nc6 9. Bd3 f5 10. Qg3 Qa5 11. O-O a6 12. Nd6 Qxe5 13. Bf4 Qf6 14.
+Nxe8 Rxe8 15. Rae1 Rf8 16. Bd6 Bxd6 17. Qxd6 b5 18. Re3 Qf7 19. f4 Bb7 20.
+Be2 Rae8 21. Bf3 g6 22. Rd1 Bc8 23. Bxc6 dxc6 24. Qxc6 Qa7 25. Rd3 e5 26.
+Kf1 e4 27. Qd5+ Be6 28. Qd4 Qc7 29. Rd1 Qxf4+ 30. Kg1 Rd8 31. Qb6 Rxd1+ 32.
+Nxd1 Bc4 33. Nf2 Qe5 34. c3 Rb8 35. Qa7 Rd8 36. Rh3 Qg7 37. Qxa6 Qd7 38.
+Rg3 f4 0-1
+

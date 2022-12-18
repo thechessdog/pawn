@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "KP"]
+[Variation "Lopez opening"]
+[HashCode "51cc9ce4"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. c3 d6 3. d4 Bd7 4. Bc4 Nf6 5. Qb3 Qe7 6. Qxb7 Bc6 7. Qc8+ Qd8 8.
+Bxf7+ Ke7 9. Qe6# 1-0

@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Mayet, Carl"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "6cecdff4"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Nc3 Qg5 5. Qe2 fxe4 6. Nf3 Qd8 7. O-O Bc5+ 8.
+d4 Qe7 9. Nxe4 Bb6 10. Bxf4 Nc6 11. c3 Nf6 12. Nxf6+ gxf6 13. Qf2 Kd8 14. Rae1
+Qg7 15. Ng5 d5 16. Bxd5 fxg5 17. Bxc6 gxf4 18. Qh4+ 1-0

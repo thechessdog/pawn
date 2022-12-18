@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1802.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Du Mont"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "ce4b717b"]
+[Epoch "Pawn"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. g3 Qg5 5. Nf3 Qxg3+ 6. hxg3 Bxg3# 0-1
+

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Mayet, Carl"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "564dac67"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Nh3 Qh4+ 5. Nf2 fxe4 6. Bxg8 Rxg8 7. Nc3 Bc5
+0-1

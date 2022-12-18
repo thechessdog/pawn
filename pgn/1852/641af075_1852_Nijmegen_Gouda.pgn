@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Nijmegen"]
+[Black "Gouda"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "641af075"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nf6
+8. e5 d5 9. Bb5 Ne4 10. Ba3 Bd7 11. Qb3 Bb6 12. Qxd5 Ng5 13. Nbd2 dxc3 14.
+h4 Nxf3+ 15. Nxf3 Ne7 16. Bxd7+ Qxd7 17. Qxb7 Qc6 18. Qxc6+ Nxc6 19. Rac1
+Ba5 20. Rfe1 O-O-O 21. Ng5 Rd7 22. e6 fxe6 23. Rxe6 Nd4 24. Re5 c2 25. Nf3
+Nxf3+ 26. gxf3 Rd1+ 27. Kg2 Bb4 28. Bb2 Bc3 29. Rxc2 Bxe5 30. Bxe5 Rd7 31.
+Kg3 Rf8 32. f4 Rf5 33. Kg4 g6 34. Rc3 a6 35. Rc2 Kb7 36. Rb2+ Ka7 37. Rc2
+h5+ 38. Kf3 Kb7 39. Rb2+ Ka8 40. Rc2 Rf8 41. Rc6 Rg8 42. Rxa6+ Kb7 43. Ra3
+c5 44. Ke4 Re8 45. Rb3+ Kc6 46. Rb2 Ra8 47. Rc2 Ra4+ 48. Kf3 Rd3+ 49. Kg2
+c4 50. f3 Kd5 51. Kg3 Raa3 52. Rf2 c3 53. Rc2 Rd2 54. Rxc3 Raxa2 0-1
+

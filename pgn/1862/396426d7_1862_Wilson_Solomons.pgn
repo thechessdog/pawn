@@ -1,0 +1,22 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Wilson"]
+[Black "Solomons"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch opening"]
+[HashCode "396426d7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 d5 4. exd5 Qxd5 5. Nc3 Bb4 6. Bd2 Bxc3 7. Bxc3
+exd4 8. Nxd4 Nf6 9. Nxc6 Qxc6 10. Qd3 Bd7 11. O-O-O O-O-O 12. Qc4 Ne4 13.
+Bd4 Qh6+ 14. Be3 Qc6 15. f3 Nd6 16. Qxc6 Bxc6 17. Bd3 Rhe8 18. Rhe1 Bb5 19.
+Bxb5 Nxb5 20. Bf2 Rxd1+ 21. Kxd1 Rxe1+ 22. Kxe1 Kd7 23. Kd2 Ke6 24. Kd3 a6
+25. Bg3 c6 26. Bf2 Nc7 27. Kd4 Nd5 28. Kc5 Kd7 29. c4 Nf4 30. Bd4 Ne6+ 31.
+Kb6 Nxd4 32. Kxb7 a5 33. Kb6 a4 34. Ka5 a3 35. bxa3 Kc7 36. Ka6 Nc2 37. a4
+Nb4+ 38. Ka7 Nxa2 39. Ka6 h5 40. Ka5 Kb7 41. f4 h4 42. g4 h3 43. f5 f6 44.
+c5 Kc7 45. Ka6 Nc3 46. Ka5 Nd5 47. Ka6 Ne3 48. a5 Nxg4 49. Ka7 Nxh2 50. a6
+Nf3 51. Ka8 h2 52. a7 Kd7 53. Kb8 h1=Q 54. a8=Q Qb1+ 55. Ka7 Kc7 0-1
+

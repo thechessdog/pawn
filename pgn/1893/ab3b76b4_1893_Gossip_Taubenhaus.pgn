@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "2"]
+[White "Gossip, George Hatfeild"]
+[Black "Taubenhaus, Jean"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "symmetrical, Maroczy system"]
+[HashCode "ab3b76b4"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+[WhiteCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. Nc3 Nf6 3. Nf3 Nc6 4. Bb5 Bb4 5. O-O O-O 6. d3 d6 7. Ne2 Bg4 8.
+Bxc6 bxc6 9. Ng3 Ne8 10. h3 Bd7 11. c3 Bc5 12. Bg5 f6 13. Bd2 g6 14. b4 Bb6 15.
+c4 c5 16. b5 c6 17. a4 Ng7 18. Qb3 Rb8 19. Rfb1 f5 20. Bg5 Qe8 21. exf5 gxf5
+22. Qd1 Qg6 23. Qf1 e4 24. Be7 exf3 25. Bxf8 Rxf8 26. a5 Bc7 27. b6 axb6 28.
+axb6 Bb8 29. Ra7 Be6 30. Rb7 d5 31. Ra1 Be5 32. Raa7 f4 33. Rxg7+ Bxg7 34. b7
+Be5 35. Ra8 Bb8 36. cxd5 cxd5 37. Qb1 fxg3 38. gxf3 gxf2+ 39. Kxf2 Qg3+ 40. Ke2
+Qxf3+ 0-1

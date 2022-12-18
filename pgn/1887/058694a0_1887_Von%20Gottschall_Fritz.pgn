@@ -1,0 +1,22 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Von Gottschall, Hermann"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "058694a0"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. d3 d6 6. Na4 Bg4 7. Qd2 Qe7 8. Nxc5
+dxc5 9. f3 Bd7 10. Qf2 Nd4 11. Be3 Ne6 12. Ne2 b6 13. O-O Bc6 14. Rad1 O-O-O
+15. Bh3 Kb8 16. a3 h6 17. Rb1 Nd4 18. Nc1 g5 19. c3 Ne6 20. Bxe6 Qxe6 21. b4
+cxb4 22. axb4 Bb7 23. Ra1 Ne8 24. c4 f5 25. Qa2 a6 26. c5 Qxa2 27. Rxa2 f4 28.
+Bf2 b5 29. Rd1 Rh7 30. g4 c6 31. Nb3 Nc7 32. d4 Ne6 33. Rad2 Rhd7 34. d5 cxd5
+35. Na5 Ba8 36. c6 Rd6 37. exd5 Nc7 38. Bb6 Kc8 39. Bxc7 Kxc7 40. Kf2 Kb6 41.
+Ke2 Kc7 42. Nb3 Kb6 43. Nc5 a5 44. Ne4 Rg6 45. bxa5+ Kxa5 46. c7 1-0

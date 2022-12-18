@@ -1,0 +1,21 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Pindar"]
+[Black "Stanley, Charles"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "60f7d862"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8.
+Qb3 Qf6 9. cxd4 Bb6 10. e5 dxe5 11. dxe5 Qg6 12. Ng5 Nh6 13. e6 Bxe6 14.
+Bxe6 fxe6 15. Nxe6 Nf5 16. Bb2 Kd7 17. Rd1+ Nd6 18. Nf4 Qf5 19. g3 Rae8 20.
+Na3 Kc8 21. Rac1 Ne4 22. Rc2 g5 23. Rd5 Qg4 24. h3 Qxg3+ 25. Qxg3 Nxg3 26.
+Bxh8 gxf4 27. Kh2 Ne4 28. f3 Rxh8 29. fxe4 Nd4 30. Rc1 Rg8 31. Nc4 Nf3+ 32.
+Kh1 Bf2 33. Rf1 Rg3 34. Rd3 Nh4 35. Rxg3 fxg3 36. Rxf2 gxf2 37. Ne3 Kd7 38.
+Kh2 Nf3+ 39. Kg2 Nd2 40. e5 f1=Q+ 0-1
+

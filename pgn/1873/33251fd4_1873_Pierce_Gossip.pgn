@@ -1,0 +1,18 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Pierce, William"]
+[Black "Gossip, George Hatfeild"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Paulsen defence"]
+[HashCode "33251fd4"]
+[Epoch "Pawn"]
+[BlackCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. d4 Nf6 7. Bc4 d5 8. exd5
+O-O 9. Nc3 Nh5 10. Nxg4 Ng3 11. Rh2 Qe7+ 12. Kf2 h5 13. Ne5 Bxe5 14. Be2 Nxe2
+15. Nxe2 Bd6 16. Nxf4 Bg4 17. Qd3 Re8 18. Qc3 Bb4 19. Qe3 Be1+ 20. Kf1 Qxe3 21.
+Bxe3 Bg3 0-1

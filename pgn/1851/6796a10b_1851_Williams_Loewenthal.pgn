@@ -1,0 +1,18 @@
+[Event "London m5"]
+[Site "Londen m"]
+[Date "1851.01.01"]
+[Round "7"]
+[White "Williams, Elijah"]
+[Black "Loewenthal, Johann Jacob"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "6796a10b"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. f4 a6 3. Nf3 e6 4. Be2 Nc6 5. O-O f6 6. d3 Bd6 7. f5 Nge7 8. Nh4
+Qc7 9. g3 Nd8 10. Bh5+ Kf8 11. fxe6 dxe6 12. Rxf6+ Kg8 13. Rf2 g6 14. Qf3 Nec6
+15. Bg4 Qg7 16. Bg5 Qxb2 17. Bh6 Qd4 18. Kg2 Qxf2+ 19. Qxf2 1-0

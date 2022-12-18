@@ -1,0 +1,26 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Deventer"]
+[Black "Almelo"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "5da961ef"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 a6 5. Bg5 Nf6 6. Nc3 Nc6 7. Qd2 Be7
+8. Bd3 Be6 9. O-O Qd7 10. Bxf6 gxf6 11. Nd5 Bg4 12. Qf4 O-O-O 13. Nxe7+
+Nxe7 14. Qxf6 Rhg8 15. Kh1 Bxf3 16. Qxf3 Nc6 17. Qf5 Kb8 18. Qxd7 Rxd7 19.
+f4 f6 20. c3 h5 21. Be2 h4 22. Kg1 Nd8 23. Kf2 Re7 24. Kf3 Rge8 25. Bd3 c6
+26. Rae1 Nf7 27. Rf2 Nh6 28. Rfe2 Rg7 29. Rd1 Kc7 30. g3 b5 31. gxh4 Rg4
+32. Rg2 Rxh4 33. Rg7+ Kb6 34. Rh1 Ng8 35. Rhg1 Ne7 36. Kg3 Rh6 37. h4 Rhh8
+38. Kg4 Ng8 39. Kf5 Nh6+ 40. Kxf6 Ref8+ 41. Kg6 Rfg8 42. Rxg8 Rxg8+ 43.
+Kxh6 Rxg1 44. f5 Kc7 45. f6 Kd7 46. e5 dxe5 47. Bg6 e4 48. Kg7 e3 49. f7 e2
+50. f8=Q e1=Q 51. Qf7+ Qe7 52. Qxe7+ Kxe7 53. h5 Rg2 54. h6 Rxb2 55. h7 Rh2
+56. h8=Q Rxh8 57. Kxh8 a5 58. Kg7 c5 59. Bd3 c4 60. Bc2 b4 61. Kg6 Ke6 62.
+Kg5 b3 63. axb3 cxb3 64. Bxb3+ Ke5 65. c4 Kd4 66. Ba2 Kc5 67. Kf4 Kb4 68.
+Ke4 Ka3 69. Kd3 1-0
+

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Minchin, James"]
+[Black "De Soyres, John"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[HashCode "99dc7304"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Nf3 Bb4 6. Be2 O-O 7. O-O Nc6
+8. a3 Ba5 9. Na2 Bg4 10. d4 Bb6 11. Kh1 f6 12. c4 fxe5 13. c5 Nxc5 14. dxc5
+Bxc5 15. Bg5 Qd7 16. Nc3 e4 17. Nd2 Ne5 18. Nb3 Rxf1+ 19. Qxf1 Rf8 20. Qd1
+Bxe2 21. Nxe2 Bb6 22. h3 Nd3 23. Qd2 Nf2+ 24. Kh2 Rf3 25. Ned4 Qd6+ 26. Kg1
+Nxh3+ 27. gxh3 Rxb3 28. Kh1 Rxh3+ 29. Kg1 Qg3+ 30. Kf1 0-1
+

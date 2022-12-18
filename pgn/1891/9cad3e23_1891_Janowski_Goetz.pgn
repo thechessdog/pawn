@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Janowski, Dawid Markelowicz"]
+[Black "Goetz"]
+[Result "1-0"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "9cad3e23"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 Bc5 5. Bc4 Nf6 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Re1 Nf4 12. Ne4 Ne7 13. Qd2 Neg6 14.
+h3 Nd5 15. Rac1 c6 16. Bxd5 Qxd5 17. Rc5 Qxa2 18. Rh5 f6 19. Nd6 b6 20. Qc2 Bd7
+21. Re7 Rad8 22. Nh4 Be8 23. Nhf5 Bf7 24. d5 Nf4 25. Nxf7 Rxf7 26. Rxf7 Nxh5
+27. Nh6+ Kh8 28. dxc6 Qd5 29. c7 Rc8 30. Rf8+ Rxf8 31. c8=Q 1-0

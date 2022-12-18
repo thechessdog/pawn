@@ -1,0 +1,17 @@
+[Event "London sim"]
+[Site "London"]
+[Date "1850.01.01"]
+[Round "1"]
+[White "Burden, Francis"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "5f91c35c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d6 5. Nc3 g5 6. d4 Bg7 7. Nf3 Qh5 8. e5
+Qg6 9. h4 h6 10. Nd5 Kd8 11. hxg5 hxg5 12. Rxh8 Bxh8 13. Nxg5 Qxg5 14. Bxf4 Qh4
+15. Qf3 Nc6 16. exd6 Bg4 17. dxc7+ Kc8 18. Qe4 Be6 19. Qxe6+ fxe6 20. Nb6+ axb6
+21. Bxe6# 1-0

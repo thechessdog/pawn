@@ -1,0 +1,19 @@
+[Event "USA-02.Congress"]
+[Site "Cleveland"]
+[Date "1871.??.??"]
+[Round "1"]
+[White "Johnston, A."]
+[Black "Hosmer, Henry"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Vitzhum attack"]
+[HashCode "6b8dc887"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Qh5 Qf6 7. O-O d6
+8. h3 Ne5 9. Bb3 Qg6 10. Qh4 f6 11. f4 fxg5 12. fxg5 Nhf7 13. Kh2 Be6 14.
+Ba4+ Nd7 15. c3 Bc4 16. Rf5 O-O 17. Bd1 Nfe5 18. b3 Bd3 19. Bb2 dxc3 20.
+Nxc3 c6 21. a3 Rac8 22. b4 Bb6 23. Bg4 Nxg4+ 24. hxg4 Bc7 25. Qf2 d5+ 26.
+Kh1 dxe4 27. Qxa7 Rxf5 28. gxf5 Qh5+ 0-1
+

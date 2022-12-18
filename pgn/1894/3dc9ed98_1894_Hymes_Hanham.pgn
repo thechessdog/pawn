@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1894.01.01"]
+[Round "2"]
+[White "Hymes, Edward"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "3dc9ed98"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Nc3 c6 5. Bd3 Be7 6. Ne2 Ngf6 7. O-O O-O 8. b3
+Re8 9. Bb2 Qc7 10. Ng3 Bf8 11. c4 b6 12. Qd2 Bb7 13. Rfe1 Rad8 14. Nf5 h6 15.
+h3 Nh7 16. g4 Re6 17. Kh1 Rf6 18. Rg1 Kh8 19. g5 hxg5 20. Nxg5 g6 21. Nxh7 Kxh7
+22. Qg5 c5 23. d5 Bg7 24. Rg4 Nf8 25. Rh4+ Kg8 26. Nxg7 Rxf2 27. Nf5 Ne6 28.
+dxe6 Rxf5 29. Qh6 1-0

@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Fleissig, Maximilian"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "661fff02"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Nxe5 Nxe5 5. d4 Bxd4 6. Qxd4 Qf6 7. Be3 Ne7
+8. Nb5 N7c6 9. Qc3 Kd8 10. f4 Ng4 11. e5 Qe7 12. Bc5 Qe6 13. Bc4 Qf5 14. O-O f6
+15. h3 Nh6 16. Nd4 Qh5 17. Rad1 fxe5 18. Ne6+ 1-0

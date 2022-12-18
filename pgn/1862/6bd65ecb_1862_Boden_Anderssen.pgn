@@ -1,0 +1,26 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Boden, S & allies"]
+[Black "Anderssen & allies"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "6bd65ecb"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 O-O 7. O-O d5
+8. e5 Ne8 9. Qh5 f5 10. f4 Nc6 11. Nf3 Nc7 12. Ne2 b6 13. a3 Be7 14. b4 a5
+15. b5 Nb8 16. a4 Nd7 17. Ned4 Bb7 18. Be3 g6 19. Qh3 Nc5 20. Nb3 Nxb3 21.
+cxb3 d4 22. Bf2 Nd5 23. Qg3 Bc5 24. Rfe1 Ne3 25. Rac1 Qe7 26. Nxd4 Ng4 27.
+Nc6 Bxf2+ 28. Qxf2 Bxc6 29. Qxb6 Bd5 30. h3 Nh6 31. Bc4 Rfb8 32. Qf2 Be4
+33. Red1 Nf7 34. Rd2 Rd8 35. Rcd1 Rxd2 36. Rxd2 g5 37. Qb6 gxf4 38. Bxe6
+Qa7 39. Qxa7 Rxa7 40. Rf2 Re7 41. Bc4 Kg7 42. e6 Ng5 43. b4 axb4 44. a5
+Nxe6 45. Rb2 Nc5 46. Rxb4 Kf6 47. a6 Rg7 48. b6 Bxg2 49. Kf2 Be4 50. Bf1
+Ke5 51. b7 Nxb7 52. axb7 Rxb7 53. Rxb7 Bxb7 54. Be2 f3 55. Bc4 Kf4 56. Bd3
+Be4 57. Bc4 Ke5 58. Kg3 f4+ 59. Kf2 Bb7 60. Bf1 Bc8 61. Kxf3 Bb7+ 62. Kf2
+Bc8 63. Kf3 Bb7+ 64. Kf2 h6 65. Bc4 Bc8 66. Bf1 Bd7 67. Kf3 Bc6+ 68. Kf2
+Kf5 69. Bg2 Bxg2 70. Kxg2 Ke4 0-1
+

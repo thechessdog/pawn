@@ -1,0 +1,27 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Mason, James"]
+[Black "Cohn, Wilhelm"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "2892fe5e"]
+[Epoch "Pawn"]
+[WhiteCountry "IRE"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. d4 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 O-O 11. Bc2 f5 12. Nb3 Bb6 13. Nbd4 Nxd4 14. cxd4 f4 15.
+b4 Bg4 16. Bb2 Ng5 17. Kh1 Bxf3 18. gxf3 Nh3 19. Qe2 Qe7 20. a3 Rf6 21. Rg1
+Nxg1 22. Rxg1 Rh6 23. Rg4 Rf8 24. Qd3 Qf7 25. Qf1 Qe7 26. Qd3 g6 27. Bb3 c6 28.
+Bc2 Rh4 29. Rg2 Qe6 30. Qc3 Kh8 31. Qd2 Qh3 32. Qc3 Qe6 33. Qd2 Rf7 34. Qc3 Rg7
+35. Qd3 Kg8 36. a4 Kf8 37. a5 Bd8 38. Bc3 Be7 39. Be1 Ke8 40. Qf1 Qh3 41. Qd3
+Kd7 42. Qc3 Kc7 43. Bb3 Kb7 44. Bd1 Rf7 45. Qd3 g5 46. Qf1 Rg7 47. Qg1 Rg6 48.
+Bd2 Rgh6 49. Be2 Qf5 50. Qf1 Rh3 51. Bd3 Qf7 52. Qg1 Qh5 53. Bf5 Rh4 54. Bg4
+Qg6 55. Qe1 Qd3 56. Bc3 Rg6 57. Kg1 Kc7 58. Qd2 Qb1+ 59. Qe1 Qc2 60. Qd2 Qb3
+61. Bf5 Rgh6 62. Bc2 Qa3 63. Bf5 Rh3 64. Bg4 R6h4 65. Qc2 Qa4 66. Qd3 Qb3 67.
+Bxh3 Rxh3 68. Rxg5 Bxg5 69. Qf5 Qd1+ 70. Be1 Qxe1+ 71. Kg2 Rxh2+ 72. Kxh2 Qxf2+
+73. Kh1 Qh4+ 74. Kg2 Be7 75. Kf1 Qh1+ 76. Kf2 Bh4+ 77. Ke2 Qe1+ 1-0

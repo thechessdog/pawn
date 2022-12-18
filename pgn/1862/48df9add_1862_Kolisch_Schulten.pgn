@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Schulten, John William"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Fraser attack"]
+[HashCode "48df9add"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb6 8.
+O-O d6 9. Nc3 Bg4 10. Qa4 Bxf3 11. d5 Bg4 12. dxc6 bxc6 13. Qxc6+ Bd7 14. Qd5
+Be6 15. Bb5+ Kf8 16. Qd3 Ne7 17. Nd5 Bc5 18. Kh1 c6 19. Nxe7 cxb5 20. Nd5 a6
+21. f4 f6 22. Bb2 h5 23. Rad1 Rh6 24. f5 Bf7 25. Bc1 Rh7 26. Bf4 Qd7 27. h4 b4
+28. Qg3 Rd8 29. Rd2 a5 30. Rfd1 Qc6 31. Ne3 Ke7 32. e5 fxe5 33. Bg5+ Ke8 34.
+Qxe5+ 1-0

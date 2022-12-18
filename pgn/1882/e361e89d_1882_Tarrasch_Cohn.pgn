@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Cohn, Wilhelm"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "e361e89d"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 c2 6. Qxc2 Bb4+ 7. Nc3 d6 8.
+O-O Nf6 9. Nd5 h6 10. Nxb4 Nxb4 11. Qb3 Nc6 12. Bxf7+ Kf8 13. Nh4 Ne5 14. Bg6
+d5 15. f4 Neg4 16. h3 Nxe4 17. hxg4 Qxh4 18. Qxd5 Nd6 19. f5 Qe7 20. Bf4 Bd7
+21. Be5 Bc6 22. f6 Bxd5 23. fxg7+ 1-0

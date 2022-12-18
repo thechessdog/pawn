@@ -1,0 +1,24 @@
+[Event "USA-05.Congress"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Grundy, James Glover"]
+[Black "Sellman, Alexander"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "d96fb946"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Bd3 Bd6 5. Nf3 Nf6 6. Be3 Be6 7. c3 Nc6 8.
+Nbd2 h6 9. Qc2 a6 10. a3 Qd7 11. b3 Nh5 12. h3 f5 13. Nf1 O-O 14. N1h2 f4 15.
+Bd2 Rae8 16. O-O Ne7 17. c4 c6 18. c5 Bc7 19. Rae1 Nf5 20. Ng4 Qc8 21. Nge5
+Bxe5 22. Rxe5 Bd7 23. Rfe1 Rxe5 24. Rxe5 Be6 25. b4 Qd7 26. a4 Qf7 27. Qd1 Bc8
+28. Qe2 g5 29. b5 axb5 30. axb5 Nhg7 31. Kh2 Qh5 32. Kg1 g4 33. hxg4 Qxg4 34.
+bxc6 bxc6 35. Bc3 h5 36. Ne1 Qxe2 37. Rxe2 Bd7 38. Rb2 Ra8 39. Nc2 Kf7 40. Rb7
+Ke8 41. Bd2 Ra4 42. Bxf4 Nxd4 43. Bg6+ Ke7 44. Be5 Nxc2 45. Bxc2 Rc4 46. Bd3
+Rc1+ 47. Kh2 Rd1 48. Bh7 Ne6 49. Bd6+ Kd8 50. Rb8+ Bc8 51. f4 d4 52. Bf5 Re1
+53. Be5 d3 54. Bxe6 d2 55. Bxc8 Rh1+ 56. Kxh1 d1=Q+ 57. Kh2 Ke7 58. Rb7+ Kf8
+59. Bg7+ Kg8 60. Be6+ Kh7 61. Be5+ Kg6 62. f5+ Kg5 63. Rg7+ Kh6 64. Rg6+ Kh7
+65. Bg8# 1-0

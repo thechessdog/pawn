@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "Budzinsky, J."]
+[Black "Morphy, Paul"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "1775f016"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nc3 Bb4 6. d3 Nxd5 7. exd5 O-O 8.
+Qf3 Re8+ 9. Ne2 Bxc3+ 10. bxc3 Qh4+ 11. g3 Bg4 0-1

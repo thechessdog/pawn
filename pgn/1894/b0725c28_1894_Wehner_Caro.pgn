@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1894.01.01"]
+[Round "1"]
+[White "Wehner, R."]
+[Black "Caro, Horatio"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "b0725c28"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 Bc5 4. Bg2 Nc6 5. Nge2 d6 6. Na4 Be6 7. Nxc5 dxc5 8.
+d3 Qd7 9. Be3 Nd4 10. h3 O-O-O 11. f4 exf4 12. Nxf4 Qb5 13. Nxe6 fxe6 14. b3
+Qb4+ 15. Bd2 Qb6 16. a4 a5 17. Bf4 Rhf8 18. Qd2 Nh5 19. O-O-O Nxf4 20. gxf4
+Rxf4 21. Rdf1 g5 22. h4 c4 23. bxc4 Rdf8 24. hxg5 Rf2 25. Rxf2 Rxf2 26. Qxf2
+Nb3+ 27. cxb3 Qxf2 28. Bh3 Kd7 29. Kb1 Qf3 30. Rh2 Qxd3+ 31. Ka2 Qg3 32. Rd2+
+Ke7 0-1

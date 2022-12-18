@@ -1,0 +1,20 @@
+[Event "Berlin m4"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Knorre, Victor"]
+[Black "Neumann, Gustav Richard"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "f7d45e82"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bd3 Ne7 11. Bb2 O-O 12. Ne2 f5 13. Qc2 d5 14. exd5 Nxd5
+15. Ba3 Rf6 16. Ne5 Be6 17. Rad1 Qe8 18. Rfe1 c6 19. Nf3 h6 20. Ng3 g6 21. h4
+Nf4 22. Qc3 Bd8 23. Bc2 Nd5 24. Qd3 b5 25. Ne5 a6 26. Qd2 h5 27. Bd3 Ra7 28.
+Be2 Rg7 29. Rc1 Bc8 30. Bxb5 axb5 31. Nc4 Re6 32. Nxa5 Ra7 33. Rxe6 Bxe6 34.
+Nxc6 Rxa3 35. Qe2 Rc3 0-1

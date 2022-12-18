@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Leiden"]
+[Black "Haarlem"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "332a485e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Nf6 6. cxd4 Bb4+ 7. Bd2
+Bxd2+ 8. Nbxd2 d5 9. exd5 Nxd5 10. Qb3 Nce7 11. O-O O-O 12. Rfe1 c6 13. Ne5
+Qb6 14. Qxb6 Nxb6 15. Bb3 Nbd5 16. Ne4 Rd8 17. Rad1 Kf8 18. Re2 f6 19. Nf3
+Nf4 20. Red2 Bg4 21. Nc5 b6 22. Nd3 Nxd3 23. Rxd3 Nd5 24. R1d2 Nf4 25. Rc3
+Bxf3 26. Rxf3 Rxd4 27. Rxd4 Ne2+ 28. Kf1 Nxd4 29. Rh3 Nxb3 30. Rxb3 Re8 31.
+Rd3 Kf7 32. f3 Ke7 33. Ke2 Rd8 34. Rc3 c5 35. Ke3 Rd4 36. Ra3 a5 37. Rb3
+Rb4 38. Rxb4 axb4 39. Ke4 Ke6 40. f4 f5+ 41. Kd3 Kd5 42. b3 b5 0-1
+

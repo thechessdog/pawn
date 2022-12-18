@@ -1,0 +1,16 @@
+[Event "Berlijn m"]
+[Site "Berlijn m"]
+[Date "1856.01.01"]
+[Round "9"]
+[White "Eliason, C."]
+[Black "Leowe, E."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "7b9a3949"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. bxc3 Ba5 7. O-O Nge7
+8. Ng5 O-O 9. Qh5 h6 10. Nxf7 Rxf7 11. Qxf7+ Kh7 12. f4 Bb6+ 13. Kh1 d6 14. Nd2
+Bd7 15. Nf3 Qe8 16. e5 Qxf7 17. Bxf7 dxe5 18. fxe5 Nd8 19. e6 Bxe6 20. Bxe6
+Nxe6 21. Re1 Rd8 22. Ba3 1-0

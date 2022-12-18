@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1874.01.01"]
+[Round "1"]
+[White "Multatuli"]
+[Black "Switzar, JL."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lopez-Gianutio counter-gambit, Hein variation"]
+[HashCode "9de5b0c7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 Qh4+ 5. Kd1 fxe4 6. Nc3 Kd8 7. Nxe4 c6
+8. Nf3 Qe7 9. Bxg8 Rxg8 10. d3 d5 11. Bxf4 h6 12. Nd6 Qxe2+ 13. Kxe2 Bxd6
+14. Bxd6 Bg4 15. Rae1 Kd7 16. Ba3 Na6 17. Kf2 Be6 18. Ne5+ Kc7 19. Nxc6
+bxc6 20. Rxe6 Rad8 21. Rhe1 Rd7 22. Rg6 Rb8 23. Ree6 Rb6 24. Bd6+ Kd8 25.
+b3 c5 26. Ke2 Nc7 27. Bxc7+ Kxc7 28. h4 Rxe6+ 29. Rxe6 Rd6 30. Re7+ Rd7 31.
+Rxd7+ Kxd7 32. Ke3 d4+ 33. Ke4 Ke6 34. Kf4 g6 35. Ke4 Kd6 36. b4 1-0
+

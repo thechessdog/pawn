@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1804.01.01"]
+[Round "1"]
+[White "Mauvillon"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "King's pawn game"]
+[HashCode "b0332014"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 Qf6 3. d5 Bc5 4. Nh3 d6 5. f3 Bxh3 6. gxh3 c6 7. c4 a5 8.
+Nc3 Na6 9. a3 h6 10. Qd3 Bd4 11. Na4 Ne7 12. Bd2 Nc5 13. Nxc5 Bxc5 14. Be3
+Bxe3 15. Qxe3 c5 16. Qb3 O-O 17. Qe3 Ng6 18. Rg1 Nf4 19. O-O-O Ng6 20. Rd2
+Qf4 21. Qf2 h5 22. Kb1 Nh4 23. Qg3 g6 24. Rd3 a4 25. Be2 Kh7 26. Ka2 Rfb8
+27. Rb1 b5 28. cxb5 Rxb5 29. Bd1 Rb6 30. b3 axb3+ 31. Rbxb3 Rab8 32. Qxf4
+exf4 33. Bc2 Ng2 34. Rdc3 Rxb3 35. Rxb3 Rxb3 36. Kxb3 Ne1 37. Bd1 Nd3 38.
+h4 Kg7 39. Kc3 Ne5 40. a4 Nd7 41. a5 Nb8 42. Kc4 Na6 43. Kb5 Nb4 44. e5
+Nxd5 45. exd6 Nc3+ 46. Kxc5 Nxd1 47. d7 1-0
+

@@ -1,0 +1,25 @@
+[Event "DSB-05.Kongress"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "13"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "45df0733"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 Ne5 6. Bb3 h6 7. f4 hxg5 8.
+fxe5 Nxe4 9. Bxf7+ Kxf7 10. Qf3+ Nf6 11. O-O d5 12. Bxg5 Be7 13. Nd2 a5 14. Nb3
+c5 15. exf6 gxf6 16. Nxc5 Kg6 17. h4 Rf8 18. Qd3+ Kg7 19. h5 Qe8 20. Rae1 fxg5
+21. Rxf8 Qxf8 22. Qg6+ Kh8 23. Rf1 Bf5 24. Rxf5 Qg7 25. Ne6 Qxg6 26. hxg6 Kg8
+27. Rxd5 Ra6 28. Nxd4 Rd6 29. Nf5 Re6 30. Nxe7+ Rxe7 31. Rxg5 b6 32. Rf5 Re1+
+33. Kf2 Rc1 34. Rb5 Rxc2+ 35. Ke3 Rc6 36. Kf4 Kg7 37. g4 Kxg6 38. g5 Re6 39. a3
+Rc6 40. Ke4 Kh5 41. Kf5 Rg6 42. Re5 Rc6 43. Re6 Rc5+ 44. Kf6 b5 45. Re5 Rc6+
+46. Kf5 Rg6 47. Ke4 Rb6 48. Kd4 Rb8 49. Kc5 b4 50. Kc4 bxa3 51. bxa3 a4 52. Rb5
+Rf8 53. Kb4 Rf4+ 54. Ka5 Kg6 55. Rb4 Rf5+ 56. Kxa4 Rxg5 57. Rf4 Rg1 58. Ka5 Rb1
+59. a4 Kg7 60. Ka6 Rb2 61. a5 Rb1 62. Ka7 Rb2 63. Rf5 Rb1 64. Ka6 Rb2 65. Rb5
+Rf2 66. Ka7 Kf8 67. a6 Ke7 68. Kb7 Kd6 69. a7 Rf7+ 70. Ka6 1-0

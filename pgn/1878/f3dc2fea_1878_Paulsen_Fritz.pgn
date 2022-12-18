@@ -1,0 +1,19 @@
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.01.01"]
+[Round "3"]
+[White "Paulsen, Wilfried"]
+[Black "Fritz, Alexander"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish, classical defence"]
+[HashCode "f3dc2fea"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 Bc5 5. O-O d6 6. d4 exd4 7. Nxd4 Bd7 8.
+Nf5 O-O 9. Bg5 Ne5 10. Bd3 c6 11. Kh1 h6 12. Bxf6 Qxf6 13. f4 Nxd3 14. Qxd3
+Bxf5 15. exf5 d5 16. Rae1 Rfe8 17. Nd1 Re7 18. Qc3 Rae8 19. Re5 Bd6 20. Rxe7
+Qxe7 21. h3 Qe2 22. Kg1 Bc7 23. b4 Bb6+ 24. Nf2 Re3 25. Qb2 Rg3 0-1

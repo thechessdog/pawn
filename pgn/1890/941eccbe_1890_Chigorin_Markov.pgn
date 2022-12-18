@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Markov"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "941eccbe"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Qf6 7. d4 Nh6 8. Bg5
+Qd6 9. Bxh6 gxh6 10. dxe5 Nxe5 11. Qxd6 Nxf3+ 12. gxf3 cxd6 13. Rc1 Rg8+ 14.
+Kf1 Rb8 15. Na3 a6 16. Rab1 b5 17. Bd5 Bb6 18. Nc2 a5 19. Ne1 Ba6 20. Ng2 b4+
+21. c4 Bd4 22. Rd1 Bc3 23. f4 Rg6 24. Ne3 Kf8 25. Ke2 Bf6 26. Rd3 Rc8 27. a3
+Bc3 28. f5 Rg5 29. Rxc3 bxc3 30. Rb6 Bxc4+ 31. Nxc4 Rg2 32. Kd3 Rxf2 33. Kxc3
+Ke7 34. Kd4 Rxc4+ 35. Kxc4 Rxh2 36. Kb5 Rd2 37. Kxa5 h5 38. a4 h4 39. Rb3 Kf6
+40. Kb6 1-0

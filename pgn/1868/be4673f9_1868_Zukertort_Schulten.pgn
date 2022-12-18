@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1868.01.01"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Schulten, John William"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "be4673f9"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 Ne7 5. Nf3 O-O 6. O-O Ng6 7. e5 f6 8. Ne2
+fxe5 9. Nxe5 Qf6 10. f4 c5 11. c3 Ba5 12. Ng3 Bb6 13. Qh5 cxd4 14. Nxg6 dxc3+
+15. Kh1 hxg6 16. Bxg6 Rd8 17. Qh7+ Kf8 18. Nh5 Qd4 19. bxc3 Qxc3 1-0

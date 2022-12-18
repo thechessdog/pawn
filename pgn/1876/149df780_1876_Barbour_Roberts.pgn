@@ -1,0 +1,22 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Barbour, L."]
+[Black "Roberts, A."]
+[Result "0-1"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "5.O-O"]
+[HashCode "149df780"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 Nxe4 7. Bd5 Nf6
+8. Bxc6 dxc6 9. Nxe5 Bb7 10. Re1 Be7 11. b4 O-O 12. Bb2 Bxb4 13. Ng4 Be7
+14. Rxe7 Qxe7 15. Nxf6+ gxf6 16. d3 f5 17. Nd2 c5 18. Qh5 Qe6 19. Nf1 Qg6
+20. Ng3 Rae8 21. f4 Re3 22. Qh3 Rfe8 23. Be5 f6 24. Bxc7 Qg4 25. Qh5 Re1+
+26. Rxe1 Rxe1+ 27. Kf2 Re2+ 28. Kf1 Bxg2+ 29. Kg1 Qxh5 30. Nxh5 Kf7 31. c3
+Bh3 32. a3 Rg2+ 33. Kh1 Kg6 34. Ng3 h5 35. Bb6 h4 36. Nf1 Rf2 37. Ne3 Re2
+38. Nf1 Re1 39. Bxc5 Rxf1+ 40. Bg1 Kh5 41. d4 Kg4 42. d5 Kf3 43. d6 Bg2#
+0-1
+

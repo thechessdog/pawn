@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Haarlem"]
+[Black "The Hague"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Paulsen variation"]
+[HashCode "af6cf6ac"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 Na5 10. Bb2 Ne7 11. Bd3 O-O 12. Nc3 Ng6 13. Ne2 f6 14. Nfd4
+c5 15. Nf5 c4 16. Bc2 c3 17. Bxc3 Bxf5 18. exf5 Ne5 19. Nf4 Qc8 20. Bxa5
+Bxa5 21. Ne6 Rf7 22. Bb3 Qe8 23. Rc1 Re7 24. Kh1 g5 25. Qe2 h6 26. f4 gxf4
+27. Rxf4 a6 28. Rh4 Rh7 29. Qe3 Nf7 30. Bd1 Qb5 31. Rhc4 Qd7 32. Qa3 Qb5
+33. Bh5 Qxd5 34. Qg3+ 1-0
+

@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1875.01.01"]
+[Round "1"]
+[White "Van der Linde"]
+[Black "Multatuli"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Fraser-Minckwitz variation"]
+[HashCode "83651bc7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 b6 6. Nb5 Ba6 7. a4 Qh5+
+8. Nf3 Bxb5+ 9. axb5 Qxb5+ 10. Kf2 Qb4 11. c3 Qd6 12. g3 fxg3+ 13. hxg3 Nf6
+14. Bd3 Ng4+ 15. Kg2 g6 16. Ng5 h5 17. Rf1 f6 18. Qb3 Nce5 19. Ba6 fxg5 20.
+dxe5 Qxe5 21. Qf7+ Kd8 22. Qxg6 Be7 23. Rh1 c6 24. Bb7 Qb5 25. Re1 Qd3 26.
+Ba6 b5 0-1
+

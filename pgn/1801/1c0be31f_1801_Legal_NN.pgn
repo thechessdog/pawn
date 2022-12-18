@@ -1,0 +1,15 @@
+[Event "Paris 1700"]
+[Site "Paris 1700"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Legal de KS"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[HashCode "1c0be31f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 d6 3. Nf3 Bg4 4. Nc3 g6 5. Nxe5 Bxd1 6. Bxf7+ Ke7 7. Nd5#
+1-0
+

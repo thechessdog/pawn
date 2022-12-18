@@ -1,0 +1,21 @@
+[Event "Braunschweig"]
+[Site "Braunschweig"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Franke, August"]
+[Result "1-0"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance, Paulsen attack"]
+[HashCode "e8fd4b9b"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. a3 Bd7 7. b4 c4 8. Bf4 Nge7
+9. Nbd2 Ng6 10. Bg3 Qa6 11. Be2 Be7 12. a4 b5 13. axb5 Qxb5 14. O-O f5 15. exf6
+Bxf6 16. Nb3 O-O 17. Nc5 Rf7 18. Nxd7 Rxd7 19. h4 e5 20. dxe5 Ngxe5 21. Nxe5
+Bxe5 22. Bg4 Rd6 23. Ra5 Nxa5 24. Bxe5 Nb7 25. Bxd6 Nxd6 26. Be6+ Kh8 27. Qxd5
+Qxd5 28. Bxd5 Rc8 29. Re1 h6 30. Re7 Rd8 31. Rxa7 Nb5 32. Ra8 Rxa8 33. Bxa8
+Nxc3 34. Kf1 Na2 35. b5 Nb4 36. Ke2 c3 37. Be4 Kg8 38. b6 Kf8 39. b7 Na6 40.
+Kd3 Ke7 41. Kxc3 1-0

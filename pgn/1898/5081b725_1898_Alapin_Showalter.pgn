@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Showalter, Jackson Whipps"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "5081b725"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "USA"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. c3 Bd7 6. Qc2 Bc6 7. Ne2 Be7 8. c4
+O-O 9. O-O-O Na6 10. Nc3 Nb4 11. Qb1 a6 12. a3 Nd3+ 13. Bxd3 exd3 14. f3 b5 15.
+Qxd3 bxc4 16. Nxc4 Nd5 17. h4 Nxc3 18. Qxc3 Qd5 19. Rd2 Rfb8 20. Na5 Bd7 21. b4
+Rb5 22. Bf2 Rab8 23. Rb2 c5 24. Qb3 cxb4 25. Qxd5 exd5 26. axb4 Bxb4 27. Rxb4
+Rxb4 28. Be1 Rb1+ 29. Kd2 R8b5 0-1

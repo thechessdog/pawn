@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1850.01.01"]
+[Round "1"]
+[White "Wijk bij Duurst"]
+[Black "Nijmegen"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "23a13908"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Qf6 5. O-O Bc5 6. c3 d6 7. Bb5 dxc3
+8. Nxc3 Qd8 9. Bxc6+ bxc6 10. e5 d5 11. Qa4 Bd7 12. Bg5 Ne7 13. Nd4 O-O 14.
+Nb3 Bb6 15. Na5 h6 16. Bxe7 Qxe7 17. Rad1 Rae8 18. Nb3 Qxe5 19. Nxd5 cxd5
+20. Qxd7 Rd8 21. Qb5 Qxb2 22. Rd2 Qe5 23. a4 Rd6 24. a5 a6 25. Qd3 Ba7 26.
+Rc2 Rc8 27. Rfc1 Qf6 28. h3 Rb8 29. Re2 Rd7 30. Rec2 Rb5 31. Kh1 Qd8 32.
+Qg3 Qb8 33. Qg4 Re7 34. Nc5 Bxc5 35. Rxc5 Rxc5 36. Rxc5 c6 37. g3 Re6 38.
+Qd4 Qb1+ 39. Kg2 Re4 40. Qd2 Re1 41. Rc2 c5 42. Rb2 Qe4+ 43. f3 Qe3 44.
+Rb8+ Kh7 45. Qxe3 Rxe3 46. Rc8 c4 47. Rc6 Re2+ 48. Kf1 Re6 49. Rc5 Rd6 50.
+Ke2 g5 51. Kd2 h5 52. Rc7 Kg6 53. Rb7 Kf6 54. Kc3 Ke6 55. Rb1 Rc6 56. Rb7
+d4+ 57. Kxd4 c3 58. Rb1 c2 59. Rc1 Kd6 60. h4 gxh4 61. gxh4 Rc5 62. Kd3 Kc6
+63. Rxc2 Rxc2 64. Kxc2 Kb5 0-1
+

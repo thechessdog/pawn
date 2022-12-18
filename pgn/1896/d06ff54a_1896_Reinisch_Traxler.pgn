@@ -1,0 +1,17 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Reinisch"]
+[Black "Traxler, Karel"]
+[Result "0-1"]
+[ECO "C57"]
+[Opening "two knights defence"]
+[Variation "Wilkes Barre (Traxler) variation"]
+[HashCode "d06ff54a"]
+[Epoch "Pawn"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 Bc5 5. Nxf7 Bxf2+ 6. Ke2 Nd4+ 7. Kd3 b5
+8. Bb3 Nxe4 9. Nxd8 Nc5+ 10. Kc3 Ne2+ 11. Qxe2 Bd4+ 12. Kb4 a5+ 13. Kxb5 Ba6+
+14. Kxa5 Bd3+ 15. Kb4 Na6+ 16. Ka4 Nb4+ 17. Kxb4 c5# 0-1

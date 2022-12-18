@@ -1,0 +1,19 @@
+[Event "DSB-06.Kongress"]
+[Site "Breslau"]
+[Date "1889.01.01"]
+[Round "2"]
+[White "Gossip, George Hatfeild"]
+[Black "Mieses, Jacques"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "2ff82ba8"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 d6 4. Nf3 Bg4 5. Bc4 Nc6 6. h3 Bxf3 7. Qxf3 Nd4 8.
+Qg3 Nxc2+ 9. Kd1 Nxa1 10. fxe5 Ne7 11. Qxg7 Kd7 12. Bxf7 Kc8 13. Qg4+ Kb8 14.
+e6 Ng6 15. Bxg6 hxg6 16. Nd5 c6 17. e7 Qe8 18. Nf4 Rg8 19. Rf1 Qxe7 20. Nxg6
+Qg7 21. d3 Qxg6 22. Qxg6 Rxg6 23. Rf8+ Kc7 24. Rxa8 Rxg2 25. Bf4 Nc2 26. e5
+dxe5 27. Bxe5+ Kb6 28. Bb8 Ka6 29. Be5 Ne3+ 30. Kc1 Bb4 31. a3 Rg1# 0-1

@@ -1,0 +1,20 @@
+[Event "Leipzig sim"]
+[Site "Leipzig"]
+[Date "1865.01.01"]
+[Round "?"]
+[White "Rosenthal, Samuel"]
+[Black "Von Schmidt, Eugen"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "39cb29aa"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6 dxc6 8.
+Rxe5+ Be7 9. Qe2 Be6 10. d4 Nd7 11. Re3 O-O 12. c4 Nb6 13. b3 Bf6 14. Bb2 Bg4
+15. Re4 Bxf3 16. gxf3 Qd7 17. Nc3 Qh3 18. Rg4 Rae8 19. Ne4 Re6 20. Re1 Bh4 21.
+Rxg7+ Kxg7 22. d5+ Rf6 23. Nxf6 Bxf6 24. Bxf6+ Kxf6 25. Qe7+ Kg7 26. Qg5+ Kh8
+27. Qf6+ Kg8 28. Re4 h5 29. Re5 1-0

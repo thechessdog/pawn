@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Cole"]
+[Black "Ward"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "5fe2dbb6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+
+Be7 8. Bd3 O-O 9. Nc3 Ne8 10. b3 c6 11. Bb2 d5 12. Qh5 g6 13. Nxd5 gxh5 14.
+Bxh7+ Kxh7 15. Rxh5+ Kg6 16. Nf4# 1-0
+

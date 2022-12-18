@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Walbrodt, Carl August"]
+[Black "Burn, Amos"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "4e319b60"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 d5 4. exd5 Nxd5 5. Bg2 Nxc3 6. bxc3 Nc6 7. Qe2 Bd6 8.
+Qb5 O-O 9. Ne2 Ne7 10. O-O c6 11. Qb3 Qc7 12. c4 Be6 13. Qc3 Rad8 14. c5 Nd5
+15. Bxd5 Bxd5 16. cxd6 Qc8 17. Bb2 Qh3 18. Nf4 1-0

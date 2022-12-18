@@ -1,0 +1,17 @@
+[Event "Birmingham"]
+[Site "Birmingham"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Salmon, George"]
+[Black "Szabo, Djuro"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "6bab7655"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Bc5 7. Nxe4 dxe4 8.
+Qh5+ g6 9. Qxc5 Bxe6 10. Qe5 Qf6 11. Qxe4 Nc6 12. Bc4 Kf7 13. O-O Re8 14. Nc3
+Nge7 15. Nb5 Rc8 16. Bf4 Bxc4 17. Qxc4+ Kg7 18. Nxc7 h6 19. Bd2 Nd4 20. Qxd4
+Qxd4 21. Ne6+ 1-0

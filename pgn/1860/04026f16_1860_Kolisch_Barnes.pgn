@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Barnes, Thomas"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "04026f16"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qf6 9. e5 dxe5 10. Re1 Nge7 11. Bg5 Qg6 12. Bxe7 Nxe7 13. Nxe5 Qb6 14. Bb5+ c6
+15. Qxf7+ Kd8 16. Nxc6+ Nxc6 17. Bxc6 Qc5 18. cxd4 Qd6 19. Qxg7 Rf8 20. Qg5+
+Kc7 21. Qxa5+ Kxc6 22. d5+ Kd7 23. Nc3 b6 24. Qa4+ Kd8 25. Nb5 Qf6 26. Qc2 Rf7
+27. Rad1 Bb7 28. d6 Bxg2 29. Qc7+ Rxc7 30. dxc7+ Kc8 31. Re8+ Kb7 32. Rxa8 Bh3
+33. Rxa7+ Kc6 34. Rd6+ 1-0

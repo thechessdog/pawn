@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Liubimov, B."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Fraser-Minckwitz variation"]
+[HashCode "8f2599fd"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 b6 6. Qd2 Bb4 7. Nf3 Qf6 8. e5
+Qf5 9. Kd1 d6 10. Bb5 Bb7 11. d5 dxe5 12. Nxe5 O-O-O 13. Nxc6 Bxc3 14. bxc3
+Rxd5 15. Nd4 Qg4+ 16. Be2 Qxg2 17. Bf3 Qxf3+ 18. Nxf3 Rxd2+ 19. Kxd2 Bxf3 20.
+Rf1 Bh5 21. Rxf4 Nf6 22. Ba3 Bg6 23. Re1 Rd8+ 24. Rd4 Ne4+ 25. Kd3 Ng5+ 26. Kc4
+Bxc2 27. Rxd8+ Kxd8 28. Be7+ Kc8 29. Bxg5 Bf5 30. Kd4 1-0

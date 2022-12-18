@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1848.01.01"]
+[Round "1"]
+[White "Williams, Elijah"]
+[Black "Kennedy, Hugh Alexander"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "9f642ad7"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Nf3 Ng6 5. Be3 Bb4+ 6. c3 Ba5 7. Bd3 Bb6 8.
+O-O N8e7 9. Qd2 d6 10. c4 O-O 11. Nc3 Ba5 12. Ne1 f5 13. f4 fxe4 14. Bxe4 Bf5
+15. Bxf5 Nxf5 16. fxe5 Nxe3 0-1

@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Fritz, Alexander"]
+[Black "Flugel, E."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Knorre variation"]
+[HashCode "6461b651"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Nc3 Nxc3 7. bxc3 b5 8.
+Bb3 Be7 9. Bd5 Rb8 10. Bxc6 dxc6 11. Nxe5 Bb7 12. Qf3 Qd5 13. d4 Qxf3 14. Nxf3
+O-O 15. a4 Rbd8 16. axb5 cxb5 17. Ba3 Bxa3 18. Rxa3 Bxf3 19. gxf3 Rd6 20. Rfa1
+Ra8 21. Ra5 Rb6 22. Kf1 f5 23. Ke2 Re8+ 24. Kd3 Ree6 25. c4 bxc4+ 26. Kxc4 g6
+27. Re5 Kf7 28. f4 Kf6 29. Raa5 Red6 30. Rec5 Rbc6 31. d5 Rxc5+ 32. Rxc5 Rd7
+33. Rc6+ Ke7 34. Re6+ Kd8 35. Rxa6 Kc8 36. Kd4 Re7 37. Re6 Rxe6 38. dxe6 1-0

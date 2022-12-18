@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "2"]
+[White "Rosenthal, Samuel"]
+[Black "Meitner, Philipp"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "6cbdf512"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Bxd5 g5 6. Nf3 Qh5 7. h4 h6 8. Kg1
+g4 9. Ne1 Nf6 10. Nc3 c6 11. Bb3 f3 12. d4 f2+ 13. Kxf2 Nxe4+ 14. Nxe4 g3+ 15.
+Ke3 Qxd1 16. c3 Qxb3 17. axb3 f5 18. Nf6+ Kf7 19. Nh5 Be6 20. c4 Bd6 21. Nd3
+Nd7 22. Kf3 b5 23. Ndf4 Bxf4 24. Nxf4 Rhe8 25. Kxg3 bxc4 26. Ra6 Nb6 27. Ra5
+Bd7 28. bxc4 Nxc4 29. Rc5 Nd6 30. Kf3 Rg8 31. Nd3 Be6 32. Ne5+ Kf6 33. Bxh6
+Bd5+ 34. Kf4 Rxg2 35. Rhc1 Ne4 36. Bg5+ Nxg5 37. hxg5+ Kg7 38. R5c2 Rb8 39.
+Rxg2 Bxg2 40. Ra1 Rxb2 41. Rxa7+ Kg8 42. Kxf5 Rb4 43. Kf6 Rxd4 44. Ra8+ 1-0

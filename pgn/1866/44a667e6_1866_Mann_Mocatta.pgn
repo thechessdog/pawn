@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Mann, H."]
+[Black "Mocatta, A."]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "44a667e6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Be7 7. c3 d6 8.
+h3 Be6 9. Bc2 O-O 10. O-O h6 11. d3 Qc8 12. Nh2 Rb8 13. f4 exf4 14. Bxf4
+Ne5 15. Bxe5 dxe5 16. Nd2 b4 17. Ndf3 bxc3 18. bxc3 Bc5+ 19. d4 exd4 20.
+cxd4 Ba7 21. Qd3 c5 22. Bb1 cxd4 23. Nd2 Qc3 24. e5 Qxd3 25. Bxd3 Nd5 26.
+Bxa6 Nb4 27. Bc4 Nc2 28. Rac1 Ne3 29. Rf3 Bxc4 30. Nxc4 Rfc8 31. Nxe3 Rxc1+
+32. Nef1 d3+ 33. Kh1 d2 0-1
+

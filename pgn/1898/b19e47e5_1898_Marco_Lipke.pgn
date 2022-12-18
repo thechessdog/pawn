@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Marco, Georg"]
+[Black "Lipke, Paul"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "b19e47e5"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. O-O b5 7. Bb3 O-O 8. d3
+d6 9. Nd5 Na5 10. Nxe7+ Qxe7 11. Bg5 h6 12. Bxf6 Qxf6 13. Qd2 Nxb3 14. axb3 Bb7
+15. Rfe1 Rae8 16. Qe3 c5 17. c4 Qd8 18. g4 Kh7 19. h3 bxc4 20. dxc4 g6 21. Nd2
+f5 22. gxf5 gxf5 23. f3 Qh4 24. Kh2 f4 25. Qe2 Bc8 26. Kh1 Rg8 27. Rg1 Bxh3 28.
+Qh2 Rg3 0-1

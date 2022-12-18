@@ -1,0 +1,19 @@
+[Event "Toronto"]
+[Site "Toronto"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "White, J."]
+[Black "Ensor, A."]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "ff4a0869"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Bb4 4. a3 Bxc3+ 5. bxc3 dxc4 6. Bf4 Nf6 7. Qa4+
+Bd7 8. Qxc4 Nc6 9. e3 Nd5 10. Nf3 O-O 11. Qd3 f6 12. Qc2 e5 13. dxe5 fxe5
+14. Bxe5 Rxf3 15. Bc4 Rxe3+ 16. fxe3 Qh4+ 17. Bg3 Qxc4 18. Kd2 Rd8 19. Qd3
+Qc5 20. e4 Nf6 21. Kc2 Bf5 22. Qxd8+ Nxd8 23. exf5 Qxf5+ 24. Kb2 Qb5+ 25.
+Ka2 Qe2+ 26. Kb3 Ne6 27. Rae1 Nc5+ 0-1
+

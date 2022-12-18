@@ -1,0 +1,15 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna gambit"]
+[HashCode "91be4ce0"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 Bb4 5. Nd5 Ba5 6. Nxf4 d6 7. c3 Bg4 8.
+Bb5 Kf8 9. O-O Ne5 10. Nxe5 Bxd1 11. Neg6+ fxg6 12. Nxg6# 1-0

@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Schurig, R."]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Paulsen defence"]
+[HashCode "f1ee8eda"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Bg7 6. Nxg4 d5 7. Nf2 Ne7 8. d3
+O-O 9. c3 f5 10. e5 Bxe5 11. d4 Bg7 12. Bxf4 Ng6 13. Bg5 Qd6 14. Nd3 Qg3+ 15.
+Kd2 h6 16. Qh5 Kh7 17. Be2 f4 18. Bf3 Bf5 19. Na3 Nd7 20. Rae1 c5 21. Re2 cxd4
+22. cxd4 Nf6 23. Bxf6 Rxf6 24. Nb5 Raf8 25. Nc3 Rc6 26. Nb4 Rc4 27. Nc2 Bxd4
+28. Nxd4 Rxd4+ 29. Kc1 Rd3 30. Rhe1 Re3 31. Rxe3 fxe3 32. Rxe3 d4 33. Ne4 Qc7+
+34. Kd1 dxe3 0-1

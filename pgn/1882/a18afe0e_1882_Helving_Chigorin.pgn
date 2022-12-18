@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Helving"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Ponziani"]
+[Variation "Jaenisch counter-attack"]
+[HashCode "a18afe0e"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Nf6 4. d4 Nxe4 5. d5 Nb8 6. Bd3 Nc5 7. Nxe5 Nxd3+ 8.
+Qxd3 Be7 9. O-O d6 10. Nf3 O-O 11. c4 Nd7 12. Nc3 f5 13. Re1 Bf6 14. Be3 g5 15.
+Bd4 g4 16. Nd2 Be5 17. Ne2 f4 18. f3 Bxd4+ 19. Qxd4 Ne5 20. Nxf4 Qg5 21. g3
+gxf3 22. Rf1 Bg4 23. Rf2 Rae8 24. Kh1 h5 25. Ne4 Rxf4 26. gxf4 Qxf4 27. Rg1 Nd7
+28. Re1 Nc5 29. Rfe2 Re5 30. Nf6+ Qxf6 31. Rxe5 dxe5 32. Re3 f2 0-1

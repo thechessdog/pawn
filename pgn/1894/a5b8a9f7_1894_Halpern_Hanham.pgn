@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1894.01.01"]
+[Round "7"]
+[White "Halpern, Jakob"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham, Delmar variation"]
+[HashCode "a5b8a9f7"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 c6 5. c3 Nb6 6. Bb3 Qc7 7. Be3 Bg4 8. Nbd2
+Nf6 9. Qc2 Nbd7 10. Ng5 Bh5 11. f4 Ng4 12. Qd3 Be7 13. fxe5 dxe5 14. h3 Ngf6
+15. g4 Bg6 16. Ngf3 Rd8 17. Qc2 b5 18. g5 Nh5 19. Rg1 c5 20. dxc5 Nxc5 21.
+O-O-O a5 22. a3 O-O 23. Nh4 b4 24. Nxg6 hxg6 25. Bxc5 Qxc5 26. cxb4 axb4 27. a4
+Qe3 28. h4 Nf4 29. Kb1 Nd3 30. Bd5 Nc5 31. Nc4 Qf4 32. Rdf1 Qxh4 33. Nxe5 b3
+34. Qc4 Rxd5 35. exd5 Qh2 36. Nc6 Bd6 37. Rh1 Qd2 38. Rh3 Qxg5 39. Rfh1 f5 40.
+Ne5 Qh5 41. Rxh5 gxh5 42. Rxh5 Ne4 43. Nf3 g6 44. Rh1 Rb8 45. Qd4 Bf8 46. Qh8+
+Kf7 47. Ne5+ Ke8 48. Nxg6 Kf7 49. Ne5+ Ke8 50. Qh5+ Kd8 51. Qf7 Nd2+ 52. Ka1
+Be7 53. d6 Rb7 54. Qg8+ 1-0

@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Bier, Max "]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "e908c345"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. Nxe5 Nxe5 7. d4 Bd6 8.
+O-O O-O 9. f4 Nc6 10. e5 Bb4 11. exf6 Bxc3 12. bxc3 Qxf6 13. Bb3 d6 14. Qf3 Bd7
+15. Bd2 Rae8 16. Rf2 Na5 17. f5 Bc6 18. Bd5 Bxd5 19. Qxd5 Nc6 20. Raf1 Qd8 21.
+f6 Re6 22. Qg5 1-0

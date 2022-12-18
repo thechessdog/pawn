@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1839.01.01"]
+[Round "1"]
+[White "Poznan"]
+[Black "Berlin"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "a030db6d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nxe5 d5 5. Bb3 Qg5 6. Nxf7 Qxg2 7. Rf1
+Nc6 8. c3 Nc5 9. d4 Nxb3 10. Nxh8 Qe4+ 11. Qe2 Qxe2+ 12. Kxe2 Nxa1 13. Rg1
+Bf5 14. Nd2 O-O-O 15. Nf3 Re8+ 16. Be3 Nc2 17. Nf7 Nxe3 18. fxe3 g6 19. h4
+Re7 20. N7e5 Nxe5 21. Nxe5 Bg7 22. Nf3 Re4 23. h5 Bh6 0-1
+

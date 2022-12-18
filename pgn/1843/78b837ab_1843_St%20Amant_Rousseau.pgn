@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1843.01.01"]
+[Round "1"]
+[White "Saint Amant, Pierre"]
+[Black "Rousseau, Eugène"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[HashCode "78b837ab"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 Qf6 6. Nf3 d6 7. Nc3 c6 8.
+O-O Ne7 9. Qxd6 Nd5 10. Qe5 Qxe5 11. Nxe5 Nxc3 12. bxc3 f6 13. Nd3 Bd6 14. e5
+fxe5 15. Re1 O-O 16. Nxe5 Re8 17. Bf4 Ba3 18. Rab1 Kf8 19. Bg3 a6 20. Re3 a5
+21. h3 b5 22. Bd3 Bc5 23. Rf3+ Kg8 24. Nxc6 Bb7 25. Bxb5 Rec8 26. Bc4 Bxc6 27.
+Bxe6+ Kh8 28. Bxc8 Bxf3 29. Bb7 1-0

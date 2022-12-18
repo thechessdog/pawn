@@ -1,0 +1,16 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Heinicke, Herbert"]
+[Black "Seitz"]
+[Result "1-0"]
+[ECO "E18"]
+[Opening "Queen's Indian"]
+[Variation "old main line, 7.Nc3"]
+[HashCode "e3c36df7"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. d4 Nf6 2. Nf3 b6 3. c4 Bb7 4. g3 e6 5. Bg2 Be7 6. O-O O-O 7. Nc3 d5 8. Ne5
+Nbd7 9. Qa4 Nxe5 10. dxe5 Ng4 11. cxd5 Nxe5 12. d6 1-0

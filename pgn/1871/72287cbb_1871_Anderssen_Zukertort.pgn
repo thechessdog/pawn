@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "72287cbb"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. Bxc6+ bxc6 7. h3 g6 8. Nc3
+Bg7 9. Be3 O-O 10. Qd2 d5 11. Bh6 Qd6 12. Bxg7 Kxg7 13. O-O-O Be6 14. Rhe1 d4
+15. Ne2 Nd7 16. c4 Rfb8 17. Qg5 f6 18. Qg3 Rb6 19. Rd2 Rab8 20. Rc2 Rxb2 21.
+Nexd4 Rb1+ 22. Kd2 Qb4+ 23. Ke2 Rxe1+ 24. Nxe1 exd4 25. Qxc7 c5 26. f4 Qb6 0-1

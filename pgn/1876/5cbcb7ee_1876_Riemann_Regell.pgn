@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Riemann"]
+[Black "Regell"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "5cbcb7ee"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. exd5 Qxd5 4. Nc3 Qe6 5. Nf3 exf4+ 6. Kf2 Be7 7. d4 Nh6
+8. Bb5+ c6 9. Re1 Ng4+ 10. Kg1 Ne3 11. Bxe3 fxe3 12. Qd3 cxb5 13. Rxe3 Qd6
+14. Nxb5 Qb6 15. Rae1 Nc6 16. Nd6+ Kd7 17. Rxe7+ Nxe7 18. Ne5+ Kc7 19. Nb5+
+Kb8 20. Qg3 1-0
+

@@ -1,0 +1,19 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Schwarz, Jacques"]
+[Black "Leffmann, Karl"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French defence"]
+[HashCode "84d13dc6"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Bd6 6. Nf3 c6 7. Ne2 Qc7
+8. O-O Bg4 9. Ng3 Nbd7 10. Re1+ Kf8 11. h3 Bh5 12. Nxh5 Nxh5 13. Nh4 Nf4
+14. Nf5 Nf6 15. Bf1 Qd7 16. Nxd6 Qxd6 17. g3 Ne6 18. Bg2 Re8 19. a4 h6 20.
+Ra3 Qd7 21. Rae3 Ng5 22. Rxe8+ Nxe8 23. h4 Ne6 24. Bh3 Nf6 25. Bf4 Rg8 26.
+Qf3 Ke7 27. Be5 Ne8 28. Qd3 Rh8 29. f4 Kd8 30. Bb8 a6 31. Qe3 Kc8 32. Qe5
+Nf6 33. Ba7 Re8 34. Qb8# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Jaenisch variation"]
+[HashCode "07d44a22"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nf6 4. Nc3 c6 5. Qf3 Bb4 6. Nge2 O-O 7. O-O d5 8.
+exd5 Bg4 9. Qxf4 Bxc3 10. Nxc3 cxd5 11. Nxd5 Nbd7 12. d4 Be6 13. Nxf6+ Nxf6 14.
+Bd3 Rc8 15. b3 Re8 16. Qh4 h6 17. Bxh6 Ng4 18. Bg5 Qxd4+ 19. Kh1 f6 20. Rad1
+Qe5 21. Bf4 Qc3 22. Qh7+ Kf8 23. Bd6+ Re7 24. Bxe7+ Kxe7 25. Qxg7+ Bf7 26. Qxg4
+Rg8 27. Rfe1+ Kf8 28. Qd7 Qc6 29. Qe7+ Kg7 30. Re3 1-0

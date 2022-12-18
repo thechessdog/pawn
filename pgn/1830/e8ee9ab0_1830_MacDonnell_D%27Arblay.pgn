@@ -1,0 +1,18 @@
+[Event "England"]
+[Site "England"]
+[Date "1830.01.01"]
+[Round "1"]
+[White "McDonnell, Alexander"]
+[Black "D'Arblay"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "MacDonnell gambit"]
+[HashCode "e8ee9ab0"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Nc3 gxf3 6. O-O d6 7. Qxf3 c6 8. d4
+Bh6 9. Bxf7+ Kxf7 10. Qh5+ Kg7 11. Bxf4 Bxf4 12. Rxf4 Nf6 13. Qg5+ Kf7 14. e5
+dxe5 15. dxe5 1-0

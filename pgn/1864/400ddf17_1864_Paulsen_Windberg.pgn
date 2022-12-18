@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Windberg"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[HashCode "400ddf17"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. d4 d6 5. O-O Nf6 6. d5 Nb8 7. Bd3 O-O 8. Ne1
+Bg4 9. Qd2 h6 10. h3 Bh5 11. f4 exf4 12. Qxf4 Nbd7 13. Nf3 Bxf3 14. Qxf3 Ne5
+15. Qe2 Nh7 16. Nd2 c6 17. Nc4 Nxd3 18. Qxd3 cxd5 19. exd5 b5 20. Ne3 Qb6 21.
+Kh1 Bg5 22. Nf5 Bxc1 23. Raxc1 Qd8 24. Rce1 Kh8 25. Ne7 Nf6 26. Rxf6 gxf6 27.
+Qe3 Kg7 28. Nf5+ Kg6 29. Qxh6+ Kxf5 30. g4# 1-0

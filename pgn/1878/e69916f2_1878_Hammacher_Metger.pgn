@@ -1,0 +1,19 @@
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Hammacher, Eduard"]
+[Black "Metger, Johannes"]
+[Result "0-1"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "e69916f2"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 Bb4 4. Bb5 Nf6 5. Nd5 Bc5 6. d3 h6 7. O-O d6 8. Ne1
+O-O 9. Bxc6 bxc6 10. Ne3 d5 11. exd5 cxd5 12. Kh1 Qe7 13. Qe2 c6 14. c3 a5 15.
+f4 exf4 16. Rxf4 Re8 17. d4 Bd6 18. Rh4 g5 19. Rxh6 Kg7 20. Rxf6 Qxf6 21. Qf3
+Qh6 22. h3 Qh4 23. Nd3 g4 24. Qf2 Bg3 25. Nf5+ Bxf5 26. Qxf5 gxh3 27. Qxh3 Rh8
+28. Qxh4 Rxh4+ 29. Kg1 Rah8 30. Kf1 Re8 31. Nf2 Rh1+ 32. Nxh1 Re1# 0-1

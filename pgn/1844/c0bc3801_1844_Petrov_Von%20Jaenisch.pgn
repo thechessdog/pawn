@@ -1,0 +1,19 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1844.??.??"]
+[Round "?"]
+[White "Petrov, Alexander"]
+[Black "Jaenisch, Carl"]
+[Result "1-0"]
+[ECO "C43"]
+[Opening "Petrov"]
+[Variation "modern attack, Symmetrical variation"]
+[HashCode "c0bc3801"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nf6 3. d4 Nxe4 4. Bd3 d5 5. Nxe5 Bd6 6. O-O O-O 7. c4 f5 8. f4
+c6 9. Be3 Be6 10. cxd5 cxd5 11. Nc3 Nc6 12. Rc1 Rf6 13. Bxe4 fxe4 14. Nb5 Ne7
+15. Nxd6 Qxd6 16. g4 g6 17. f5 gxf5 18. Bg5 Rff8 19. Bh6 Rfc8 20. Qd2 Rxc1 21.
+Qg5+ Ng6 22. Nxg6 Rxf1+ 23. Kxf1 Qd8 24. Ne7+ Kf7 25. Qh5+ Kxe7 26. Bg5+ 1-0

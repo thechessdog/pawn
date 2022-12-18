@@ -1,0 +1,24 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Caro, Horatio"]
+[Black "Hulsen, B."]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Paulsen attack"]
+[HashCode "a352080e"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 Nxc3 6. bxc3 Qh4+ 7. g3 Qe4+
+8. Qxe4 dxe4 9. Bg2 Nc6 10. Bxe4 Nxe5 11. Nf3 Nxf3+ 12. Bxf3 Bd6 13. O-O O-O
+14. d4 Rb8 15. c4 b6 16. Be3 Re8 17. Rfe1 Ba6 18. Bc6 Re7 19. c5 bxc5 20. dxc5
+Be5 21. Bf4 Bd4+ 22. Kg2 Bxc5 23. Rxe7 Bxe7 24. Re1 Kf8 25. Be3 Bb7 26. Bxb7
+Rxb7 27. Bd4 c5 28. Bc3 f6 29. Kf3 Kf7 30. Ke4 Rb6 31. Kd5 Ra6 32. Ra1 Ra3 33.
+Kc4 f5 34. Bb2 Rf3 35. Rh1 Rf2 36. Kd3 a5 37. a4 f4 38. Bc3 Bd8 39. Be1 c4+ 40.
+Kxc4 Rxc2+ 41. Kb3 Rc1 42. Rf1 Ke6 43. Kb2 Rd1 44. Kc2 Ra1 45. Kb2 Bf6+ 46. Kb3
+f3 47. Rg1 Bd4 48. Rf1 f2 49. Bxf2 Rxf1 50. Bxd4 g5 51. h4 Rf3+ 52. Kc4 Rxg3
+53. hxg5 Rxg5 54. Be3 Rf5 55. Bh6 Kf6 56. Kd4 Kg6 57. Ke4 Rh5 58. Bd2 Rh4+ 59.
+Bf4 Kf6 0-1

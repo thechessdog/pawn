@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1888.01.01"]
+[Round "1"]
+[White "Delmar, Eugene"]
+[Black "Lipschuetz, Samuel"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "e8a3bf91"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. e5 Ng4 8.
+O-O Bc5 9. h3 Nxe5 10. Re1 Qf6 11. Qe2 O-O 12. Qxe5 Qxf2+ 13. Kh1 Bxh3 14. gxh3
+Qf3+ 15. Kh2 Bd6 16. Qxd6 Qf2+ 0-1

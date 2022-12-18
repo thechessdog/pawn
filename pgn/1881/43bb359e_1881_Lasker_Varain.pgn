@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Lasker, Emanuel"]
+[Black "Varain"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "43bb359e"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. Nf3 Bg4 4. Be2 exf4 5. e5 d4 6. O-O Nc6 7. d3 g5 8. Kh1 h5
+9. c3 Be7 10. cxd4 Nxd4 11. Qa4+ Nc6 12. d4 a6 13. Nc3 b5 14. Qd1 Nh6 15. d5
+Bxf3 16. Bxf3 Nxe5 17. Qd4 f6 18. Bxh5+ Kf8 19. Bxf4 gxf4 20. Rxf4 Nhf7 21. Rf5
+Qd7 22. Raf1 Kg7 23. Ne4 Rag8 24. Bxf7 Nxf7 25. Nxf6 Bxf6 26. Qxf6+ Kf8 27.
+Qxf7+ 1-0

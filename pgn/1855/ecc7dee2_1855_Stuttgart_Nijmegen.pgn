@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Stuttgart"]
+[Black "Nijmegen"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "ecc7dee2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Qxg4 Nf6
+8. Bc4+ d5 9. Qxf4 Bd6 10. Bxd5+ Kg7 11. Qf3 Nxd5 12. exd5 Qe8+ 13. Qe3
+Bg3+ 14. Ke2 Qh5+ 15. Kd3 Qg6+ 0-1
+

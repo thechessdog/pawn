@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1846.01.01"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Von der Lasa, Tassilo"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "d9ebed0f"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5 8.
+d3 Bh6 9. Bd2 Ne7 10. Nc3 c6 11. Rae1 Qc5+ 12. Kh1 d5 13. Qh5 Qd6 14. Bxd5 cxd5
+15. Nxd5 0-1

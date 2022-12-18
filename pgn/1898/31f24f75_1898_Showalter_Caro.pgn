@@ -1,0 +1,20 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Showalter, Jackson Whipps"]
+[Black "Caro, Horatio"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Caro variation"]
+[HashCode "31f24f75"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bb7 6. O-O g6 7. c3 Bg7 8. d4
+exd4 9. cxd4 d6 10. Nc3 Nge7 11. Bg5 h6 12. Bh4 Qd7 13. a4 b4 14. Nd5 g5 15.
+Bg3 g4 16. Nh4 Nxd4 17. Nxe7 Qxe7 18. Re1 Be5 19. Nf5 Nxf5 20. exf5 h5 21. Rc1
+c6 22. f4 gxf3 23. Qxf3 Rc8 24. f6 Qc7 25. Bxe5 dxe5 26. Rc5 Kf8 27. Rcxe5 c5
+28. Qg3 Rh7 29. Re8+ Rxe8 30. Qg7+ 1-0

@@ -1,0 +1,16 @@
+[Event "DSB-06.Kongress"]
+[Site "Breslau"]
+[Date "1889.??.??"]
+[Round "14"]
+[White "Tarrasch, Siegbert"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "French attack"]
+[HashCode "3c6e4117"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d3 Be7 6. dxe4 1-0

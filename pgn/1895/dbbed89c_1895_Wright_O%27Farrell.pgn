@@ -1,0 +1,24 @@
+[Event "Washington"]
+[Site "Washington"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Wright"]
+[Black "O'Farrell"]
+[Result "0-1"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, classical defence"]
+[HashCode "dbbed89c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Nd4 Nxe5 11. f4 Bg4 12. Qc2 Nc4 13. a4 Bd7 14. Qe2
+Bc5 15. Nd2 f5 16. Kh1 Bxd4 17. cxd4 O-O 18. Nf3 c6 19. Bc2 Qe7 20. Ne5 Be8
+21. b3 Ncd6 22. Bd3 Qh4 23. Qe1 Qxe1 24. Rxe1 Nf2+ 25. Kg1 Nxd3 26. Nxd3
+Ne4 27. axb5 cxb5 28. Nb4 Bf7 29. Rxa6 Rxa6 30. Nxa6 Rc8 31. Bb2 Rc2 32.
+Ba1 h6 33. Nb4 Rc8 34. Bb2 g5 35. Rc1 Re8 36. fxg5 hxg5 37. Nc6 Nd2 38. b4
+Nc4 39. Bc3 Re2 40. Kf1 Re8 41. Re1 Ne3+ 42. Kf2 f4 43. h3 Bg6 44. Bd2 Nc4
+45. Bc1 Re4 46. Ne7+ Kf7 47. Nxd5 Rxd4 48. Nc3 Nd6 49. Re5 Kf6 50. Rc5 Bd3
+51. Kf3 Kg6 52. Rc6 Kh5 53. Rc5 Bf1 54. g3 Rd3+ 55. Kf2 Bxh3 56. gxf4 Rxc3
+57. Rxg5+ Kh4 58. Rg8 Rxc1 0-1
+

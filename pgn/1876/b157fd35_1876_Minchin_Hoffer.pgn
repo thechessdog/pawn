@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Minchin, James Innes"]
+[Black "Hoffer"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "b157fd35"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 d5 5. Bxd5 Ne7 6. Nc3 g5 7. d4 Bg7 8.
+Nf3 Qh5 9. Ne2 Nxd5 10. exd5 Bg4 11. Qe1 O-O 12. Qf2 Nd7 13. c4 Rae8 14. Bd2
+Nf6 15. Nc3 Ne4 16. Nxe4 Rxe4 17. Bc3 Rfe8 18. Rd1 Re3 19. Kg1 Bxf3 20. gxf3
+Rxf3 21. Qg2 Rxc3 0-1

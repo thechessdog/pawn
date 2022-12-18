@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Lamb, F."]
+[Black "Schroeder, A."]
+[Result "0-1"]
+[ECO "C62"]
+[Opening "Ruy Lopez"]
+[Variation "old Steinitz defence"]
+[HashCode "25023040"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 d6 4. Bxc6+ bxc6 5. Nc3 Be7 6. d3 Bg4 7. Ne2 f5
+8. exf5 Bxf5 9. Ng3 Bg6 10. O-O Nf6 11. Nh4 d5 12. Nxg6 hxg6 13. Bg5 Nh5
+14. Bxe7 Qxe7 15. Qg4 Nf4 16. Rfe1 Rh4 17. Qf3 Kd7 18. Nf1 Rah8 19. Qe3 Qg5
+20. Qf3 Rh3 21. Rxe5 Qxe5 22. gxh3 Rxh3 23. Qg4+ Kd6 24. Ng3 Rh8 25. c3 Qf6
+26. Qf3 Rf8 27. Qe3 Nh3+ 28. Kg2 Nf4+ 29. Kh1 c5 30. Rd1 Nh5 31. Re1 Nxg3+
+32. hxg3 g5 33. d4 cxd4 34. cxd4 Kd7 35. Kg2 g4 36. Re2 c6 37. Qe5 Rh8 38.
+Qf4 Qxf4 39. gxf4 Rh3 40. Re3 Rxe3 41. fxe3 Ke6 42. a4 Kf5 43. Kg3 a5 44.
+Kf2 Ke4 45. b3 g3+ 46. Kxg3 Kxe3 47. b4 axb4 48. a5 b3 49. a6 b2 50. a7
+b1=Q 51. a8=Q Qg1+ 0-1
+

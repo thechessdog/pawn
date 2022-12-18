@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Speet, J."]
+[Black "Hoes, J."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "463caae9"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 Qh6 5. Nf3 Qh5 6. d4 g5 7. g4 Qh3+
+8. Ke1 d6 9. Qe2 Bxg4 10. Nbd2 a6 11. Qf2 Be7 12. e5 Nc6 13. exd6 cxd6 14.
+c3 Na5 15. Bd5 Rc8 16. Rf1 Rc7 17. Ne4 Bxf3 18. Qxf3 g4 19. Qxf4 Bh4+ 20.
+Ke2 Re7 1-0
+

@@ -1,0 +1,15 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Moller, Jorgen"]
+[Black "Ros, Johan August"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Hungarian defence"]
+[HashCode "6792394c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Be7 4. Nc3 Nf6 5. d4 exd4 6. Nxd4 Nxe4 7. Nf5 Nxc3
+8. Nxg7+ Kf8 9. bxc3 Bf6 10. Nf5 Bxc3+ 11. Kf1 Qf6 12. Bh6+ Kg8 13. Qg4+ Qg6
+14. Qe4 Qxh6 15. Qe8+ Qf8 16. Bxf7# 1-0

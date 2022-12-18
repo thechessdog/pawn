@@ -1,0 +1,20 @@
+[Event "St.Louis m"]
+[Site "St.Louis m"]
+[Date "1890.01.01"]
+[Round "3"]
+[White "Showalter, Jackson Whipps"]
+[Black "Judd, Max"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "4fa217e1"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. Ng5 Nc5 10. Nc3 c6 11. Re1 Nxb3 12. axb3 h6 13. Nce4 dxe4 14. Qxd8+ Kxd8
+15. Nxf7+ Ke8 16. Nxh8 Be6 17. Rd1 g5 18. Rd6 Bf5 19. g4 Bh7 20. h4 Bg7 21. h5
+Nc8 22. Rxc6 Bxh8 23. Rxh6 Ra7 24. Be3 Rd7 25. Raxa6 Kf8 26. Ra8 Rc7 27. Rxh7
+Rxh7 28. Rxc8+ 1-0

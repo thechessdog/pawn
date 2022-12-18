@@ -1,0 +1,23 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Lipschuetz, Samuel"]
+[Black "Showalter, Jackson Whipps"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "b781fcc1"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bc5 5. Nge2 d6 6. d3 a6 7. O-O Bg4 8. h3
+Be6 9. Kh2 h5 10. Nd5 Qd7 11. Nxf6+ gxf6 12. f4 Bg4 13. c3 h4 14. f5 hxg3+ 15.
+Kxg3 Bh5 16. Qe1 O-O-O 17. Kh2 Rh7 18. Ng1 d5 19. exd5 Ne7 20. Qe4 Qxd5 21. b4
+Bb6 22. a4 Qxe4 23. Bxe4 Bg4 24. Kg3 Bxf5 25. Rxf5 Rg7+ 26. Kf3 Rxg1 27. Bb2
+Rxa1 28. Bxa1 Nxf5 29. Bxf5+ Kb8 30. c4 Bd4 31. Bxd4 Rxd4 32. Kg3 c6 33. h4 b5
+34. axb5 axb5 35. cxb5 cxb5 36. h5 Rxb4 37. h6 Rd4 38. h7 Rd8 39. Kh4 Kc7 40.
+Kh5 Kd6 41. Kh6 Kd5 42. Kg7 Kd4 43. Kxf7 b4 44. Kxf6 Rh8 45. Kg7 Rxh7+ 46. Bxh7
+b3 47. Bg8 b2 48. Ba2 Kxd3 49. Kf6 e4 50. Bb1+ Kd4 51. Kf5 e3 0-1

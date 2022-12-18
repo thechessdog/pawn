@@ -1,0 +1,21 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.??.??"]
+[Round "4"]
+[White "Burn, Amos"]
+[Black "MacLeod, Nicholas"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Beverwijk variation"]
+[HashCode "113f32f1"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "CAN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Bc5 5. Nc3 d6 6. d3 h6 7. Ne2 Bd7 8. c3
+a6 9. Ba4 Qe7 10. Ng3 O-O-O 11. b4 Bb6 12. b5 Nb8 13. bxa6 Nxa6 14. Bxd7+ Nxd7
+15. d4 g6 16. a4 Rdf8 17. a5 Ba7 18. Rb1 Ndb8 19. Qb3 c6 20. Ba3 c5 21. dxe5
+dxe5 22. Nxe5 Qc7 23. Nc4 h5 24. e5 h4 25. Ne4 h3 26. Qxb7+ Qxb7 27. Ncd6+ Kd8
+28. Rxb7 hxg2 29. Rfb1 Nc6 30. Bc1 Nc7 31. Bg5+ Kd7 32. Rxc7+ Ke6 33. Rxc6 c4
+34. Bf6 Rh5 35. Rd1 Rh3 36. Rc7 1-0

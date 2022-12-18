@@ -1,0 +1,16 @@
+[Event "St.Petersburg m"]
+[Site "St.Petersburg m"]
+[Date "1862.01.01"]
+[Round "6"]
+[White "Kolisch, Ignatz"]
+[Black "Shumov, Ilia S"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "c9f896ec"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. O-O d6 5. Ng5 d5 6. exd5 Na5 7. d3 Bd6 8. f4
+Nxc4 9. dxc4 h6 10. Nxf7 Kxf7 11. fxe5 Bc5+ 12. Kh1 Re8 13. exf6 g6 14. Bxh6
+Re4 15. Nd2 Rh4 16. Bg5 Bg4 17. Qe1 Rh5 18. Qe7+ Bxe7 19. fxe7+ 1-0

@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Wyse, Bonaparte"]
+[Result "1-0"]
+[WhiteType "blind human"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Thorold variation"]
+[HashCode "3d0d4abf"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 d5 8. Bxf4
+Nf6 9. Nc3 Be6 10. Be5 h5 11. Bd3 Bg7 12. O-O Kg8 13. Qe2 c6 14. exd5 Bxd5 15.
+Nxd5 cxd5 16. Rf5 Nbd7 17. Raf1 Qe7 18. c4 Nxe5 19. Rxe5 Qd7 20. cxd5 Re8 21.
+Rxf6 Rxe5 22. dxe5 Bxf6 23. exf6 Kf7 24. Qe5 Rh6 25. Bf5 Qd8 26. Be6+ Kf8 27.
+f7 Qb6+ 28. Kh2 Qd8 29. Kg3 Rh7 30. d6 Rh6 31. d7 Rf6 32. Bxg4 Rxf7 33. Qe8+
+Qxe8 34. dxe8=Q+ Kxe8 35. Bxh5 1-0

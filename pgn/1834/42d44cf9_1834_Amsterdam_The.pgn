@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1834.01.01"]
+[Round "1"]
+[White "Amsterdam"]
+[Black "The Hague"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "42d44cf9"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Bg4 4. dxe5 Bxf3 5. Qxf3 dxe5 6. Qb3 b6 7. Bc4 Qd7
+8. Nc3 h6 9. f4 Bd6 10. fxe5 Bxe5 11. Be3 Kf8 12. O-O f6 13. Rad1 Qe8 14.
+Be6 Ne7 15. Bf7 Qc8 16. Bh5 g6 17. Bf4 Bd4+ 18. Rxd4 Nd7 19. Qe6 gxh5 20.
+Rxd7 Rh7 21. Bxh6+ Rxh6 1-0
+

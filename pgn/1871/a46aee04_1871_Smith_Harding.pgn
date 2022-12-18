@@ -1,0 +1,23 @@
+[Event "Cleveland,OH"]
+[Site "Cleveland,OH"]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Smith, HD."]
+[Black "Harding, H."]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Graz variation"]
+[HashCode "a46aee04"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 b5 5. Bb3 Bc5 6. c3 Qf6 7. O-O Nge7 8.
+d4 exd4 9. Bg5 Qg6 10. Bxe7 Bxe7 11. cxd4 O-O 12. e5 d6 13. Bd5 Bh3 14. Ne1
+Bd7 15. Qf3 dxe5 16. dxe5 Nxe5 17. Qe3 c6 18. Qxe5 Bf6 19. Bxf7+ Rxf7 20.
+Qe2 Re8 21. Qd2 Bh3 22. g3 Bxf1 23. Kxf1 Rfe7 24. Nc3 b4 25. Na4 Qe4 26.
+Ng2 Qc4+ 27. Kg1 Bd4 28. Rd1 Rd7 29. Kh1 Qd5 30. Qxb4 Re2 31. Nc3 c5 32.
+Qb8+ Rd8 33. Qc7 Re1+ 34. Rxe1 Bxc3 35. bxc3 Rf8 36. f4 g5 37. Qe5 Qxa2 38.
+Qxg5+ Kh8 39. Qe5+ Kg8 40. Qe6+ Qxe6 41. Rxe6 Rd8 42. Ne3 Rd3 43. c4 a5 44.
+Ng4 a4 45. Re2 Rc3 46. Ne5 a3 47. Kg2 Rb3 48. Kh3 Rb2 49. Re1 a2 50. Ra1
+Rc2 51. g4 Kg7 52. f5 h6 53. Kg3 Kf6 54. Nd7+ Kg5 55. h4# 1-0
+

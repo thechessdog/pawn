@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Noa, Joseph"]
+[Black "Wittek, Alexander"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "cf490cb2"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 a6 7. c3 d5 8. exd5
+exd5 9. h3 Bd6 10. Nd2 O-O 11. Qc2 Ne5 12. Be2 Ng6 13. g4 Be6 14. a3 Rc8 15.
+O-O-O b5 16. Bd3 b4 17. axb4 Bxb4 18. f4 Bd7 19. Bxa6 Ra8 20. Bd3 Ra1+ 21. Nb1
+Ba4 22. b3 Qe7 23. Nf5 Qb7 24. cxb4 Rc8 25. Bc5 Bxb3 26. Qxb3 Nxf4 27. Nd6
+Rxc5+ 28. Kb2 Rxb1+ 29. Kxb1 Qb8 30. g5 Rc6 31. gxf6 Rxd6 32. Rhe1 Rb6 33. Bf1
+Ne6 34. b5 Nc7 35. Rd2 gxf6 36. Qg3+ 1-0

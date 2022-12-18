@@ -1,0 +1,19 @@
+[Event "Cafe de la Regence"]
+[Site "Cafe de la Regence"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Mortimer, James"]
+[Black "Rosenthal, Samuel"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Fraser-Mortimer attack"]
+[HashCode "e281eb09"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Bg4 10. Qa4 Bd7 11. Qb3 Na5 12. Bxf7+ Kf8 13. Qc2 Kxf7 14. e5
+Nf6 15. e6+ Bxe6 16. Ng5+ Ke7 17. Re1 Kd7 18. Nxe6 Qg8 19. Qf5 Re8 20. Nxg7+
+Kd8 21. Qxf6+ 1-0

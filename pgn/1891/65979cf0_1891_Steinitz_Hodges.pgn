@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Hodges, Albert"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "65979cf0"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 Bxg1 4. Rxg1 Qh4+ 5. g3 Qe7 6. fxe5 Nc6 7. d4 f6 8.
+Nd5 Qd8 9. Bf4 g5 10. Qh5+ Kf8 11. Bc4 gxf4 12. gxf4 Nxd4 13. Nxf6 Qe7 14. Bxg8
+Nxc2+ 15. Kd1 h6 16. Bb3 Nxa1 17. Qxh6+ Rxh6 18. Rg8# 1-0

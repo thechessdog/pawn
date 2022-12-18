@@ -1,0 +1,16 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Meek"]
+[Black "Adbor"]
+[Result "1-0"]
+[ECO "C36"]
+[Opening "KGA"]
+[Variation "Abbazia defence (classical defence, modern defence[!])"]
+[HashCode "04194d98"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 d5 4. exd5 Qxd5 5. Nc3 Qd8 6. Ne4 Bg4 7. Qe2
+Bxf3 8. Nf6# 1-0
+

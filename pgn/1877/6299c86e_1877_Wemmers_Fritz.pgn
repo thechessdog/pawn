@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Wemmers, Carl"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Bernstein variation"]
+[HashCode "6299c86e"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. Nbd2 Nc5 10. c3 Be7 11. Qe2 Bg4 12. h3 Bh5 13. g4 Bg6 14. Nd4 Nxd4 15.
+cxd4 Bd3 16. Qf3 Nxb3 17. Nxb3 Bxf1 18. Kxf1 c6 19. Qg3 h6 20. f4 a5 21. Be3 a4
+22. Nc1 a3 23. b3 Bh4 24. Qf3 Qa5 25. Ne2 b4 26. Rc1 Qb5 27. Rc5 Qb7 28. f5 Be7
+29. Rc1 g5 30. f6 Bd8 31. Ng3 Kd7 32. Nf5 Qb5+ 33. Kf2 Qd3 34. Qg3 Qe4 35. Nd6
+Qg6 36. Nf5 Bc7 37. Rxc6 Rac8 38. Qf3 Qxf5 39. Rxc7+ Rxc7 40. Qxf5+ 1-0

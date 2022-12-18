@@ -1,0 +1,16 @@
+[Event "Madrid 1575"]
+[Site "Madrid 1575"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Castiglio"]
+[Black "Polerio"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "9b626a48"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Bc5 3. Nf3 Nc6 4. c3 Qe7 5. d4 exd4 6. cxd4 Qxe4+ 7. Kd2
+Bb4+ 8. Nc3 Qg6 9. Re1+ Kd8 0-1
+

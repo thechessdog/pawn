@@ -1,0 +1,17 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1822.01.01"]
+[Round "1"]
+[White "Cochrane, John"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor variation"]
+[HashCode "3e6fcc63"]
+[Epoch "Pawn"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Bc4 Bc5 3. c3 Qe7 4. Nf3 d6 5. O-O Nf6 6. d4 Bb6 7. Bg5 Bg4 8. Nbd2
+exd4 9. cxd4 Bxd4 10. Qb3 Bb6 11. e5 dxe5 12. Nxe5 Be6 13. Rae1 O-O 14. Ne4 Re8
+15. Nxf7 Kf8 16. Nxf6 gxf6 17. Rxe6 Qxf7 18. Bh6+ Kg8 19. Rxe8# 1-0

@@ -1,0 +1,17 @@
+[Event "Regensburg"]
+[Site "Regensburg"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Bachmann, L."]
+[Black "Fiechtl"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, open variation"]
+[HashCode "78f62c18"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5 Nxe5 7. Rxe5+
+Be7 8. Nc3 Nxb5 9. Nd5 d6 10. Rxe7+ Kf8 11. Qf3 f6 12. d3 c6 13. Qxf6+ gxf6
+14. Bh6+ Kg8 15. Nxf6# 1-0
+

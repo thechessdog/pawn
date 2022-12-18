@@ -1,0 +1,17 @@
+[Event "Berlin m4"]
+[Site "Berlin"]
+[Date "1865.??.??"]
+[Round "?"]
+[White "Neumann, Gustav Richard"]
+[Black "Knorre, Victor"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Lopez-Gianutio counter-gambit, Hein variation"]
+[HashCode "f9cd0b2e"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 Qh4+ 5. Kd1 fxe4 6. Nc3 Kd8 7. Nxe4 c6 8.
+g3 Qe7 9. Bxg8 Rxg8 10. gxf4 d5 11. Ng5 Bf5 12. Qe5 Qf6 13. d4 Nd7 14. Qxf6+
+gxf6 15. N5f3 Be4 16. Ke2 Rg2+ 17. Ke3 Kc7 18. Ne1 Re8 0-1

@@ -1,0 +1,20 @@
+[Event "Dresden"]
+[Site "Dresden"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Schellenberg"]
+[Black "Berber"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "89bbedb5"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 bxc6 6. Bc4 Nf6 7. d4 Nbd7
+8. Ne2 Nb6 9. Bb3 Bg4 10. c3 Bd6 11. O-O Qc7 12. h3 Bxe2 13. Qxe2 O-O 14.
+Nd2 Rae8 15. Nc4 Nxc4 16. Bxc4 Kh8 17. f5 e3 18. Rf3 Bh2+ 19. Kf1 Nh5 20.
+Ke1 Ng3 21. Qd3 Bg1 22. Kd1 Re7 23. f6 gxf6 24. Bxe3 Rfe8 25. Bf4 Re1+ 26.
+Kc2 R8e2+ 27. Qxe2 Rxe2+ 28. Bxe2 Qe7 29. Bd3 Ne2 30. Bd2 Nxd4+ 31. cxd4
+Bxd4 32. Re1 Be5 33. Bh6 Qb4 34. Rxe5 fxe5 35. Rxf7 1-0
+

@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Bayer, Conrad"]
+[Black "Falkbeer, Ernst Karl"]
+[Result "0-1"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "ef460bc0"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qf6 9. cxd4 Bb6 10. e5 dxe5 11. dxe5 Qg6 12. Nh4 Qh5 13. e6 fxe6 14. Bxe6 Bxe6
+15. Qxe6+ Nge7 16. Nf3 Rf8 17. Bg5 Rxf3 18. Bxe7 Nd4 19. Qe4 Rf4 20. Qxb7 Kxe7
+21. Qxa8 Ne2+ 22. Kh1 Qxh2+ 23. Kxh2 Rh4# 0-1

@@ -1,0 +1,19 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Von Kylman"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Nimzovich variation"]
+[HashCode "26582a4f"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bb5+ c6 5. dxc6 bxc6 6. Bc4 Nf6 7. d4 Nbd7 8.
+Ne2 Nb6 9. Bb3 Bg4 10. c3 Bd6 11. O-O Qc7 12. h3 Bxe2 13. Qxe2 O-O 14. Be3 Nbd5
+15. Bxd5 Nxd5 16. Nd2 f5 17. Qf2 Nxe3 18. Qxe3 c5 19. Rac1 Rac8 20. Nc4 Be7 21.
+d5 Rcd8 22. Rcd1 Rf6 23. Kh1 Rh6 24. Ne5 Bd6 25. Nc6 Rd7 26. Kh2 g5 27. g3 gxf4
+28. gxf4 Rg7 29. Rf2 Rh4 30. Rdf1 Rgg4 31. Rg1 Qg7 32. Rfg2 Qh6 0-1

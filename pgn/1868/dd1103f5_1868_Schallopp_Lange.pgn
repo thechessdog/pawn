@@ -1,0 +1,19 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1868.01.01"]
+[Round "1"]
+[White "Schallopp, Emil"]
+[Black "Lange, Max"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit declined, 5.a4"]
+[HashCode "dd1103f5"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bb6 5. a4 a6 6. O-O Nf6 7. a5 Ba7 8. d3
+O-O 9. c3 d5 10. exd5 Nxd5 11. Qb3 Be6 12. b5 axb5 13. Qxb5 Qd7 14. a6 Rfb8 15.
+Kh1 Bb6 16. Re1 bxa6 17. Rxa6 Rxa6 18. Qxa6 Bxf2 19. Bb5 Bxe1 20. Bxc6 Qd8 21.
+Qa1 Bh4 22. Nxe5 Bf6 23. Nf3 Nb4 24. Be4 Nc2 25. Qa4 Rxb1 26. Qxc2 Qb8 27. d4
+Ra1 28. d5 Bxd5 0-1

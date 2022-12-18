@@ -1,0 +1,19 @@
+[Event "DSB-03.Kongress"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Fritz, Alexander"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C13"]
+[Opening "French"]
+[Variation "classical, Anderssen variation"]
+[HashCode "31f3fcf6"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "IRE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. Bxf6 Bxf6 6. Nf3 O-O 7. Bd3 b6 8. h4
+Bb7 9. e5 Be7 10. Bxh7+ Kxh7 11. Ng5+ Kg6 12. Ne2 Bxg5 13. hxg5 f5 14. gxf6 Rh8
+15. Nf4+ Kf7 16. Qg4 Rxh1+ 17. Kd2 gxf6 18. Qg6+ Ke7 19. Qg7+ Ke8 20. Qg8+ Ke7
+21. Qxe6+ Kf8 22. Rxh1 Bc8 1-0

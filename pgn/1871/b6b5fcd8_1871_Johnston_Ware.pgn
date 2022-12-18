@@ -1,0 +1,18 @@
+[Event "USA-02.Congress"]
+[Site "Cleveland,OH"]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Johnston, A."]
+[Black "Ware, Preston"]
+[Result "0-1"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Steinitz variation"]
+[HashCode "b6b5fcd8"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Be7 4. c3 Nf6 5. Qb3 O-O 6. d3 h6 7. a4 c6 8. Qa2 d5
+9. exd5 cxd5 10. Bb3 Nc6 11. Bc2 Be6 12. b4 e4 13. Nfd2 exd3 14. Bxd3 d4 15.
+Qb2 dxc3 16. Qxc3 Bxb4 17. Qc2 Nd4 18. Qd1 Bg4 19. f3 Nxf3+ 20. gxf3 Qxd3 21.
+Ba3 Bxf3 0-1

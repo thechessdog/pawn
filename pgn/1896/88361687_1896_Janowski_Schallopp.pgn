@@ -1,0 +1,19 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Janowski, Dawid Markelowicz"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "D21"]
+[Opening "QGA"]
+[Variation "3.Nf3"]
+[HashCode "88361687"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "FRA"]
+
+1. d4 d5 2. c4 dxc4 3. Nf3 c5 4. e3 cxd4 5. exd4 Bg4 6. Bxc4 e6 7. Qa4+ Nc6 8.
+Ne5 Qxd4 9. Nxc6 Qe4+ 10. Be3 bxc6 11. Nc3 Qxg2 12. Bd5 exd5 13. Qxc6+ Kd8 14.
+Qxa8+ Kd7 15. Qb7+ Ke6 16. Qc6+ Bd6 17. Bf4 Qxh1+ 18. Kd2 Qxa1 19. Qxd6+ Kf5
+20. Qe5+ Kg6 21. Qg5# 1-0

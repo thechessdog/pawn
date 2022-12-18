@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Perrin, F."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "e957e2e3"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nf3 f6 6. Bd3 fxe5 7. Ng5 e4 8.
+Nxe6 Qe7 9. Nxd5 Qd6 10. Bf4 Qc6 11. Bb5 1-0
+

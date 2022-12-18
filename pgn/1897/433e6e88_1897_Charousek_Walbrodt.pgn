@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Charousek, Rudolf"]
+[Black "Walbrodt, Carl August"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 4.d3"]
+[HashCode "433e6e88"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Qxd5 5. Qe2 Nf6 6. Nd2 Bf5 7. dxe4 Bxe4 8.
+g4 Be7 9. Nxe4 Nxe4 10. Bg2 Qa5+ 11. Kf1 Nd6 12. Bd2 Qb6 13. Re1 Nc8 14. Be3 c5
+15. c3 O-O 16. h4 Nc6 17. h5 Qc7 18. g5 Nb6 19. Be4 f5 20. Bc2 Bd6 21. Bb3+ Kh8
+22. Nf3 Rae8 23. Nh4 Rf7 24. Bxf7 Qxf7 25. Qd3 Nd5 26. g6 1-0

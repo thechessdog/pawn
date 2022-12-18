@@ -1,0 +1,20 @@
+[Event "Berlin m2"]
+[Site "Berlin"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Mayet, Carl"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "4c6c3a03"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Ne7 6. g3 fxg3 7. Kg2 gxh2 8.
+Rxh2 Qf4 9. d4 Qf6 10. Nf3 d6 11. Nxg5 Rg8 12. Qh5 Be6 13. Bxe6 Qxe6 14. Kh1
+Qf6 15. Be3 h6 16. e5 dxe5 17. Nge4 Qf5 18. Qxf5 Nxf5 19. Nf6+ Kd8 20. Nxg8
+Nxe3 21. dxe5 Ng4 22. Rd2+ Ke8 23. Re1 Nd7 24. Nf6+ Ngxf6 25. exf6+ Kd8 26.
+Red1 Bd6 27. Ne4 1-0

@@ -1,0 +1,23 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "8"]
+[White "Williams, Elijah"]
+[Black "Harrwitz, Daniel"]
+[Result "0-1"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical defence, 4.c3"]
+[HashCode "6f8db13d"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. c3 Qf6 5. O-O Nge7 6. d4 exd4 7. Bg5 Qg6 8.
+Bxe7 Nxe7 9. cxd4 Bb6 10. Nc3 c6 11. Bd3 Qh6 12. e5 d5 13. exd6 Qxd6 14. Ne4
+Qc7 15. h3 h6 16. Ng3 Be6 17. Qd2 O-O-O 18. Ne2 g5 19. a4 a5 20. b4 axb4 21.
+Qxb4 Nd5 22. Qd2 Ba5 23. Qc2 Nb4 24. Qb1 g4 25. hxg4 Nxd3 26. Qxd3 Bxg4 27.
+Rfd1 Rhe8 28. Qc2 Bxf3 29. Qf5+ Re6 30. Qxf3 Rg8 31. d5 Reg6 32. Nf4 Rg4 33. d6
+Qd7 34. Rac1 h5 35. Rc5 Bb6 36. Rxh5 f5 37. Rh6 Bd8 38. Rh2 Bf6 39. Qe3 Re8 40.
+Qa7 Qxd6 41. Nd3 Be5 42. Rh7 Rxg2+ 43. Kxg2 Qg6+ 44. Kf3 Qg4+ 45. Ke3 Bd4+ 46.
+Kd2 Bxa7 0-1

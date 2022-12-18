@@ -1,0 +1,20 @@
+[Event "Chicago ch-USA"]
+[Site "Chicago ch-USA"]
+[Date "1874.01.01"]
+[Round "1"]
+[White "Kennicott, H."]
+[Black "Hosmer, H."]
+[Result "0-1"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Smith-Morra gambit"]
+[HashCode "5204c86a"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. d4 cxd4 3. Qxd4 Nc6 4. Qd1 e6 5. Bc4 Nf6 6. Qd3 Bc5 7. Nf3 Qb6
+8. O-O Ng4 9. Qe2 O-O 10. h3 Nge5 11. c3 f5 12. b4 Nxf3+ 13. Qxf3 Ne5 14.
+Qe2 Bd6 15. Bd3 Qc7 16. Be3 f4 17. Bd2 f3 18. Qe3 fxg2 19. Kxg2 Rf3 20. Qe2
+Rxd3 21. Be3 b6 22. f4 Rxe3 23. Qxe3 Nc4 24. Qe2 Bb7 25. Kg3 Rf8 26. e5
+Nxe5 27. fxe5 Bxe5+ 28. Kg4 Bf6 29. Na3 Qxc3 30. Nb5 h5+ 31. Kxh5 Qxh3+ 32.
+Kg6 Qh7# 0-1
+

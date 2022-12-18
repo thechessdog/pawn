@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Herve"]
+[Black "D'Arnold"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Chigorin variation"]
+[HashCode "3cf05345"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Nc6 7. O-O Be7
+8. Re1 Nf6 9. Nc3 O-O 10. Ne2 Bg4 11. Ng3 Nxd4 12. Bxh7+ Nxh7 13. Qxd4 Bxf3
+14. gxf3 Ng5 15. Bxg5 Bxg5 16. Nh5 Bh6 17. Kh1 Qg5 18. Re5 f5 19. Qxd5+ Kh8
+20. Ng3 Rad8 21. Qc5 b6 22. Qc3 Qd2 23. Qxd2 Rxd2 24. Re2 Rxe2 25. Nxe2 Rd8
+26. Ng3 Rd2 27. Nxf5 Bf4 28. Kg2 Rxc2 29. b3 c5 30. Ng3 Be3 31. Re1 Rxf2+
+32. Kh3 Rxf3 33. Kg4 Rf4+ 34. Kg5 Bd2 35. Re2 Rf2+ 36. Kg4 Rxe2 37. Nxe2
+Kg8 38. Kf5 Kf7 39. Ng3 g6+ 40. Ke5 Bc3+ 41. Kd5 Bd2 42. Ne4 Bf4 43. h3 g5
+44. a4 Kg6 45. Kc6 Kh5 46. Kb7 Be3 47. Nd6 Kh4 48. Nf5+ Kxh3 49. Nxe3 Kg3
+50. Kxa7 Kf3 51. Nf5 Kg4 52. Nh6+ Kh5 53. Kxb6 Kxh6 54. Kxc5 Kh5 55. Kd4
+Kh4 56. Ke3 Kh3 57. Kf2 Kh2 58. Kf3 Kh3 59. Kf2 Kh2 60. Kf3 Kh3 1/2-1/2
+

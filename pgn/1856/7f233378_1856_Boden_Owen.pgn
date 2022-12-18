@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Boden, Samuel"]
+[Black "Owen, John"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Mieses opening"]
+[HashCode "7f233378"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. d3 d5 2. f4 Bg4 3. h3 Bd7 4. Nf3 e6 5. b3 Nh6 6. e4 Be7 7. Be2 Bh4+ 8. Kf1
+dxe4 9. dxe4 f5 10. e5 O-O 11. Be3 Be7 12. Nbd2 c5 13. a4 b6 14. Nc4 Nf7 15. g4
+fxg4 16. hxg4 Nc6 17. Qd3 Nh6 18. Rd1 Nd4 19. c3 Nxe2 20. Kxe2 Bc6 21. Nd6 Bd5
+22. c4 Bxf3+ 23. Kxf3 Qc7 24. g5 Nf5 25. Qe4 Bxd6 26. exd6 Qd7 27. Bc1 Rac8 28.
+Bb2 Rc6 29. Be5 g6 30. Rh2 Nxd6 31. Qd3 Qb7 32. Kg4 Nf7 33. Qd7 Nxe5+ 34. fxe5
+Rc7 35. Qxe6+ Rcf7 36. Rd5 Kg7 37. Rhd2 Rf3 38. Rd7+ Kh8 0-1

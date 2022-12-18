@@ -1,0 +1,14 @@
+[Event "Washington D.C."]
+[Site "Washington D.C."]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Perry-Smith, Oliver."]
+[Black "Ferrouh Bey, Ali"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "1e98d053"]
+[Epoch "Pawn"]
+[BlackCountry "TUR"]
+
+1. e4 b6 2. Bc4 Bb7 3. Nf3 Bxe4 4. Ng5 Bg6 5. h4 f6 6. h5 Bxc2 7. Bf7# 1-0

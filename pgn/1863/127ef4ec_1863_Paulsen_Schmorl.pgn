@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Schmorl, A."]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "127ef4ec"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d3 d5 3. exd5 exd5 4. g3 Nf6 5. Bg2 Bd6 6. Ne2 Be6 7. O-O c6 8. b3
+Qc7 9. c4 dxc4 10. bxc4 Na6 11. Nbc3 O-O-O 12. Rb1 h5 13. Bg5 h4 14. Ne4 hxg3
+15. hxg3 Rh7 16. Qa4 Rdh8 17. Nxd6+ Qxd6 18. Rxb7 Nc5 19. Qxa7 Nxb7 20. Bf4 Qb4
+21. Qb8+ Kd7 22. Qc7+ Ke8 23. Bxc6+ Nd7 24. Bxb7 Qc5 25. Bc6 Rh1+ 26. Bxh1 Qh5
+27. Qc8+ Ke7 28. Qxh8 Qxh8 29. Nd4 Nc5 30. Nxe6 Nxe6 31. Be3 g5 32. Bd5 f5 33.
+Re1 Ng7 34. Bxg5+ Kd6 35. Be7+ Kd7 36. Bf6 Qf8 37. Re7+ Kd6 38. Rf7 1-0

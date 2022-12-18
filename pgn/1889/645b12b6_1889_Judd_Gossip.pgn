@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Judd, Max"]
+[Black "Gossip, George Hatfeild"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "645b12b6"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. c3 Bg4 10. Re1 c6 11. Bc2 Ng6 12. h3 Bxf3 13. Qxf3 Nxe5 14. Qf5 Bd6 15.
+f3 g6 16. Qf4 Nc4 17. Qh6 Qb6+ 18. Kh1 Qf2 19. Bd2 Qg3 20. f4 0-1

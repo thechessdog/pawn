@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Marshall variation"]
+[HashCode "6e85db89"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 d5 7. exf6 dxc4 8.
+Re1+ Be6 9. Ng5 Qd5 10. Nc3 Qf5 11. Nce4 O-O-O 12. g4 Qd5 13. fxg7 Rhg8 14. Nf6
+Qd6 15. Nge4 Qe5 16. f4 d3+ 17. Kg2 Qd4 18. c3 1-0

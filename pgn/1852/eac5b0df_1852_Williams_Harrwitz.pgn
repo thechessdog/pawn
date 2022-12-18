@@ -1,0 +1,23 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "10"]
+[White "Williams, Elijah"]
+[Black "Harrwitz, Daniel"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "eac5b0df"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "ENG"]
+
+1. f4 d5 2. e3 e6 3. Nf3 Nf6 4. b3 Bd6 5. Bb2 O-O 6. Bd3 c5 7. O-O Nc6 8. a3 d4
+9. Qe2 Nd5 10. Be4 dxe3 11. dxe3 f5 12. Bxd5 exd5 13. Qd3 Be7 14. Nc3 Be6 15.
+Rad1 Bf6 16. Ba1 h6 17. Rd2 Bxc3 18. Qxc3 Qe7 19. Ne5 Nxe5 20. Qxe5 Rf7 21. Rf3
+Re8 22. Rg3 Kh7 23. c4 dxc4 24. Rd6 Qf6 25. Qxf6 gxf6 26. bxc4 Bxc4 27. Bxf6
+Re6 28. Be5 Rxd6 29. Bxd6 Rd7 30. e4 Rxd6 31. exf5 Bd3 32. f6 c4 33. Rg7+ Kh8
+34. Rxb7 Rxf6 35. Rxa7 Rxf4 36. g3 Rf6 37. Rc7 Ra6 38. Kf2 Rxa3 39. Ke3 Ra2 40.
+h4 Re2+ 41. Kf3 Re6 42. Kg4 Rg6+ 43. Kh5 Rxg3 44. Kxh6 Rg6+ 45. Kh5 Rg7 46. Rc6
+Kg8 47. Rd6 Rc7 48. Kh6 c3 49. Rxd3 Rc6+ 50. Kh5 c2 51. Rg3+ Kf7 52. Rf3+ Ke6
+53. Re3+ Kd5 54. Re1 c1=Q 55. Rxc1 Rxc1 56. Kg6 Ke6 57. h5 Rg1+ 58. Kh7 Kf7 0-1

@@ -1,0 +1,18 @@
+[Event "Lake Keuka"]
+[Site "Lake Keuka"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Kemeny, M."]
+[Black "Souweine"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "0fdebf01"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. e4 e6 3. Be3 dxe4 4. Nd2 Nf6 5. c3 Be7 6. Qc2 Nbd7 7. Ne2 e5 8.
+Ng3 exd4 9. Bxd4 Nf8 10. Ndxe4 Be6 11. O-O-O Nxe4 12. Nxe4 Bg5+ 13. Kb1 Qd5
+14. c4 Qf5 15. Bd3 Qg4 16. f3 Qh5 17. g4 Qh6 18. h4 Bf4 19. g5 Qh5 20. Bxg7
+1-0
+

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Morphy, Paul"]
+[Black "Loewenthal, Johann Jacob"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Morphy variation"]
+[HashCode "42cce8ae"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Nf6 5. Nf3 Nxd5 6. exd5 Qxd5 7. Nc3 Qh5
+8. d4 Bd6 9. Qe2+ Kd8 10. O-O g5 11. Qb5 f5 12. Qd5 Nc6 13. Ne5 Rf8 14. Bd2 Ne7
+15. Qc4 Rf6 16. Rae1 c6 17. Na4 Bd7 18. Nc5 Bc8 19. Rf3 g4 20. Rb3 b6 1/2-1/2

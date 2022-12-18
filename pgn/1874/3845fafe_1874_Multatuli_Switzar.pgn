@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1874.01.01"]
+[Round "1"]
+[White "Multatuli"]
+[Black "Switzar, JL."]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "3845fafe"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. b4 Bb6 6. fxe5 dxe5 7. Nxe5 Qd4
+8. Nd3 Bg4 0-1
+

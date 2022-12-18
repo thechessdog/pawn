@@ -1,0 +1,24 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Meiners"]
+[Black "Schwan, Wilhelm"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, St. Petersburg variation"]
+[HashCode "b2cfe5d6"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Bc5 10. Nbd2 Nxd2 11. Qxd2 O-O 12. a4 Qd7 13. Qe2 Ne7 14. Bc2 Bf5 15.
+axb5 Bxc2 16. Qxc2 axb5 17. Rxa8 Rxa8 18. Bg5 Nf5 19. h3 Ng3 20. Rd1 h6 21. b4
+Bb6 22. Bc1 c6 23. Kh2 Ne4 24. Nd4 Qe8 25. f4 Ra4 26. Nf5 Qe6 27. Ng3 Nxg3 28.
+Kxg3 d4 29. Bb2 Qc4 30. Qe4 Ra2 31. Qc2 g5 32. fxg5 d3 33. Qd2 Qe4 34. Re1 Rxb2
+35. Rxe4 Rxd2 36. gxh6 Kh7 37. e6 fxe6 38. Rxe6 Re2 39. Rxc6 d2 40. Rd6 Bc7 41.
+Kf3 Rxg2 42. Rd7+ Kxh6 43. Kxg2 Be5 44. Rxd2 Bxc3 45. Rd6+ Kg7 46. Rb6 Bxb4 47.
+Rxb5 Bc3 48. Rb6 Bd4 49. Ra6 Kh7 50. Kf3 Kg7 51. Kg4 Bf6 52. Kh5 Bd4 53. Rg6+
+Kh7 54. Rd6 Bc5 55. Rd7+ Kg8 56. Kg6 Kf8 57. h4 Bb4 58. h5 Ba5 59. h6 Kg8 60.
+Ra7 Bd8 61. Ra8 1-0

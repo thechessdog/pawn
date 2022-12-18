@@ -1,0 +1,18 @@
+[Event "Copenhagen"]
+[Site "Copenhagen"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Mollastrom"]
+[Black "From, Martin Severin"]
+[Result "0-1"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit"]
+[HashCode "8a1870f7"]
+[Epoch "Pawn"]
+[BlackCountry "DNK"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. e4 Ng4 6. g3 Nxh2 7. Rxh2 Bxg3+
+8. Ke2 Bxh2 9. Nxh2 f5 10. Bg2 fxe4 11. Bxe4 Qh4 12. Qh1 O-O 13. Bd5+ Kh8 14.
+Qg1 Qh5+ 15. Bf3 Rxf3 16. Nxf3 Bg4 17. d3 Nc6 18. Bf4 Rf8 19. Bg3 Rxf3 20. Ke1
+Qh6 21. Nc3 Nb4 0-1

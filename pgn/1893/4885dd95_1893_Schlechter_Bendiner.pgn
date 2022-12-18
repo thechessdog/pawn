@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Bendiner"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "4885dd95"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 g6 3. c3 Bg7 4. f3 d6 5. Bd3 Ne7 6. Ne2 e5 7. Be3 O-O 8. Qd2 f5
+9. Bh6 f4 10. Bxg7 Kxg7 11. h4 h5 12. Na3 Nbc6 13. O-O-O a6 14. d5 Nb8 15. Rdg1
+Kh7 16. g4 Rg8 17. gxh5 gxh5 18. Rg5 Rxg5 19. hxg5 Kg6 20. Nxf4+ exf4 21. Qxf4
+Nd7 22. e5+ Kg7 23. Rxh5 Ng6 24. Bxg6 Nxe5 25. Bc2 Bd7 26. Rh7+ Kg8 27. Qh4 Nf7
+28. Rh8+ Nxh8 29. Qh7+ Kf8 30. Qxh8+ Kf7 31. g6+ Ke7 32. Qg7+ Ke8 33. Qf7# 1-0

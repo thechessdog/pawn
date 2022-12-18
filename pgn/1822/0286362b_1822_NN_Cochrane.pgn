@@ -1,0 +1,20 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1822.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Cochrane, John"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "close variation"]
+[HashCode "0286362b"]
+[Epoch "Pawn"]
+[BlackCountry "SCO"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Qe7 5. O-O d6 6. d3 Bg4 7. Be3 Bb6 8. h3
+Bh5 9. Nbd2 Nf6 10. Qe1 O-O 11. Nh2 Kh8 12. f4 Bxe3+ 13. Qxe3 exf4 14. Rxf4 d5
+15. Bb3 dxe4 16. Nxe4 Nxe4 17. Rxe4 Qd7 18. d4 Rae8 19. Re1 Rxe4 20. Qxe4 Bg6
+21. Qf4 Na5 22. Nf3 Nxb3 23. axb3 f6 24. Nh4 Bf7 25. Qe3 Bxb3 26. Qe7 Qxe7 27.
+Rxe7 Rc8 28. Nf5 g6 29. Ne3 b5 30. Ng4 Rf8 31. Rxc7 a5 32. Ne3 f5 33. Ra7 f4
+34. Ng4 f3 35. gxf3 Rxf3 36. Rxa5 b4 37. Kg2 bxc3 38. Kxf3 cxb2 0-1

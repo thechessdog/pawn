@@ -1,0 +1,21 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Fleissig, Bernhard"]
+[Black "Schwarz, Jacques"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Pin variation (Sicilian counter-attack)"]
+[HashCode "165ff85d"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Nc3 Bb4 6. Bd3 a6 7. O-O h5 8. h3
+Qc7 9. Nce2 Nc6 10. c3 Bc5 11. Bg5 Ne7 12. e5 Nfd5 13. c4 Nb4 14. Nf3 Nxd3 15.
+Qxd3 Nc6 16. Bf4 b6 17. a3 Bb7 18. b4 Be7 19. Qe3 Rc8 20. Rac1 Bd8 21. Rfd1 Ne7
+22. Ned4 Ng6 23. Bh2 Nf8 24. Nf5 exf5 25. e6 Nxe6 26. Bxc7 Rxc7 27. Ne5 Bg5 28.
+Qxb6 Bxc1 29. Rxc1 Rh6 30. Rd1 Bc8 31. Rd6 Rb7 32. Qa5 f6 33. Nd3 Ke7 34. Rxa6
+Kf7 35. Ra8 Rc7 36. Nc5 Rxc5 37. bxc5 Bb7 38. Ra7 Bc6 39. Qb6 Nd4 40. Qd8 Ne2+
+41. Kf1 Nf4 42. Rxd7+ Kg6 43. Rxg7+ Kxg7 44. Qc7+ 1-0

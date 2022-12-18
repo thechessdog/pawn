@@ -1,0 +1,17 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1877.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Schiffers"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence, Perreux variation"]
+[HashCode "183d40a2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. Ng5 d5 6. exd5 Na5 7. Qxd4
+Nxc4 8. Qxc4 Qxd5 9. Qxc7 Qxg2 10. Qxf7+ Kd8 11. Rf1 Bb4+ 12. c3 Re8+ 13.
+Be3 Rxe3+ 14. fxe3 Qxg5 15. cxb4 Qxe3+ 16. Kd1 Bg4+ 17. Kc2 Rc8+ 18. Nc3
+Qe2+ 19. Kb3 Be6+ 0-1
+

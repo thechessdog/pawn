@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1848.01.01"]
+[Round "1"]
+[White "Utrecht"]
+[Black "Wijk bij Duurst"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "King's Indian attack"]
+[HashCode "1e685507"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d3 d5 3. e5 c5 4. c3 Nc6 5. Nf3 Qb6 6. Be2 Nh6 7. h3 Bd7 8. a4
+Nf5 9. O-O Be7 10. Na3 a6 11. Nc2 f6 12. d4 cxd4 13. cxd4 fxe5 14. Nxe5
+Ncxd4 15. Nxd7 Nxe2+ 16. Qxe2 Kxd7 17. Re1 Bf6 18. a5 Qd6 19. Bf4 Qxf4 20.
+Qxe6+ Kc7 21. Qb6+ Kb8 22. Nb4 Qd6 23. Re6 Qxb6 24. axb6 Nd4 25. Rd6 Be7
+26. Rxd5 Bxb4 27. Rxd4 Bc5 28. Rd7 Bxb6 29. Rad1 0-1
+

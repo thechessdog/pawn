@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Lee, Francis Joseph"]
+[Black "Cohn, Wilhelm"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "f2dce4d7"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "ENG"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 c5 4. c3 e6 5. f4 Ne4 6. Bxe4 dxe4 7. Nd2 f5 8. Nc4
+Nc6 9. Ne2 Qh4+ 10. Ng3 cxd4 11. exd4 b5 12. Ne5 Nxe5 13. fxe5 h5 14. O-O Qg4
+15. Qxg4 hxg4 16. Bg5 Bb7 17. a4 b4 18. c4 Kf7 19. a5 Rc8 20. b3 Kg6 21. Be3
+Be7 22. Ne2 Kf7 23. a6 Ba8 24. Ra5 Bd8 25. Ra4 Bc6 26. Raa1 Bb6 27. Rad1 g6 28.
+Bd2 Rh7 29. Bxb4 Rch8 30. Be1 Rxh2 31. Bg3 R2h7 32. Kf2 g5 33. Ke3 f4+ 34. Nxf4
+gxf4+ 35. Rxf4+ Ke7 36. Rxg4 Rh1 37. Rxh1 Rxh1 38. c5 Bc7 39. Rg7+ Kd8 40. Bf4
+Rh8 41. Bg5+ Kc8 42. Bf6 Rf8 43. g4 Ba5 44. g5 Rh8 45. g6 Rh2 46. d5 Bxd5 47.
+Kf4 Rg2 48. Ke3 Bd2+ 49. Kd4 Rg3 50. Rg8+ Kc7 51. c6 Bb4 0-1

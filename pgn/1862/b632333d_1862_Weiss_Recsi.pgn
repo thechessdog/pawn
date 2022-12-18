@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Recsi"]
+[Result "0-1"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[HashCode "b632333d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. Nc3 Bg4 10. Qb3 Bxf3 11. Bxf7+ Kf8 12. Bxg8 Rxg8 13. gxf3 Nxd4
+14. Qd1 Qf6 15. f4 g5 16. f5 g4 17. Nd5 Qh4 18. Bf4 Nf3+ 19. Kh1 g3 20.
+Bxg3 Rxg3 0-1
+

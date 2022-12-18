@@ -1,0 +1,17 @@
+[Event "Paris 1680"]
+[Site "Paris 1680"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "De Villette, Murcey"]
+[Black "Maubisson"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Rosentreter gambit"]
+[HashCode "68d9f634"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. d4 Bg7 5. Nc3 h6 6. Bc4 Ne7 7. Qd3 d6 8.
+Bd2 f5 9. e5 d5 10. Bb3 c6 11. h4 g4 12. Ng1 Ng6 13. h5 Nh4 14. Qe2 Nxg2+
+15. Qxg2 1-0
+

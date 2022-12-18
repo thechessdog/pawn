@@ -1,0 +1,18 @@
+[Event "Vienna+"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Schwarz, Adolf"]
+[Black "Walbrodt, Carl August"]
+[Result "0-1"]
+[ECO "C14"]
+[Opening "French"]
+[Variation "classical, Alapin variation"]
+[HashCode "9df0a228"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Be7 5. e5 Nfd7 6. Bxe7 Qxe7 7. Nb5 Nb6 8.
+c3 a6 9. Na3 c5 10. Nc2 Nc6 11. f4 Na4 12. Rb1 b5 13. Nf3 c4 14. Be2 Bd7 15.
+Ne3 f5 16. O-O h6 17. h4 O-O 18. Qe1 b4 0-1

@@ -1,0 +1,18 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Vighiliansky & Mias"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "E00"]
+[Opening "Queen's pawn game"]
+[HashCode "e00fcb71"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. c4 Nf6 2. d4 e6 3. e3 d5 4. Nf3 b6 5. a3 Bb7 6. Nc3 Bd6 7. Bd3 O-O 8. O-O
+Ne4 9. Bxe4 dxe4 10. Nd2 f5 11. f4 Nd7 12. b3 c5 13. Ne2 Nf6 14. Re1 Ng4 15.
+Nf1 Qh4 16. g3 Qh3 17. Ra2 Rf6 18. Nc3 cxd4 19. exd4 Rg6 20. Qe2 e3 21. Bxe3
+Re8 22. Rd1 h5 23. Rd3 h4 24. Bc1 e5 25. b4 e4 26. Rd1 e3 27. d5 hxg3 28. Nxg3
+Nxh2 29. Qxh2 Rxg3+ 30. Rg2 e2 31. Re1 Rxg2+ 32. Qxg2 Qxc3 0-1

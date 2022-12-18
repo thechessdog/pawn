@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Burn, Amos"]
+[Result "0-1"]
+[ECO "C60"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence"]
+[HashCode "319283d6"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nge7 4. c3 d5 5. Nxe5 dxe4 6. Qa4 Qd5 7. f4 Bd7 8.
+Nxd7 Kxd7 9. O-O Nf5 10. b4 a5 11. Kh1 axb4 12. Bxc6+ bxc6 13. Qxa8 Bc5 14.
+Qxh8 Ng3+ 15. hxg3 Qh5# 0-1

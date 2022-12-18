@@ -1,0 +1,18 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Clerc, Albert"]
+[Black "De Rothschild, A."]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "King's knight's gambit"]
+[HashCode "ce7771d1"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 d6 6. O-O h6 7. c3 Nc6 8. h4
+g4 9. Nh2 f3 10. gxf3 g3 11. Ng4 Qxh4 12. Kg2 Bxg4 13. Rh1 Qf6 14. fxg4
+Qf2+ 15. Kh3 g2 16. Rg1 h5 17. g5 Nh6 18. gxh6 Bf6 19. Qxh5 Qxg1 20. Qxf7+
+Kd8 21. Qxf6+ Ne7 22. Be3 Rxh6+ 23. Qxh6 Qh1+ 24. Kg3 Qxh6 25. Bxh6 g1=Q+
+0-1
+

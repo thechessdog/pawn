@@ -1,0 +1,18 @@
+[Event "Hungary"]
+[Site "Hungary"]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Recsi"]
+[Black "Szen, Jozsef"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "normal variation"]
+[HashCode "10d1d208"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Bb2 Nf6 10. Nbd2 d5 11. exd5 Nxd5 12. Re1+ Be6 13. Ne4 O-O 14. Nfg5
+h6 15. Nxe6 fxe6 16. Qg4 Qd7 17. Nc5 Bxc5 18. dxc5 Rae8 19. Rxe6 Rxe6 20. Bxd5
+Re8 21. Rd1 Qf7 22. f4 Kh7 23. f5 Re1+ 24. Rxe1 Rxe1+ 25. Kf2 1-0

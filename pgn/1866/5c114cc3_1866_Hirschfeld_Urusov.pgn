@@ -1,0 +1,17 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Hirschfeld, Philipp"]
+[Black "Urusov, Sergey Semenovich"]
+[Result "1-0"]
+[ECO "C29"]
+[Opening "Vienna gambit, Steinitz variation"]
+[HashCode "5c114cc3"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 dxe4 5. fxe5 Ng4 6. d4 e3 7. Nh3 Nc6 8. Ne2
+Bf5 9. c3 Ncxe5 10. Ng3 Nf2 11. Nxf2 exf2+ 12. Kxf2 Ng4+ 13. Kg1 Qf6 14. h3 Nh6
+15. Bxh6 gxh6 16. Nxf5 Qxf5 1-0

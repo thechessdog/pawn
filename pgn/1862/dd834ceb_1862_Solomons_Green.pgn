@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Solomons"]
+[Black "Green"]
+[Result "1-0"]
+[ECO "A30"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "dd834ceb"]
+[Epoch "Pawn"]
+
+1. c4 c5 2. f4 e6 3. Nc3 Nc6 4. Nf3 g6 5. e3 Bg7 6. a3 Nge7 7. Bd3 O-O 8.
+b3 d5 9. Bb2 d4 10. Na4 b6 11. O-O f5 12. Qe2 Qd6 13. Rae1 Bb7 14. Kh1 dxe3
+15. dxe3 e5 16. Rd1 Qc7 17. Ng5 Bc8 18. Nc3 a6 19. Nd5 Nxd5 20. cxd5 Na5
+21. d6 Qc6 22. Bc4+ Kh8 23. Bd5 1-0
+

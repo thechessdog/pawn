@@ -1,0 +1,18 @@
+[Event "Paris 1680"]
+[Site "Paris 1680"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Morant"]
+[Black "Maubisson"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "048e28d2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. d4 d6 6. Nf3 Qh5 7. Nc3 Ne7 8.
+e5 Nf5 9. Nd5 Be7 10. Kg1 Bd8 11. Qe1 O-O 12. exd6 Nxd6 13. Be2 Bg4 14. b3
+Bxf3 15. Bxf3 g4 16. Be4 Bh4 17. Qe2 Nc6 18. Bxf4 Nxe4 19. Qxe4 Rae8 20.
+Be5 Nxe5 21. dxe5 Rxe5 0-1
+

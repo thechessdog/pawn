@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Mueller"]
+[Black "Jones"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "semi-Slav"]
+[HashCode "524903de"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 c6 4. e3 Bd6 5. Nf3 f5 6. Ne5 Nf6 7. Be2 O-O 8.
+O-O Nbd7 9. f4 Ne4 10. Nxe4 fxe4 11. Bd2 Nxe5 12. fxe5 Rxf1+ 13. Qxf1 Be7
+14. Qf2 Qf8 15. Qg3 Bd7 16. Rf1 Qe8 17. Qh3 Bg5 18. Bh5 g6 19. cxd5 gxh5
+20. Qg3 Qg6 21. d6 Rf8 22. Rc1 h4 23. Qe1 h3 24. Qg3 hxg2 25. Kxg2 Rf3 0-1
+

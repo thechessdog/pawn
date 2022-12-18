@@ -1,0 +1,17 @@
+[Event "England cg"]
+[Site "England"]
+[Date "1875.??.??"]
+[Round "?"]
+[White "Owen, K."]
+[Black "Burn, Amos"]
+[Result "0-1"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "1d596edd"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. e4 e5 4. d5 f5 5. Nc3 Nf6 6. Bxc4 fxe4 7. Nxe4 Nxe4 8.
+Qh5+ g6 9. Qxe5+ Qe7 10. Qxh8 Qb4+ 11. Kf1 Qxc4+ 12. Ne2 Bg4 13. f3 Nc6 14. Bf4
+O-O-O 15. Qxh7 Ne7 16. Rc1 Nxd5 17. Qxg6 Qxe2+ 18. Kxe2 Nxf4+ 0-1

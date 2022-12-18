@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "6"]
+[White "Gossip, George Hatfeild"]
+[Black "Jasnogrodsky, Nicolai"]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "0ba779be"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 Nc6 4. c3 e5 5. d5 Nce7 6. Ne2 f5 7. f4 fxe4 8. Bxe4
+Nf6 9. Ng3 exf4 10. O-O Nexd5 11. Bxd5 Bxd5 12. Bxf4 Bc5+ 13. Kh1 O-O 14. Bg5
+Bc6 15. Nf5 Qe8 16. b4 Qe4 17. Qd2 Ng4 18. bxc5 Rxf5 19. Rxf5 Qxf5 20. h3 Nf2+
+21. Kh2 Ne4 22. Qf4 Qxg5 23. Qxg5 Nxg5 24. cxb6 axb6 25. Nd2 Ne4 26. Nf3 Nxc3
+27. Ne5 Rxa2 28. Rc1 Rxg2+ 0-1

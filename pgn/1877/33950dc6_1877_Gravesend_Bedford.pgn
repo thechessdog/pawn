@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Gravesend"]
+[Black "Bedford"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Rubinstein variation"]
+[HashCode "33950dc6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Qe2 Be7 6. d3 exd3 7. Qxd3 O-O
+8. Bd2 g6 9. O-O-O Bf5 10. Qg3 Nbd7 11. Bd3 Bxd3 12. Qxd3 Nc5 13. Qf3 Re8
+14. f5 a6 15. Bh6 Nfd7 16. fxg6 hxg6 17. Nh3 Ne5 18. Qf4 Bd6 19. Qd4 b5 20.
+Nf2 f5 21. h4 b4 22. Ne2 Ncd7 23. c4 Bc5 24. Qf4 Bxf2 25. Bg5 Ng4 26. Qd2
+Qxg5 27. hxg5 Be3 28. Rh4 Nf2 29. Rf1 Bxd2+ 30. Kxd2 Ne4+ 31. Kc2 Nxg5 32.
+Nf4 Kg7 33. Rfh1 Re4 34. Ne6+ Nxe6 35. Rh7+ Kf6 36. Rxd7 Rxc4+ 37. Kb1 Nf4
+38. d6 cxd6 39. Rxd6+ Kg5 40. g3 Ne2 41. Rd3 Rac8 42. Rdd1 Rc1+ 0-1
+

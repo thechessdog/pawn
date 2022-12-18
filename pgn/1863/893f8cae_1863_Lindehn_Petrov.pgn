@@ -1,0 +1,29 @@
+[Event "Oxford"]
+[Site "Oxford"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Lindehn, H."]
+[Black "Petrov, Alexander"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence, 6.Bc4"]
+[HashCode "893f8cae"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Nh5 9. Bb5+ Kf8 10. Nc3 Ng3 11. Rg1 Qxh4 12. Bxf4 Ne4+ 13. g3 Qh2 14. Rf1 Bb4
+15. Qd3 Bf5 16. O-O-O Nd6 17. Qd2 Qxd2+ 18. Bxd2 Bg6 19. Bh6+ Ke7 20. Rde1 Kd8
+21. Be2 f5 22. Bd3 Re8 23. Re2 Nd7 24. Nb5 Nb6 25. c3 Nxd5 26. cxb4 Nxb4 27.
+Bxf5 Nxf5 28. Nf7+ Bxf7 29. Rxe8+ Kxe8 30. Rxf5 Nxa2+ 31. Kd2 c6 32. Nd6+ Kd7
+33. Nxb7 Bg6 34. Nc5+ Kc7 35. Bf4+ Kb6 36. Na4+ Ka6 37. Rc5 Nb4 38. Rc4 Kb5 39.
+b3 a5 40. Bc7 Nd3 41. Nc3+ Ka6 42. Rxc6+ Kb7 43. Rc4 Bf7 44. d5 Nb4 45. Bf4
+Nxd5 46. Nxd5 Bxd5 47. Rc7+ Kb6 48. Kc3 Be4 49. Re7 Rc8+ 50. Kd4 Bc2 51. Re6+
+Kb5 52. Re5+ Kb6 53. Re6+ Kb7 54. Re5 Bxb3 55. Rxa5 Kb6 56. Rh5 Bc2 57. Rh6+
+Bg6 58. Ke5 Rf8 59. Rh1 Rf5+ 60. Ke6 Kc5 61. Rh2 Kd4 62. Rf2 Kd3 63. Rd2+ Ke4
+64. Rf2 h5 65. Rb2 Bf7+ 66. Ke7 h4 67. Bb8 h3 68. Bf4 Bc4 69. Rb4 Rc5 70. Bd6
+h2 71. Bxc5 h1=Q 72. Rxc4+ Kd5 73. Rxg4 Qe1+ 74. Kf6 Kxc5 75. Rg5+ Kd6 76. g4
+Qe4 77. Rg6 Qe7+ 78. Kf5+ Kd5 79. Rh6 Qe5+ 80. Kg6 Ke6 81. Rh5 Qf4 82. Rg5 Qe4+
+83. Kg7 Ke7 84. Rg6 Qf4 85. g5 Qf8+ 86. Kh7 Qf5 87. Kg7 Ke8 88. Kh8 Qh3+ 89.
+Kg7 Qh5 90. Kf6 Kf8 91. Rh6 Qf3+ 92. Ke5 Kg7 93. Rf6 Qg4 94. Rf5 Kg6 0-1

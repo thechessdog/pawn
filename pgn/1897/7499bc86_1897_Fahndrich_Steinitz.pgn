@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Fahndrich, Hugo"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Urusov gambit"]
+[HashCode "7499bc86"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Bc4 Nf6 3. d4 exd4 4. Nf3 Nxe4 5. Qxd4 Nf6 6. Bg5 Be7 7. Nc3 c6 8.
+O-O-O d5 9. Rhe1 Be6 10. Bd3 Qa5 11. Kb1 Nbd7 12. Ne5 c5 13. Qh4 Nxe5 14. Rxe5
+O-O-O 15. Bd2 Qc7 16. Nb5 Qxe5 17. Bf4 Qh5 18. Nxa7+ Kd7 19. Bb5# 1-0

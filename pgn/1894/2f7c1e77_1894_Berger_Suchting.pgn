@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Suechting, Hugo"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "2f7c1e77"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Be7 6. d3 d6 7. Nd5 O-O 8. Ne3
+b5 9. Bb3 Na5 10. h3 Nxb3 11. axb3 c6 12. O-O Re8 13. Bd2 Bf8 14. Ba5 Qd7 15.
+Bc3 Qc7 16. Ba5 Qb7 1/2-1/2

@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Schiffers, Emanuel Stepanovich"]
+[Result "1-0"]
+[ECO "B22"]
+[Opening "Sicilian"]
+[Variation "Alapin's variation (2.c3)"]
+[HashCode "27c71021"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. c3 e6 3. d4 d5 4. exd5 exd5 5. Nf3 Nf6 6. Bb5+ Nc6 7. O-O cxd4 8.
+Re1+ Be7 9. Nxd4 Bd7 10. Qe2 Nxd4 11. cxd4 Bxb5 12. Qxb5+ Qd7 13. Nc3 Qxb5 14.
+Nxb5 Kd7 15. a3 a6 16. Nc3 Rac8 17. Bg5 Rc4 18. Bxf6 Bxf6 19. Nxd5 Rxd4 20.
+Nxf6+ gxf6 21. Rad1 Rxd1 22. Rxd1+ Kc6 23. Rd3 Re8 24. Kf1 Re5 25. Rf3 f5 26.
+Rh3 a5 27. Rxh7 Rb5 28. Rxf7 Rxb2 29. Rf6+ Kb5 30. Rxf5+ Ka4 31. g4 Rc2 32. g5
+b5 33. g6 Rc8 34. h4 b4 35. axb4 axb4 36. Rf7 b3 37. Ra7+ Kb4 38. Rb7+ Kc3 39.
+g7 b2 40. h5 Ra8 41. h6 Ra1+ 42. Kg2 Ra8 43. h7 Ra7 44. h8=Q 1-0

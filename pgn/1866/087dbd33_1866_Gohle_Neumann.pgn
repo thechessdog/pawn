@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Gohle, A."]
+[Black "Neumann, Gustav Richard"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "087dbd33"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 fxe4 5. Qh5+ g6 6. Qe5+ Qe7 7. Qxh8 Nf6 8.
+b3 d5 9. Be2 c5 10. Bb2 d4 11. c3 d3 12. c4 Nbd7 13. Bd1 e3 14. dxe3 Qxe3+ 15.
+Kf1 Ne4 16. Nh3 d2 17. Be2 f3 18. Bxf3 Ndf6 19. Bxf6 Bxh3 0-1

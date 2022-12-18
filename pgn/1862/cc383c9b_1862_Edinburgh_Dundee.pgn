@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Edinburgh"]
+[Black "Dundee"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "cc383c9b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. O-O d6 7. h3 Bd7 8.
+c3 Qf6 9. Kh1 O-O-O 10. f4 Be8 11. b4 Bb6 12. Qb3 Ng4 13. a4 d3 14. Nxf7
+Nf2+ 15. Kh2 Bxf7 16. Bxf7 d5 17. exd5 Ng4+ 18. Kg3 Qxf7 19. hxg4 h5 20. a5
+hxg4 21. Qd1 Ne7 22. f5 Qf6 23. c4 Nxf5+ 0-1
+

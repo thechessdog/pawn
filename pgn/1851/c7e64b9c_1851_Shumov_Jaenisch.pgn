@@ -1,0 +1,21 @@
+[Event "St Petersburg m"]
+[Site "St Petersburg"]
+[Date "1851.01.01"]
+[Round "?"]
+[White "Shumov, Ilia S"]
+[Black "Jaenisch, Carl"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, long whip (Stockwhip, classical) defence"]
+[HashCode "c7e64b9c"]
+[Epoch "Pawn"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 h5 6. Bc4 Rh7 7. d4 f3 8. gxf3 d6
+9. Nd3 Be7 10. Be3 Bxh4+ 11. Kd2 gxf3 12. Qxf3 Bg4 13. Qg2 Rg7 14. Nc3 Bg5 15.
+Raf1 Bxe3+ 16. Kxe3 Qg5+ 17. Rf4 Nd7 18. e5 dxe5 19. dxe5 O-O-O 20. Bd5 c6 21.
+Ne4 Qe7 22. Nd6+ Kc7 23. Nxf7 Ngf6 24. Bxc6 bxc6 25. Nxd8 Nd5+ 26. Kf2 Nxf4 27.
+Qxc6+ Kxd8 28. Qa8+ Kc7 29. Qxa7+ Kc8 30. Qa6+ Kb8 31. Qb5+ Kc7 32. Qa5+ Nb6
+33. Nxf4 Kb7 34. Nd3 Qf7+ 35. Ke1 Qf3 36. Rh2 Qe3+ 37. Kf1 Bh3+ 38. Rxh3 Rg1#
+0-1

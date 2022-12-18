@@ -1,0 +1,16 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Simonson"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch variation"]
+[HashCode "3e81e0ef"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Ne7 6. Nxe5 Nxe4 7. Qd4 Bxc3+ 8.
+bxc3 Nf6 9. Bg5 Ng6 10. Ng4 1-0

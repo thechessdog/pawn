@@ -1,0 +1,19 @@
+[Event "Philadelphia"]
+[Site "Philadelphia"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Bowers"]
+[Black "Barrett, S."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "9e276ca5"]
+[Epoch "Pawn"]
+
+1. e4 Nc6 2. d4 e5 3. d5 Nce7 4. Bc4 Ng6 5. Nf3 Bc5 6. O-O Nf6 7. Bg5 O-O
+8. Nbd2 c6 9. Qe2 a5 10. a4 h6 11. Bh4 Nxh4 12. Nxh4 Kh7 13. dxc6 dxc6 14.
+Nhf3 Qe7 15. h3 Nh5 16. Rfe1 Ng3 17. Qd3 Rd8 18. Qb3 Qf6 19. Bxf7 Rxd2 20.
+Nxd2 Bxf2+ 21. Kh2 Qf4 22. Bg8+ Kh8 23. Nf3 Bd7 24. Red1 Be8 25. Be6 Bh5
+26. Bg4 Bf7 27. Qxb7 Nf1+ 28. Kh1 Qh2+ 29. Nxh2 Ng3# 0-1
+

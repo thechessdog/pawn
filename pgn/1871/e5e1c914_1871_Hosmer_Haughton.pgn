@@ -1,0 +1,17 @@
+[Event "USA-02.Congress"]
+[Site "Cleveland,OH"]
+[Date "1871.01.01"]
+[Round "2"]
+[White "Hosmer, Henry"]
+[Black "Haughton, WB."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit"]
+[HashCode "e5e1c914"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 g5 4. h4 g4 5. d4 Nf6 6. e5 d5 7. Bb5+ c6 8. exf6
+cxb5 9. Qe2+ Be6 10. Qxb5+ Nc6 11. Bxf4 a6 12. Qxb7 Nxd4 13. c3 Nc2+ 14. Kd1
+Nxa1 15. Ne2 Rc8 16. Nd4 Qxf6 17. Nxe6 Rc4 18. Qb8+ Ke7 19. Qd6+ Ke8 20. Nc7+
+Rxc7 21. Qxf6 Rb7 22. Qc6+ Rd7 23. Re1+ Be7 24. Bd6 1-0

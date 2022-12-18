@@ -1,0 +1,21 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Baird, David Graham"]
+[Black "Martinez, Dion M"]
+[Result "1-0"]
+[ECO "C64"]
+[Opening "Ruy Lopez"]
+[Variation "classical (Cordel) defence"]
+[HashCode "45d98923"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "CUB"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Bc5 4. O-O Qf6 5. c3 Nge7 6. Bxc6 Nxc6 7. d4 Bd6 8.
+Be3 b6 9. Nbd2 Ba6 10. Re1 h6 11. Nf1 O-O-O 12. d5 Ne7 13. Qa4 Kb7 14. c4 c6
+15. Rec1 Nc8 16. N1d2 Qe7 17. a3 Rhe8 18. b4 b5 19. Qb3 cxd5 20. cxb5 Bxb5 21.
+Qxd5+ Bc6 22. Qd3 Ka8 23. b5 Bb7 24. a4 f5 25. a5 a6 26. bxa6 Bc6 27. Bb6 Nxb6
+28. axb6 Bc5 29. Rcb1 fxe4 30. Nxe4 d5 31. Nxc5 Qxc5 32. b7+ Ka7 33. Rc1 Qd6
+34. Qc3 Re6 35. Nxe5 Bb5 36. Nf7 Qb6 37. Nxd8 Re2 38. b8=Q+ 1-0

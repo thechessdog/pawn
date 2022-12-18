@@ -1,0 +1,17 @@
+[Event "Berlin sim"]
+[Site "Berlin"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Neumann, Gustav Richard"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "4bf9e112"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. d3 Qh4+ 5. Kf1 fxe4 6. dxe4 Bc5 7. Qf3 Nh6 8.
+Bxf4 Rf8 9. g3 Qe7 10. Kg2 g5 11. Qh5+ Nf7 12. Bxf7+ Rxf7 13. Bxg5 Qxe4+ 14.
+Nf3 Qe2+ 15. Kh3 d5+ 16. Kh4 Qe4+ 17. Bf4 h6 18. Nbd2 Be7+ 0-1

@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Itzehoe"]
+[Black "Flensburg"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "c2937e90"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nge7 5. Nge2 O-O 6. Na4 Bxf2+ 7. Kxf2
+f5 8. Ke1 fxe4 9. Bxe4 d5 10. Bg2 Bg4 11. d3 Nd4 12. Nac3 Bf3 13. Bxf3
+Nxf3+ 14. Kf2 Ng6 15. Ng1 Nd4+ 16. Kg2 Nh4+ 17. Kh3 Qd7+ 18. Qg4 Rf5 19.
+Kxh4 g6 20. Bg5 h5 21. Qh3 Ne6 22. Qg2 c6 23. g4 Rxg5 24. h3 Nf4 25. Qf3
+Nxh3 26. gxh5 Rf8 27. Qxh3 Rf4+ 28. Kxg5 Qe7+ 29. Kh6 Qg7+ 30. Kg5 Qf6+ 31.
+Kh6 g5# 0-1
+

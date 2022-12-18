@@ -1,0 +1,16 @@
+[Event "USA-01.Congress"]
+[Site "New York"]
+[Date "1857.01.01"]
+[Round "3"]
+[White "Allison, WS."]
+[Black "Montgomery, Hardman"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "9ef3dea8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O Nf6 5. d3 h6 6. c3 d6 7. a4 a6 8. b4 Ba7
+9. a5 O-O 10. Qb3 Ne7 11. h3 c6 12. Kh1 d5 13. exd5 cxd5 14. Nxe5 dxc4 15. Qxc4
+Be6 16. Qf4 Ng6 17. Qh2 Nxe5 18. Qxe5 Bb8 19. Qe2 Re8 20. Qc2 Qd7 21. f3 Nh5
+22. Rf2 Bb3 23. Qd2 Bf4 0-1

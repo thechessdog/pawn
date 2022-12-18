@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Stella"]
+[Black "Staunton, Howard"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "ea08cfb0"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. f4 d5 2. e3 c5 3. c4 d4 4. Bd3 Nc6 5. a3 e5 6. Nf3 exf4 7. exf4 Bd6 8. Ng5
+Bxf4 9. Qe2+ Ne5 10. Nf3 Bg4 11. O-O Ne7 12. Be4 f5 13. Qe1 Bxf3 14. Bxf3 Qd6
+15. Bh5+ g6 16. Qh4 Nd3 17. Bd1 O-O 18. a4 g5 19. Qh5 Rf6 20. Rxf4 Nxf4 0-1

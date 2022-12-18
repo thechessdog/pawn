@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Boistertre"]
+[Black "Mabillis"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "b2a00253"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 b5 6. Bb3 Bb7 7. Nc3 b4
+8. Nd5 c6 9. Nf4 Qc7 10. Nge2 Nf6 11. e5 Ng4 12. Nd3 c5 13. O-O c4 14. Rc1
+c3 15. Nxc3 bxc3 16. Rxc3 Qd8 17. Qxg4 Nc6 18. Rd1 Qe7 19. Nc5 Bc8 20. Ne4
+Nxe5 21. Rxc8+ Rxc8 22. Bxe5 Qd8 23. Nd6+ Bxd6 24. Qxg7 Rf8 25. Bxd6 1-0
+

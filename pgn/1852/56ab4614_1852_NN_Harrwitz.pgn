@@ -1,0 +1,15 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Harrwitz, Daniel"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "56ab4614"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. Ng5 Nh6 6. Nxf7 Nxf7 7. Bxf7+ Kxf7
+8. Qh5+ g6 9. Qxc5 d6 10. Qd5+ Be6 11. Qb5 Ne5 12. f4 Bc4 13. Qb4 Qh4+ 0-1

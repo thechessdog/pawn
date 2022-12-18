@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Memel"]
+[Black "Hannover"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[Variation "Ghulam Kassim variation"]
+[HashCode "88ef6e85"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. e5 Ne4 7. Bd5 Nxf2
+8. Kxf2 dxc3+ 9. Kg3 cxb2 10. Bxb2 Ne7 11. Qc2 d6 12. Be4 d5 13. Bd3 Bb6
+14. Nc3 f5 15. Rhe1 O-O 16. h3 f4+ 17. Kh2 Bf5 18. Rad1 c6 19. Ba3 Bxd3 20.
+Rxd3 Re8 21. Ne4 Nf5 22. Neg5 Nh4 23. g3 fxg3+ 24. Kxg3 Nxf3 25. Nxf3 Re6
+26. Rb3 Qe8 27. Kh2 Qh5 28. Qg2 Rg6 29. Qf1 Re8 30. Bd6 c5 31. Rb2 c4 32.
+Rb5 Qh6 0-1
+

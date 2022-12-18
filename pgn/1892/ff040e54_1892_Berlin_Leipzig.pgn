@@ -1,0 +1,20 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Berlin"]
+[Black "Leipzig"]
+[Result "1-0"]
+[ECO "C66"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, hedgehog variation"]
+[HashCode "ff040e54"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O d6 5. d4 Bd7 6. Nc3 Be7 7. Re1 Nxd4
+8. Nxd4 exd4 9. Qxd4 Bxb5 10. Nxb5 O-O 11. Bf4 Nh5 12. Be3 Bf6 13. Qd5 Be5
+14. Qxb7 c5 15. Na3 Rb8 16. Qa6 Rxb2 17. Qe2 Rb4 18. Rad1 g6 19. Nc4 Qe7
+20. a3 Rbb8 21. Rd5 Bc3 22. Bd2 Bxd2 23. Rxd2 Rfd8 24. Qd1 Ng7 25. Nxd6 Ne6
+26. e5 f6 27. exf6 Qxf6 28. Qe2 Kh8 29. Qc4 Rb6 30. Red1 Rdb8 31. Ne4 Qe5
+32. f4 Nxf4 33. Qf7 Rb1 34. Rxb1 1-0
+

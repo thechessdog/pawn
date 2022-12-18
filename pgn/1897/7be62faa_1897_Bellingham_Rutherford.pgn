@@ -1,0 +1,19 @@
+[Event "Craigside"]
+[Site "Craigside"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Bellingham, G."]
+[Black "Rutherford, A."]
+[Result "1-0"]
+[ECO "D35"]
+[Opening "QGD"]
+[Variation "Harrwitz attack"]
+[HashCode "7be62faa"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bf4 Bd7 5. e3 Be7 6. Nf3 a6 7. Rc1 O-O 8.
+Bd3 Nc6 9. Qe2 dxc4 10. Bxc4 Rc8 11. O-O Nh5 12. Bg3 Nxg3 13. hxg3 Kh8 14.
+Kh2 f5 15. Rh1 Bf6 16. Kg1 g6 17. Rd1 Qe7 18. e4 e5 19. Nd5 Qg7 20. Nxf6
+Qxf6 21. dxe5 Qe7 22. Qe3 fxe4 23. Ng5 h5 24. e6 Be8 25. Nf7+ Kg7 26. Rxh5
+Rxf7 27. Qh6+ Kf6 28. Rf5+ Kxf5 29. Qf4# 1-0
+

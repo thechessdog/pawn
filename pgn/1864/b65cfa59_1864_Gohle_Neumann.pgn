@@ -1,0 +1,20 @@
+[Event "Berlin it"]
+[Site "Berlin"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Gohle, A."]
+[Black "Neumann, Gustav Richard"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "b65cfa59"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bd3 Ne7 11. Qc2 Bg4 12. d5 Ng6 13. e5 Bxf3 14. gxf3
+dxe5 15. f4 Nxf4 16. Bxf4 exf4 17. Qa4+ c6 18. Rae1+ Kf8 19. Qb4+ Kg8 20. Qxf4
+cxd5 21. Nb5 Qd7 22. Re2 a6 23. Rfe1 Bc5 24. Nc7 Rc8 25. Re8+ Rxe8 26. Rxe8+
+Bf8 27. Bf5 Qc6 28. Be6 Qxe8 29. Nxe8 fxe6 30. Qc7 Nc4 31. Qd7 h5 32. Qxe6+ Kh7
+33. Qf7 Kh6 34. h4 1-0

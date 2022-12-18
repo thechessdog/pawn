@@ -1,0 +1,19 @@
+[Event "St Louis"]
+[Site "St Louis"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Showalter, Jackson Whipps"]
+[Black "Judd, Max"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "7039bf50"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Ne7 9. Ng5 Nxg5 10. Bxg5 Bb7 11. Qf3 Qd7 12. Nc3 c6 13. Rfe1 Qe6 14. Rad1 Qg6
+15. Qe3 O-O-O 16. Bf4 Nf5 17. Qb6 Qg4 18. Rd3 Bb4 19. Bg3 Bxc3 20. Rxc3 Nxg3
+21. Rxc6+ 1-0

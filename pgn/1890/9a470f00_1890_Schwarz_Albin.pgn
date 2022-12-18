@@ -1,0 +1,22 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Schwarz, Jacques"]
+[Black "Albin, Adolf"]
+[Result "1/2-1/2"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Steinitz attack"]
+[HashCode "9a470f00"]
+[Epoch "Pawn"]
+[BlackCountry "ROU"]
+
+1. e4 e6 2. e5 f6 3. d4 d6 4. exf6 Nxf6 5. Nf3 Be7 6. Bd3 O-O 7. Nbd2 b6 8. Qe2
+Qe8 9. Ne4 d5 10. Nxf6+ Bxf6 11. O-O c5 12. c3 c4 13. Bc2 Qh5 14. Bf4 Nc6 15.
+Ba4 Ne7 16. Bd6 a6 17. Rfe1 b5 18. Bc2 Re8 19. a4 Bd7 20. Bxe7 Rxe7 21. axb5
+Bxb5 22. Ba4 Rae8 23. Bxb5 axb5 24. Qd2 Rf8 25. Ra6 Qf5 26. h3 g5 27. Ne5 h5
+28. g4 hxg4 29. Nxg4 Kg7 30. Qe2 Rfe8 31. Rb6 Kg6 32. Nxf6 Kxf6 33. Qe5+ Qxe5
+34. Rxe5 Rh7 35. Kg2 Rh4 36. Rxb5 Reh8 37. Re3 g4 38. hxg4 Rxg4+ 39. Kf3 Rg5
+40. Ke2 Re8 41. Rb6 Rg1 42. Rf3+ Ke7 43. Rb7+ Kd6 44. Rff7 Kc6 45. Ra7 Kb6 46.
+Rfb7+ Kc6 47. Rc7+ Kd6 48. Rf7 Kc6 49. Rfc7+ Kd6 50. Rf7 Kc6 1/2-1/2

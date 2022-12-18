@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1868.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian counter-gambit"]
+[HashCode "6fe415b6"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 f5 3. exf5 e4 4. Nd4 Nf6 5. Bc4 d5 6. Bb3 Bc5 7. c3 Nc6 8. Ne6
+Bxe6 9. fxe6 Ne5 10. O-O Nfg4 11. Qe2 Qh4 12. Ba4+ c6 13. h3 Nf3+ 14. Kh1 O-O
+15. c4 dxc4 16. Qxc4 Qxf2 17. e7+ Rf7 18. Bb3 Qg1+ 0-1

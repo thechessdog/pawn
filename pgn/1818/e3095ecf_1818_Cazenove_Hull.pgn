@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1818.??.??"]
+[Round "?"]
+[White "Cazenove, J."]
+[Black "Hull"]
+[Result "1-0"]
+[ECO "C23"]
+[Opening "Bishop's opening"]
+[Variation "Philidor counter-attack"]
+[HashCode "e3095ecf"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 c6 3. Qe2 Nf6 4. c3 d6 5. d4 Be7 6. dxe5 dxe5 7. Bg5 h6 8.
+Bxf6 Bxf6 9. Nd2 O-O 10. Bb3 Bg5 11. Ndf3 Bg4 12. Rd1 Qe7 13. Bc2 Nd7 14.
+h3 Bh5 15. g4 Bg6 16. Nxg5 hxg5 17. Nf3 Rad8 18. h4 gxh4 19. Nxh4 Rde8 20.
+Nxg6 fxg6 21. Bb3+ Rf7 22. f3 Rf8 23. Qh2 1-0
+

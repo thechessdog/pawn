@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Bier, Max "]
+[Black "Noa, Joseph"]
+[Result "1-0"]
+[ECO "C78"]
+[Opening "Ruy Lopez"]
+[Variation "...b5 & ...d6"]
+[HashCode "cc16bcca"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O b5 6. Bb3 d6 7. Ng5 d5 8. exd5
+Ng4 9. dxc6 Qxg5 10. d4 Qh4 11. h3 h5 12. Nd2 Qf6 13. dxe5 Nxe5 14. Ne4 Qg6 15.
+Qe2 Be7 16. Ng5 f6 17. f4 fxg5 18. Qxe5 g4 19. Re1 Qf6 20. Bd2 Qxe5 21. Rxe5
+Kd8 22. Rd1 Bd6 23. Ba5 Rh6 24. Bf7 Bd7 25. cxd7 Bxe5 26. fxe5 1-0

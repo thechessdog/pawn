@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Lipschuetz, Samuel"]
+[Result "1-0"]
+[ECO "D37"]
+[Opening "QGD"]
+[Variation "classical variation (5.Bf4)"]
+[HashCode "9ddda1c6"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "USA"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Nf3 Be7 5. Bf4 O-O 6. c5 Nbd7 7. h3 c6 8. e3
+Re8 9. Bh2 Ne4 10. Nxe4 dxe4 11. Nd2 e5 12. Bc4 exd4 13. exd4 e3 14. Nf3 exf2+
+15. Kxf2 Nf8 16. Qb3 Be6 17. Rhe1 Bh4+ 18. g3 Bf6 19. Rad1 Bxc4 20. Qxc4 Rxe1
+21. Kxe1 Qd7 22. g4 Re8+ 23. Kf2 Re4 24. Bd6 Ne6 25. Qc2 Bxd4+ 26. Kf1 Re3 27.
+Nxd4 Nxd4 28. Rxd4 Qe6 29. Bf4 Re1+ 30. Kf2 Kf8 31. Qd2 Rh1 32. Re4 Qc8 33.
+Bd6+ Kg8 34. Qe2 1-0

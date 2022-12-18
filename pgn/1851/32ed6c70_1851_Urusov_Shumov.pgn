@@ -1,0 +1,20 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Urusov, Dmitri Semenovich"]
+[Black "Shumov, Ilia S"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "32ed6c70"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Be2 Bxf3 6. Bxf3 exf4 7. d4 Qh4+ 8.
+g3 fxg3 9. hxg3 Qxg3+ 10. Ke2 Bxd4 11. cxd4 Nc6 12. Be3 Nge7 13. Rg1 Qh2+ 14.
+Rg2 Qh3 15. Qb3 O-O 16. Nc3 Ng6 17. Rg4 Qh2+ 18. Ke1 Nh4 19. Be2 Ng2+ 20. Kd2
+Nxe3 21. Kxe3 Qh3+ 22. Bf3 Nxd4 23. Kxd4 Qxf3 24. Rag1 c5+ 25. Kc4 g6 26. Qc2
+a6 27. a3 b5+ 28. Kb3 b4 29. R1g3 c4+ 30. Ka4 Qf6 31. axb4 Qe7 32. Qh2 Rab8 33.
+Rh4 Rxb4+ 34. Kxb4 d5+ 35. Ka4 Rb8 36. Rxg6+ 1-0

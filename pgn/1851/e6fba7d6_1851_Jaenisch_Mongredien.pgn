@@ -1,0 +1,20 @@
+[Event "London2"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "?"]
+[White "Jaenisch, Carl"]
+[Black "Mongredien, Augustus"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, long whip (Stockwhip, classical) defence"]
+[HashCode "e6fba7d6"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 h5 6. Bc4 Rh7 7. d4 d6 8. Nd3 f3
+9. gxf3 Be7 10. Be3 Bxh4+ 11. Kd2 gxf3 12. Qxf3 Bg4 13. Qf4 Nc6 14. Nc3 Nxd4
+15. Raf1 Be7 16. Bxf7+ Kd7 17. Bxh5 Bxh5 18. Rxh5 Rxh5 19. Qg4+ Ne6 20. Qxh5
+Nf6 21. Qb5+ c6 22. Qxb7+ Nc7 23. e5 Ng4 24. e6+ Kxe6 25. Qxc6 Nxe3 26. Kxe3
+Bg5+ 27. Nf4+ Kf7 28. Kd3 Bf6 29. Ne4 Ne8 30. Qd5+ Kg7 31. Ne6+ 1-0

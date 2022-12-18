@@ -1,0 +1,17 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Craig, William A C"]
+[Result "0-1"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, 5.de"]
+[HashCode "445c5ee4"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Bc4 Qh4+ 7. Ke2 Qg4+ 8.
+Nf3 Qxg2+ 9. Ke3 Bc5+ 10. Nd4 Qf2+ 11. Kxe4 f5+ 12. Nxf5 Bxf5+ 13. Kxf5 O-O+
+14. Ke5 Re8+ 15. Kf5 g6+ 16. Kg5 Be7+ 17. Kg4 Qg2# 0-1

@@ -1,0 +1,20 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Lange, Max"]
+[Black "Hruby, Vincenz"]
+[Result "1-0"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Cozio defence deferred"]
+[HashCode "f20a540f"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "CZE"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nge7 5. d4 exd4 6. O-O Ng6 7. Nxd4 Be7 8.
+Nc3 Bf6 9. Be3 O-O 10. f4 Nxd4 11. Bxd4 d6 12. Bxf6 Qxf6 13. Qd2 b5 14. Bb3 Bb7
+15. Nd5 Bxd5 16. Bxd5 Rab8 17. c3 a5 18. Rf2 b4 19. Rc1 c5 20. Rcf1 Ne7 21. e5
+dxe5 22. fxe5 Qxe5 23. Bxf7+ Kh8 24. Re1 Qc7 25. Qe2 Nc6 26. Qh5 bxc3 27. Bg6
+h6 28. Rxf8+ Rxf8 29. Qxc5 cxb2 30. Qxf8# 1-0

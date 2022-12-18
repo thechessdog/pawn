@@ -1,0 +1,16 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "Morphy, Paul"]
+[Black "Conway, H."]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Ghulam Kassim gambit"]
+[HashCode "1b06f6b9"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. Qxf3 Bh6 7. O-O Ne7 8.
+Bxf4 Bxf4 9. Bxf7+ Kxf7 10. Qxf4+ Kg7 11. Qf6+ Kg8 12. Qf7# 1-0

@@ -1,0 +1,17 @@
+[Event "Swinemunde"]
+[Site "Swinemunde"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Stoltz, Gösta"]
+[Black "Saemisch, Fritz"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "47b26f71"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. d4 d6 7. Nd3 Nxe4 8. Qe2
+Qe7 9. Bxf4 Bg7 10. c3 h5 11. Nd2 Nxd2 12. Kxd2 Qxe2+ 13. Bxe2 Bf5 14. Rhf1 Nd7
+15. Nb4 Nf6 16. Bb5+ Bd7 17. Rae1+ Kd8 18. Bg5 1-0

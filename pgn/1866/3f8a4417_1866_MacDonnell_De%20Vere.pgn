@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.??.??"]
+[Round "1"]
+[White "MacDonnell, George Alcock"]
+[Black "De Vere, Cecil Valentine"]
+[Result "0-1"]
+[ECO "C53"]
+[Opening "Giuoco Piano"]
+[HashCode "3f8a4417"]
+[Epoch "Pawn"]
+[WhiteCountry "IRL"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Nf6 6. e5 d5 7. Bb5 Ne4 8. cxd4
+Bb6 9. O-O O-O 10. Bxc6 bxc6 11. Nc3 f5 12. exf6 Qxf6 13. Nxe4 dxe4 14. Ne5 Rd8
+15. Qb3+ Be6 16. Bg5 Bxb3 17. Bxf6 gxf6 18. Nxc6 Bd5 19. Nxd8 Bxd4 0-1

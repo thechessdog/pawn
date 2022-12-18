@@ -1,0 +1,18 @@
+[Event "Barcelona"]
+[Site "Barcelona"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Carreras, T."]
+[Black "Battle"]
+[Result "1-0"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Falkbeer variation"]
+[HashCode "aa77d808"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 Bb4 4. Bc4 Bxc3 5. bxc3 d5 6. exd5 Nxd5 7. Qf3
+Nxf4 8. Ba3 Nxg2+ 9. Qxg2 Qh4+ 10. Qg3 Qxc4 11. Qxg7 Qe4+ 12. Kf2 Qxh1 13.
+Nf3 Qxa1 14. Qxh8+ Kd7 15. Nxe5+ Ke6 16. Qe8+ Kd5 17. Qxf7+ Be6 18. Qf3+
+Kxe5 19. d4# 1-0
+

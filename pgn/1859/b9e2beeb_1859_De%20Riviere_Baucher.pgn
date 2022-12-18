@@ -1,0 +1,22 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "De Riviere, Jules Arnous"]
+[Black "Baucher, H."]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence, 6.Bc4"]
+[HashCode "b9e2beeb"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Bc4 d5 7. exd5 Bd6 8. d4
+Qe7 9. O-O Nh5 10. Re1 O-O 11. Nxg4 Qxh4 12. Nh2 f3 13. Nxf3 Qg3 14. Nc3 Bg4
+15. Be3 Bxf3 16. Qxf3 Qh2+ 17. Kf1 Ng3+ 18. Kf2 Qh4 19. Ne2 Ne4+ 20. Kf1 Qh1+
+21. Ng1 f5 22. Bf4 Bxf4 23. Qxf4 Nd6 24. Re3 Qh5 25. Be2 Qf7 26. c4 Nd7 27. Nf3
+Ne4 28. Ne5 Qg7 29. Rd1 Rae8 30. Nxd7 Qxd7 31. Rh3 Re7 32. b3 Rg7 33. Rh4 Ng3+
+34. Kf2 Nxe2 35. Kxe2 Rxg2+ 36. Kd3 Qe7 37. Rdh1 Qe2+ 38. Kc3 Qc2+ 39. Kb4 a5+
+40. Kb5 Qxa2 41. R4h3 Rg7 42. Qe5 Qa3 43. Qe6+ Kh8 44. Rxh7+ Rxh7 45. Qe5+ Kg8
+46. Rg1+ 1-0

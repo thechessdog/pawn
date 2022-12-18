@@ -1,0 +1,16 @@
+[Event "London"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Staunton, Howard"]
+[Black "Mayet, Carl"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "7eaad1c2"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O Nge7 6. Ng5 d5 7. exd5 Ne5 8.
+Bb3 h6 9. Ne4 Bb6 10. h3 Nxd5 11. Qh5 O-O 12. Qxe5 Be6 13. Bxh6 1-0

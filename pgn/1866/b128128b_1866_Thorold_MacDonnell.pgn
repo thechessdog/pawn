@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Thorold, Edmund"]
+[Black "MacDonnell, George Alcock"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "b128128b"]
+[Epoch "Pawn"]
+[BlackCountry "IRL"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Be2 Bxf3 6. Bxf3 Nc6 7. b4 Bb6 8. b5
+Nce7 9. d4 exd4 10. cxd4 a6 11. bxa6 Rxa6 12. O-O Nc6 13. Be3 Qa8 14. Rf2 Qa7
+15. Rd2 Ra4 16. Nc3 Rxd4 17. Kh1 Rxd2 18. Bxd2 Nge7 19. Nb5 Qb8 20. Qb3 O-O 21.
+Bc3 Qc8 22. Nxd6 Qe6 23. Nc4 Bd4 24. f5 Qf6 25. Rc1 Bxc3 26. Qxc3 Qxc3 27. Rxc3
+Rd8 28. g4 b5 29. Ne3 b4 30. Rc1 Rd3 31. Re1 Ra3 32. Re2 Nd4 33. f6 gxf6 34.
+Nc2 Nxc2 35. Rxc2 Rxf3 36. Rxc7 Ng6 37. Rc4 Nf4 38. Kg1 Rc3 0-1

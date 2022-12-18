@@ -1,0 +1,18 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Freire, I."]
+[Black "Machado, J."]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Ghulam Kassim gambit"]
+[HashCode "c7727bd6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. d4 gxf3 6. Qxf3 d5 7. Bxd5 c6 8.
+Bb3 Qxd4 9. Bxf4 Nf6 10. Nd2 Bg4 11. Qg3 Nbd7 12. c3 Qc5 13. e5 O-O-O 14.
+Bxf7 Nxe5 15. Bxe5 Rxd2 16. Bxf6 Re2+ 17. Kf1 Qf5+ 18. Kg1 Bd6 19. Qh4 Qe4
+20. Be6+ Qxe6 21. h3 Qe3+ 0-1
+

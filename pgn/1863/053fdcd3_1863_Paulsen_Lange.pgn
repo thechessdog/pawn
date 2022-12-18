@@ -1,0 +1,20 @@
+[Event "Dusseldorf"]
+[Site "Dusseldorf"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Lange"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "normal variation"]
+[HashCode "053fdcd3"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. d5 Ne5 10. Nxe5 dxe5 11. Nc3 Ne7 12. Ne2 O-O 13. Kh1 Bg4 14. f3 Bh5
+15. Bb2 Qd6 16. Ng3 Bg6 17. Qe2 Rfe8 18. Rad1 a6 19. f4 exf4 20. e5 Qc5 21.
+Rxf4 Rad8 22. e6 Nxd5 23. Rxf7 Nf6 24. Rfd7 Nxd7 25. exd7+ Kh8 26. dxe8=Q+ Rxe8
+27. Qg4 Qf2 28. Bc3 Qc5 29. Qf4 Qe7 30. Rf1 Bc5 31. Nf5 Bxf5 32. Qxf5 Rf8 33.
+Bf7 Bd6 34. Rf3 1-0

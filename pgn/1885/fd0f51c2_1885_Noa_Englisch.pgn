@@ -1,0 +1,18 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "15"]
+[White "Noa, Joseph"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Anderssen variation"]
+[HashCode "fd0f51c2"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d3 d6 6. c3 Bd7 7. Nbd2 h6 8. Nf1
+Ne7 9. Bc2 Ng6 10. h3 d5 11. Be3 Bd6 12. Qd2 c5 13. Qe2 d4 14. Bd2 dxc3 15.
+bxc3 O-O 16. g4 Re8 17. Ng3 Nf4 18. Qf1 Qc7 19. Nh4 Rac8 0-1

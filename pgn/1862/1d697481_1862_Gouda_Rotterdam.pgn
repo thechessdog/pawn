@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Gouda"]
+[Black "Rotterdam"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, McDonnell attack"]
+[HashCode "1d697481"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. d4 Ne7 7. g3 fxg3
+8. Kg2 Qh6 9. Nf3 gxh2 10. Nxg5 Rf8 11. Nxf7 Qg6+ 12. Ng5 Bf6 13. Be2 Qg7
+14. Bh5+ Kd8 15. Qg4 Rg8 16. Bf7 Qxg5 17. Bxg5 Rxg5 18. Qxg5 Bxg5 19. Raf1
+d6 20. Bg8 Nd7 21. Bxh7 Nf6 22. Rxh2 Ke8 23. Kg3 Be6 24. e5 Nxh7 25. Rxh7
+dxe5 26. dxe5 Bg8 27. Rh8 Kd7 28. Ne4 Be3 29. Kf3 Bb6 30. Nf6+ Kc6 31. Rd1
+Bc5 32. c4 Rc8 33. Rh6 Bxc4 34. Rc1 Nf5 35. Rxc4 Nxh6 36. b4 Kb5 37. Rxc5+
+Kxb4 38. Rxc7 Rxc7 39. Nd5+ Ka3 40. Nxc7 Kxa2 41. Ke4 Kb3 42. Kd4 Kb4 43.
+e6 a6 44. Nd5+ Ka4 45. Kc5 Nf5 46. e7 Ng7 47. Nc7 a5 48. Kb6 Kb4 49. Nd5+
+Kc4 50. Kxa5 Kxd5 1/2-1/2
+

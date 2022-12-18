@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Anderssen, Adolf"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "8d91c70d"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. d5 Nb8 7. Nxe5 O-O 8.
+Re1 Nf6 9. Nc3 d6 10. Nf3 c6 11. Ba4 Bg4 12. Qe2 Bxf3 13. gxf3 Re8 14. Bg5 b5
+15. Bxf6 gxf6 16. dxc6 bxa4 17. c7 Qd7 18. cxb8=Q Raxb8 19. Nd5 Kf8 20. Qe3 Kg7
+21. Nxe7 Rb5 22. Nf5+ Rxf5 23. Qd3 Ree5 24. Kh1 Rf4 25. Rg1+ Rg5 26. Rg3 Qf5
+27. Qxf5 1-0

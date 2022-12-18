@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1824.01.01"]
+[Round "1"]
+[White "London"]
+[Black "Edinburgh"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "278c5bbe"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. c3 Qe7 6. O-O dxc3 7. Nxc3 d6
+8. Nd5 Qd7 9. b4 Nxb4 10. Nxb4 Bxb4 11. Ng5 Nh6 12. Bb2 Kf8 13. Qb3 Qe7 14.
+Nxf7 Nxf7 15. Qxb4 Ne5 16. f4 Nxc4 17. Qxc4 Qf7 18. Qc3 Be6 19. f5 Bc4 20.
+Rf4 b5 21. e5 dxe5 22. Qxe5 h6 23. Re1 Rh7 24. f6 g5 25. Rf5 a5 26. Qc5+
+Kg8 27. Rxg5+ hxg5 28. Qxg5+ Kf8 29. Bd4 Be6 30. Qc5+ Kg8 31. Qg5+ Kf8 32.
+Bc5+ Ke8 33. Qd5 Ra6 34. Qb7 Qh5 35. f7+ Kxf7 36. Rf1+ Kg6 37. Qe4+ Bf5 38.
+Qe8+ Rf7 39. Qg8+ Kf6 40. g4 Ra8 41. Qxa8 Qxg4+ 42. Kh1 Rd7 43. Ba3 Kf7 44.
+Qc6 Rd1 45. Qxb5 Qe4+ 46. Kg1 Kg6 47. Qb2 Qg4+ 48. Qg2 Qxg2+ 49. Kxg2 Bh3+
+50. Kxh3 Rxf1 51. Be7 a4 52. a3 Rf4 0-1
+

@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1839.01.01"]
+[Round "1"]
+[White "Bledow, Ludwig Erdmann"]
+[Black "Schorn, C."]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "b1e56028"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 d6 5. c3 dxc3 6. Nxc3 h6 7. Qb3 Qd7 8.
+Bb5 a6 9. Qa4 axb5 10. Qxa8 Nb4 11. O-O Na6 12. Nxb5 Nf6 13. e5 Nd5 14. exd6
+Nb6 15. Re1+ Kd8 16. dxc7+ Nxc7 17. Qb8 Qxb5 18. Bf4 Na6 19. Rad1+ Nd7 20.
+Qxc8+ Kxc8 21. Re8# 1-0

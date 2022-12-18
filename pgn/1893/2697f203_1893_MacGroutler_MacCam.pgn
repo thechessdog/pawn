@@ -1,0 +1,15 @@
+[Event "Scotland"]
+[Site "Scotland"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "MacGroutler"]
+[Black "MacCam"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "2697f203"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf5 Nge7 6. Nd6# 1-0
+

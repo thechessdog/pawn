@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Paulsen, Louis"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, 4.O-O"]
+[HashCode "890f1c0d"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Be7 5. Nc3 Nd4 6. Nxd4 exd4 7. e5 dxc3 8.
+exf6 Bxf6 9. Re1+ Be7 10. dxc3 O-O 11. Bf4 d5 12. Qf3 Bd6 13. Rad1 c6 14. Bd3
+Be6 15. Qh5 g6 16. Qh6 Bxf4 17. Qxf4 Qd7 18. Qf6 Rae8 19. h3 Qd8 20. Qxd8 Rxd8
+21. f4 Rde8 22. g4 f5 23. g5 Bd7 24. Kf2 Kf7 25. h4 Rxe1 26. Rxe1 h5 1/2-1/2

@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Deventer"]
+[Black "Gouda"]
+[Result "0-1"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "e5dcc3da"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Be6 5. Nc3 Bb4 6. Qa4+ Nc6 7. a3 Bxc3+
+8. bxc3 Ne7 9. Nf3 O-O 10. cxd5 Nxd5 11. Qc2 Re8 12. Be2 Bg4 13. O-O Nxc3
+14. Bc4 Bxf3 0-1
+

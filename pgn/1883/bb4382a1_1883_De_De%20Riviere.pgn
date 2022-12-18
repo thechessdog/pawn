@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "De Boistertre"]
+[Black "De Riviere, Jules Arnous"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "bb4382a1"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 c2 5. Qxc2 Nc6 6. Qb3 Qf6 7. Nf3 Bc5 8.
+Nc3 Nge7 9. O-O O-O 10. Bg5 Qg6 11. Bd3 d6 12. Bxe7 Nxe7 13. Nd5 Nxd5 14. Qxd5
+c6 15. Qb3 Bh3 16. Ne1 b5 17. Kh1 Be6 18. Qc2 f5 19. e5 Bd5 20. f4 Rad8 0-1

@@ -1,0 +1,16 @@
+[Event "Kassa"]
+[Site "Kassa"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Charousek, Rudolf"]
+[Black "Englander"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Maurian defence"]
+[HashCode "3e84c57c"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Nc6 4. d4 g5 5. h4 Bg7 6. hxg5 Qxg5 7. Ne2 Bf6 8.
+Bxf4 Qxg2 9. Rg1 Qxe4 1-0

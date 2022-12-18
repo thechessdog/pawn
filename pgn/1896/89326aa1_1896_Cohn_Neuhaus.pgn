@@ -1,0 +1,17 @@
+[Event "Eisenach"]
+[Site "Eisenach"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Cohn, Wilhelm"]
+[Black "Neuhaus"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch variation"]
+[HashCode "89326aa1"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. d4 Bb4 5. d5 Ne7 6. Nxe5 Nxe4 7. Qd4 Bxc3+ 8.
+bxc3 Nf6 9. Bg5 Nfg8 10. d6 cxd6 11. Nxf7 Kxf7 12. Bc4+ Kg6 13. h4 Nf5 14. Qg4
+Qe8+ 15. Be7+ 1-0

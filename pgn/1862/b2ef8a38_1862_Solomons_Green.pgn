@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Solomons"]
+[Black "Green"]
+[Result "0-1"]
+[ECO "A10"]
+[Opening "English opening"]
+[HashCode "b2ef8a38"]
+[Epoch "Pawn"]
+
+1. c4 d5 2. cxd5 Qxd5 3. Nc3 Qd8 4. e3 Nf6 5. Bc4 e6 6. f4 Be7 7. Nf3 Nbd7
+8. a3 O-O 9. O-O b6 10. b3 Bb7 11. Bb2 Nc5 12. Qc2 a6 13. b4 Nce4 14. Bd3
+Nxc3 15. Bxc3 h6 16. f5 exf5 17. Bxf5 Qd5 18. Rf2 a5 19. bxa5 bxa5 20. Nh4
+Ne4 21. Rf4 Nxc3 22. dxc3 Bxh4 23. Be4 Qc5 24. Rxh4 Qxe3+ 25. Kh1 Bxe4 26.
+Rxe4 Qc5 27. a4 Rae8 28. Rg4 Re3 29. Rc1 Rfe8 30. h3 Re1+ 31. Rxe1 Rxe1+
+32. Kh2 Qe5+ 33. Rg3 Re3 34. Qf2 Qxg3+ 35. Qxg3 Rxg3 36. Kxg3 Kf8 37. Kf4
+Ke7 0-1
+

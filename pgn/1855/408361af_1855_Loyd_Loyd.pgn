@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Loyd, T."]
+[Black "Loyd, Samuel"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Ponziani opening"]
+[HashCode "408361af"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. c3 Bc5 4. b4 Bb6 5. b5 Na5 6. Nxe5 Qe7 7. d4 d6 8.
+Ba3 f6 9. Nf3 Qxe4+ 10. Be2 Nc4 11. O-O Nxa3 12. Re1 Qf4 13. Nxa3 d5 14.
+Bc4+ Ne7 15. Bxd5 Qd6 16. Qb3 Rf8 17. Re3 Kd8 18. Bf7 c6 19. bxc6 bxc6 20.
+Rae1 Nf5 21. Nc4 Qd7 22. Nxb6 axb6 23. Qxb6+ Qc7 24. Re8+ Rxe8 25. Rxe8+
+Kd7 26. Be6+ Kd6 27. Qc5# 1-0
+

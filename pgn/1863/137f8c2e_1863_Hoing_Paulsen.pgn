@@ -1,0 +1,16 @@
+[Event "Dusseldorf"]
+[Site "Dusseldorf"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Hoeing, Karl"]
+[Black "Paulsen, Wilfried"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "137f8c2e"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e3 e5 2. Nc3 Nf6 3. Be2 d5 4. d4 exd4 5. exd4 Be7 6. Bf3 Nc6 7. a3 O-O 8.
+Nge2 Re8 9. O-O Na5 10. Be3 Nc4 11. Qc1 Nxe3 12. fxe3 c6 13. Nd1 Ng4 14. Ng3
+Nxh2 15. Kxh2 Bd6 16. Kg1 Bxg3 0-1

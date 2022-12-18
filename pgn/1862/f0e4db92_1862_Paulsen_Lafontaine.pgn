@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Paulsen"]
+[Black "Lafontaine"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "f0e4db92"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Bc4 Bd7 5. Nxd4 Nf6 6. O-O Be7 7. Nc3 O-O
+8. f4 Bg4 9. Qd3 c5 10. Nf3 Nc6 11. Be3 Nb4 12. Qd2 Bxf3 13. gxf3 Nd7 14.
+a3 Nb6 15. Be2 Nc6 16. Kh1 Qd7 17. Rg1 Rad8 18. Nd5 Nxd5 19. exd5 Nb8 20.
+Bd3 f5 21. Rg2 Rf7 22. Rag1 b6 23. c4 g6 24. Qc2 Re8 25. Bd2 Bf8 26. Bc3
+Bg7 27. Bxg7 Rxg7 28. Bxf5 Qc7 29. Be6+ Kh8 30. f5 Nd7 31. fxg6 h6 32. Qd2
+1-0
+

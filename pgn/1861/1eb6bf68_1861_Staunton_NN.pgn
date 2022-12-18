@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "Staunton, Howard"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "1eb6bf68"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. O-O d6 5. h3 f5 6. d4 exd4 7. Ng5 Qf6 8. Nf7
+Ne5 9. Bg5 Qg6 10. Nxh8 Qxg5 11. f4 d3+ 12. Kh1 Qh4 13. fxe5 fxe4 14. Qe1 Qxe1
+15. Rxe1 Ne7 16. exd6 cxd6 17. Bf7+ Kf8 18. cxd3 exd3 19. Nc3 d2 20. Rf1 Nf5
+21. Bb3 Ke8 22. Ne4 Ne3 23. Rf3 Bd7 24. Nxc5 1-0

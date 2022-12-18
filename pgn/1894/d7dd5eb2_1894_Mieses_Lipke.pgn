@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Lipke, Paul"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Alapin variation"]
+[HashCode "d7dd5eb2"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Be3 dxe4 4. Nd2 Nf6 5. g3 Nc6 6. c3 e5 7. Ne2 Bg4 8. Qb3
+Qd5 9. c4 Qd7 10. d5 Nb4 11. Nc3 b6 12. h3 Bf3 13. Nxf3 exf3 14. a3 Na6 15. c5
+Nb8 16. cxb6 axb6 17. Bb5 c6 18. dxc6 Qc7 19. Na4 Bc5 20. Nxc5 bxc5 21. Bxc5
+Na6 22. Qa4 Qc8 23. c7+ Nd7 24. Bc6 Qxc7 25. Rd1 1-0

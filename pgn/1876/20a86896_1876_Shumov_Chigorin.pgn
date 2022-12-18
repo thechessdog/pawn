@@ -1,0 +1,23 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Shumov, Ilia S"]
+[Black "Chigorin, Mikhail"]
+[Result "1-0"]
+[ECO "B40"]
+[Opening "Sicilian"]
+[Variation "Anderssen variation"]
+[HashCode "20a86896"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 Nf6 5. Bd3 Nc6 6. Be3 Be7 7. O-O O-O 8.
+f4 d5 9. e5 Nd7 10. c3 Nc5 11. Bxh7+ Kxh7 12. Qh5+ Kg8 13. Rf3 Nxd4 14. cxd4
+Ne4 15. Rh3 f5 16. Nd2 Nxd2 17. Bxd2 Qb6 18. Bc3 Bd7 19. Rf1 Rac8 20. Qh7+ Kf7
+21. Qh5+ g6 22. Qh7+ Ke8 23. Qxg6+ Kd8 24. Rh7 Be8 25. Qg3 Rc7 26. Qe1 Kc8 27.
+Qd2 Qc6 28. Rxe7 Rxe7 29. Bb4 Qc7 30. Bd6 Qd8 31. Rc1+ Bc6 32. Qb4 Rff7 33. Qc5
+Rd7 34. b4 Rxd6 35. exd6 Kb8 36. b5 Bd7 37. a4 Qa5 38. Qc7+ Qxc7 39. Rxc7 Be8
+40. Rxf7 Bxf7 41. Kf2 Kc8 42. Kg3 Kd7 43. Kh4 Kxd6 44. Kg5 Ke7 45. h4 Kf8 46.
+h5 Bg8 47. Kf6 Bf7 48. h6 Bg8 49. a5 b6 50. a6 Bh7 51. Kxe6 Ke8 52. Kf6 Kf8 53.
+g3 Kg8 54. Ke7 1-0

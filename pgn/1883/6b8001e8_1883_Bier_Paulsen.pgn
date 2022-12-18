@@ -1,0 +1,25 @@
+[Event "DSB-03.Kongress"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "10"]
+[White "Bier, Max "]
+[Black "Paulsen, Wilfried"]
+[Result "1-0"]
+[ECO "B43"]
+[Opening "Sicilian"]
+[Variation "Kan, 5.Nc3"]
+[HashCode "6b8001e8"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. Nc3 a6 4. d4 cxd4 5. Nxd4 Qc7 6. Be2 b5 7. a3 Bb7 8. O-O
+Nf6 9. Bf3 Bd6 10. g3 Be5 11. Be3 h5 12. Qe2 Nc6 13. Nxc6 Bxc6 14. Bd2 h4 15.
+Kg2 Ke7 16. Rae1 Bxc3 17. Bxc3 a5 18. Qe3 Rh6 19. Qg5 Rah8 20. e5 hxg3 21.
+exf6+ gxf6 22. Qc5+ Ke8 23. Bxc6 Rxh2+ 24. Kf3 gxf2 25. Re4 dxc6 26. Bxf6 R8h5
+27. Be5 Qb7 28. Qd6 Rf5+ 29. Ke2 c5 30. Re3 Rg2 31. Qxc5 Rg1 32. Qc7 Rxf1 33.
+Qxb7 Re1+ 34. Kd2 Rd1+ 35. Kxd1 f1=Q+ 36. Re1 Qc4 37. Qb8+ Ke7 38. Qd6+ Ke8 39.
+Kc1 f6 40. Bg3 Rf1 41. Qd3 Qxd3 42. cxd3 Rf3 43. Bc7 Rxd3 44. Bxa5 e5 45. Bc3
+Kf7 46. Bxe5 fxe5 47. Rxe5 b4 48. axb4 Rd4 49. Kc2 Rxb4 50. Kc3 Rh4 51. b4 Kf6
+52. Re2 Rh1 53. b5 Rb1 54. Kc4 Rc1+ 55. Kb4 Rb1+ 56. Kc5 Rc1+ 57. Kd6 Rd1+ 58.
+Kc7 Rc1+ 59. Kb7 Rb1 60. b6 Kf7 61. Rc2 Re1 62. Ka8 Ra1+ 63. Kb8 Ke6 64. Kc8
+Ra8+ 65. Kc7 Rh8 66. b7 Rh7+ 67. Kb6 1-0

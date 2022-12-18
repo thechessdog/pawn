@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "De Lelie, A."]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed, Basque gambit (North Spanish variation)"]
+[HashCode "1fc6cba7"]
+[Epoch "Pawn"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 exd4 6. O-O Be7 7. e5 Ne4 8. c3
+dxc3 9. Re1 cxb2 10. Bxb2 Nc5 11. Bc2 Ne6 12. Nbd2 b5 13. Ne4 Bb7 14. h3 a5 15.
+Nh2 a4 16. a3 Na5 17. Ng4 Nc4 18. Bc3 Bxe4 19. Bxe4 c6 20. Ne3 Nxa3 21. Nf5 Nc4
+22. Nd6+ Nxd6 23. exd6 Bf6 24. Ra3 Bxc3 25. Rxc3 O-O 26. Qh5 g6 27. Rg3 Qf6 28.
+Ree3 a3 29. Qd1 a2 30. Ra3 b4 0-1

@@ -1,0 +1,23 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "2ac4f038"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nf3 Qh5 7. h4 Bg7 8. d4
+h6 9. Kg1 Qg6 10. Nc3 Ne7 11. e5 Nbc6 12. h5 Qh7 13. Be4 Bf5 14. Bxf5 Nxf5 15.
+d5 O-O-O 16. Qe2 Ng3 17. Qc4 Nxe5 18. Nxe5 Bxe5 19. Nb5 Qe4 20. Qxe4 Nxe4 21.
+c4 Ng3 22. Bd2 a6 23. Nc3 Nxh1 24. Kxh1 Rhe8 25. Rd1 Bd4 26. Kh2 f5 27. Rf1 Be3
+28. Bxe3 fxe3 29. Ne2 Re5 30. g3 c6 31. dxc6 Rd2 32. cxb7+ Kxb7 33. Re1 Rxb2
+34. Kg2 Rxa2 35. Kf3 Kc6 36. g4 f4 37. Rf1 Kc5 38. Rc1 a5 39. Rf1 Kxc4 40. Rc1+
+Kb3 41. Rb1+ Rb2 42. Rc1 Rxe2 43. Kxe2 f3+ 44. Kxf3 e2 45. Re1 a4 46. Kf2 a3
+0-1

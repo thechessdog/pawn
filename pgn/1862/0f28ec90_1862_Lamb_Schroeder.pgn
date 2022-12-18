@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Lamb"]
+[Black "Schroeder"]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch game"]
+[HashCode "0f28ec90"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nxd4 5. Qxd4 Nf6 6. Bc4 Be7 7. e5 c5
+8. Qf4 d5 9. exf6 O-O 10. fxe7 Qxe7+ 11. Be2 d4 12. f3 Re8 13. Qe4 Qxe4 14.
+fxe4 Rxe4 15. Kf2 Re6 16. Re1 Bd7 17. Kg1 Rae8 18. Kf2 Bb5 19. Bxb5 Rf6+
+20. Bf4 Rxf4+ 21. Kg3 Rxe1 22. Kxf4 h6 23. a4 Re3 24. Ra3 g5+ 25. Kf5 Re1
+26. Nd2 Kg7 27. Nf3 Re6 28. Bc4 Rf6+ 29. Ke5 g4 30. Nh4 Rf2 31. Nf5+ Kg6
+32. Bd3 Kg5 33. Be4 f6+ 34. Ke6 1-0
+

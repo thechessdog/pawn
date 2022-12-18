@@ -1,0 +1,19 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1867.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Rousseau, Eugène"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Waller attack"]
+[HashCode "32a1ea27"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8. Qb3
+Qd7 9. e5 dxc3 10. Re1 c2 11. e6 fxe6 12. Bxe6 Bxe1 13. Bxd7+ Bxd7 14. Qxc2 Ba5
+15. Bb2 Nf6 16. Qe2+ Ne7 17. Na3 a6 18. Ng5 Bg4 19. f3 Bd7 20. Nc4 Bb5 21. Ne6
+Rg8 22. a4 Bxc4 23. Qxc4 Kd7 24. Nxg7 d5 25. Rd1 Raf8 26. Bxf6 Rxf6 27. Rxd5+
+Kc8 28. Qg4+ Kb8 29. Rxa5 Rg6 30. Rg5 R8xg7 31. Rxg6 Nxg6 32. h4 1-0

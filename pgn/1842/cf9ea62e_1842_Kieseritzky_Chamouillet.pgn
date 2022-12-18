@@ -1,0 +1,21 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Kieseritzky & Guing"]
+[Black "Chamouillet & allie"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, long whip (Stockwhip, classical) defence"]
+[HashCode "cf9ea62e"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 h5 6. Bc4 Rh7 7. d4 f3 8. g3
+d6 9. Nd3 Be7 10. Nc3 Nc6 11. Nf4 Bf6 12. Be3 Nge7 13. Kf2 Bd7 14. Ncd5
+Nxd5 15. Nxd5 Bg7 16. Nf4 f5 17. Qd3 Ne7 18. Qb3 Bh6 19. Nxh5 Bxe3+ 20.
+Kxe3 Ng6 21. e5 dxe5 22. Bg8 exd4+ 23. Kd2 Re7 24. Rhe1 Kf8 25. Nf6 Kg7 26.
+Nxd7 Qxd7 27. Be6 Qd6 28. Bxf5 Qxg3 29. Bxg6 Qf4+ 30. Kd1 Re3 31. Qxb7 Rae8
+32. Bxe8 f2 33. Rxe3 dxe3 34. Bb5 g3 35. Ke2 Qe5 36. Qc6 Kf8 37. Rd1 Qh5+
+38. Qf3+ Qxf3+ 39. Kxf3 1-0
+

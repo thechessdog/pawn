@@ -1,0 +1,19 @@
+[Event "Craigside"]
+[Site "Craigside"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Jones, E."]
+[Black "Schott"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "89d66b10"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 Nc5 11. Bc2 Bg4 12. b4 Ne6 13. a4 Na7 14. Be3 d4
+15. cxd4 Bxb4 16. Nbd2 Bxf3 17. Nxf3 Bxe1 18. Qxe1 c6 19. Qc3 Nc7 20. Bg5
+Nd5 21. Qc5 Qb6 22. Qa3 h6 23. Bh4 Qa5 24. e6 Qc3 25. Ne5 b4 26. exf7+ Kf8
+27. Bg6 Nf6 28. Qxc3 bxc3 29. Re1 Rd8 30. Nd7+ 1-0
+

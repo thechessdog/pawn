@@ -1,0 +1,17 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Blanchard"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Centre game"]
+[HashCode "8b289a17"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 c5 4. c3 d5 5. exd5 Qxd5 6. Bb5+ Bd7 7. Bxd7+ Qxd7
+8. O-O Nc6 9. Re1+ Be7 10. cxd4 O-O-O 11. Qb3 Qf5 12. Nc3 Nh6 13. Bxh6 gxh6 14.
+dxc5 Bxc5 15. Ne4 Nd4 16. Qc3 Nxf3+ 17. gxf3 Rhg8+ 18. Kh1 Rd5 19. b4 Qf4 20.
+bxc5 Qxh2+ 21. Kxh2 Rh5# 0-1

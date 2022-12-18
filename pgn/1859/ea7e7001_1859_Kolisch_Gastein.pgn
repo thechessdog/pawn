@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Gastein"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "ea7e7001"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O Nf6 8. e5
+d5 9. Bb5 Ne4 10. Ba3 Bxc3 11. Nxd4 Bxa1 12. Nxc6 bxc6 13. Bxc6+ Bd7 14. Qxd5
+Ng5 15. f4 Ne6 16. f5 Ng5 17. e6 fxe6 18. fxe6 Nxe6 19. Qxe6+ 1-0

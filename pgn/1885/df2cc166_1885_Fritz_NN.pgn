@@ -1,0 +1,17 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Fritz, Alexander"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[HashCode "df2cc166"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 f6 6. Qh5+ g6 7. Nxg6 Ng7 8.
+Bf7+ Kxf7 9. Ne5+ Ke6 10. Qf7+ Kd6 11. Nc4+ Kc5 12. Qd5+ Kb4 13. a3+ Ka4 14.
+b3# 1-0

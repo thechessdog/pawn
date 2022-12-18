@@ -1,0 +1,16 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Zibin & Otto, PV."]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[HashCode "44a86b04"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Qf6 7. d4 h6 8. Be3
+Bb6 9. dxe5 Qg6 10. Nbd2 Na5 11. Nh4 Qh7 12. Nf5 d5 13. exd6 Bxf5 14. Bxb6 cxb6
+15. exf5 Qxf5 16. Qe2+ Kf8 17. Rfe1 h5 18. Nf3 Rh6 19. Rad1 Nc6 20. d7 1-0

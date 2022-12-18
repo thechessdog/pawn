@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Pierce, William"]
+[Black "Pierce, James"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "de541a98"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 Bg7 6. d5 Ne5 7. Nd4 d6 8.
+Bb5+ Bd7 9. Nf5 Qf6 10. h4 h6 11. Qh5 Ng6 12. Nxg7+ Qxg7 13. Bxd7+ Kxd7 14.
+Qg4+ Ke8 15. hxg5 hxg5 16. Rxh8 Nxh8 17. Bxf4 f6 18. O-O-O Qd7 19. Qh5+ Nf7
+20. Be3 Ke7 21. e5 Nxe5 22. Bxg5 Qf5 23. Bxf6+ Qxf6 24. Qh7+ Qf7 25. Qh4+
+Ke8 26. Nb5 Kd7 27. Qh3+ Kd8 28. Nd4 Qf4+ 29. Rd2 Qh6 30. Ne6+ Kc8 31. Qc3
+c5 32. g4 Nxg4 33. Qa5 b6 34. Qa6+ Kb8 35. Nd4 Qh7 36. Nc6+ Kc7 37. Nxa7
+Rb8 38. Nc6 Ne3 39. b3 Qh1+ 40. Kb2 Qh8+ 41. Ka3 Nc4+ 42. bxc4 Qc3+ 43. Ka4
+Qxd2 44. Kb3 Ne7 45. Qb5 Rh8 46. Kb2 Rh3 0-1
+

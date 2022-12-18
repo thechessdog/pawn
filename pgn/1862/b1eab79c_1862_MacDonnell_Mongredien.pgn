@@ -1,0 +1,19 @@
+[Event "London mt"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "MacDonnell, George Alcock"]
+[Black "Mongredien, Augustus"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "b1eab79c"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "IRL"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 d6 4. c3 dxc3 5. Nxc3 Bg4 6. Bc4 Qd7 7. O-O c6 8.
+Bf4 Bxf3 9. Qxf3 Nf6 10. e5 dxe5 11. Rfe1 Be7 12. Rxe5 Kf8 13. Rd1 Qc8 14. Rxe7
+Kxe7 15. Bd6+ Kd8 16. Bxb8+ Ke8 17. Bd6 Nd5 18. Nxd5 cxd5 19. Qxd5 Qe6 20. Qxb7
+1-0

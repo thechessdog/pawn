@@ -1,0 +1,17 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "34"]
+[White "Pollock, William Henry Kraus"]
+[Black "Burille, Constant Fedinand"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Boden-Kieseritsky gambit"]
+[HashCode "63523b27"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nf6 3. Bc4 Nxe4 4. Nc3 Nf6 5. Nxe5 d5 6. Qe2 Be6 7. Bb3 c6 8.
+d4 Bd6 9. O-O O-O 10. Bg5 Re8 11. f4 Qb6 12. Qf2 Ne4 13. Nxe4 dxe4 14. c4 Bc7
+15. f5 Bxe5 16. c5 Qc7 17. fxe6 Bxh2+ 18. Kh1 f6 19. Bxf6 Qf4 20. Be5 1-0

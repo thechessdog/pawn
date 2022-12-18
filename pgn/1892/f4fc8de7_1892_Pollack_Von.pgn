@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Pollack, S."]
+[Black "Von Rothschild"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "f4fc8de7"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bc5 5. Nge2 d6 6. h3 Be6 7. O-O Qd7 8.
+Kh2 h5 9. d3 O-O-O 10. Bg5 Ne7 11. f4 Ng4+ 12. hxg4 hxg4+ 13. Bh4 Ng6 14.
+f5 Nxh4 15. gxh4 Qe7 16. Qe1 Rxh4+ 17. Kg3 Qg5 18. Rh1 Rh3+ 0-1
+

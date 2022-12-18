@@ -1,0 +1,20 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Lomax"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "76947d9f"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nc6 5. Be3 a6 6. Bd3 Bg4 7. c3 h6 8. Nbd2
+Bd6 9. Qc2 Bxf3 10. Nxf3 Nf6 11. O-O Ne7 12. Ne5 Bxe5 13. dxe5 Ne4 14. Bxe4
+dxe4 15. Qxe4 Qd5 16. Qxd5 Nxd5 17. Bd4 Nf4 18. g3 Ne2+ 19. Kg2 Nxd4 20. cxd4
+O-O-O 21. Rfd1 Rd5 22. Rd3 Rhd8 23. Rad1 c5 24. Kf3 c4 25. R3d2 b5 26. Ke4 g6
+27. f4 R8d7 28. g4 Kd8 29. f5 Ke7 30. f6+ Ke6 31. a3 a5 32. h4 b4 33. axb4 a4
+34. b5 Rb7 35. Rc1 Rdxb5 36. Rxc4 Ra7 37. Rdc2 Rb6 38. Rc7 Rxc7 39. Rxc7 1-0

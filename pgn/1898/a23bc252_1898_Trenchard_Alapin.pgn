@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Trenchard, Herbert"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "0-1"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "Alapin variation"]
+[HashCode "a23bc252"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. c4 e6 3. Nc3 b6 4. cxd5 exd5 5. Nf3 Bb7 6. Bf4 Bd6 7. Qd2 Nf6 8.
+Bxd6 Qxd6 9. e3 O-O 10. Bd3 c5 11. dxc5 bxc5 12. O-O Nbd7 13. Rac1 Ne5 14. Be2
+Rad8 15. Nxe5 Qxe5 16. Bf3 Ne4 17. Qc2 Ng5 18. Be2 d4 19. Nd1 d3 20. Qc3 Qd5
+21. e4 Qxe4 22. Ne3 dxe2 23. Rfe1 Nh3+ 24. Kh1 Nxf2+ 25. Kg1 Nd1 0-1

@@ -1,0 +1,24 @@
+[Event "Frankfurt MT"]
+[Site "Frankfurt"]
+[Date "1878.01.01"]
+[Round "9"]
+[White "Fritz, Alexander"]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "510b98ce"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 c6 10. Be3 Bc5 11. Nd2 Nxd2 12. Qxd2 Qb6 13. Bxc5 Qxc5 14. c3 Bf5
+15. Kh1 O-O 16. Qf4 Bg6 17. a4 f6 18. axb5 fxe5 19. Qxe5 axb5 20. Rxa8 Rxa8 21.
+Qg5 Qxf2 22. Bxd5+ Kh8 23. Qc1 Qc5 24. Bf3 Re8 25. Qd2 h6 26. Rd1 Kh7 27. h3
+Qc4 28. Qd7 c5 29. Qc7 Rf8 30. Qg3 Rf6 31. Kh2 b4 32. Rd8 Qf4 33. Rc8 bxc3 34.
+bxc3 Qe3 35. Bd5 Qxg3+ 36. Kxg3 c4 37. Bg8+ Kh8 38. Bxc4+ Kh7 39. Bg8+ Kh8 40.
+Bd5+ Kh7 41. c4 Bf5 42. Rc6 Rxc6 43. Bxc6 Kg6 44. Bf3 Kf6 45. Kh4 Ke5 46. c5
+Bc2 47. c6 Kd6 48. Kg4 Bg6 49. Kf4 Be8 50. Kf5 Bf7 51. h4 Be8 52. h5 Bf7 53. g3
+Be8 54. Bd5 Kxd5 55. c7 Bd7+ 56. Kg6 Kd6 57. Kxg7 Kxc7 58. Kxh6 Kd8 59. Kg7 Ke7
+60. h6 Bf5 61. g4 Bc2 62. g5 1-0

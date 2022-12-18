@@ -1,0 +1,22 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "Lichtenhein, Theodo"]
+[Black "Stanley, Charles"]
+[Result "1-0"]
+[ECO "D31"]
+[Opening "QGD"]
+[Variation "3.Nc3"]
+[HashCode "333fc5f5"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. c4 e6 3. Nc3 dxc4 4. e3 Be7 5. Bxc4 Nf6 6. Nf3 O-O 7. O-O Nd5
+8. Qb3 Nxc3 9. bxc3 Nc6 10. Bd3 a5 11. a4 b6 12. Be4 Bb7 13. Qc2 f5 14.
+Bxc6 Bxc6 15. Ne5 Qd5 16. f4 Qe4 17. Qxe4 Bxe4 18. Ba3 Bxa3 19. Rxa3 Rfd8
+20. Rf2 c5 21. Rb3 cxd4 22. cxd4 Rdc8 23. Rfb2 Rc1+ 24. Kf2 Rc2+ 25. Kg3
+Rac8 26. Rxb6 Rxb2 27. Rxb2 Bc2 28. Rb5 Bxa4 29. Rxa5 Bb3 30. Rc5 Ra8 31.
+Nc4 h6 32. Nb6 Ra6 33. Rb5 Ra3 34. Kh4 Ba2 35. Re5 Ra6 36. Rb5 Ra3 37. Rb2
+Bb3 38. h3 Kf7 39. g4 fxg4 40. hxg4 Ke7 41. e4 Kd6 42. f5 e5 43. dxe5+ Kxe5
+44. Nd7+ Kf4 45. e5 Ra2 46. Rxb3 1-0
+

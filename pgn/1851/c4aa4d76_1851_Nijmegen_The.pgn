@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Nijmegen"]
+[Black "The Hague"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "c4aa4d76"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. d4 d6 7. Nf3 Qh5 8.
+h4 h6 9. e5 dxe5 10. Nxe5 Qxd1+ 11. Nxd1 Bxe5 12. dxe5 gxh4 13. Rxh4 Be6
+14. Bd3 Nd7 15. Bxf4 O-O-O 16. Nf2 Ne7 17. Re1 Nc6 18. a3 a6 19. Rh5 Rde8
+20. b4 b5 21. c3 Nb6 22. Rxh6 Rxh6 23. Bxh6 Na4 24. Bg7 Nb2 25. Kg1 Nc4 26.
+Bxc4 Bxc4 27. Bf6 Nb8 28. g4 Nd7 29. g5 Nb6 30. Ne4 Na4 31. Kh2 Kd7 32. Ng3
+c5 33. Rd1+ Kc7 34. Ne4 Bb3 35. Rd6 cxb4 36. cxb4 Re6 37. Kg3 Rxd6 38.
+exd6+ Kd7 39. Be7 Bc4 40. Kf4 Ke6 41. Ke3 Bd5 42. Nf6 Nb6 43. Kd4 Bb7 44.
+Nh7 Kd7 45. Ke5 Bc6 46. Kf6 Be4 47. Nf8+ Ke8 48. d7+ Nxd7+ 49. Nxd7 Kxd7
+50. Kxf7 Bd3 51. Bc5 Kc6 52. g6 Kd5 53. g7 Bh7 54. g8=Q Bxg8+ 55. Kxg8 Kc4
+56. Bb6 1-0
+

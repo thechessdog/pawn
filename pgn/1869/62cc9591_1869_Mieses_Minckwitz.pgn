@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1869.01.01"]
+[Round "1"]
+[White "Mieses, S."]
+[Black "Minckwitz, Johannes"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "62cc9591"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. a4 b4 10. Qe2 Be7 11. c4 Nc5 12. cxd5 Nxb3 13. dxe6 O-O 14.
+exf7+ Rxf7 15. Qc2 Nxa1 16. Qxc6 Nb3 17. Be3 Na5 18. Qc2 c5 19. Nbd2 Qd5
+20. Ne4 b3 21. Qb1 Rxf3 22. gxf3 Qxe5 23. Bd2 Nc6 24. Re1 Nd4 25. Ng5 Qf5
+26. Qxf5 Nxf5 27. Ne6 Nh4 28. Re3 Kf7 29. Nc7 Rd8 30. Rxe7+ Kxe7 31. Bg5+
+Kd7 32. Bxd8 Kxd8 33. Nxa6 Nxf3+ 34. Kf1 c4 35. Nb4 c3 36. Nd3 0-1
+

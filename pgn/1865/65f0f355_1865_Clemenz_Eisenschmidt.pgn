@@ -1,0 +1,20 @@
+[Event "Dorpat"]
+[Site "Dorpat"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Clemenz, H."]
+[Black "Eisenschmidt"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "65f0f355"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. d4 exd4 7. cxd4 Bb6
+8. O-O d6 9. Nc3 Na5 10. Bd3 Bg4 11. e5 d5 12. Re1 Ne7 13. Bg5 Nac6 14. Rc1
+O-O 15. Bxe7 Nxe7 16. Bxh7+ Kh8 17. Bb1 g6 18. Re3 Re8 19. h3 Bf5 20. Ng5
+Kg7 21. Rf3 Ng8 22. Nxf7 Kxf7 23. Bxf5 gxf5 24. Rxf5+ Ke7 25. Qg4 Rf8 26.
+Qg7+ Ke6 27. Qg6+ Kd7 28. Nxd5 Kc8 29. Rxf8 Qxf8 30. Nxb6+ axb6 31. Qxb6 c6
+32. d5 Ra6 33. Rxc6+ Kb8 34. Qc7+ Ka7 35. Rxa6+ Kxa6 36. d6 1-0
+

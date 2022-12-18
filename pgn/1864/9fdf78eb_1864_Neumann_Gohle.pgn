@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Neumann & Treskow"]
+[Black "Gohle & Schallopp"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "9fdf78eb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Be3 O-O 10. Nc3 d5 11. Rad1 Qe8 12. Nd4 c5 13. Ndb5 d4
+14. Nxc7 Qc6 15. N3d5 Bd8 16. Qf3 Kh8 17. Nxa8 dxe3 18. Qxe3 Be6 19. c4 Qc8
+20. f4 Bg4 21. Rd2 Ba5 22. Rdf2 f5 23. exf6 gxf6 24. Qe7 Qxa8 25. Nxf6 Bf5
+1-0
+

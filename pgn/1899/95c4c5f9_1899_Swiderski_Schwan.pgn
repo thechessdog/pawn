@@ -1,0 +1,17 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Swiderski, Rudolf"]
+[Black "Schwan, Wilhelm"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "95c4c5f9"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Nxe5 Nf6 8.
+Bb3 Nxe5 9. dxe5 c5 10. exf6 c4 11. Re1+ 1-0

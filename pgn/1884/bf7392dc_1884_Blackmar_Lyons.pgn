@@ -1,0 +1,15 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Blackmar, Armand"]
+[Black "Lyons, WH."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "bf7392dc"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Nxf3 e6 5. Bd3 Nc6 6. c3 Bd6 7. O-O Nf6 8.
+Nbd2 O-O 9. Ng5 h6 10. h4 hxg5 11. hxg5 Nd5 12. Qh5 Re8 13. Qxf7+ 1-0

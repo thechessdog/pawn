@@ -1,0 +1,21 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Von Scheve, Theodor"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna"]
+[Variation "Paulsen-Mieses variation"]
+[HashCode "60e011bf"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nc3 Nf6 3. g3 c6 4. Bg2 Bb4 5. d4 exd4 6. Qxd4 Qe7 7. Ne2 Bc5 8.
+Qd3 Na6 9. a3 O-O 10. Be3 Ng4 11. Nd4 Nxe3 12. Qxe3 Bxd4 13. Qxd4 d5 14. O-O-O
+dxe4 15. Nxe4 Bf5 16. Nd6 Bg6 17. h4 h5 18. Rhe1 Qc7 19. f4 Rad8 20. Qe5 f6 21.
+Qe6+ Bf7 22. Nxf7 Qxf7 23. Bh3 Nc7 24. Qe3 Qa2 25. c3 Rxd1+ 26. Rxd1 Re8 27.
+Qf3 Nd5 28. Bf5 Re3 29. Qxh5 Qa1+ 30. Bb1 Rxc3+ 31. bxc3 Qxc3+ 32. Bc2 Qxa3+
+0-1

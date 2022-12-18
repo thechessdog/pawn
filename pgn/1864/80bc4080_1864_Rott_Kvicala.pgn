@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1864.??.??"]
+[Round "?"]
+[White "Rott, E."]
+[Black "Kvicala, A."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bryan counter-gambit"]
+[HashCode "80bc4080"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 b5 5. Bb3 g5 6. Nf3 Qh6 7. Ne5 d5 8.
+Nxf7 Kxf7 9. Bxd5+ Ke8 10. Bxa8 c6 11. d4 Nf6 12. d5 Bg4 13. Qd4 Bg7 14.
+Qxa7 Nxe4 15. Qxb8+ Kf7 16. Qa7+ Kg6 17. dxc6 Ng3+ 18. Kg1 Ne2+ 19. Kf1
+Ng3+ 20. Kf2 Re8 21. Re1 Nh1+ 22. Kf1 Rxe1+ 23. Kxe1 Qh4+ 24. Kf1 Ng3+ 25.
+hxg3 Qh1+ 26. Kf2 0-1
+

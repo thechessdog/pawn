@@ -1,0 +1,18 @@
+[Event "Breslau"]
+[Site "Breslau"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Knorre, Victor"]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence, Zukertort variation"]
+[HashCode "2fb86c31"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6 bxc6 8.
+dxe5 Nb7 9. c4 O-O 10. Be3 f5 11. exf6 Bxf6 12. c5 Qe8 13. Nc3 Bxc3 14. Qc4+
+Kh8 15. Qxc3 d5 16. Rfe1 Rxf3 17. gxf3 Bh3 18. Kh1 Qf7 19. Bd4 Nd8 20. Bxg7+
+Qxg7 21. Re8# 1-0

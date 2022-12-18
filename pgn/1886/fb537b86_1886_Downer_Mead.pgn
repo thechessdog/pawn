@@ -1,0 +1,18 @@
+[Event "Sussex"]
+[Site "Sussex"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Downer"]
+[Black "Mead"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "fb537b86"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. d4 b5 6. Bb3 Nxe4 7. O-O Be7 8.
+Nxe5 Nxe5 9. dxe5 Bb7 10. Qg4 O-O 11. Bh6 Ng5 12. Bxg7 Kxg7 13. f4 h5 14.
+Qxh5 Rh8 15. Qg4 Rh4 16. Qg3 Rh5 17. fxg5 Bc5+ 18. Kh1 Qxg5 19. Rxf7+ Kh8
+20. Qxg5 Rxg5 21. h4 Rxg2 22. Nc3 Rf2+ 23. Bd5 Bxd5+ 24. Nxd5 Rxf7 0-1
+

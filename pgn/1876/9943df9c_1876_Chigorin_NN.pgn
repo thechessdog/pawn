@@ -1,0 +1,18 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "MacDonnell gambit"]
+[HashCode "9943df9c"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. Nc3 gxf3 6. Qxf3 Nc6 7. d4 Nxd4 8.
+Bxf7+ Kxf7 9. Qh5+ Kg7 10. O-O Ne6 11. Bxf4 Nxf4 12. Rxf4 Nh6 13. Raf1 Be7 14.
+Qe5+ Kg6 15. Nd5 Bg5 16. Rf6+ Kh5 17. Nf4+ Kg4 18. h3+ Kh4 19. Rxh6+ Bxh6 20.
+Qh5+ Kg3 21. Qg4# 1-0

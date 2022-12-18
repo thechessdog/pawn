@@ -1,0 +1,18 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Englisch, Berthold"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "26f07fe6"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bb4 6. Nd5 Bc5 7. d3 h6 8. Be3
+Bxe3 9. Nxe3 d6 10. c3 O-O 11. O-O Be6 12. Bc2 d5 13. exd5 Nxd5 14. Nxd5 Bxd5
+15. Re1 Qd6 16. Re3 Rae8 1/2-1/2

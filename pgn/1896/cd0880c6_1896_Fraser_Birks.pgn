@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Fraser"]
+[Black "Birks, J."]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "Keres (Mason-Steinitz) gambit"]
+[HashCode "cd0880c6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nc3 Qh4+ 4. Ke2 d5 5. Nxd5 Bg4+ 6. Nf3 Nc6 7. d4
+O-O-O 8. Kd3 Qh5 9. c4 g5 10. Be2 f5 11. e5 Nge7 12. h3 Qg6 13. Nxe7+ Bxe7
+14. d5 Bxf3 15. gxf3 Nxe5+ 16. Kc2 Rhe8 17. Bd2 c6 18. Qg1 b6 19. Bc3 cxd5
+20. cxd5 Rxd5 21. Rd1 Rc5 22. Kb1 Nc6 23. Rh2 Kc7 24. Ba6 Bf6 25. Rhd2 Bxc3
+26. Rd7+ Kb8 27. bxc3 Qf6 28. R7d6 Qg7 29. Rd7 Qg8 30. Qf2 Ra5 31. Qd2 Qe6
+32. Rd6 Qe3 33. Rxc6 Qxd2 34. Rxd2 Rxa6 35. Rd7 h5 36. Rg6 g4 37. hxg4 hxg4
+38. Rd4 gxf3 39. Rxf4 Ra5 40. Rxf3 Kc7 41. Kb2 Kd7 42. Rd3+ Kc8 43. Rg7 Rd8
+44. Rf3 Rd7 45. Rg5 Rg7 46. Rxg7 1-0
+

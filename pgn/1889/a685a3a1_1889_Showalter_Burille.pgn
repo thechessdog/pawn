@@ -1,0 +1,18 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "3"]
+[White "Showalter, Jackson Whipps"]
+[Black "Burille, Constant Fedinand"]
+[Result "1-0"]
+[ECO "C52"]
+[Opening "Evans gambit"]
+[Variation "Richardson attack"]
+[HashCode "a685a3a1"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. O-O Nf6 7. d4 O-O 8.
+Nxe5 Nxe4 9. Qh5 Nxe5 10. dxe5 c6 11. Nd2 Nxd2 12. Bxd2 Bb6 13. Bg5 Qe8 14.
+Rae1 Bd8 15. Bf6 d5 16. Qg5 1-0

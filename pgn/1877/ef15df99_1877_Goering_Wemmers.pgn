@@ -1,0 +1,22 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Goering, C."]
+[Black "Wemmers, Carl"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "ef15df99"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. O-O b5 7. Bb3 d6 8.
+h3 O-O 9. d3 h6 10. Ne2 Na5 11. Ng3 Nxb3 12. axb3 Nh7 13. d4 exd4 14. Nxd4
+Qh4 15. Qd3 Bxd4 16. Qxd4 Be6 17. Kh2 f5 18. f4 fxe4 19. f5 Bd7 20. Nxe4
+Rae8 21. Rf4 Qe7 22. Qd5+ Qf7 23. Qxf7+ Rxf7 24. Ng3 Re1 25. b4 Nf6 26. b3
+Nd5 27. Rd4 Ne3 28. Re4 Nf1+ 29. Kg1 Rxe4 30. Nxe4 Bxf5 31. Nc3 Ng3 32. Bf4
+Nh5 33. Bd2 Bxc2 34. Rxa6 Bxb3 35. Nxb5 Bc4 36. Ra8+ Kh7 37. Nc3 Rf1+ 38.
+Kh2 Rf2 39. Be3 Rc2 40. Ra3 Bf1 41. Kg1 Bxg2 42. h4 Bh3 43. Bf2 Nf4 44. Ne4
+Bf5 1-0
+

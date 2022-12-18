@@ -1,0 +1,21 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1860.01.01"]
+[Round "2"]
+[White "Harrwitz, Daniel"]
+[Black "Mongredien, Augustus"]
+[Result "1-0"]
+[ECO "D20"]
+[Opening "QGA"]
+[Variation "3.e4"]
+[HashCode "33461b45"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 dxc4 3. e4 b5 4. a4 c6 5. axb5 cxb5 6. b3 Bb7 7. f3 e6 8. bxc4
+bxc4 9. Bxc4 Nf6 10. Be3 Bb4+ 11. Nd2 Nfd7 12. Ne2 a5 13. O-O O-O 14. Ng3 Nc6
+15. Ba2 Nb6 16. Nb1 Ba6 17. Rf2 Nc4 18. Bxc4 Bxc4 19. Qc1 Bb5 20. Nc3 Bxc3 21.
+Qxc3 Nb4 22. Qc5 Qd7 23. Qg5 f6 24. Qh5 f5 25. f4 Bd3 26. e5 a4 27. Qd1 Rfc8
+28. Rb2 Nc2 29. Rab1 Nxe3 30. Qxd3 Nd5 31. Ne2 a3 32. Ra2 Qa4 33. Rb7 Nb4 34.
+Qg3 1-0

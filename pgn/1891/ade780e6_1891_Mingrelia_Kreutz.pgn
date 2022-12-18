@@ -1,0 +1,17 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Mingrelia, Dadian"]
+[Black "Kreutz"]
+[Result "1-0"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "ade780e6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. e5 Qxe5
+8. b3 Bh6 9. Bb2 Qxb2 10. Nc3 Nc6 11. Qh5 Qxc2 12. Rae1+ Kd8 13. Rxf4 Bxf4
+14. Re8+ 1-0
+

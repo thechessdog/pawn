@@ -1,0 +1,19 @@
+[Event "London m7"]
+[Site "London"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Boden, Samuel"]
+[Black "Owen, John"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Owen defence"]
+[HashCode "80ecec51"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+[WhiteCountry "ENG"]
+
+1. e4 b6 2. d4 Bb7 3. Bd3 e6 4. c4 Bb4+ 5. Bd2 Nc6 6. d5 Bxd2+ 7. Qxd2 Ne5 8.
+Nc3 Nh6 9. f4 Nxd3+ 10. Qxd3 f5 11. e5 g5 12. Nge2 Qe7 13. O-O-O O-O-O 14. Nb5
+exd5 15. cxd5 Qc5+ 16. Kb1 Ba6 17. Nd6+ cxd6 18. Qxa6+ Kb8 19. Nc3 Qc8 20. Qa3
+Qc5 21. Qa6 Qc8 22. Qa4 a6 23. Qa3 Nf7 24. e6 dxe6 25. dxe6 Qxe6 26. Qxa6 d5
+27. Rhe1 Qc6 28. Re7 Nd6 29. Qa7+ Kc8 30. Nxd5 1-0

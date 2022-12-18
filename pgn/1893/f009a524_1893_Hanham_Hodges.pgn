@@ -1,0 +1,23 @@
+[Event "Manhattan"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Hanham, James Moore"]
+[Black "Hodges, Albert Beauregard"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence (Modern bishop's opening)"]
+[HashCode "f009a524"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d3 Be7 5. Nc3 d6 6. Ne2 O-O 7. Ng3 d5 8. exd5
+Nxd5 9. O-O Be6 10. Re1 Bf6 11. c3 Re8 12. Bb3 g6 13. Bh6 Nb6 14. Bc2 Qd7 15.
+Ne4 Be7 16. Bg5 Kg7 17. Bxe7 Qxe7 18. Ng3 f6 19. d4 Rad8 20. Bb3 Qf7 21. Bxe6
+Rxe6 22. Qb3 Qe8 23. dxe5 Nxe5 24. Nxe5 Rxe5 25. Kf1 Rdd5 26. f3 Qc6 27. Re4
+Rxe4 28. Nxe4 f5 29. Nf2 Nc4 30. Qb4 Re5 31. Nd3 Re3 32. Rd1 Re8 33. Kf2 Qd5
+34. Qc5 Qxc5+ 35. Nxc5 Nd6 36. Rd4 Re5 37. Nd3 Ra5 38. a4 Kf7 39. b3 Ke7 40. c4
+Ra6 41. c5 Ne8 42. Rb4 b6 43. Rh4 bxc5 44. Nxc5 Rb6 45. b4 Nf6 46. Ke2 Kd6 47.
+Rd4+ Nd5 48. Nd3 Ke6 49. Kd2 g5 50. g3 Rd6 51. h4 f4 52. gxf4 gxf4 53. b5 Kf5
+54. Kc1 Kg6 55. Rxd5 Rf6 56. Rc5 a6 57. Rxc7 axb5 58. axb5 Kh5 59. Rxh7+ Kg6
+60. Rc7 Kh5 61. Rc4 1-0

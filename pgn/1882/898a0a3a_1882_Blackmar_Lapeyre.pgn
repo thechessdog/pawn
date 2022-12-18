@@ -1,0 +1,16 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Blackmar, Armand"]
+[Black "Lapeyre, A."]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "898a0a3a"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e4 dxe4 3. f3 exf3 4. Nxf3 e5 5. d5 e4 6. Ne5 Bd6 7. Bb5+ c6 8.
+dxc6 Qa5+ 9. Nc3 Ke7 10. Qd5 Be6 11. Qxe6+ fxe6 12. cxb7 Bxe5 13. bxa8=Q Bxc3+
+14. bxc3 Qxc3+ 15. Ke2 Qxc2+ 16. Bd2 Nd7 17. Rhc1 Qb2 18. Bxd7 Kxd7 1-0

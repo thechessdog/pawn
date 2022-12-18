@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Varain"]
+[Black "Puder"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Knorre variation"]
+[HashCode "011df8ad"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Nc3 Nxc3 7. dxc3 d6
+8. Qd5 Be7 9. Ng5 O-O 10. f4 Bxg5 11. fxg5 Ne7 12. Qe4 Ng6 13. Be3 d5 14.
+Qf3 f5 15. Rad1 c6 16. Qh5 f4 17. Bf2 f3 18. Be3 Nf4 19. Bxf4 Rxf4 0-1
+

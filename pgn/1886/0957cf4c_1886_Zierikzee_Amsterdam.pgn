@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Zierikzee"]
+[Black "Amsterdam"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "0957cf4c"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6
+bxc6 8. Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. d4 Qc7 12. Bf4 Nd7 13. Nxf7 Kxf7
+14. Bxd6 Qxd6 15. Qd2 Nb7 16. Bc4+ Ke7 17. c3 Qg6 18. Na3 Qxg2 19. O-O-O
+Qg5 20. f4 exf3 21. Rde1+ Kd8 22. Qxg5+ hxg5 23. Reg1 Nd6 24. Rxg5 Nxc4 25.
+Nxc4 f2 26. Rg2 Ba6 27. b3 Kc7 28. Rxf2 Rh3 29. Rg1 Bxc4 30. bxc4 Rxc3+ 31.
+Rc2 Rxc2+ 32. Kxc2 Rh8 33. Rxg7 Rxh2+ 34. Kb3 Rh3+ 35. Kc2 Ra3 36. Kb2 Rd3
+37. d5 cxd5 38. cxd5 Rxd5 39. Rg2 Kb6 40. Kc3 Kc5 41. Rg4 Rd3+ 42. Kc2 Rd4
+43. Rg3 Nb6 44. Rg7 a5 45. Kb2 Kb4 46. Rb7 Rd6 47. Ka1 Kc3 0-1
+

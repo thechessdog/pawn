@@ -1,0 +1,21 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Elson, J."]
+[Black "Neill"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "2afa97cc"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. d4 Ne6 9. Nxe5 Be7 10. c3 O-O 11. f4 f6 12. Nf3 f5 13. Ne5 Rf6 14.
+Qh5 Nf8 15. Nd2 Be6 16. Nf1 Rh6 17. Qe2 Bd6 18. Be3 Qe7 19. Bf2 Nd7 20.
+Rad1 Re8 21. Ng3 Nf6 22. h3 c5 23. d5 Bc8 24. Qd3 Qf8 25. Nxf5 Bxf5 26.
+Qxf5 Rh5 27. Qd3 Bxe5 28. g4 Nxg4 29. hxg4 Qxf4 30. Qg3 Qf7 31. Qd3 Rg5 32.
+Qh3 Qg6 33. Re2 Rxg4+ 34. Kf1 Rf8 35. Rxe5 Qc2 36. Re2 Qxd1+ 37. Re1 Qc2
+38. Re2 Qb1+ 39. Re1 Qf5 40. Qh2 Qd3+ 41. Re2 Re4 42. Qh5 Qd1+ 0-1
+

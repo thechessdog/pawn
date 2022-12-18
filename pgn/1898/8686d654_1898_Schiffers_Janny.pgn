@@ -1,0 +1,15 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Janny"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Inverted Hungarian"]
+[HashCode "8686d654"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Be2 Bc5 4. Nxe5 Bxf2+ 5. Kxf2 Nxe5 6. d4 Qf6+ 7. Bf3
+Ng4+ 8. Kg3 h5 9. h3 h4+ 10. Kxg4 d5# 0-1

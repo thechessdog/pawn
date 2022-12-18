@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Winkel"]
+[Black "Alkmaar"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "b3041846"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. d4 Nxe4 5. dxe5 Nc5 6. Qe2 Be7 7. Bf4 Ne6
+8. Qd2 d6 9. Nc3 dxe5 10. Bxe5 Qxd2+ 11. Kxd2 Nxe5 12. Nxe5 Bg5+ 13. Ke1 c6
+14. g3 O-O 15. Ne2 Bf6 16. Nd3 Ng5 17. c3 Nf3+ 18. Kd1 Rd8 19. Kc2 b5 20.
+Bb3 Bf5 21. Rad1 Rd6 22. g4 Bxg4 23. Ndf4 Rad8 24. Rxd6 Rxd6 25. h3 Bf5+
+26. Kc1 Bg5 27. Bc2 Bxc2 28. Kxc2 Rd2+ 29. Kb3 c5 30. h4 Be7 31. a3 Ne5 32.
+Rc1 Ng4 33. Rb1 h5 34. Ng3 Rxf2 0-1
+

@@ -1,0 +1,25 @@
+[Event "DSB-03.Kongress"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "4"]
+[White "Leffmann, Karl"]
+[Black "Von Bardeleben, Curt"]
+[Result "0-1"]
+[ECO "B46"]
+[Opening "Sicilian"]
+[Variation "Taimanov variation"]
+[HashCode "94d4e5e8"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 e6 3. d4 cxd4 4. Nxd4 a6 5. Nc3 Nc6 6. Be3 d5 7. a3 Nf6 8. exd5
+exd5 9. Be2 Be7 10. O-O O-O 11. Bd3 Be6 12. Nce2 Qc7 13. Bf4 Bd6 14. Bxd6 Qxd6
+15. c3 Ng4 16. g3 Rad8 17. Nf4 Nxd4 18. Bxh7+ Kxh7 19. Qxd4 Ne5 20. f3 Nc6 21.
+Qd3+ g6 22. Rae1 Bf5 23. Qd2 d4 24. g4 Bc8 25. Re4 Qc5 26. Qf2 b6 27. Qh4+ Kg7
+28. b4 Qd6 29. Qg5 Rh8 30. c4 Qf6 31. Qxf6+ Kxf6 32. Nd5+ Kg7 33. Nxb6 Be6 34.
+Rd1 Rd6 35. c5 Rdd8 36. Rd2 Bd5 37. Nxd5 Rxd5 38. Kg2 Rhd8 39. f4 g5 40. Kg3
+gxf4+ 41. Kxf4 Rh8 42. Kg3 Rh6 43. h4 Rg6 44. Rf4 Re6 45. Rd3 Rde5 46. Rdf3 f6
+47. a4 Nxb4 48. Rxd4 Nc6 49. Rd6 Rxd6 50. cxd6 Rd5 51. Rb3 Rxd6 52. Rb6 a5 53.
+g5 fxg5 54. hxg5 Kg6 55. Kf4 Re6 56. Ra6 Kf7 57. Ra8 Rd6 58. Ra6 Ke7 59. Ke3
+Kd7 60. Rb6 Kc7 61. Rb1 Rd4 62. Rc1 Rg4 63. Rc5 Rxa4 64. Kf3 Kd6 65. Rxc6+ Kxc6
+66. g6 Rb4 0-1

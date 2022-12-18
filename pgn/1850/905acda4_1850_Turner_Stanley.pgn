@@ -1,0 +1,17 @@
+[Event "Washington m"]
+[Site "Washington m"]
+[Date "1850.01.01"]
+[Round "6"]
+[White "Turner, John Spencer"]
+[Black "Stanley, Charles Henry"]
+[Result "0-1"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "905acda4"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. c3 d6 7. d4 Ne7 8. g3 g4
+9. Nh4 f3 10. h3 h5 11. Qb3 O-O 12. Bg5 Qe8 13. Bxe7 Qxe7 14. Ng6 Qxe4 15. Nxf8
+d5 16. Nd2 Qe3+ 17. Rf2 dxc4 18. Nxc4 Qe4 19. Nd2 Qc6 20. d5 Qb6 21. Qc2 Bxf8
+22. Re1 Bc5 23. Re8+ Kg7 24. Ne4 Bf5 25. Qd2 Be3 0-1

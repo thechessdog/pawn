@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Porges, Moritz"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[ECO "C59"]
+[Opening "two knights defence"]
+[Variation "Goering variation"]
+[HashCode "9ec0078e"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nf3 e4 10. Ne5 Qc7 11. f4 Bd6 12. d4 O-O 13. c3 c5 14. b3 Rd8 15. Na3
+cxd4 16. Nb5 Qb6 17. Nxd4 Nd5 18. Qc2 Nxc3 19. Bb2 Nxe2 20. Nxe2 Bb7 21. Bd4
+Bb4+ 22. Bc3 Rac8 23. Qb2 Rxc3 24. Nxc3 Qe3+ 25. Kf1 Ba6+ 26. Ne2 Qxf4+ 0-1

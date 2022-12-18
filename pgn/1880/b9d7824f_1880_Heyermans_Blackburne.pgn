@@ -1,0 +1,18 @@
+[Event "Rotterdam"]
+[Site "Rotterdam"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Heyermans, H."]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "b9d7824f"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Nc3 Nf6 5. Bc4 c6 6. dxc6 Nxc6 7. Nge2 Bc5 8.
+Ng3 Qd4 9. Qe2 Bg4 10. Qf1 Nb4 11. Bb3 O-O-O 12. Nce2 Qd7 13. f5 Rhe8 14. h3
+Nd3+ 15. Kd1 Nf2+ 16. Ke1 Bxe2 17. Qxe2 e3 18. d4 Qxd4 19. c3 Qf4 20. Qf3 e2
+21. Bxf4 Rd1+ 22. Bxd1 exd1=Q# 0-1

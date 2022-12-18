@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Cochrane, John"]
+[Black "Staunton, Howard"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence, Steiner variation"]
+[HashCode "2bc8d479"]
+[Epoch "Pawn"]
+[WhiteCountry "SCO"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. c4 c5 3. Nc3 Bd6 4. Nf3 Nc6 5. Bd3 Nge7 6. Ne2 Ng6 7. O-O Nge5 8.
+Nxe5 Nxe5 9. Qc2 Qh4 10. f4 Ng4 11. h3 h5 12. e5 Bc7 13. Nc3 g5 14. Nb5 Bb8 15.
+Qc3 Qg3 16. hxg4 hxg4 17. Nd6+ Kf8 18. fxg5 f5 19. Bxf5 Qh2+ 20. Kf2 exf5 21.
+Qg3 Bxd6 22. Qxh2 Rxh2 23. exd6 1-0

@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Moscow"]
+[Black "St Petersburg"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "078f2a93"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Qe8 12. Bc2 Rd8 13. f3 Nc5 14. b4
+Nxd4 15. cxd4 Nb7 16. Qd3 g6 17. Qc3 a5 18. a3 Qd7 19. Bh6 Rfe8 20. Nd2 f6
+21. f4 Rc8 22. f5 Bxf5 23. Bxf5 Qxf5 24. Qc6 Qh5 25. Be3 Rb8 26. exf6 Bd6
+27. Bf4 Rf8 28. Bxd6 Nxd6 29. Qxc7 Nf7 30. Nf3 Qf5 31. Ne5 Qc8 32. Qd7 Qb7
+33. Qg4 Nxe5 34. dxe5 Qa7+ 35. Kh1 Qf7 36. bxa5 Rfe8 37. Qd4 Ra8 38. Rac1
+Ra6 39. Re3 Rd8 40. Rec3 1-0
+

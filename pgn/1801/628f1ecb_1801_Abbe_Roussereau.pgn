@@ -1,0 +1,18 @@
+[Event "Paris 1680"]
+[Site "Paris 1680"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Abbe de Lionne"]
+[Black "Roussereau"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "628f1ecb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 Nf6 5. e5 Ne4 6. Nf3 d5 7. Bb3 g5 8.
+d3 Nc5 9. h4 Be7 10. hxg5 Bxg5 11. Nxg5 Qxg5 12. Bxd5 c6 13. Bb3 Nxb3 14.
+axb3 h5 15. Qf3 Qg3+ 16. Kf1 Be6 17. Bxf4 Qxf3+ 18. gxf3 Na6 19. Nd2 Nb4
+20. Rc1 O-O-O 21. Be3 a6 22. Bc5 Nd5 23. c4 Nf4 24. d4 Nd3 25. Rb1 Nxc5 0-1
+

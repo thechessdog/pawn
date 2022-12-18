@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Andrews (Pawn Era)"]
+[Black "Janssens , Franciscus G"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "1ae08e9c"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. d4 exd4 3. Nf3 Nc6 4. Bc4 Nf6 5. O-O Be7 6. Nxd4 Nxd4 7. Qxd4 d6 8.
+f4 b6 9. e5 d5 10. Bb5+ Bd7 11. exf6 Bc5 12. Re1+ Kf8 13. fxg7+ Kg8 14. gxh8=Q#
+1-0

@@ -1,0 +1,18 @@
+[Event "Luneburg"]
+[Site "Luneburg"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Riemann, Fritz"]
+[Black "Von Schuetz, H."]
+[Result "1-0"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish variation"]
+[HashCode "164af3cd"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. Bb5 d6 5. Bxc6+ bxc6 6. d4 Bg4 7. dxe5 Bxf3
+8. Qxf3 dxe5 9. Bg5 Bb4 10. O-O h6 11. Rad1 Qe7 12. Bxf6 Qxf6 13. Qxf6 gxf6 14.
+Ne2 Ke7 15. Ng3 h5 16. Nf5+ Ke6 17. Rd3 Bd6 18. Rfd1 Rad8 19. c4 c5 20. Ra3 Rb8
+21. Rxa7 Rxb2 22. Rxd6+ cxd6 23. Re7# 1-0

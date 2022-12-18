@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Showalter, Jackson Whipps"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Queen's pawn"]
+[Variation "stonewall attack"]
+[HashCode "efce8373"]
+[Epoch "Pawn"]
+[BlackCountry "IRE"]
+[WhiteCountry "USA"]
+
+1. d4 d5 2. e3 Nf6 3. Bd3 Bg4 4. f3 Bh5 5. Nh3 Nbd7 6. Nf4 Bg6 7. c4 Bxd3 8.
+Qxd3 dxc4 9. Qxc4 c6 10. Nd3 e5 11. O-O exd4 12. Qxd4 Be7 13. Nc3 O-O 14. Kh1
+Nb6 15. Qxd8 Raxd8 16. Nf2 Rfe8 17. e4 h6 18. g4 Nc4 19. Kg2 Bc5 20. Ne2 Be3
+21. b3 Bxc1 22. bxc4 Be3 23. Rfd1 Nd7 24. Rd3 Bb6 25. Rad1 Ne5 26. Rc3 Rxd1 27.
+Nxd1 Rd8 28. c5 Ba5 29. Rc1 Rd2 30. Kf1 Nxf3 31. Ne3 Rxa2 32. Kf2 Nd4 0-1

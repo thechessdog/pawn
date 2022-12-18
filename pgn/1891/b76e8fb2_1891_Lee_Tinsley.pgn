@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1891.01.01"]
+[Round "?"]
+[White "Lee, Francis Joseph"]
+[Black "Tinsley, Samuel"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "b76e8fb2"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Ng8 5. f4 c5 6. dxc5 Nc6 7. a3 Bxc5 8. Qg4
+g6 9. Bd3 a6 10. Nf3 h5 11. Qg3 Nh6 12. h3 Bd7 13. f5 Nxf5 14. Bxf5 h4 15. Qf4
+gxf5 16. g3 hxg3 17. Qxg3 Qc7 18. Qg5 Rg8 19. Qf4 Qb6 20. b4 Nxb4 21. Rb1 Nxc2+
+22. Kd2 Qc6 23. Kxc2 d4 24. h4 dxc3 25. Re1 Rc8 26. Rb3 Qa4 27. Qh2 Bc6 0-1

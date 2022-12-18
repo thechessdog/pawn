@@ -1,0 +1,19 @@
+[Event "Eisenach"]
+[Site "Eisenach"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Trimborn, O."]
+[Black "Hirschler, H."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "51d0956b"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Nf6 4. Bg2 Bc5 5. d3 d6 6. Na4 Bb6 7. Nxb6 axb6
+8. Ne2 Be6 9. a3 d5 10. f3 Nd7 11. f4 dxe4 12. dxe4 exf4 13. gxf4 Bg4 14.
+Be3 O-O 15. O-O Qe7 16. Qe1 f5 17. e5 Rae8 18. h3 Ndxe5 19. fxe5 Qxe5 20.
+Nf4 Qxb2 21. Bd5+ Kh8 22. Qh4 Rf6 23. hxg4 Rxe3 24. g5 Rd6 25. Rae1 Qxa3
+26. Rf3 Rxe1+ 27. Qxe1 Qc5+ 28. Kh1 Rf6 1-0
+

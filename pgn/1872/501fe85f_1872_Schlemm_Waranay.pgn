@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1872.01.01"]
+[Round "1"]
+[White "Schlemm, Heinrich"]
+[Black "Waranay"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "Italian variation"]
+[HashCode "501fe85f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. d4 exd4 5. Qxd4 Nc5 6. O-O Ne6 7. Ne5
+Nxd4 8. Bxf7+ Ke7 9. Bg5+ Kd6 10. Nc4+ Kc6 11. Bxd8 Nxc2 12. Rc1 Nxa1 13.
+Ne5+ Kb6 14. Rxc7 d6 15. Rc6+ Kb5 16. Nc3+ Kb4 17. a3# 1-0
+

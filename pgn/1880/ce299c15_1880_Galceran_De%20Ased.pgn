@@ -1,0 +1,22 @@
+[Event "Buenos Aires"]
+[Site "Buenos Aires"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Galceran, A."]
+[Black "De Ased, A."]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Improved Hanham variation"]
+[HashCode "ce299c15"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nf6 4. Nc3 Nbd7 5. Bc4 c6 6. dxe5 dxe5 7. Ng5 Bb4
+8. Nxf7 Bxc3+ 9. bxc3 Qa5 10. Nd6+ Ke7 11. Bb2 Qc5 12. Nf5+ Kf8 13. Qd3 Nb6
+14. Ne3 Na4 15. O-O-O a5 16. a3 Ke7 17. Bb3 Nxb2 18. Kxb2 Be6 19. f3 Rhd8
+20. Qe2 Bf7 21. Bxf7 Kxf7 22. Qc4+ Qxc4 23. Nxc4 Ke6 24. Rxd8 Rxd8 25. Nxa5
+c5 26. c4 Rd6 27. Kc1 b6 28. Nb3 g5 29. Rd1 g4 30. Rxd6+ Kxd6 31. Kd2 h5
+32. Ke3 h4 33. Nc1 b5 34. cxb5 c4 35. Ne2 Kc5 36. Nc3 h3 37. g3 gxf3 38.
+Kxf3 Kd4 39. Ne2+ Kc5 40. a4 Kb4 41. b6 Kxa4 42. Nc3+ Ka3 43. Nd5 Nd7 44.
+g4 1-0
+

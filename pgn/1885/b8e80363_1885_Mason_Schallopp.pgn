@@ -1,0 +1,26 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "12"]
+[White "Mason, James"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[HashCode "b8e80363"]
+[Epoch "Pawn"]
+[WhiteCountry "IRE"]
+[BlackCountry "DEU"]
+
+1. f4 d5 2. Nf3 c5 3. e3 a6 4. Be2 g6 5. d3 Nf6 6. c3 Bg7 7. Nbd2 Qc7 8. Nf1 b5
+9. Ng3 Bb7 10. O-O h5 11. h3 Nbd7 12. Qe1 e6 13. a4 Ke7 14. axb5 axb5 15. Rxa8
+Rxa8 16. Ng5 c4 17. d4 Ne4 18. N5xe4 dxe4 19. Bd1 Ra1 20. Bc2 f5 21. Ne2 Nf6
+22. Qf2 Nd5 23. Bd2 Qa5 24. Nc1 Kf7 25. g4 hxg4 26. hxg4 Qa8 27. g5 Ba6 28. Rd1
+Qb8 29. b4 Bb7 30. Ne2 Ra2 31. Rc1 Qh8 32. Qh2 Qxh2+ 33. Kxh2 Nb6 34. Ng3 Na4
+35. Nf1 Nb2 36. Bb1 Ra3 37. Rc2 Nd3 38. Ra2 Ra4 39. Rxa4 bxa4 40. Bxd3 exd3 41.
+Bc1 Ba6 42. Ba3 Bb5 43. Nd2 Bf8 44. Kg3 Bd6 45. Kf2 Ke7 46. Kf3 Bc6+ 47. Kf2
+Bd5 48. Nb1 Bc6 49. Ke1 Bb5 50. Nd2 Bc7 51. Nf3 Kf7 52. Kd1 Bc6 53. Nd2 Bb5 54.
+Kc1 Ke7 55. Nf3 Kf7 56. Kb1 Bc6 57. Nd2 Bb5 58. Bc1 Ke7 59. Ka2 Kd6 60. Ba3 Kd5
+61. Kb2 e5 62. dxe5 Bb6 63. Nf1 Ke4 64. Kc1 Kf3 65. Kd1 Kf2 66. Nd2 Bxe3 67. e6
+Bxf4 68. e7 Bxg5 69. e8=Q Bxe8 70. Nxc4 Bf7 71. Nd2 Bb3+ 72. Nxb3 axb3 73. c4
+Be3 74. c5 g5 75. b5 g4 76. b6 g3 0-1

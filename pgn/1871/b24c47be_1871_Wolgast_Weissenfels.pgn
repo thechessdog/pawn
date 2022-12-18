@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1871.01.01"]
+[Round "1"]
+[White "Wolgast"]
+[Black "Weissenfels"]
+[Result "1-0"]
+[ECO "C82"]
+[Opening "Ruy Lopez"]
+[Variation "open, Motzko attack"]
+[HashCode "b24c47be"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Be6 9. c3 Bc5 10. Qd3 Na5 11. Bc2 Ba7 12. Nd4 Bd7 13. Qf3 Qh4 14. Nd2
+Nxd2 15. Bxd2 Bxd4 16. cxd4 Nc4 17. Bc3 Be6 18. b3 Nb6 19. Qd3 g6 20. f4
+Qe7 21. Qd2 h6 22. f5 gxf5 23. Bxf5 Bxf5 24. Rxf5 Nd7 25. Bb4 Qe6 26. Raf1
+O-O-O 27. Qc3 1-0
+

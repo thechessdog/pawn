@@ -1,0 +1,19 @@
+[Event "Moscow"]
+[Site "Moscow"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Liubimov, B."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "b895842d"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. d4 d5 6. Bxd5 c6 7. Bb3 Bg4 8. Nf3
+Qh5 9. Nc3 Na6 10. h4 O-O-O 11. Kf2 Rxd4 12. Qxd4 Bc5 13. Qxc5 Nxc5 14. Nxg5 f6
+15. Nf3 f5 16. Bxf4 fxe4 17. Ng5 Nh6 18. Ncxe4 Nxe4+ 19. Nxe4 Rf8 20. g3 Qe5
+21. Rae1 Rxf4+ 22. gxf4 Qxf4+ 23. Kg1 Bf3 24. Rh3 Bxe4 25. Be6+ Kc7 26. Rhe3
+Ng4 0-1

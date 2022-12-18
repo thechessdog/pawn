@@ -1,0 +1,16 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Saalbach, August"]
+[Black "Anderssen, Adolf"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "98761aab"]
+[Epoch "Pawn"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Re1 Nf4 12. Qc2 Qf6 13. Nf1 Nxg2 14.
+Kxg2 Qxf3+ 15. Kg1 Nxd4 16. Qe4 b5 17. Bd3 f5 18. Qxd4 Bb7 0-1

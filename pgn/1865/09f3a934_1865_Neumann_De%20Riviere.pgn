@@ -1,0 +1,19 @@
+[Event "Berlin m3"]
+[Site "Berlin"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "De Riviere, Jules Arnous"]
+[Result "1/2-1/2"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Philidor gambit, Schultz variation"]
+[HashCode "09f3a934"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. d4 h6 6. h4 d6 7. Qd3 Nd7 8. hxg5
+hxg5 9. Rxh8 Bxh8 10. e5 Nf8 11. Nc3 dxe5 12. dxe5 Qxd3 13. cxd3 Be6 14. Nxg5
+Bxe5 15. Nxe6 fxe6 16. Bd2 O-O-O 17. O-O-O Nf6 18. Re1 Ng4 19. Re4 Rd4 20. Rxd4
+Bxd4 21. Bxf4 Be3+ 22. Bxe3 Nxe3 23. g3 Nxc4 24. dxc4 1/2-1/2

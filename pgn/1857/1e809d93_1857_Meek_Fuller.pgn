@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "Meek, Alexander"]
+[Black "Fuller, Maxwell Leonard"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "1e809d93"]
+[Epoch "Pawn"]
+[BlackCountry "AUS"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. f4 Nc6 5. Nf3 Qb6 6. c3 Nh6 7. Qb3 Nf5 8. Qxb6
+axb6 9. Bb5 cxd4 10. Nxd4 Nxd4 11. cxd4 Bd7 12. Bxc6 bxc6 13. Bd2 c5 14. Bc3 c4
+15. O-O b5 16. b4 cxb3 17. axb3 Rxa1 18. Bxa1 Bb4 19. Bc3 Bxc3 20. Nxc3 O-O 21.
+Ra1 Rc8 22. Ra7 Rxc3 23. Rxd7 g6 24. Rb7 Rxb3 0-1

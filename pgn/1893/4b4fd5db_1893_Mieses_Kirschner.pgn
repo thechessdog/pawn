@@ -1,0 +1,19 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Mieses, Jacques"]
+[Black "Kirschner, Heinrich"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 8...Be6"]
+[HashCode "4b4fd5db"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. a4 b4 10. Be3 Bc5 11. Bxc5 Nxc5 12. c3 bxc3 13. Nxc3 Nxb3 14. Qxb3 Rb8
+15. Qc2 O-O 16. Ne2 Ne7 17. Rfc1 c5 18. b3 Rc8 19. Nf4 Bf5 20. Qe2 Ng6 21. Nxg6
+fxg6 22. Qxa6 Bg4 23. Ne1 Qg5 24. Nd3 Bh3 25. g3 Qf5 26. Nf4 Bg4 27. Qd3 Qxd3
+28. Nxd3 1-0

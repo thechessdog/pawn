@@ -1,0 +1,19 @@
+[Event "Kolisch mem 99/00"]
+[Site "Vienna"]
+[Date "1899.??.??"]
+[Round "11"]
+[White "Schwarz, Adolf"]
+[Black "Von Popiel, Ignatz"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7, 5.e3 O-O"]
+[HashCode "e841c028"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "POL"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 O-O 6. c5 Nbd7 7. Nf3 c6 8. Bd3
+Re8 9. O-O Bf8 10. Ne5 h6 11. Bh4 Nxe5 12. dxe5 g5 13. exf6 gxh4 14. Qg4+ Kh8
+15. Qxh4 e5 16. Ne4 Re6 17. Rad1 Bd7 18. Bb1 b6 19. b4 bxc5 20. Nxc5 Rd6 21. f4
+exf4 22. Qxf4 Qc8 23. e4 Re6 24. Nxd7 Qxd7 25. exd5 1-0

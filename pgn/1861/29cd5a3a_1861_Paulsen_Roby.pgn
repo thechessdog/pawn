@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Roby"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "29cd5a3a"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 Be7 6. Bd3 Ng5 7. O-O O-O 8.
+Nxg5 Bxg5 9. Nd2 f5 10. f4 Bf6 11. Nf3 Nc6 12. c3 Ne7 13. Ng5 Bxg5 14. fxg5 Bd7
+15. Qb3+ Kh8 16. Qxb7 Bc6 17. Qb3 h6 18. gxh6 gxh6 19. Qe6 Ng8 20. Rxf5 Qh4 21.
+Bd2 Nf6 22. g3 Qh3 23. Bf1 Bd7 24. Rxf6 Qxe6 25. Rxe6 Bxe6 26. Bxh6 Rf6 27. Bg5
+Rg6 28. h4 Kg7 29. Bd3 Rxg5 30. hxg5 Rf8 31. Re1 Rf3 32. Rxe6 Rxg3+ 33. Kf2
+Rxd3 34. Re7+ Kg6 35. Rxc7 Rd2+ 36. Ke3 Rxb2 37. Rxa7 Kxg5 38. Ra6 1-0

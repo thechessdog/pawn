@@ -1,0 +1,20 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Kolisch, Ignatz"]
+[Black "Hirschfeld, Philipp"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Fraser-Mortimer attack"]
+[HashCode "f2289fe5"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Ba5 6. d4 exd4 7. O-O d6 8.
+cxd4 Bb6 9. Nc3 Bg4 10. Qa4 Bd7 11. Qb3 Na5 12. Bxf7+ Kf8 13. Qc2 Kxf7 14. e5
+h6 15. d5 Bg4 16. e6+ Bxe6 17. dxe6+ Kxe6 18. Qg6+ Qf6 19. Re1+ Kd7 20. Qg4+
+Kd8 21. Nd5 Qf7 22. Bg5+ hxg5 23. Nxg5 Qh5 24. Ne6+ Kd7 25. Nf8+ Kc6 26. Nb4+
+Kc5 27. Nd7+ Kb5 28. a4# 1-0

@@ -1,0 +1,25 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Wittek, Alexander"]
+[Black "Schwarz, Jacques"]
+[Result "1-0"]
+[ECO "B14"]
+[Opening "Caro-Kann"]
+[Variation "Panov-Botvinnik attack, 5...e6"]
+[HashCode "a333d36a"]
+[Epoch "Pawn"]
+
+1. c4 c5 2. e3 e6 3. Nc3 Nf6 4. d4 cxd4 5. exd4 d5 6. Bg5 dxc4 7. Bxc4 Be7
+8. Nf3 Nc6 9. O-O O-O 10. Qd2 h6 11. Bxf6 Bxf6 12. Rad1 a6 13. Ne4 b5 14.
+Nxf6+ Qxf6 15. Bd3 Bb7 16. Be4 Rfd8 17. Qe3 Na5 18. b3 Bd5 19. Rc1 Nb7 20.
+Rc7 Bxe4 21. Qxe4 Nd6 22. Qe5 Nf5 23. Qxf6 gxf6 24. Rd1 Rac8 25. Rxc8 Rxc8
+26. Kf1 Ne7 27. Ne1 Nd5 28. g3 b4 29. Kg2 a5 30. Kf3 f5 31. Ra1 Rc3+ 32.
+Ke2 f4 33. Kd2 fxg3 34. hxg3 Nf6 35. f3 Nd5 36. Nd3 Rc7 37. Nc5 Nc3 38. a3
+e5 39. axb4 axb4 40. Na6 Rd7 41. Nxb4 exd4 42. Nc6 Nd5 43. Nxd4 Rd8 44. Kd3
+Kg7 45. Ra4 Rc8 46. Ra5 Rd8 47. Rc5 Kg6 48. Rc4 f6 49. Ke4 Nb6 50. Rc6 Rb8
+51. b4 Nd7 52. b5 Ne5 53. Rc7 Rb6 54. f4 Ng4 55. Kd5 f5 56. Rc6+ Nf6+ 57.
+Kc5 Rb8 58. b6 Kf7 59. Nxf5 Nd7+ 60. Kb5 h5 61. Nd6+ Ke7 62. b7 Rg8 63.
+Nf5+ 1-0
+

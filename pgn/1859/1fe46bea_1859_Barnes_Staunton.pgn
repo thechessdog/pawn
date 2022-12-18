@@ -1,0 +1,22 @@
+[Event "London consult"]
+[Site "London consult"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "Barnes, Thomas"]
+[Black "Staunton, Howard"]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack, Jaenisch variation"]
+[HashCode "1fe46bea"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nc6 8. c4
+Nf6 9. Qe2 Bg4 10. Be3 O-O 11. Nc3 Qd7 12. c5 Rad8 13. a3 a6 14. b4 Rde8 15.
+Qc2 Bxf3 16. Bf5 Be4 17. Bxd7 Bxc2 18. Bxe8 Rxe8 19. Rac1 Bb3 20. h3 Bd8 21.
+Rfe1 Kf8 22. f3 Re6 23. b5 axb5 24. Nxb5 Bc4 25. Nc3 Na5 26. Bf4 Nd7 27. Rxe6
+fxe6 28. Rb1 Ba6 29. Nb5 e5 30. dxe5 Nxc5 31. Kh2 Kf7 32. Be3 Nd3 33. f4 Nc4
+34. Bc1 c6 35. Nd4 g6 36. g4 Bb6 37. Nf3 h6 38. f5 Nxc1 39. Rxc1 gxf5 40. Re1
+Ne3 41. Kg3 f4+ 42. Kh2 d4 43. g5 hxg5 44. Nxg5+ Ke7 45. h4 d3 46. Nf3 Nf5 47.
+Kh3 Be3 48. Kg4 Nh6+ 49. Kg5 Nf7+ 50. Kf5 d2 51. Rh1 Bd3+ 52. Kg4 Be2 0-1

@@ -1,0 +1,16 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1855.01.01"]
+[Round "1"]
+[White "Doherty, A."]
+[Black "Ashby, M."]
+[Result "0-1"]
+[ECO "A45"]
+[Opening "Trompovsky attack (Ruth, Opovcensky opening)"]
+[HashCode "d7e9157f"]
+[Epoch "Pawn"]
+
+1. d4 Nf6 2. Bg5 c5 3. Bxf6 gxf6 4. d5 Qb6 5. Qc1 d6 6. e3 Nd7 7. Na3 a6 8.
+Ne2 Qa5+ 9. c3 b5 10. e4 Ne5 11. Qd1 f5 12. exf5 b4 13. Nb1 Bxf5 14. Ng3
+Bxb1 0-1
+

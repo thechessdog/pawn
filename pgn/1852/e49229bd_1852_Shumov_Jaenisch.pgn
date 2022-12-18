@@ -1,0 +1,19 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Shumov, Ilia S"]
+[Black "Jaenisch, Carl"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, classical defence"]
+[HashCode "e49229bd"]
+[Epoch "Pawn"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. d4 d6 7. Nb5 Kd8 8. e5
+Nc6 9. Nf3 Qh5 10. h4 h6 11. b4 Nge7 12. Nxc7 Kxc7 13. exd6+ Kxd6 14. b5 Na5
+15. Ba3+ Kd7 16. Ne5+ Bxe5 17. Qxh5 Nxc4 18. Bxe7 Ne3+ 19. Kf2 Kxe7 20. hxg5
+Bg4 21. Qh4 Bxd4 22. gxh6+ Kf8 23. Qg5 Nf5+ 24. Ke1 Re8+ 25. Kd2 Rg8 26. Qxf5
+Be3+ 0-1

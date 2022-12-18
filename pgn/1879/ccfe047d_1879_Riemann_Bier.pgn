@@ -1,0 +1,19 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Riemann, Fritz"]
+[Black "Bier, Max "]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "ccfe047d"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. Nxe5 O-O 7. O-O Nxe5 8.
+d4 Bb4 9. dxe5 Bxc3 10. bxc3 Nxe4 11. Qd4 d5 12. f3 Ng5 13. Bxg5 Qxg5 14. f4
+Qd8 15. f5 c6 16. f6 g6 17. Qe3 Kh8 18. Rab1 b5 19. Qg5 c5 20. Rf4 Rg8 21. Rh4
+Qf8 22. Rf1 Bf5 23. Rff4 h5 24. Rxf5 Kh7 25. Rxh5+ gxh5 26. Qxh5+ Qh6 27. Qxf7+
+Rg7 28. fxg7 Qe3+ 29. Kh1 1-0

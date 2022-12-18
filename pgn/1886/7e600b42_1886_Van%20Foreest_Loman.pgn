@@ -1,0 +1,19 @@
+[Event "Amsterdam"]
+[Site "Amsterdam"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Van Foreest, Dirk"]
+[Black "Loman, Rudolf"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Goering gambit"]
+[HashCode "7e600b42"]
+[Epoch "Pawn"]
+[BlackCountry "NLD"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. c3 dxc3 5. Bc4 cxb2 6. Bxb2 Bb4+ 7. Nc3 Nh6
+8. O-O O-O 9. Nd5 Bc5 10. Qd2 Ng4 11. h3 Nxf2 12. Rxf2 Bxf2+ 13. Kxf2 d6 14.
+Qc3 Ne5 15. Nxe5 dxe5 16. Qxe5 Qh4+ 17. Kg1 Qh6 18. Ne7+ Kh8 19. Rf1 Be6 20.
+Kh2 Rae8 21. Rf6 Qd2 22. Rxe6 1-0

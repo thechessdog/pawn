@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1850.01.01"]
+[Round "1"]
+[White "Zutphen"]
+[Black "Enschede"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "284761f2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Nc3 Qh4+ 5. Kf1 fxe4 6. Nxe4 c6 7. Qe2 Kd8
+8. Qd3 b5 9. Bxb5 cxb5 10. Qd5 Ne7 11. Qxa8 Nec6 12. a4 Qh5 13. axb5 Qd1+
+14. Kf2 Qxc2 15. bxc6 Nxc6 16. Nf3 Kc7 17. Rxa7+ Kb6 18. Ra1 Qxe4 19. d4
+Bb7 20. Qa2 Bb4 21. Qb3 Ba6 22. Re1 Qd3 23. Qxd3 Bxd3 24. Rh1 Rf8 25. Ne5
+Nxe5 26. dxe5 Be4 27. h4 Bc5+ 28. Kf1 Bd4 29. Rh3 f3 30. gxf3 Bxf3 31. Ke1
+Rf5 32. Ra3 Rxe5+ 33. Kd2 Bg2 34. Rhb3+ Kc6 35. Kd3 Rd5 36. Ra6+ Kc7 37.
+Bf4+ Kd8 38. Ke2 Ke7 39. Rg3 Be4 40. Ra4 Kf6 41. b4 Rb5 42. Rg4 d5 43. Be3
+Bxe3 44. Kxe3 g6 45. Rf4+ Ke5 46. Rf2 Rb6 47. Rb2 Rf6 48. b5 Rb6 49. Ra6
+d4+ 50. Kd2 Rb7 51. Ra4 h6 52. b6 Kd6 53. Ra7 Kc6 54. Rxb7 Kxb7 55. Ke2 g5
+56. h5 Bc6 57. Kd3 g4 1/2-1/2
+

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Pillsbury, Harry Nelson"]
+[Black "Lee, Francis Joseph"]
+[Result "1-0"]
+[ECO "D53"]
+[Opening "QGD"]
+[Variation "4.Bg5 Be7"]
+[HashCode "03f264f0"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "ENG"]
+
+1. d4 d5 2. c4 e6 3. Nc3 Nf6 4. Bg5 Be7 5. e3 Nbd7 6. Nf3 b6 7. cxd5 exd5 8.
+Bb5 Bb7 9. Ne5 O-O 10. Bc6 Bxc6 11. Nxc6 Qe8 12. Nxe7+ Qxe7 13. Nxd5 Qe4 14.
+Nxf6+ gxf6 15. Bh6 Qxg2 16. Qf3 1-0

@@ -1,0 +1,16 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Markov, Andrei"]
+[Black "Lipke, Paul"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit, Steinitz variation"]
+[HashCode "b29fd001"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. d3 d4 5. Nce2 exf4 6. Bxf4 Nh5 7. c3 Nc6 8.
+g3 Nxf4 9. Nxf4 Bd6 10. Ngh3 Be5 11. Rc1 h5 12. Qb3 h4 13. Bg2 hxg3 14. O-O
+gxh2+ 15. Kh1 Rb8 16. Nd5 Rxh3 0-1
+

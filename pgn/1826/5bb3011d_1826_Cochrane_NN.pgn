@@ -1,0 +1,19 @@
+[Event "England sim"]
+[Site "England"]
+[Date "1826.??.??"]
+[Round "?"]
+[White "Cochrane, John"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Philidor counter-gambit, del Rio attack"]
+[HashCode "5bb3011d"]
+[Epoch "Pawn"]
+[WhiteCountry "SCO"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f5 4. dxe5 fxe4 5. Ng5 d5 6. e6 Nh6 7. Qh5+ g6 8. Qh3
+Bg7 9. c4 O-O 10. cxd5 Qxd5 11. Nc3 Qf5 12. Qh4 Nc6 13. Bc4 Kh8 14. O-O Qc5 15.
+Bb3 b6 16. Be3 Qe5 17. Ncxe4 Nd4 18. Bxd4 Qxd4 19. e7 Re8 20. Nf7+ Nxf7 21.
+Bxf7 Bf5 22. Bxe8 Rxe8 23. Rad1 Qxe4 24. Rd8 Qc6 25. Rxe8+ Qxe8 26. Rd1 Bd7 27.
+Qe4 Bf6 28. Rxd7 Kg7 29. Qe6 c5 30. Rd6 1-0

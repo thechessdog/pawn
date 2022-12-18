@@ -1,0 +1,19 @@
+[Event "Bonn"]
+[Site "Bonn"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Roettgen"]
+[Black "Schwan, Wilhelm"]
+[Result "0-1"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "e7feaf23"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. d4 d5 2. e4 dxe4 3. f3 e5 4. dxe5 Bd7 5. Nc3 Bb4 6. Bd2 e3 7. Bxe3 Nc6 8. f4
+Nh6 9. Bd3 O-O 10. Nf3 Ng4 11. Qd2 Qe7 12. O-O-O Bxc3 13. bxc3 Qa3+ 14. Kb1
+Nxe3 15. Qxe3 Be6 16. c4 g6 17. Qc1 Qa4 18. Nd2 b5 19. c3 bxc4 20. Bc2 Rab8+
+21. Ka1 Qa5 22. Be4 Nb4 23. cxb4 Rxb4 24. Qc3 Rfb8 25. Rc1 Qxa2+ 26. Kxa2 Ra4+
+27. Qa3 c3+ 28. Bd5 Bxd5+ 29. Nb3 Bxb3+ 30. Kb1 Bd1+ 31. Ka2 Rb2+ 32. Ka1 Rxa3#
+0-1

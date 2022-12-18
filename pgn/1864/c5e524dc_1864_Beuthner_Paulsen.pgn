@@ -1,0 +1,18 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Beuthner, R."]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "C54"]
+[Opening "Giuoco Piano"]
+[HashCode "c5e524dc"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 Nf6 5. d4 exd4 6. cxd4 Bb4+ 7. Bd2 Bxd2+
+8. Nbxd2 d5 9. exd5 Nxd5 10. O-O O-O 11. Nb3 Bf5 12. a3 Qd6 13. Re1 Nf4 14. Nh4
+Be6 15. Bxe6 fxe6 16. Qd2 Qd5 17. Qc3 Qh5 18. Nf3 Nxg2 19. Kxg2 Qg4+ 20. Kh1
+Rxf3 21. Re3 Rxf2 22. Rg1 Qh4 23. Rg2 Raf8 24. Reg3 Rf1+ 25. Rg1 Qe4+ 26. Rg2
+R8f2 27. Qg3 Rxg1+ 28. Kxg1 Qe1# 0-1

@@ -1,0 +1,15 @@
+[Event "Munich"]
+[Site "Munich"]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Imbusch, H."]
+[Black "Goring, H."]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Vienna game"]
+[HashCode "f00ed230"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 Nxe4 4. Bxf7+ Kxf7 5. Nxe4 Nc6 6. Qf3+ Kg8 7.
+Ng5 1-0
+

@@ -1,0 +1,25 @@
+[Event "Parijs m"]
+[Site "Parijs m"]
+[Date "1859.01.01"]
+[Round "4"]
+[White "Journoud, Paul"]
+[Black "De Riviere, Jules Arnous"]
+[Result "0-1"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "1d5b5095"]
+[Epoch "Pawn"]
+[BlackCountry "FRA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. Nc3 b5 7. Bb3 d6 8. d4
+Bg4 9. Be3 exd4 10. Bxd4 O-O 11. Bd5 Qd7 12. Bxc6 Qxc6 13. Bxf6 Bxf6 14. Nd5
+Bd8 15. Qd3 Qd7 16. h3 Be6 17. Nd4 c5 18. Nf5 g6 19. Nxd6 c4 20. Qd4 Bxh3 21.
+e5 Qg4 22. Qe4 Qxe4 23. Nxe4 Bf5 24. Nef6+ Bxf6 25. Nxf6+ Kg7 26. Rac1 h5 27.
+f3 h4 28. Kf2 Rad8 29. Ke3 g5 30. Rg1 Rh8 31. g4 Bg6 32. Rg2 b4 33. f4 gxf4+
+34. Kxf4 a5 35. Rh2 c3 36. bxc3 bxc3 37. Rh3 Rd4+ 38. Kg5 Ra4 39. Rxc3 Rxa2 40.
+Rc7 Rb2 41. Nh5+ Bxh5 42. gxh5 Rb5 43. Kxh4 Rxe5 44. Rg1+ Kf6 45. Rf1+ Ke6 46.
+Rfxf7 Rhxh5+ 47. Kg4 Kd5 48. Rfd7+ Ke4 49. Re7 Rg5+ 50. Kh4 Kf4 51. Rc4+ Ke3
+52. Rxe5+ Rxe5 53. Kg3 Rg5+ 54. Kh4 Rb5 55. Kg3 Rg5+ 56. Kh4 Rd5 57. Rc8 a4 58.
+c4 Ra5 59. c5 a3 60. c6 a2 61. c7 a1=Q 62. Re8+ Kf3 63. Rf8+ Kg2 64. Rg8+ Kh2
+65. c8=Q Qe1+ 66. Kg4 Qg3# 0-1

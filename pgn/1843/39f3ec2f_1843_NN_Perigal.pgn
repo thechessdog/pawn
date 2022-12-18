@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1843.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Perigal, G."]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[Variation "Anderssen (Paulsen, Suhle) counter-attack"]
+[HashCode "39f3ec2f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. c3 d6 5. O-O Bg4 6. d4 exd4 7. Qb3 Qd7 8.
+cxd4 Bxf3 9. dxc5 Nd4 10. Qxb7 Qg4 11. Qxa8+ Ke7 12. Bg5+ Nf6 13. cxd6+ Kd7
+14. g3 Qh3 15. Qxh8 Qg2# 0-1
+

@@ -1,0 +1,24 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Pierce, William"]
+[Black "Hart, T."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "e4058efb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 Bg7 6. d5 Ne5 7. h4 h6 8. g3
+fxg3 9. hxg5 hxg5 10. Rxh8 Bxh8 11. Nxg5 Bf6 12. Qh5 Bxg5 13. Qh8 Kf8 14.
+Qxe5 Bh4 15. Ke2 d6 16. Qh5 Bf6 17. Bf4 Bxc3 18. bxc3 Qf6 19. Qf3 Qg6 20.
+Kd2 Nf6 21. Bg2 Bg4 22. Qxg3 Bh5 23. Rh1 Re8 24. Qxg6 Bxg6 25. Rh8+ Ng8 26.
+Bh6+ Ke7 27. Bg5+ f6 28. Be3 b6 29. Bh3 Kf7 30. Be6+ Kg7 31. Rh4 Ne7 32.
+Bh6+ Kh8 33. Bd7 Rd8 34. Bf8+ Bh7 35. Bxe7 Rxd7 36. Bxf6+ Kg8 37. Ke3 Kf8
+38. Kd4 Ke8 39. c4 Rf7 40. Rh6 Kd7 41. c3 c5+ 42. Ke3 Kc7 43. Kf4 Kd7 44.
+a4 a5 45. Ke3 Kc7 46. Bg5 Rd7 47. Bf4 Bg8 48. Rf6 Bh7 49. Bh6 Bg8 50. Bf8
+Bh7 51. Kf4 Bg8 52. Kg5 Bh7 53. Re6 Bg8 54. Rh6 Bf7 55. Kf6 Be8 56. Be7 Kb7
+57. Rh8 Bg6 58. Kxg6 Rxe7 59. Rh7 1-0
+

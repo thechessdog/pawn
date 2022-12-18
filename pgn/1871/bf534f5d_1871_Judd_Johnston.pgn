@@ -1,0 +1,26 @@
+[Event "USA-02.Congress"]
+[Site "Cleveland,OH"]
+[Date "1871.01.01"]
+[Round "2"]
+[White "Judd, Max"]
+[Black "Johnston, A."]
+[Result "1-0"]
+[ECO "C84"]
+[Opening "Ruy Lopez"]
+[Variation "closed defence"]
+[HashCode "bf534f5d"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Be7 6. d3 b5 7. Bb3 d6 8. h3
+Na5 9. Nc3 Nxb3 10. axb3 O-O 11. Ne2 h6 12. Ng3 Nh7 13. Nh2 Bh4 14. Qh5 Be6 15.
+Ng4 Bg5 16. Bxg5 Qxg5 17. Ne3 Qxh5 18. Nxh5 Rfd8 19. f4 exf4 20. Nxf4 Nf6 21.
+Ned5 Bxd5 22. Nxd5 Nxd5 23. exd5 Re8 24. c4 bxc4 25. dxc4 Re3 26. Ra3 Rb8 27.
+Rxa6 Rbxb3 28. Ra8+ Kh7 29. Rxf7 Rxb2 30. Raf8 Re4 31. Rf4 Re1+ 32. Kh2 h5 33.
+R4f5 Kg6 34. h4 Re5 35. Rxe5 dxe5 36. Rc8 Rb7 37. Re8 Kf5 38. Re7 Rb1 39. Rxc7
+Rd1 40. Rxg7 Rd4 41. Kg3 Rxc4 42. Rg5+ Kf6 43. Rxh5 Rc3+ 44. Kf2 Rc2+ 45. Kf3
+Rc3+ 46. Ke4 Rc4+ 47. Ke3 Rc3+ 48. Kd2 Rc4 49. d6 Rg4 50. Rh6+ Kf7 51. d7 Rxg2+
+52. Ke3 Ke7 53. Rd6 Rg8 54. Rd5 Rh8 55. h5 Kd8 56. Rxe5 Kxd7 57. Kf4 Kd6 58.
+Ra5 Ke6 59. Kg5 Rg8+ 60. Kh6 Rg1 61. Kh7 Kf7 62. h6 Rg2 63. Rf5+ Ke7 64. Kh8
+Rg6 65. h7 Rg1 66. Ra5 Kf7 67. Ra8 Rb1 68. Ra7+ Kf6 69. Rg7 Rb8+ 70. Rg8 Rb7
+71. Rc8 Kf7 72. Rg8 Kf6 73. Rf8+ Rf7 74. Kg8 1-0

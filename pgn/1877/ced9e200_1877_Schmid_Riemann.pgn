@@ -1,0 +1,23 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1877.01.01"]
+[Round "1"]
+[White "Schmid, Christoph"]
+[Black "Riemann, Fritz"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "ced9e200"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Nxe5 Nxe5 8.
+dxe5 Nc5 9. Bb3 Nxb3 10. axb3 Bb7 11. Qg4 Qe7 12. Nc3 Qe6 13. Qxe6+ dxe6 14.
+Be3 O-O-O 15. Bg5 Rd4 16. Be3 Rg4 17. f3 Rg6 18. Ne2 f5 19. h4 h5 20. Nf4 Rgh6
+21. Nd3 R6h7 22. Bg5 Kb8 23. Kh2 Rg8 24. Nf4 Bc8 25. Rfd1 Bc5 26. Rd3 g6 27.
+Rad1 Rf7 28. Rd8 Rxd8 29. Rxd8 Kb7 30. Nxg6 Rg7 31. Nf4 Be3 32. Nh3 Bb6 33. Bf6
+Rd7 34. Rxd7 Bxd7 35. Nf4 Be3 36. Nxh5 Be8 37. Ng7 Bf7 38. g4 fxg4 39. fxg4 Bh6
+40. h5 Kc6 41. Kg3 Kd5 42. Kh4 Ke4 43. g5 Bxg7 44. Bxg7 Kf5 45. g6 Be8 46. Bf6
+c5 47. c3 c4 48. bxc4 bxc4 49. Kg3 a5 50. Kf3 Bc6+ 51. Ke3 Be8 52. Kd4 Kg4 53.
+g7 Bf7 54. h6 Bg8 55. Kxc4 Kh5 56. Kb5 Kxh6 57. Kxa5 1-0

@@ -1,0 +1,17 @@
+[Event "Paris m3"]
+[Site "Paris"]
+[Date "1860.01.01"]
+[Round "1"]
+[White "Harrwitz, Daniel"]
+[Black "Larouche"]
+[Result "1-0"]
+[ECO "B32"]
+[Opening "Sicilian"]
+[Variation "Labourdonnais-Loewenthal variation"]
+[HashCode "11a49634"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. d4 cxd4 4. Nxd4 e5 5. Nf3 Nf6 6. Bc4 Bc5 7. O-O O-O 8.
+Nc3 d6 9. Bg5 Bg4 10. Nd5 Nd4 11. Be2 Bxf3 12. Bxf3 Ne6 13. Bxf6 gxf6 14. Bg4
+Re8 15. Bf5 Nc7 16. Qh5 Nxd5 17. Qh6 1-0

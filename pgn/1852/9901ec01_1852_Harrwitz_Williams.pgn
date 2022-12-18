@@ -1,0 +1,23 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "7"]
+[White "Harrwitz, Daniel"]
+[Black "Williams, Elijah"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "9901ec01"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Nc6 5. b4 Bb6 6. b5 Na5 7. d4 exd4 8. cxd4
+Nf6 9. Bd3 Bg4 10. Bb2 O-O 11. Nbd2 Nh5 12. h3 Bxf3 13. Qxf3 Qh4+ 14. Kd1 Qg3
+15. Rf1 Rfe8 16. Qxg3 Nxg3 17. Rf3 Nh5 18. e5 g6 19. g4 Ng7 20. f5 dxe5 21.
+dxe5 Red8 22. Kc2 Bd4 23. Bxd4 Rxd4 24. e6 fxe6 25. f6 Nf5 26. gxf5 exf5 27.
+Kc3 Rd6 28. Nc4 Nxc4 29. Bxc4+ Kf8 30. f7 Rad8 31. Re1 Rc8 32. Rfe3 Rdd8 33.
+Be6 Rb8 34. h4 c6 35. bxc6 bxc6 36. Rd3 Rxd3+ 37. Kxd3 Rb4 38. Bc4 Rb8 39. Kd4
+Rd8+ 40. Kc5 Rc8 41. Kd6 Rd8+ 42. Kc7 Ra8 43. Kb7 Rd8 44. Kxa7 h6 45. Kb7 Rd7+
+46. Kxc6 Rxf7 47. Bxf7 Kxf7 48. Kd5 g5 49. hxg5 hxg5 50. Ke5 Kg6 51. a4 1-0

@@ -1,0 +1,20 @@
+[Event "England"]
+[Site "England"]
+[Date "1810.??.??"]
+[Round "?"]
+[White "NN"]
+[Black "Sarratt, Jacob Henry"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit, From defence"]
+[HashCode "ca0de028"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qe7 7. d4 Nc6
+8. c3 Ne5 9. dxe5 Qc5+ 10. Kh1 Qxc4 11. Bxf4 Bh6 12. Nd2 Qe6 13. Nb3 d6 14.
+Nd4 Qg4 15. exd6 Qxf3 16. Rxf3 Bxf4 17. Rxf4 cxd6 18. Nb5 Ke7 19. Rd1 Be6
+20. Nxd6 Rd8 21. e5 Nh6 22. c4 b6 23. b4 Rhg8 24. c5 Rg5 25. Re1 Nf5 26. h3
+Ng3+ 27. Kh2 Bd5 28. Rf2 Rdg8 29. c6 Nf5 30. Nxf5+ Rxf5 31. Ree2 Rxf2 32.
+Rxf2 Bxg2 0-1
+

@@ -1,0 +1,17 @@
+[Event "Elba"]
+[Site "Elba"]
+[Date "1814.01.01"]
+[Round "1"]
+[White "Bonaparte, Napoleon"]
+[Black "Bertrand, Henri"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[HashCode "5deb2639"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxd4 exd4 5. Bc4 Bc5 6. c3 Qe7 7. O-O Qe5
+8. f4 dxc3+ 9. Kh1 cxb2 10. Bxf7+ Kd8 11. fxe5 bxa1=Q 12. Bxg8 Be7 13. Qb3
+a5 14. Rf8+ Bxf8 15. Bg5+ Be7 16. Bxe7+ Kxe7 17. Qf7+ Kd8 18. Qf8# 1-0
+

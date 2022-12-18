@@ -1,0 +1,21 @@
+[Event "Nottingham"]
+[Site "Nottingham"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "Taubenhaus, Jean"]
+[Black "Pollock, William Henry Kraus"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Thorold variation"]
+[HashCode "09798512"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 f3 8. Bc4+
+d5 9. Bxd5+ Ke8 10. gxf3 g3 11. f4 Nf6 12. Bc4 g2 13. Rg1 Bg4 14. Qd3 Nc6 15.
+e5 Ne4 16. Qxe4 Qxh4+ 17. Kd2 Qf2+ 18. Kc3 Qxg1 19. Be3 Qe1+ 20. Nd2 g1=Q 21.
+Bxg1 Qxa1 22. Qg6+ Kd8 23. Qf6+ Kc8 24. Qxh8 Kd7 25. Qh7+ Be7 26. e6+ Bxe6 27.
+Bxe6+ Kxe6 28. d5+ Kxd5 29. Qf5+ Ne5 30. Qxe5+ Kc6 31. Qxe7 Qxg1 32. Qe6+ Kb5
+33. a4+ Kxa4 34. Qb3+ Ka5 35. Nc4+ Ka6 36. Qa4# 1-0

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Berger, Johann Nepomuk"]
+[Black "Pitschel, Karl"]
+[Result "1-0"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "ce067a54"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 d6 6. Bxc6+ bxc6 7. d4 exd4 8.
+Nxd4 c5 9. Nde2 Bb7 10. Ng3 g6 11. O-O h5 12. Bg5 Be7 13. Qd3 h4 14. Nge2 Nh5
+15. Bxe7 Qxe7 16. Nd5 Qd8 17. Rae1 O-O 18. f4 Bxd5 19. Qxd5 Nf6 20. Qd3 Qe7 21.
+Nc3 Nh5 22. e5 Rfe8 23. f5 gxf5 24. Qxf5 Ng7 25. Qg4 c6 26. Ne4 1-0

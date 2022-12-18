@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1868.01.01"]
+[Round "1"]
+[White "Zukertort, Johannes Hermann"]
+[Black "Schmidt, (Pawn Era)"]
+[Result "1-0"]
+[ECO "A02"]
+[Opening "Bird"]
+[Variation "From gambit, Lipke variation"]
+[HashCode "fe4c2440"]
+[Epoch "Pawn"]
+[WhiteCountry "POL"]
+[BlackCountry "POL"]
+
+1. f4 e5 2. fxe5 d6 3. exd6 Bxd6 4. Nf3 Nh6 5. d4 Ng4 6. Bg5 f6 7. Bh4 Qe7 8.
+Qd3 O-O 9. e4 Re8 10. Nbd2 Bf5 11. Qb3+ Kh8 12. e5 Nc6 13. O-O-O Bb4 14. h3 Nh6
+15. c3 Ba5 16. g4 Bg6 17. g5 Ng8 18. gxf6 gxf6 19. Bc4 Qd7 20. Bxg8 Rxg8 21.
+Bxf6+ Rg7 22. h4 h5 23. Rdg1 Qe8 24. Rxg6 Qxg6 25. Rg1 Qh6 26. Qc2 1-0

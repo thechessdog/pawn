@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1893.01.01"]
+[Round "1"]
+[White "Schlechter, Carl"]
+[Black "Bendiner"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Swiss variation"]
+[HashCode "208e9f9d"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+
+1. e4 e6 2. d4 d5 3. Bd3 Nf6 4. Nc3 Bb4 5. exd5 exd5 6. Nf3 O-O 7. O-O Bg4 8.
+Bg5 c6 9. Ne2 Bxf3 10. gxf3 Nbd7 11. Ng3 Bd6 12. Kh1 Qc7 13. Rg1 Kh8 14. Nf5
+Rg8 15. Qd2 Nh5 16. Rg4 Rae8 17. Rh4 Ndf6 18. Rg1 g6 19. Bxf6+ Nxf6 20. Qg5 Re6
+21. Rgg4 Bf8 22. Qxf6+ Rxf6 23. Rxh7+ Kxh7 24. Rh4+ Bh6 25. Rxh6# 1-0

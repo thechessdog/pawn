@@ -1,0 +1,23 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Torbjoernsson"]
+[Black "Mellgren, A."]
+[Result "0-1"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "b375e8d2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Bg4 7. Nbd2 f5
+8. c3 Nc6 9. O-O Be7 10. Qb3 Rb8 11. Re1 Bxf3 12. Nxf3 O-O 13. Bf4 Kh8 14.
+Ne5 Bf6 15. Nxc6 bxc6 16. Qc2 g6 17. Rab1 Qd7 18. b4 Rbe8 19. b5 cxb5 20.
+Bxb5 c6 21. Bd3 Rf7 22. f3 Nd6 23. Be5 Kg7 24. a4 Rfe7 25. f4 Nf7 26. a5
+Qc8 27. a6 c5 28. Rb8 Qxb8 29. Bxb8 Rxe1+ 30. Kf2 c4 31. Bxa7 cxd3 32. Qxd3
+Nh6 33. h3 Bh4+ 34. Kf3 g5 35. fxg5 Bxg5 36. Kf2 Bh4+ 37. g3 Bxg3+ 38.
+Qxg3+ Ng4+ 39. hxg4 R8e2+ 40. Kf3 Re3+ 41. Kf2 Rxg3 42. Kxg3 Rg1+ 43. Kf2
+Ra1 44. gxf5 Rxa6 45. Bc5 Kf6 46. Ke3 Kxf5 47. Kd3 h5 48. Be7 Kg4 49. c4
+dxc4+ 50. Kxc4 h4 51. Bd8 h3 52. Kb5 Rd6 0-1
+

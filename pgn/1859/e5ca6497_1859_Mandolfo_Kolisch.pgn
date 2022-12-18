@@ -1,0 +1,16 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1859.01.01"]
+[Round "1"]
+[White "Mandolfo"]
+[Black "Kolisch, Ignatz"]
+[Result "0-1"]
+[ECO "C26"]
+[Opening "Vienna game"]
+[HashCode "e5ca6497"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nc3 c6 4. d3 b5 5. Bb3 a5 6. a4 b4 7. Na2 d5 8. exd5
+cxd5 9. Nf3 Nc6 10. Qe2 Bg4 11. O-O Bc5 12. Bg5 h6 13. h3 h5 14. hxg4 hxg4 15.
+Nxe5 Nd4 16. Qe1 Ne4 17. Bxd8 Ng3 18. Nc6+ Nde2+ 19. Qxe2+ Nxe2# 0-1

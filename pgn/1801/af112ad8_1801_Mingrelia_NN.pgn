@@ -1,0 +1,16 @@
+[Event "unknown"]
+[Site "unknown"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Mingrelia, D."]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C27"]
+[Opening "Boden-Kieseritsky gambit"]
+[HashCode "af112ad8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nxe4 4. Nc3 Nxc3 5. dxc3 f6 6. O-O d6 7. Nh4 g6
+8. f4 f5 9. Nf3 Qf6 10. fxe5 dxe5 11. Bg5 Qb6+ 12. Kh1 Qd6 13. Nxe5 Qxd1
+14. Bf7# 1-0
+

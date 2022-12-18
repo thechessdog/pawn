@@ -1,0 +1,25 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Flechsig, Ernst"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "43ab1c0c"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 b5 6. Bb3 Be7 7. Bd5 Bb7 8.
+Bxc6 dxc6 9. d3 Nd7 10. g4 f6 11. Rg1 Nf8 12. Be3 Qd7 13. a4 b4 14. Ne2 c5 15.
+Nd2 Ne6 16. Nc1 O-O 17. Nc4 Rad8 18. b3 Bxe4 19. Nd2 Bd5 20. Ne2 Nd4 21. Ng3
+Be6 22. Bxd4 cxd4 23. f3 f5 24. h3 Bh4 25. gxf5 Bxf5 26. Qe2 Bg5 27. O-O-O Be3
+28. Rh1 Bg6 29. Rdf1 Qc6 30. Rh2 Bf4 31. Rg2 Rd6 32. Rfg1 Qc3 33. Kb1 Qxd2 34.
+Qxd2 Bxd2 35. Rxd2 Rxf3 36. Rdg2 Kf8 37. h4 Rd7 38. h5 Bf5 39. h6 g6 40. Re2
+Re7 41. Rh2 Ke8 42. Kc1 Kd7 43. Kd2 Kd6 44. Ke2 Rf4 45. Kd2 Kd5 46. Rgg2 e4 47.
+Nxf5 Rxf5 48. dxe4+ Rxe4 49. Rh3 Re6 50. Kd3 Ref6 51. Rgg3 Rf2 52. Rg5+ R6f5
+53. Rgg3 c6 54. Rh4 R2f3+ 55. Rxf3 Rxf3+ 56. Ke2 Rf5 57. Kd3 c5 58. Rh3 Rh5 59.
+Rf3 Rxh6 60. Rf6 Rh3+ 61. Kd2 c4 62. bxc4+ Kxc4 63. Rc6+ Kd5 64. Rxa6 b3 65.
+cxb3 Rxb3 66. Kc2 Rc3+ 67. Kb2 Rc7 0-1

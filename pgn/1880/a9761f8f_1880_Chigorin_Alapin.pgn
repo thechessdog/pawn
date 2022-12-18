@@ -1,0 +1,21 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "a9761f8f"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "RUS"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. Nf3 Nf6 5. Bd3 Bd6 6. O-O O-O 7. Nc3 Nc6 8.
+Bg5 Bg4 9. h3 Bxf3 10. Qxf3 Nxd4 11. Qe3 Ne6 12. Bxf6 Qxf6 13. Nxd5 Qh4 14.
+Rae1 c6 15. Nc3 Bf4 16. Qe2 Nd4 17. Qd1 f5 18. Ne2 Rad8 19. Nxf4 Qxf4 20. c3
+Nf3+ 21. gxf3 Rd6 22. Re6 Rxe6 23. Qb3 Rf6 24. Re1 Rg6+ 25. Kf1 Qxf3 26. Re3
+Qg2+ 27. Ke1 Kf8 28. Rxe6 Qh1+ 29. Kd2 Rg1 30. Qb4+ Kg8 31. Re8+ Kf7 32. Qe7+
+Kg6 33. Qe6+ 1-0

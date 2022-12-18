@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Leiden"]
+[Black "Amersfoort"]
+[Result "0-1"]
+[ECO "C70"]
+[Opening "Ruy Lopez"]
+[Variation "Schliemann defence deferred"]
+[HashCode "e9b45674"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 f5 5. d4 fxe4 6. Bxc6 dxc6 7. Nxe5 Nf6
+8. Bg5 Bf5 9. g4 Be6 10. Be3 Bd6 11. h3 Nd5 12. Qe2 O-O 13. Nd2 c5 14. Nxe4
+cxd4 15. Bxd4 Nf4 16. Qd2 Bd5 17. f3 Bxe4 18. fxe4 Bxe5 19. Bxe5 Qh4+ 0-1
+

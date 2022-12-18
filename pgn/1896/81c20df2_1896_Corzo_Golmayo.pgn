@@ -1,0 +1,17 @@
+[Event "Havana"]
+[Site "Havana"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Corzo, Juan"]
+[Black "Golmayo, Manuel"]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "Two knights defence"]
+[HashCode "81c20df2"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 Nxe4 5. dxe5 Nc5 6. O-O Be7 7. Nc3 O-O
+8. Nd5 d6 9. Bf4 dxe5 10. Nxe5 Bd6 11. Nd3 Ne6 12. Bxd6 Qxd6 13. Ne3 Ne7
+14. Qh5 Bd7 15. Rad1 Ng6 16. Nf5 Qb6 17. Rfe1 Rad8 18. Re3 Nef4 19. Nxf4
+Nxf4 20. Qg5 Ng6 21. Bxf7+ Kxf7 22. Re7+ Nxe7 23. Qxg7+ Ke6 24. Qxe7+ 1-0
+

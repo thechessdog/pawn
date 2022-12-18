@@ -1,0 +1,17 @@
+[Event "Parijs m"]
+[Site "Parijs m"]
+[Date "1858.01.01"]
+[Round "1"]
+[White "Morphy, Paul"]
+[Black "Harrwitz, Daniel"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "exchange variation"]
+[HashCode "e5f2f0bf"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 d6 3. d4 exd4 4. Qxd4 Nf6 5. e5 dxe5 6. Qxd8+ Kxd8 7. Nxe5 Be6
+8. Nc3 Bd6 9. Nc4 Bxc4 10. Bxc4 Re8+ 11. Be3 Ke7 12. O-O-O a6 13. Bg5 1-0

@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Weiss"]
+[Black "Kirschner, Heinrich"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open (Tarrasch) defence"]
+[HashCode "8b7d91d3"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Re1 Nc5 7. Bxc6
+dxc6 8. Nxe5 Be7 9. d4 Ne6 10. c3 O-O 11. f4 f5 12. Qh5 g6 13. Qh3 Bd6 14.
+Be3 c5 15. Rd1 cxd4 16. cxd4 Bxe5 17. fxe5 f4 18. Bf2 Nxd4 19. Qd3 Ne6 20.
+Qb3 Qg5 21. Re1 b5 22. Nd2 Kg7 23. Ne4 Qxe5 24. Nc5 Nxc5 25. Qc2 Qf5 26.
+Qc3+ Kh6 27. Bxc5 Rf7 28. Re5 Qg4 29. Be7 Bf5 30. Qxc7 Rc8 31. Qb7 f3 32.
+Qxf3 Qxf3 33. gxf3 Rc2 34. b3 Bh3 35. Bg5+ Kg7 36. Re7 Rg2+ 0-1
+

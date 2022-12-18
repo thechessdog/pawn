@@ -1,0 +1,19 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1886.01.01"]
+[Round "1"]
+[White "New York"]
+[Black "Philadelphia"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Zukertort defence"]
+[HashCode "6c33f2e3"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3
+O-O-O 8. dxc6 Bc5 9. cxb7+ Kb8 10. dxc5 Nf6 11. Qxd8+ Rxd8 12. Bd2 Re8+ 13.
+Kd1 Qf2 14. Kc1 Bxf3 15. gxf3 Qxf3 16. Rg1 Qf2 17. Rh1 Re1+ 18. Bxe1 Qxe1+
+19. Nd1 Ne4 20. Bg2 Qd2+ 21. Kb1 Qxg2 22. Re1 Qd2 23. Rg1 f3 24. b3 Qg2 25.
+Re1 Qe2 26. Rg1 f2 0-1
+

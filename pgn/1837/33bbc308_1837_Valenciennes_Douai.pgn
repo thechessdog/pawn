@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1837.01.01"]
+[Round "1"]
+[White "Valenciennes"]
+[Black "Douai"]
+[Result "0-1"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Lolli variation"]
+[HashCode "33bbc308"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 Nxd4 4. Nxe5 Ne6 5. Bc4 c6 6. Nc3 Qc7 7. f4 b5 8.
+Bb3 Bd6 9. Nxf7 Kxf7 10. f5 Nf6 11. fxe6+ dxe6 12. O-O Bxh2+ 13. Kh1 Ke7
+14. Qd4 Qe5 15. Qf2 Qh5 16. Qf3 Qh4 17. Bg5 Qxg5 18. Kxh2 Ng4+ 19. Kg1 Qc5+
+20. Kh1 Qh5+ 21. Qh3 Qxh3+ 22. gxh3 Ne5 23. Rg1 g6 24. Rg5 Nf3 25. Rg2 Nd4
+26. a4 Nxb3 27. cxb3 Bb7 28. axb5 cxb5 29. Re2 a6 30. Nd1 Rhf8 31. Kg2 Rac8
+32. Nf2 Rfd8 33. h4 Rd4 34. Kf3 Rb4 35. Re3 Rc2 36. Rae1 Rd4 37. R1e2 Rxe2
+38. Kxe2 e5 39. Kf3 Rd2 40. Re2 Rxe2 41. Kxe2 a5 42. Ke3 b4 43. Ng4 Ke6 44.
+Kf3 Bc8 45. Nh2 Kd6 46. Nf1 Be6 47. Nd2 Kc5 48. Ke3 h6 49. Kd3 g5 50. hxg5
+hxg5 51. Nf3 g4 52. Nxe5 Kd6 53. Kd4 g3 54. Nf3 Bxb3 55. Ke3 Bd1 56. Nd4
+Kc5 57. Nf5 g2 58. Kf2 a4 0-1
+

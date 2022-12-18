@@ -1,0 +1,17 @@
+[Event "Paris"]
+[Site "Paris"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Gifford, H."]
+[Black "Clerc, Albert"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "450e364c"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. Bd3 c5 5. dxc5 d4 6. a3 Qa5 7. axb4 Qxa1 8. Nb5
+Na6 9. Nd6+ Kf8 10. Bxa6 bxa6 11. Nf3 Bd7 12. O-O Ne7 13. Nxd4 Qa4 14. Qf3 Be8
+15. Nxe6+ Kg8 16. Nc7 Qd7 17. Nxa8 Kf8 18. Rd1 Nc6 19. Nxe8 Qxe8 20. Nc7 Qc8
+21. Qf4 f6 22. Qd6+ Ne7 23. Nd5 Qe8 24. Nxe7 Qxe7 25. Qb8+ 1-0

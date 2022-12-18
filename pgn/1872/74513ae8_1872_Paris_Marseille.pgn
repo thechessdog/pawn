@@ -1,0 +1,23 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1872.01.01"]
+[Round "1"]
+[White "Paris"]
+[Black "Marseille"]
+[Result "1-0"]
+[ECO "C42"]
+[Opening "Petrov"]
+[Variation "classical attack"]
+[HashCode "74513ae8"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6 4. Nf3 Nxe4 5. d4 d5 6. Bd3 Be7 7. O-O Nd6
+8. Nc3 Be6 9. Ne2 Bf5 10. Bxf5 Nxf5 11. Qd3 Nd6 12. Nf4 c6 13. b3 Na6 14.
+c4 Nc7 15. Ba3 O-O 16. Rae1 Re8 17. Ne5 Ne6 18. Nxe6 fxe6 19. Bxd6 Bxd6 20.
+f4 Bxe5 21. Rxe5 Qd7 22. Rfe1 dxc4 23. bxc4 Rad8 24. R1e4 Qf7 25. Qe3 Qf6
+26. h3 g6 27. d5 b6 28. dxe6 Rd6 29. g4 Rd1+ 30. Kg2 Qd8 31. Qf2 Re7 32. f5
+Rd2 33. Re2 Rxe2 34. Rxe2 gxf5 35. Rd2 Qf8 36. Qxf5 h6 37. Qg6+ Rg7 38.
+Qxh6 Rxg4+ 39. hxg4 Qxh6 40. Rd8+ Kg7 41. e7 Qe6 42. e8=Q Qxg4+ 43. Kf2
+Qh4+ 44. Ke3 Qe1+ 45. Kf4 Qf2+ 46. Kg5 Qc5+ 47. Kg4 Qxc4+ 48. Kf5 Qc2+ 49.
+Ke6 Qxa2+ 50. Kd7 Qd2+ 51. Kc8 1-0
+

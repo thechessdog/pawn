@@ -1,0 +1,15 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Schnitzler, G."]
+[Black "Alexandre"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "d0b6678d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Qg5 6. Nf3 Qxg2 7. Bxf7+ Kd8
+8. Rg1 Bb4+ 9. Nc3 Qh3 10. Rg3 Qh6 11. Qb3 Bxc3+ 12. Qxc3 Nf6 13. Rg6 hxg6 14.
+Qxf6+ gxf6 15. Bxf6# 1-0

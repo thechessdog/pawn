@@ -1,0 +1,19 @@
+[Event "match"]
+[Site "match"]
+[Date "1856.01.01"]
+[Round "1"]
+[White "Lange, Max"]
+[Black "Von Schierstedt"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch"]
+[Variation "Relfsson gambit ('MacLopez')"]
+[HashCode "6761abf2"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bb5 Bc5 5. O-O Nge7 6. Nbd2 d5 7. exd5 Qxd5
+8. Bc4 Qd8 9. Ng5 Ne5 10. Nxf7 Nxf7 11. Bxf7+ Kxf7 12. Qh5+ g6 13. Qxc5 Nc6 14.
+Nf3 Re8 15. Bh6 Bf5 16. Rae1 Qd7 17. Qc4+ Be6 18. Ng5+ Kf6 19. Qe2 Bg4 20. f3
+Rxe2 21. fxg4+ Ke5 22. Rxe2+ Kd5 23. Ne4 Kc4 24. a4 Qxg4 25. b3+ Kb4 26. Bd2+
+Ka3 27. Nc3 dxc3 28. Bxc3 Nb4 29. Ra1+ Na2 30. Rxa2+ Kxa2 31. Re1 1-0

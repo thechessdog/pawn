@@ -1,0 +1,16 @@
+[Event "Manchester"]
+[Site "Manchester"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "King's knight's gambit"]
+[HashCode "20563a41"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. c3 c6 6. d4 h6 7. O-O Ne7 8. g3 d5
+9. exd5 fxg3 10. dxc6 O-O 11. Bxg5 Nbxc6 12. hxg3 hxg5 13. Nxg5 Nf5 14. Qh5 Bh6
+15. Qg6+ Kh8 16. Qh7# 1-0

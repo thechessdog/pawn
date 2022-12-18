@@ -1,0 +1,20 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Tarrasch, Siegbert"]
+[Black "Cohn, Wilhelm"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "de6d634c"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Be7 8. Nf3
+O-O 9. Ng3 f6 10. Bd3 cxd4 11. cxd4 fxe5 12. fxe5 Bh4 13. Be3 Nb4 14. Bb1 Rf7
+15. a3 Nc6 16. Qd2 h6 17. Bg6 Nf8 18. Bxf7+ Kxf7 19. Nxh4 Qxh4 20. O-O+ Kg8 21.
+Rf4 Qe7 22. Raf1 Bd7 23. Rg4 Kh7 24. Bxh6 gxh6 25. Rf6 Kh8 26. Qxh6+ Nh7 27.
+Rfg6 1-0

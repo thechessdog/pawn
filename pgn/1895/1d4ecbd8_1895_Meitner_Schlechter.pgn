@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Meitner, Philip"]
+[Black "Schlechter, Carl"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "1d4ecbd8"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. O-O b5 7. Bb3 d6 8. d3
+Bg4 9. Ne2 Qd7 10. c3 Bxf3 11. gxf3 Qh3 12. Ng3 h5 13. Be3 h4 14. Nh1 Rh6 15.
+Bxh6 gxh6 16. Qd2 Ke7 0-1

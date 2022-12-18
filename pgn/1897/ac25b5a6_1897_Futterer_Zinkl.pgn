@@ -1,0 +1,17 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Futterer"]
+[Black "Zinkl, Adolf Julius"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Kieseritsky variation"]
+[HashCode "ac25b5a6"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 Bd6 8. c3
+O-O 9. b4 Nxc4 10. dxc4 c5 11. a3 e4 12. Nfd2 Re8 13. O-O Bxh2+ 14. Kxh2 Ng4+
+15. Kg3 Qd6+ 16. f4 exf3+ 17. Kxf3 Re3# 0-1

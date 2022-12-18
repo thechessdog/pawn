@@ -1,0 +1,18 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "13"]
+[White "Delmar, Eugene"]
+[Black "Schmidt, Louis"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "f2551e38"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bb5 Bb4 5. Nd5 Nxd5 6. exd5 Nd4 7. Nxd4 exd4
+8. O-O O-O 9. c3 dxc3 10. dxc3 Bd6 11. Bd3 Be7 12. Qc2 g6 13. Bh6 Re8 14. Rae1
+Bf8 15. Bg5 Be7 16. Qe2 Kf8 17. Bh6+ Kg8 18. d6 cxd6 19. Bc4 1-0

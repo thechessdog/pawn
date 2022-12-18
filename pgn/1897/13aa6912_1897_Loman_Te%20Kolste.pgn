@@ -1,0 +1,20 @@
+[Event "Utrecht"]
+[Site "Utrecht"]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Loman, Rudolf"]
+[Black "Te Kolste, Jan Willem"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "13aa6912"]
+[Epoch "Pawn"]
+[WhiteCountry "NLD"]
+[BlackCountry "NLD"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. Nge2 d6 6. h3 Be6 7. d3 h6 8. f4
+Nh5 9. f5 Bd7 10. Na4 g6 11. Nxc5 dxc5 12. fxg6 fxg6 13. O-O Qe7 14. Qe1 O-O-O
+15. a3 g5 16. b4 cxb4 17. axb4 Qxb4 18. c3 Qd6 19. d4 a6 20. Ba3 Qg6 21. d5 Nb8
+22. c4 Be8 23. Rb1 Rh7 24. Rf3 Rf7 25. Rfb3 b6 26. c5 Bb5 27. Nc3 Bc4 28. R3b2
+Rdf8 29. Qe3 Rf6 30. cxb6 cxb6 31. Bxf8 Nd7 32. Be7 Rf7 33. d6 1-0

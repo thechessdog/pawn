@@ -1,0 +1,17 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1885.01.01"]
+[Round "1"]
+[White "Pierce"]
+[Black "Nash"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "a76f52da"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O Qg5 8.
+Rxf3 Nxd4 9. Bxf7+ Kxf7 10. Rxf4+ Nf6 11. Nd5 Qe5 12. Rxf6+ Kg8 13. Qg4+
+Bg7 14. Qxg7+ Kxg7 15. Bh6+ Kg8 16. Rf8# 1-0
+

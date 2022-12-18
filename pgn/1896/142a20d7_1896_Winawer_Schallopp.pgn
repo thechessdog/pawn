@@ -1,0 +1,18 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Winawer, Szymon Abramowicz"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "C32"]
+[Opening "KGD"]
+[Variation "Falkbeer, Charousek variation"]
+[HashCode "142a20d7"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. d3 Nf6 5. dxe4 Nxe4 6. Qe2 Qxd5 7. Nd2 f5 8. g4
+Be7 9. Bg2 Qa5 10. gxf5 Nd6 11. f6 gxf6 12. c3 O-O 13. Nb3 Qa6 14. c4 Re8 15.
+Bd5+ Kh8 16. Qh5 Bf8+ 17. Ne2 c6 18. c5 cxd5 19. cxd6 Bd7 20. Bd2 Bxd6 21. Bc3
+Bxf4 22. Rg1 Bb5 1-0

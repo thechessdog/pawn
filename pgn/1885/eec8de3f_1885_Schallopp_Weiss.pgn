@@ -1,0 +1,21 @@
+[Event "DSB-04.Kongress"]
+[Site "Hamburg"]
+[Date "1885.01.01"]
+[Round "2"]
+[White "Schallopp, Emil"]
+[Black "Weiss, Max"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer counter-gambit"]
+[HashCode "eec8de3f"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 d5 3. exd5 exf4 4. Bb5+ c6 5. Qe2+ Be7 6. dxc6 bxc6 7. Bc4 Nf6
+8. Qe5 O-O 9. Qxf4 Bd6 10. Qh4 Re8+ 11. Be2 Re4 12. g4 Bxg4 13. d3 Re6 14. Bg5
+Bxe2 15. Nxe2 Nbd7 16. Nd2 Qa5 17. Kd1 Rae8 18. Nd4 Qd5 19. Rf1 Re5 20. N2f3
+R5e7 21. c4 Qc5 22. Nd2 Rb8 23. N2b3 Qb6 24. Nf5 Re6 25. Rf2 Nf8 26. Nxg7 Ng6
+27. Qd4 c5 28. Qc3 Be5 29. Qd2 Kxg7 30. Kc2 a5 31. h4 a4 32. Bh6+ Kg8 33. Qg5
+axb3+ 34. Kb1 Qd6 0-1

@@ -1,0 +1,17 @@
+[Event "Russia"]
+[Site "Russia"]
+[Date "1870.01.01"]
+[Round "1"]
+[White "Turgenyev, I."]
+[Black "Kolisch, Ignatz"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Yankovich variation"]
+[HashCode "d41d7f71"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. d3 h6 7. Nf3 e4 8. Qe2
+Nxc4 9. dxc4 Bc5 10. Nfd2 O-O 11. h3 e3 12. fxe3 Bxe3 13. Kd1 Re8 14. Qf3 Bxd2
+15. Nxd2 c6 16. b3 cxd5 17. Bb2 Ne4 18. c5 Qg5 19. Bc1 Qxg2 20. Rf1 Nc3+ 0-1

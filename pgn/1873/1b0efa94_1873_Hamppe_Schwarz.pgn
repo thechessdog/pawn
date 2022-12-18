@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Hamppe, Carl"]
+[Black "Schwarz, Adolf"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "1b0efa94"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "AUT"]
+
+1. e4 e5 2. Nc3 Bc5 3. Na4 Bxf2+ 4. Kxf2 Qh4+ 5. Ke3 Qf4+ 6. Kd3 d5 7. Kc3 Qxe4
+8. Kb3 Be6 9. d3 Qg6 10. Nc5 Bg4 11. Nf3 Nc6 12. Qe1 Bxf3 13. gxf3 Nd4+ 14. Kc3
+Nxf3 15. Qg3 d4+ 16. Kb3 Qb6+ 17. Kc4 c6 18. a4 a5 19. c3 Qxb2 20. Ne4 Qxa1 21.
+Qxf3 Qa2+ 22. Kc5 Qd5+ 23. Kb6 Qd8+ 24. Kxb7 Rb8+ 25. Kxc6 Ne7+ 26. Kc5 Qd5#
+0-1

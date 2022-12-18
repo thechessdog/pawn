@@ -1,0 +1,20 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Jorgensen, Gyde"]
+[Black "Gran, Balduin"]
+[Result "0-1"]
+[ECO "C02"]
+[Opening "French"]
+[Variation "advance variation"]
+[HashCode "dda750bf"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. e5 c5 4. Be3 Nc6 5. f4 cxd4 6. Bxd4 Nxd4 7. Qxd4 f5 8.
+Nf3 Qa5+ 9. Qd2 Qb6 10. Nc3 Bd7 11. Nd1 Bc5 12. c3 a5 13. Rb1 Qa7 14. Nd4
+Nh6 15. h3 O-O 16. Be2 Be7 17. g4 Bh4+ 18. Kf1 fxg4 19. Bxg4 Nxg4 20. hxg4
+Bg5 21. Ne2 Bb5 22. Ke1 Bxe2 23. fxg5 Bxg4 24. Ne3 Bf5 25. Rd1 Be4 26. Rh3
+Rf4 27. Qd4 b6 28. c4 Raf8 29. Qc3 Qf7 30. Kd2 Rf2+ 31. Kc1 Qf4 32. Rd2
+Qxg5 33. cxd5 Rxd2 34. Qxd2 exd5 35. Qh2 d4 36. Rh4 Rf1+ 0-1
+

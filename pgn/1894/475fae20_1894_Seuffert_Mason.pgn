@@ -1,0 +1,19 @@
+[Event "DSB-09.Kongress"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "9"]
+[White "Seuffert, Paul Klemens"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C48"]
+[Opening "Four knights"]
+[Variation "Spanish variation"]
+[HashCode "475fae20"]
+[Epoch "Pawn"]
+[BlackCountry "IRE"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 d6 5. d3 Be7 6. Be3 O-O 7. O-O Bg4 8. h3
+Bh5 9. Ne2 Bxf3 10. gxf3 Nh5 11. Bxc6 bxc6 12. Ng3 Nxg3 13. fxg3 f5 14. Qd2 Qd7
+15. Kg2 d5 16. f4 d4 17. Bg1 exf4 18. Rxf4 Bg5 19. Re1 Bxf4 20. gxf4 Rf6 21. e5
+Rg6+ 22. Kh2 Qd5 23. Qe2 c5 0-1

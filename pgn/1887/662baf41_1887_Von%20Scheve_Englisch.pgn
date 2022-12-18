@@ -1,0 +1,22 @@
+[Event "DSB-05.Kongress"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "21"]
+[White "Von Scheve, Theodor"]
+[Black "Englisch, Berthold"]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Lopez-Gianutio counter-gambit"]
+[HashCode "662baf41"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 f5 4. Qe2 Qh4+ 5. Kd1 fxe4 6. Qxe4+ Be7 7. Nf3 Qf6
+8. Nc3 c6 9. Bxg8 Rxg8 10. Qxh7 Rf8 11. Ne4 Qh6 12. Qxh6 gxh6 13. Re1 Kd8 14.
+d4 d5 15. Nc5 Bxc5 16. dxc5 Bg4 17. Ke2 Nd7 18. b4 a5 19. Bd2 axb4 20. Bxb4 Nf6
+21. Kf1 Bxf3 22. gxf3 Kd7 23. Re5 Rae8 24. Bc3 Rxe5 25. Bxe5 Ne8 26. Kf2 Nc7
+27. Rg1 Ne6 28. Rg6 Ra8 29. Rxh6 Rxa2 30. Rh7+ Ke8 31. Bd6 Rxc2+ 32. Kg1 Nxc5
+33. h4 d4 34. Re7+ Kd8 35. Re1 Kd7 36. Bxf4 Nd3 37. Re4 Nxf4 38. Rxf4 c5 39. h5
+d3 40. Kf1 Rh2 41. Rf5 Ke6 0-1

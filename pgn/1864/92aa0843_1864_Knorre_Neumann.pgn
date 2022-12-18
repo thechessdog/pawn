@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Knorre"]
+[Black "Neumann"]
+[Result "1-0"]
+[ECO "C65"]
+[Opening "Ruy Lopez"]
+[Variation "Berlin defence"]
+[HashCode "92aa0843"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. d3 Bd6 5. Bg5 h6 6. Bh4 a6 7. Bxc6 dxc6
+8. O-O g5 9. Bg3 Bg4 10. Nbd2 h5 11. Qe1 Bxf3 12. Nxf3 Nd7 13. d4 f6 14.
+dxe5 fxe5 15. Qc3 Qf6 16. h4 g4 17. Ng5 O-O-O 18. Rad1 Rde8 19. f4 Qe7 20.
+fxe5 Nxe5 21. Kh1 Rhg8 22. Rf5 Kb8 23. Bxe5 Bxe5 24. Rxe5 Qxe5 25. Rd8+ Ka7
+26. Qxe5 Rxe5 27. Rxg8 1-0
+

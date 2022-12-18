@@ -1,0 +1,19 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Moucka"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C22"]
+[Opening "Centre game"]
+[Variation "Berger variation"]
+[HashCode "1aa157aa"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. e4 e5 2. d4 exd4 3. Qxd4 Nc6 4. Qe3 Nf6 5. Nc3 Be7 6. Be2 O-O 7. Bd2 d5 8.
+exd5 Nb4 9. O-O-O Re8 10. Qg3 Bf5 11. Bh6 Bg6 12. h4 gxh6 13. h5 Bd6 14. f4
+Nfxd5 15. Nxd5 Nxd5 16. Rxd5 Bxf4+ 17. Qxf4 Qxd5 18. hxg6 fxg6 19. Qxh6 Re7 20.
+b3 Qd4 21. Bc4+ Kh8 22. Nf3 Qc3 23. Ng5 Qa1+ 24. Kd2 Rd8+ 25. Bd3 Rxd3+ 26.
+cxd3 Qxa2+ 27. Kc3 Qa5+ 28. b4 Qa3+ 29. Kc2 Re2+ 30. Kd1 Qxd3+ 31. Kc1 Qc2# 0-1

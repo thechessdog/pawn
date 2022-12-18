@@ -1,0 +1,18 @@
+[Event "Huddersfield-Bradfor"]
+[Site "Huddersfield-Bradfor"]
+[Date "1865.01.01"]
+[Round "1"]
+[White "Watkinson, J."]
+[Black "Tegeler, G."]
+[Result "1-0"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack, Schlechter variation"]
+[HashCode "adc45f2a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 exd4 3. Bc4 Bc5 4. Nf3 Nc6 5. O-O Nf6 6. e5 d5 7. exf6 dxc4
+8. Re1+ Be6 9. fxg7 Rg8 10. Ng5 Qf6 11. Nxe6 fxe6 12. Qh5+ Kd7 13. Qxc5
+Qxg7 14. g3 h5 15. Qxh5 Rh8 16. Qe2 Rae8 17. Nd2 Rh3 18. Nf3 e5 19. Ng5 Rh6
+20. Qg4+ Ree6 21. Qf5 Rf6 22. Nxe6 1-0
+

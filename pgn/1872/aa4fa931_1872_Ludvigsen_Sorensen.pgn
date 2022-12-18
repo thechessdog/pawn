@@ -1,0 +1,18 @@
+[Event "Aalborg"]
+[Site "Aalborg"]
+[Date "1872.01.01"]
+[Round "1"]
+[White "Ludvigsen, AF."]
+[Black "Sorensen, Soren Anton"]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "aa4fa931"]
+[Epoch "Pawn"]
+[BlackCountry "DNK"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qxf5 d6 7. Qf3 hxg6 8.
+Bb5 Bd7 9. Nc3 Ne5 10. Qg3 Bxb5 11. Nxb5 Nxe4 12. Qe3 Rh4 13. d3 Bh6 14. Qe2
+Bxc1 15. Rxc1 Qg5 16. O-O Rxh2 17. Nxc7+ Kd7 18. f4 Ng4 19. fxg5 Rh1+ 20. Kxh1
+Ng3+ 21. Kg1 Nxe2+ 22. Kh1 Rh8# 0-1

@@ -1,0 +1,16 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Trenchard, Herbert"]
+[Black "Showalter, Jackson Whipps"]
+[Result "0-1"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Thorold variation"]
+[HashCode "897d16b9"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 d5 8. Bxf4
+Nf6 9. Nc3 Bb4 10. Be2 Bxc3+ 11. bxc3 h5 12. O-O dxe4 13. Bg5 0-1

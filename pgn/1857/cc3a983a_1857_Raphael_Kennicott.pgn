@@ -1,0 +1,21 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "Raphael, B."]
+[Black "Kennicott, H."]
+[Result "0-1"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, McDonnell attack"]
+[HashCode "cc3a983a"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 Qh4+ 4. Kf1 g5 5. Nc3 Bg7 6. g3 fxg3 7. Kg2 Qh6
+8. hxg3 Qg6 9. d4 d6 10. Nf3 h6 11. Nd5 Kd8 12. Re1 c6 13. Nc3 Bg4 14. e5
+Bxf3+ 15. Qxf3 d5 16. Bd3 Qe6 17. Bf5 Qe7 18. Na4 Na6 19. Bd2 b5 20. Nc5
+Nxc5 21. Bb4 Bf8 22. Bxc5 Qe8 23. Bd6 Ne7 24. Bh3 Bg7 25. Qa3 a5 26. Qc5
+Nc8 27. e6 fxe6 28. Rxe6 Qd7 29. Rae1 Ra6 30. Re8+ Qxe8 31. Rxe8+ Rxe8 32.
+Bxc8 Kxc8 33. Be5 Bxe5 34. dxe5 Kb7 35. Qd6 Kb6 36. Qxh6 Rxe5 37. Kf3 Ra7
+38. Qd6 Rae7 39. c3 a4 40. Qd8+ Kc5 41. b3 axb3 42. axb3 Re4 0-1
+

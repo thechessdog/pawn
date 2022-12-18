@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Lyttelton, George Baron"]
+[Black "Green"]
+[Result "0-1"]
+[ECO "A46"]
+[Opening "Queen's pawn"]
+[Variation "Torre attack"]
+[HashCode "197465c6"]
+[Epoch "Pawn"]
+
+1. d4 e6 2. Nf3 Nf6 3. Bg5 Nc6 4. e3 h6 5. Bh4 Be7 6. Bc4 d5 7. Bb3 Bd7 8. O-O
+g5 9. Bg3 Ne4 10. Nbd2 Nxg3 11. fxg3 f6 12. c4 Na5 13. cxd5 Nxb3 14. Qxb3 exd5
+15. Qxd5 c6 16. Qe4 Rg8 17. Nc4 Qc7 18. Qh7 Be6 19. Rac1 O-O-O 20. Ncd2 Rh8 21.
+Qe4 Bd5 22. Qf5+ Kb8 23. a3 h5 24. e4 Bf7 25. d5 Qb6+ 26. Kh1 cxd5 27. b3 Be6
+28. Qg6 Rdg8 0-1

@@ -1,0 +1,18 @@
+[Event "Stockholm"]
+[Site "Stockholm"]
+[Date "1897.??.??"]
+[Round "?"]
+[White "Langborn"]
+[Black "Rydberg"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Pierce gambit"]
+[HashCode "2c0b8c47"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. Nf3 g5 5. d4 g4 6. Bc4 gxf3 7. O-O Nxd4
+8. Bxf4 Bc5 9. Be3 Ne2+ 10. Kh1 fxg2+ 11. Kxg2 Nf6 12. Bxc5 Nxc3 13. Bxf7+
+Kxf7 14. Qh5+ Ke6 15. Qh3+ Kf7 16. Rxf6+ Qxf6 17. Rf1 Rg8+ 18. Kh1 Nxe4 19.
+Qh5+ Kg7 20. Bd4 d5 21. Bxf6+ Nxf6 22. Qg5+ 1-0
+

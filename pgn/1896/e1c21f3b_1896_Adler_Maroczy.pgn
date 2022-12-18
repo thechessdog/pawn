@@ -1,0 +1,17 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1896.01.01"]
+[Round "1"]
+[White "Adler, Mor"]
+[Black "Maroczy, Geza"]
+[Result "0-1"]
+[ECO "A52"]
+[Opening "Budapest"]
+[Variation "Adler variation"]
+[HashCode "e1c21f3b"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+
+1. c4 Nf6 2. d4 e5 3. dxe5 Ng4 4. Nf3 Bc5 5. e3 Nc6 6. Qd5 Qe7 7. Nc3 Ngxe5 8.
+Be2 d6 9. Ne4 Be6 10. Qd1 Bb4+ 11. Bd2 O-O-O 12. Bxb4 Nxb4 13. Qb3 Nxf3+ 14.
+Bxf3 d5 15. Nd2 dxc4 16. Nxc4 Rd3 17. Qa4 Bxc4 18. Qxa7 Nc2+ 0-1

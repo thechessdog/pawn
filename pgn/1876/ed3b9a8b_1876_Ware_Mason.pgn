@@ -1,0 +1,20 @@
+[Event "Philadelphia ch-USA"]
+[Site "Philadelphia ch-USA"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Ware, Preston"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Labourdonnais variation"]
+[HashCode "ed3b9a8b"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "IRE"]
+
+1. e4 e6 2. f4 d5 3. e5 c5 4. Nf3 Nc6 5. Bb5 a5 6. Bxc6+ bxc6 7. O-O Nh6 8. Kh1
+Ba6 9. d3 c4 10. d4 c5 11. c3 Be7 12. Na3 O-O 13. Nc2 f5 14. exf6 Bxf6 15. Ne5
+Qb6 16. a3 Bxe5 17. fxe5 Rxf1+ 18. Qxf1 Rf8 19. Qe2 Ng4 20. h3 Nf2+ 21. Kh2 Ne4
+22. dxc5 Qb8 23. Nd4 Qxe5+ 24. Kg1 Qg3 25. Be3 e5 26. Nf3 Bc8 27. Rd1 Be6 28.
+c6 Rf7 29. b4 Nxc3 30. Qe1 Rxf3 31. Qxg3 Rxg3 32. Bf2 Nxd1 33. Bxg3 c3 0-1

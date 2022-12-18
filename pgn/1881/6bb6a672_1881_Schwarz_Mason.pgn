@@ -1,0 +1,21 @@
+[Event "DSB-02.Kongress"]
+[Site "Berlin"]
+[Date "1881.01.01"]
+[Round "6"]
+[White "Schwarz, Jacques"]
+[Black "Mason, James"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "6bb6a672"]
+[Epoch "Pawn"]
+[BlackCountry "IRE"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 b6 8. Ng3
+Bb7 9. Nf3 g6 10. a3 c4 11. b4 cxb3 12. Qxb3 Na5 13. Qc2 Rc8 14. Bd3 Qc7 15.
+Ne2 Nb8 16. h4 h5 17. Ng5 Ba6 18. Bxg6 Bxe2 19. Bxf7+ Ke7 20. Kxe2 Qc4+ 21. Qd3
+Rh6 22. a4 Nbc6 23. Qxc4 Nxc4 24. f5 exf5 25. Bxd5 N6a5 26. Rf1 Bg7 27. Rxf5
+Rf8 28. Nf7 Rg6 29. Bg5+ Kd7 30. Kd3 Rc8 31. Re1 Rc7 32. e6+ Ke8 33. Bf4 Rc8
+34. Nd6+ Nxd6 35. Bxd6 Bf6 36. Bf3 Kd8 37. Bxh5 Rh6 38. e7+ Bxe7 39. Bxe7+ Kc7
+40. Bg5 Rh7 41. Bf4+ Kb7 42. Rxa5 Rf8 43. Bf3+ Kc8 44. Rf5 1-0

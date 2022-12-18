@@ -1,0 +1,22 @@
+[Event "Nuremberg"]
+[Site "Nuremberg"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Von Bardeleben, Curt"]
+[Black "Schallopp, Emil"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "four knights (Tarrasch) variation"]
+[HashCode "2b65f630"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Nc3 Bc5 6. d3 b5 7. Bb3 d6 8. h3 h6
+9. Be3 Bb4 10. Bd2 Be6 11. Bxe6 fxe6 12. Ne2 Bxd2+ 13. Qxd2 O-O 14. Qc3 Qd7 15.
+Ng3 Ne7 16. O-O Ng6 17. a4 bxa4 18. Qc4 Nf4 19. Rxa4 Nh7 20. Kh2 Qf7 21. Ng1
+Qg6 22. N1e2 h5 23. Nxf4 exf4 24. Nf5 Rf7 25. Nd4 Ng5 26. h4 c5 27. Ra5 Nxe4
+28. Qxe6 Nf6 29. Kg1 cxd4 30. Rg5 Qh7 31. Qxd6 Ng4 32. Qd5 Re8 33. Qxd4 Qh6 34.
+Qd5 Qb6 35. Qc5 Qxb2 36. Rg6 Qe5 37. Qxe5 Rxe5 38. Rxa6 Re2 39. c3 f3 40. g3
+Rb7 41. Ra8+ Kh7 42. Rf8 Nxf2 0-1

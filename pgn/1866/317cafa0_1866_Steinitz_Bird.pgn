@@ -1,0 +1,17 @@
+[Event "London m2"]
+[Site "Londen m"]
+[Date "1866.01.01"]
+[Round "17"]
+[White "Steinitz, William"]
+[Black "Bird, Henry"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French defence"]
+[HashCode "317cafa0"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 g6 3. Nf3 Nc6 4. d5 Nce7 5. dxe6 dxe6 6. Qxd8+ Kxd8 7. Nc3 Nc6
+8. Bf4 f6 9. O-O-O+ Bd7 10. Bb5 h5 11. e5 f5 12. Rd2 Ke8 13. Rhd1 Rh7 14. Ng5
+Bh6 15. Bxc6 bxc6 16. Na4 1-0

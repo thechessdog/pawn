@@ -1,0 +1,19 @@
+[Event "London mt"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Mongredien, Augustus"]
+[Black "Deacon, Frederick"]
+[Result "1-0"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "25bc5b5e"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. exd5 Bd6 5. Nf3 Ne7 6. Nc3 O-O 7. O-O Nd7 8.
+d4 Nb6 9. Bb3 Bg4 10. Ne2 Nbxd5 11. c4 Bxf3 12. Rxf3 Ne3 13. Bxe3 fxe3 14. c5
+Bxh2+ 15. Kxh2 Ng6 16. Rxe3 c6 17. Qd3 Qc7+ 18. Kh1 Rae8 19. Rf1 Rxe3 20. Qxe3
+Kh8 21. Bc2 Ne7 22. Nf4 Qd7 23. Ne6 Rg8 24. Rxf7 Nd5 25. Qh3 1-0

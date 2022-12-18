@@ -1,0 +1,27 @@
+[Event "London2"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Meyerhofer, K."]
+[Black "Harrwitz, Daniel"]
+[Result "1-0"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[HashCode "816bdc2d"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Nc3 d6 5. h3 Nf6 6. d3 Ne7 7. Ne2 Ng6 8. Ng3
+Bb6 9. O-O Be6 10. Bb3 Qd7 11. Kh2 h5 12. Ng5 h4 13. Nf5 Nh5 14. Qg4 O-O-O 15.
+Nxe6 fxe6 16. Bxe6 Qxe6 17. Ne7+ Kd7 18. Qxe6+ Kxe6 19. Nxg6 Rh7 20. Bg5 Nf6
+21. f4 exf4 22. Rxf4 Rg8 23. Rxh4 Rxh4 24. Bxh4 Kf7 25. Bxf6 Kxg6 26. Bh4 Rf8
+27. Rd1 Kh5 28. Bg3 g5 29. d4 g4 30. c3 gxh3 31. Kxh3 Rh8 32. Bh4 Re8 33. g4+
+Kg6 34. Re1 c5 35. Bf2 cxd4 36. cxd4 Rc8 37. Re2 Rc4 38. e5 dxe5 39. dxe5 Bxf2
+40. Rxf2 Re4 41. Rf5 Re2 42. Kg3 Rxb2 43. Rf2 Rb4 44. Rf4 Rb2 45. Ra4 a6 46.
+Kf4 Rg2 47. Kf3 Rc2 48. Ke4 Rc5 49. Rb4 b5 50. Kd4 Rc2 51. a4 Rd2+ 52. Ke3 Rd5
+53. Ke4 Rc5 54. Kd4 Rc1 55. axb5 axb5 56. Kd5 Rd1+ 57. Ke6 Rg1 58. Ke7 Kg7 59.
+e6 Rg2 60. Ke8 Kg8 61. Rd4 Ra2 62. Ke7 Kg7 63. Kd6 Ra6+ 64. Ke5 Ra1 65. Rd7+
+Kf8 66. g5 Re1+ 67. Kd6 Rd1+ 68. Kc5 Re1 69. Kd6 Rd1+ 70. Ke5 Re1+ 71. Kf6 Rf1+
+72. Kg6 Re1 73. Rf7+ Kg8 74. Kf6 Rf1+ 75. Ke7 Rd1 76. Ke8 Rd6 77. Rf6 Kg7 78.
+Ke7 Rd5 79. Rf8 Rxg5 80. Rf7+ Kg8 81. Ke8 Re5 82. e7 Re1 83. Rf8+ Kg7 84. Kd7
+Rd1+ 85. Kc6 1-0

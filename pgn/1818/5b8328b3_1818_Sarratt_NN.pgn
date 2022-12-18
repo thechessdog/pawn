@@ -1,0 +1,14 @@
+[Event "England"]
+[Site "England"]
+[Date "1818.01.01"]
+[Round "1"]
+[White "Sarratt, Jacob Henry"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C44"]
+[Opening "Scotch gambit"]
+[HashCode "5b8328b3"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. d4 exd4 5. Ng5 Ne5 6. Nxf7 Nxf7 7. Bxf7+ Kxf7
+8. Qh5+ g6 9. Qxc5 1-0

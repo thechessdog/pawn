@@ -1,0 +1,18 @@
+[Event "Kiev"]
+[Site "Kiev"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Levin"]
+[Black "Bilenkin"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Urusov attack"]
+[HashCode "2da6dbdf"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. Bc4+ d5 8.
+Bxd5+ Kg7 9. d4 f3 10. gxf3 Be7 11. Qd3 Bxh4+ 12. Kd1 Nf6 13. Bb3 Nh7 14.
+Be3 gxf3 15. Nd2 Bg4 16. c3 h5 17. Kc2 Nc6 18. e5 Rf8 19. Rag1 Bg5 20. Rxg4
+Nxe5 21. Qxh7+ Kxh7 22. Rxh5+ Kg7 23. dxe5 Rf5 24. Bxg5 1-0
+

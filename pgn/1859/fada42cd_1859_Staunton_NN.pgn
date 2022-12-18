@@ -1,0 +1,19 @@
+[Event "Manchester sim"]
+[Site "Manchester"]
+[Date "1859.??.??"]
+[Round "?"]
+[White "Staunton, Howard"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Greco gambit"]
+[HashCode "fada42cd"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. h4 h6 6. hxg5 hxg5 7. Rxh8 Bxh8 8.
+d4 d6 9. Nc3 c6 10. Ne5 dxe5 11. Qh5 Qf6 12. dxe5 Qg7 13. e6 Nf6 14. exf7+ Kf8
+15. Bxf4 Ke7 16. Bxg5 Nd7 17. Rd1 Ne5 18. Qh2 Qxg5 19. f8=Q+ Kxf8 20. Qxh8+ Ng8
+21. Rd8+ Qxd8 22. Qxg8+ Ke7 23. Qg7+ Kd6 24. Qh6+ Kc7 25. Qg7+ Nd7 26. Qg3+ Kb6
+27. Na4+ Ka5 28. Qc3+ Kxa4 29. Qa3# 1-0

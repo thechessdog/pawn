@@ -1,0 +1,17 @@
+[Event "Reutlingen"]
+[Site "Reutlingen"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Fritz, Alexander"]
+[Black "Schlenker, R."]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Grob's attack"]
+[HashCode "ad3c0c6e"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. g4 e5 2. d3 d5 3. Bg2 c6 4. g5 Bd6 5. h4 h6 6. Nf3 Bg4 7. Nbd2 hxg5 8. hxg5
+Rxh1+ 9. Bxh1 Ne7 10. c4 Qa5 11. Qb3 Na6 12. Qc3 Qc7 13. a3 Ng6 14. b4 Qe7 15.
+Qb3 e4 16. dxe4 dxe4 17. Nd4 Be5 18. Bb2 O-O-O 19. Nc2 Bxb2 20. Qxb2 Nf4 21.
+Bxe4 Ng2+ 0-1

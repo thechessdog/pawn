@@ -1,0 +1,24 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1899.01.01"]
+[Round "1"]
+[White "Pierce, C."]
+[Black "Clark, A."]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Zukertort variation"]
+[HashCode "d9f56ca6"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+dxe5 Ne7 9. Ng5 Nxg5 10. Bxg5 Bb7 11. Nc3 Qd7 12. Qf3 c6 13. Rfe1 h6 14.
+Ne4 Nf5 15. e6 fxe6 16. Qxf5 hxg5 17. Nxg5 O-O-O 18. Qxe6 Bc5 19. Nf3 Rdf8
+20. c3 Rf4 21. Qxd7+ Kxd7 22. Ne5+ Kd6 23. Nd3 Rfh4 24. Nxc5 Kxc5 25. h3 g5
+26. f3 Bc8 27. Kf2 Kd6 28. Rad1 Bf5 29. Rd2 Rf8 30. Bc2 Bxh3 31. gxh3 Rxh3
+32. Re3 g4 33. Kg2 Rfh8 34. Rde2 gxf3+ 35. Rxf3 Rh1 36. Kf2 a5 37. Rf6+ Kc5
+38. b4+ axb4 39. cxb4+ Kxb4 40. Rxc6 R8h3 41. Bb3 Rd3 42. Kg2 Rh5 43. Rb2
+Ka5 44. Rc5 Rd4 45. Bxd5 Rb4 46. Rbc2 Rh6 47. Kf2 Rd6 48. Ke3 Rh6 49. Bb3
+Rd6 50. Rd2 Rh6 51. Kd3 Rb6 52. Kc3 Rh4 53. Rd4 Rh3+ 54. Kb2 Rh2+ 55. Ka3
+Rb7 56. Bc4 Rh3+ 57. Bd3 1-0
+

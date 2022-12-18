@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1877.01.01"]
+[Round "2"]
+[White "Goering, Carl Theodor"]
+[Black "Franke, August Wilhelm"]
+[Result "1-0"]
+[ECO "C11"]
+[Opening "French"]
+[Variation "Steinitz variation"]
+[HashCode "a0234a9e"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. d4 d5 2. Nc3 e6 3. e4 Nf6 4. e5 Nfd7 5. Nce2 c5 6. c3 Nc6 7. f4 Be7 8. Nf3
+O-O 9. Ng3 f6 10. Bd3 c4 11. Bb1 b5 12. O-O Qb6 13. Kh1 a5 14. Ng1 f5 15. Qh5
+g6 16. Qh3 Rf7 17. Nf3 Qd8 18. Ng5 Bxg5 19. fxg5 b4 20. Ne2 Nb6 21. Rf3 Raa7
+22. Qh4 h5 23. Nf4 Ne7 24. Rh3 Rh7 25. Bc2 Kg7 26. Bd1 Qe8 27. Bd2 Nc6 28. g4
+fxg4 29. Bxg4 Kh8 30. Bxh5 Rxh5 31. Nxh5 gxh5 32. g6 Qxg6 33. Rg1 Qe4+ 34. Qxe4
+dxe4 35. Rxh5+ Rh7 36. Bh6 1-0

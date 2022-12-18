@@ -1,0 +1,23 @@
+[Event "Kolisch mem"]
+[Site "Vienna"]
+[Date "1890.??.??"]
+[Round "20"]
+[White "Schwarz, Jacques"]
+[Black "Csank, Adolf"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "640411cb"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8.
+a4 Rb8 9. dxe5 Be6 10. c3 Be7 11. Nbd2 O-O 12. axb5 axb5 13. Bc2 f5 14. Nb3
+Qd7 15. Nbd4 Bc5 16. Nxc6 Qxc6 17. Nd4 Bxd4 18. cxd4 f4 19. f3 Ng5 20. h4
+Nf7 21. Bxf4 Nd6 22. Qc1 Nc4 23. b3 b4 24. bxc4 dxc4 25. Be4 Bd5 26. Ra6
+Qb5 27. Ra7 b3 28. Bxd5+ Qxd5 29. Be3 b2 30. Qc2 Rb3 31. Bf2 Rfb8 32. Rb1
+c6 33. Kh2 c3 34. Qf5 g6 35. Qc2 c5 36. h5 cxd4 37. hxg6 d3 38. gxh7+ Kh8
+39. Qd1 R3b7 40. Qa4 c2 41. Rxb7 Qxb7 42. Bh4 cxb1=Q 43. Bf6+ Kxh7 44. Qh4+
+Kg8 45. Qg4+ Kf8 46. Qf5 Qc1 47. Be7+ Kxe7 48. Qf6+ Ke8 49. Qe6+ Kf8 50.
+Qd6+ Kg8 0-1
+

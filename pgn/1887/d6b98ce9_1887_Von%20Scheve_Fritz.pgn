@@ -1,0 +1,19 @@
+[Event "DSB-05.Kongress"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "4"]
+[White "Von Scheve, Theodor"]
+[Black "Fritz, Alexander"]
+[Result "1-0"]
+[ECO "C47"]
+[Opening "Four knights"]
+[Variation "Scotch, 4...exd4"]
+[HashCode "d6b98ce9"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nf6 3. Nc3 Nc6 4. d4 exd4 5. Nxd4 Bb4 6. Nxc6 bxc6 7. Qd4 Qe7
+8. f3 d5 9. Bg5 c5 10. Bb5+ Kf8 11. Qd3 d4 12. O-O-O Bb7 13. Nd5 Bxd5 14. exd5
+Qe5 15. f4 Qxd5 16. c3 Ba5 17. Bxf6 gxf6 18. Bc4 Qd6 19. Qf5 Bb6 20. Rhe1 Re8
+21. Rxe8+ 1-0

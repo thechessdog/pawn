@@ -1,0 +1,23 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Cremorne, R."]
+[Black "Deacon, Frederick"]
+[Result "0-1"]
+[ECO "B06"]
+[Opening "Robatsch defence"]
+[Variation "three pawns attack"]
+[HashCode "3542e8e4"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 g6 2. d4 Bg7 3. f4 e6 4. Nf3 Ne7 5. c3 b6 6. Bd3 Bb7 7. Nbd2 c5 8. O-O
+cxd4 9. cxd4 Nbc6 10. e5 f6 11. Ne4 O-O 12. Nd6 Qc7 13. Nxb7 Qxb7 14. Be4 fxe5
+15. fxe5 Nf5 16. g4 Nfe7 17. Bg5 Rae8 18. Qb3 Qb8 19. Bxe7 Rxe7 20. Bxc6 dxc6
+21. Ng5 Rfe8 22. Qh3 Bxe5 23. dxe5 Qxe5 24. Nf3 Qxb2 25. Qg2 Qa3 26. Qe2 Qa4
+27. h3 e5 28. Rad1 c5 29. Qd2 Qc6 30. Qd5+ Qxd5 31. Rxd5 e4 32. Ne1 Rf8 33.
+Rxf8+ Kxf8 34. Kf2 Kf7 35. Ke3 Ke6 36. Rd1 Ke5 37. Rd8 b5 38. a3 Re6 39. Rd7
+Ra6 40. Nc2 Re6 41. Rxa7 Kd5 42. Rxh7 Kc4 43. Rf7 Kb3 44. Rf2 g5 45. Rf5 Rc6
+46. Ne1 Kxa3 47. Rxg5 b4 48. Rg8 b3 49. Kd2 Kb2 50. Rd8 c4 51. h4 c3+ 52. Ke3
+c2 53. Rd2 Kc1 54. Nxc2 Rc3+ 55. Ke2 Rxc2 0-1

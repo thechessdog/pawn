@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Verchau"]
+[Black "Schwan"]
+[Result "0-1"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Friess attack"]
+[HashCode "5df760b3"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Nxe5 Nxe5
+8. dxe5 Bc5 9. Bb3 O-O 10. Qd5 Bb7 11. Qd3 Qe7 12. Bf4 g5 13. Bg3 h5 14. h3
+Kh8 15. Nd2 Nxg3 16. Qxg3 h4 17. Qc3 b4 18. Qd3 Qxe5 19. Rae1 Qg3 20. Qxg3
+hxg3 21. Ne4 Bxe4 22. Rxe4 f5 23. Rc4 Bxf2+ 0-1
+

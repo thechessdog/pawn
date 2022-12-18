@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.01.01"]
+[Round "3"]
+[White "Minchin, James Innes"]
+[Black "De Vere, Cecil Valentine"]
+[Result "0-1"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, 4.c3"]
+[HashCode "cf34d756"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. c3 Bg4 5. Be2 Bxf3 6. Bxf3 Nc6 7. b4 Bb6 8. b5
+Nce7 9. d4 exd4 10. cxd4 d5 11. e5 Nf5 12. Bb2 Qe7 13. Qd3 Ngh6 14. g4 Qh4+ 15.
+Kd1 Nxg4 16. Bxg4 Qxg4+ 17. Kc1 Qxf4+ 18. Nd2 Bxd4 19. Rb1 Be3 20. Bc3 Bxd2+
+21. Bxd2 Qe4 0-1

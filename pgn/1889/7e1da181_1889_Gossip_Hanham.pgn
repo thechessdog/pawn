@@ -1,0 +1,19 @@
+[Event "USA-06.Congress"]
+[Site "New York"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Gossip, George Hatfeild"]
+[Black "Hanham, James Moore"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical, Hanham variation"]
+[HashCode "7e1da181"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+[WhiteCountry "https://en.wikipedia.org/wiki/George_H._D._Gossip"]
+
+1. e4 e5 2. Nc3 Bc5 3. f4 d6 4. Nf3 Nd7 5. Bc4 Ngf6 6. d3 c6 7. Qe2 Qe7 8. f5
+b5 9. Bb3 a5 10. a4 b4 11. Nd1 Bb6 12. Bg5 Ba6 13. Ne3 Nc5 14. Bc4 Bb7 15. O-O
+O-O 16. Kh1 Bd8 17. Ng4 d5 18. Ba2 dxe4 19. Nxf6+ gxf6 20. Bh6 exf3 21. Rxf3
+Kh8 22. Rg3 Bb6 23. Bg7+ Kg8 24. Bxf6# 1-0

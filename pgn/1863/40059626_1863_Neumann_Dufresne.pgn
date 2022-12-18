@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1863.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Dufresne, Jean"]
+[Result "1-0"]
+[ECO "C30"]
+[Opening "KGD"]
+[Variation "classical variation"]
+[HashCode "40059626"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 Bc5 3. Nf3 d6 4. Bc4 Nf6 5. Nc3 O-O 6. d3 Ng4 7. Rf1 Nxh2 8. Rh1
+Ng4 9. Qe2 Bf2+ 10. Kf1 Nc6 11. f5 Bc5 12. Ng5 Nh6 13. Qh5 Qe8 14. Nxh7 Kxh7
+15. Bxh6 g6 16. Qxg6+ fxg6 17. Bxf8# 1-0

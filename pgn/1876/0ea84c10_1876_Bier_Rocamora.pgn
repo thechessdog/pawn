@@ -1,0 +1,17 @@
+[Event "Hamburg"]
+[Site "Hamburg"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Bier, Max "]
+[Black "Ricardo-Rocamora, Salomon"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "0ea84c10"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Nf6 6. Nc3 Nc6 7. Nf3 Bb4 8.
+Qc2 d6 9. O-O-O Bxc3 10. Bxc3 O-O 11. e5 Ne8 12. h4 Qe7 13. Ng5 g6 14. exd6
+Nxd6 15. Rhe1 Qd8 16. Qb2 Nxc4 17. Rxd8 Nxb2 18. Rxf8+ Kxf8 19. Nxh7+ Kg8 20.
+Re8+ Kxh7 21. Rh8# 1-0

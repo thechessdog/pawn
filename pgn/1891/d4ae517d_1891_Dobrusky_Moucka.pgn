@@ -1,0 +1,18 @@
+[Event "Prague"]
+[Site "Prague"]
+[Date "1891.??.??"]
+[Round "?"]
+[White "Dobrusky, J."]
+[Black "Moucka, F."]
+[Result "1-0"]
+[ECO "C67"]
+[Opening "Ruy Lopez"]
+[Variation "open Berlin defence, 5...Be7"]
+[HashCode "d4ae517d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. d4 Be7 6. Qe2 Nd6 7. Bxc6
+bxc6 8. dxe5 Nb7 9. Nc3 O-O 10. Nd4 Nc5 11. Qf3 Qe8 12. Qg3 Kh8 13. f4 f5
+14. Re1 d5 15. exd6 cxd6 16. b4 Nb7 17. Nxc6 Qxc6 18. Rxe7 g6 19. Bb2 Kg8
+20. Nd5 Rf7 21. Re8+ Qxe8 22. Qc3 1-0
+

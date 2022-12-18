@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Lindehn, H."]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "bb059513"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 Nf6 5. e5 d5 6. Nxc3 dxc4 7. Qxd8+ Kxd8
+8. exf6 gxf6 9. Bf4 Bf5 10. O-O-O+ Bd3 11. Nb5 Nd7 12. Bxc7+ Kc8 13. Bd6 a6 14.
+Bxf8 axb5 15. Bd6 Rxa2 16. Nf3 Rg8 17. Bg3 Nc5 18. Kd2 Rxb2+ 19. Ke3 Re2+ 20.
+Kd4 Nb3+ 0-1

@@ -1,0 +1,19 @@
+[Event "Manhattan"]
+[Site "New York"]
+[Date "1893.01.01"]
+[Round "5"]
+[White "Baird, John Washington"]
+[Black "Hodges, Albert Beauregard"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "d0773ab1"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. exd5 cxd5
+8. Bb5+ Bd7 9. Bxd7+ Qxd7 10. O-O Be7 11. Bf4 O-O 12. Nd2 Rab8 13. b3 Rb4 14.
+Qf3 Qf5 15. Be3 Qxc2 16. Rac1 Qg6 17. Rxc7 Bd6 18. Rxa7 Rh4 19. h3 d4 20. Qc6
+Ne8 21. Qd7 dxe3 22. fxe3 Qd3 23. Nf3 Qxe3+ 24. Kh1 Rf4 25. Ra8 Rxf3 26. gxf3
+Qe2 0-1

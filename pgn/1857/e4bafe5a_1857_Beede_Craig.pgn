@@ -1,0 +1,18 @@
+[Event "USA"]
+[Site "USA"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "Beede, George"]
+[Black "Craig, William A C"]
+[Result "0-1"]
+[ECO "C58"]
+[Opening "two knights defence"]
+[Variation "Bogolyubov variation"]
+[HashCode "e4bafe5a"]
+[Epoch "Pawn"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Qf3 h6 9. Ne4 Be7 10. Be2 O-O 11. O-O Bg4 12. Qc3 Nxe4 13. Qxe5 Bxe2 14. Re1
+Bd6 15. Qxe4 Re8 16. Qd4 Bb5 17. Rxe8+ Qxe8 18. Qe3 Nc4 19. Qxe8+ Rxe8 20. g3
+Re1+ 21. Kg2 Rxc1 0-1

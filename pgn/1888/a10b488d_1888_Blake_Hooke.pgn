@@ -1,0 +1,17 @@
+[Event "England"]
+[Site "England"]
+[Date "1888.01.01"]
+[Round "1"]
+[White "Blake"]
+[Black "Hooke"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Lopez counter-gambit"]
+[HashCode "a10b488d"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. d4 Nf6 5. Nc3 exd4 6. Qxd4 Bd7 7. Ng5 Nc6
+8. Bf7+ Ke7 9. Qd5 h6 10. Bg6 Ne5 11. b3 hxg5 12. Qxe5+ dxe5 13. Ba3+ Ke6
+14. exf5# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "1"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Suechting, Hugo"]
+[Result "1-0"]
+[ECO "C49"]
+[Opening "Four knights"]
+[Variation "double Ruy Lopez"]
+[HashCode "ef4dd87e"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 Nf6 4. Nc3 Bb4 5. Nd5 Bc5 6. d3 h6 7. c3 O-O 8. O-O
+Nxd5 9. exd5 Ne7 10. Nxe5 Nxd5 11. d4 Be7 12. Bc4 Nb6 13. Bb3 d5 14. Qh5 Qd6
+15. f4 Qf6 16. f5 c6 17. g3 Qd6 18. Bf4 Bg5 19. Bxg5 hxg5 20. f6 gxf6 21. Bc2
+f5 22. Qxg5+ Kh7 23. Rf4 Qh6 24. Rh4 Qxh4 25. Qxh4+ Kg7 26. Qg5+ Kh7 1-0

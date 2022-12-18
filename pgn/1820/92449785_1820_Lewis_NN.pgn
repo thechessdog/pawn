@@ -1,0 +1,16 @@
+[Event "England"]
+[Site "England"]
+[Date "1820.01.01"]
+[Round "1"]
+[White "Lewis, William"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier gambit"]
+[HashCode "92449785"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 d5 6. exd5 Qe7+ 7. Kf2 h6 8. Bb5+
+Kd8 9. Re1 Qc5+ 10. d4 Qxb5 11. Nxf7+ Kd7 12. Qxg4# 1-0

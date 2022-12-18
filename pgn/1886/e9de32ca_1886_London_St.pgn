@@ -1,0 +1,20 @@
+[Event "cable match"]
+[Site "cable match"]
+[Date "1886.01.01"]
+[Round "1"]
+[White "London"]
+[Black "St Petersburg"]
+[Result "0-1"]
+[ECO "D02"]
+[Opening "Queen's pawn game"]
+[HashCode "e9de32ca"]
+[Epoch "Pawn"]
+
+1. Nf3 d5 2. d4 Bg4 3. Ne5 Bh5 4. g4 Bg6 5. h4 e6 6. Bf4 f6 7. Nxg6 hxg6 8.
+Qd3 g5 9. Bg3 Nc6 10. Qg6+ Kd7 11. c3 Qe8 12. Qd3 Nge7 13. Bg2 gxh4 14.
+Rxh4 Rxh4 15. Bxh4 Qg6 16. Qxg6 Nxg6 17. Bg3 Bd6 18. Bxd6 Kxd6 19. e3 Rh8
+20. Kf1 e5 21. Nd2 Rh4 22. f3 exd4 23. cxd4 Nb4 24. Kf2 b6 25. b3 Rh8 26.
+a3 Nd3+ 27. Ke2 Rh2 28. Kxd3 Rxg2 29. Rh1 c5 30. Rh7 cxd4 31. exd4 Nf4+ 32.
+Kc3 Ne6 33. Kd3 a5 34. Ke3 Rg1 35. Rh8 Rc1 36. Rb8 Rc3+ 37. Kf2 Nxd4 38.
+Rxb6+ Ke5 39. Rb7 Kf4 40. g5 Re3 0-1
+

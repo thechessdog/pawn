@@ -1,0 +1,17 @@
+[Event "Chicago"]
+[Site "Chicago"]
+[Date "1870.01.01"]
+[Round "1"]
+[White "Lindehn, H."]
+[Black "Houghton"]
+[Result "1-0"]
+[ECO "C21"]
+[Opening "Danish gambit"]
+[HashCode "bc4e5e92"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. d4 exd4 3. c3 dxc3 4. Bc4 cxb2 5. Bxb2 Bb4+ 6. Nc3 Nc6 7. Ne2
+Nf6 8. O-O Na5 9. Bd3 O-O 10. e5 Ng4 11. h3 Nxe5 12. Bxh7+ Kxh7 13. Nd5
+Nec6 14. Nf6+ gxf6 15. Qd3+ Kh8 16. Qg3 Ne5 17. Qh4+ Kg7 18. Ng3 Bd2 19.
+Nh5+ Kg6 20. f4 f5 21. Qg3+ Kxh5 22. Qg7 1-0
+

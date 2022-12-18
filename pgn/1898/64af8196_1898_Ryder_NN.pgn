@@ -1,0 +1,17 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Ryder"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "D00"]
+[Opening "Blackmar gambit"]
+[HashCode "64af8196"]
+[Epoch "Pawn"]
+
+1. d4 d5 2. e4 dxe4 3. Nc3 Nf6 4. f3 exf3 5. Qxf3 Qxd4 6. Be3 Qg4 7. Qf2
+Qb4 8. O-O-O Ng4 9. Nd5 Qa5 10. Bb5+ c6 11. Bb6 Na6 12. Qc5 Qxb6 13. Bxa6
+e5 14. Qxb6 axb6 15. Nc7+ Ke7 16. Nxa8 Nf2 17. Nxb6 Bg4 18. Be2 Nxh1 19.
+Bxg4 Nf2 20. Rd7+ 1-0
+

@@ -1,0 +1,21 @@
+[Event "London"]
+[Site "London"]
+[Date "1819.01.01"]
+[Round "1"]
+[White "Lewis, William"]
+[Black "Wilson, Harry Slater"]
+[Result "1-0"]
+[ECO "B21"]
+[Opening "Sicilian"]
+[Variation "Grand Prix attack"]
+[HashCode "6c9f6941"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. f4 e6 3. Nf3 d5 4. Bb5+ Bd7 5. Bxd7+ Nxd7 6. e5 Nh6 7. c3 Be7 8. d4
+c4 9. O-O b5 10. Be3 Nf5 11. Qe2 Nxe3 12. Qxe3 h6 13. Nbd2 a5 14. h3 Nf8 15.
+Nh2 Nh7 16. Qe2 g5 17. f5 exf5 18. Rxf5 O-O 19. Qh5 Ra6 20. Ng4 Qb6 21. Raf1
+Qe6 22. R1f3 b4 23. Nf1 bxc3 24. bxc3 Qg6 25. Ng3 Kg7 26. Ne3 Qe6 27. Ng4 Qg6
+28. Qxg6+ fxg6 29. Rxf8 Nxf8 30. Ne3 Ne6 31. Nxd5 Ba3 32. Rf6 Bc1 33. Ne4 Nc7
+34. Nxc7 Ra7 35. Nd6 Kh7 36. Nde8 Be3+ 37. Kf1 Bd2 38. Rf7+ Kg8 39. e6 Bxc3 40.
+Nf6+ Kh8 41. Rh7# 1-0

@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1891.??.??"]
+[Round "?"]
+[White "Blake, Joseph Henry"]
+[Black "Hook, William"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Lopez counter-gambit"]
+[HashCode "9ea77f82"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "USA"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 f5 4. d4 Nf6 5. Nc3 exd4 6. Qxd4 Bd7 7. Ng5 Nc6 8.
+Bf7+ Ke7 9. Qxf6+ Kxf6 10. Nd5+ Ke5 11. Nf3+ Kxe4 12. Nc3# 1-0

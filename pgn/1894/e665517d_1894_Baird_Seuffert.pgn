@@ -1,0 +1,21 @@
+[Event "DSB-09.Kongress"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "13"]
+[White "Baird, John Washington"]
+[Black "Seuffert, Paul Klemens"]
+[Result "1-0"]
+[ECO "C83"]
+[Opening "Ruy Lopez"]
+[Variation "open, 9...Be7, 10.Re1"]
+[HashCode "e665517d"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. dxe5
+Be6 9. c3 Be7 10. Re1 O-O 11. Nd4 Na5 12. Bc2 c5 13. Ne2 Qc7 14. f3 Ng5 15. Ng3
+Rfd8 16. h4 d4 17. Bxg5 dxc3 18. Qc1 cxb2 19. Qxb2 Bxg5 20. hxg5 Nc4 21. Qc1
+Qa5 22. Nc3 Kh8 23. Bb3 Rd3 24. Nce4 Qb6 25. Bxc4 Bxc4 26. Qc2 Rd5 27. Nd6 Bd3
+28. Qf2 Qa7 29. Nh5 c4 30. Qxa7 Rxa7 31. Nf4 Rd4 32. Nxd3 Rxd3 33. Rad1 Rxd1
+34. Rxd1 Kg8 35. Nc8 1-0

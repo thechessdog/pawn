@@ -1,0 +1,19 @@
+[Event "London2"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Harrwitz, Daniel"]
+[Black "Szen, Jozsef"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Kieseritsky, Berlin defence"]
+[HashCode "ecbced9d"]
+[Epoch "Pawn"]
+[BlackCountry "HUN"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ne5 Nf6 6. Nxg4 Nxe4 7. Qe2 d5 8. d3
+Bxg4 9. Qxg4 Ng3 10. Rh3 Bd6 11. Bxf4 Qe7+ 12. Kf2 Bxf4 13. Qxf4 Nxf1 14. Nc3
+O-O 15. Kxf1 c6 16. Re1 Qd8 17. Rg3+ Kh8 18. Qh6 Rg8 19. Re8 Qxe8 20. Qf6+ Rg7
+21. Qxg7# 1-0

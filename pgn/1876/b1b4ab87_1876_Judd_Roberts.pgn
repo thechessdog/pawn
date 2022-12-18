@@ -1,0 +1,16 @@
+[Event "Philadelphia ch-USA"]
+[Site "Philadelphia ch-USA"]
+[Date "1876.01.01"]
+[Round "1"]
+[White "Judd, Max"]
+[Black "Roberts, A."]
+[Result "1-0"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Fraser attack"]
+[HashCode "b1b4ab87"]
+[Epoch "Pawn"]
+[WhiteCountry "USA"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Qh4 5. Nf3 Qxe4+ 6. Be2 Bb4+ 7. c3 Be7
+8. O-O b6 9. Re1 Bb7 10. Ba6 Qg4 11. Bxb7 Rb8 12. Bxc6 dxc6 13. Nd4 1-0

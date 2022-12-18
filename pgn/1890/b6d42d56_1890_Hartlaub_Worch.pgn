@@ -1,0 +1,16 @@
+[Event "Bremen"]
+[Site "Bremen"]
+[Date "1890.01.01"]
+[Round "1"]
+[White "Hartlaub, Carl"]
+[Black "Worch"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "b6d42d56"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "GER"]
+
+1. e4 e5 2. Nf3 d6 3. Bc4 Bg4 4. Nc3 Nf6 5. O-O Nxe4 6. Nxe5 Bxd1 7. Bxf7+ Ke7
+8. Nd5# 1-0

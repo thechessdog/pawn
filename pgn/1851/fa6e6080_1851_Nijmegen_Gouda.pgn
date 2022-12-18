@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Nijmegen"]
+[Black "Gouda"]
+[Result "1-0"]
+[ECO "B44"]
+[Opening "Sicilian defence"]
+[HashCode "fa6e6080"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. Nf3 c5 3. d4 cxd4 4. Nxd4 Nc6 5. Bc4 Qb6 6. Nb3 Ne5 7. Qe2 Nxc4
+8. Qxc4 Qb4+ 9. Qxb4 Bxb4+ 10. Bd2 Bxd2+ 11. N1xd2 d5 12. e5 Ne7 13. f4 b6
+14. Nd4 a6 15. a4 Bd7 16. c3 a5 17. Ke2 O-O 18. b3 h6 19. Rac1 Rac8 20. h4
+h5 21. g3 f6 22. N2f3 Kf7 23. Rhg1 Rc5 24. Kd2 Ng8 25. g4 hxg4 26. Rxg4 Ne7
+27. Rcg1 Rg8 28. h5 Rc7 29. Nh4 Rcc8 30. Ng6 Nxg6 31. Rxg6 Rcd8 32. Nf3 Bc8
+33. h6 gxh6 34. Rxf6+ Ke7 35. Rxh6 Rxg1 36. Rh7+ Ke8 37. Nxg1 Bd7 38. Nf3
+Rc8 39. Nd4 Kd8 40. Rh6 Ke7 41. f5 exf5 42. Rxb6 f4 43. Rb7 Kd8 44. e6 Bc6
+45. Ra7 1-0
+

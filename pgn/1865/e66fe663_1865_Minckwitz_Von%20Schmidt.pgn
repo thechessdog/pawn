@@ -1,0 +1,19 @@
+[Event "Leipzig sim"]
+[Site "Leipzig"]
+[Date "1865.01.01"]
+[Round "?"]
+[White "Minckwitz, Johannes"]
+[Black "Von Schmidt, Eugen"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, Tartakower variation"]
+[HashCode "e66fe663"]
+[Epoch "Pawn"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. Qe2 Nc5 7. Bxc6 dxc6 8.
+d4 Ne6 9. dxe5 Bc5 10. Nc3 O-O 11. Ne4 Nd4 12. Nxd4 Qxd4 13. Nxc5 Qxc5 14. Kh1
+Bf5 15. c3 Rae8 16. f4 f6 17. Be3 Qe7 18. Bd4 b6 19. b4 Bc8 20. Rfe1 fxe5 21.
+Bxe5 Rxf4 22. Bxf4 Qxe2 23. Rxe2 Rxe2 24. Bxc7 Be6 25. Bxb6 Bd5 26. Rg1 Rxa2
+27. Bd4 Kf7 28. h4 1/2-1/2

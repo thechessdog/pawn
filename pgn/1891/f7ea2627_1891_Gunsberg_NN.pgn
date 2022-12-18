@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Gunsberg, Isidor Arthur"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C39"]
+[Opening "KGA"]
+[Variation "Allgaier, Thorold variation"]
+[HashCode "f7ea2627"]
+[Epoch "Pawn"]
+[WhiteCountry "HUN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. h4 g4 5. Ng5 h6 6. Nxf7 Kxf7 7. d4 d5 8. Bxf4
+Nf6 9. Nc3 Bb4 10. Be5 Nxe4 11. Bd3 Nxc3 12. O-O+ Kg8 13. Qe1 Ne4 14. Qxe4 dxe4
+15. Bc4+ Kh7 16. Rf7+ Kg6 17. Rg7+ Kh5 18. Bf7+ Kxh4 19. Kh2 1-0

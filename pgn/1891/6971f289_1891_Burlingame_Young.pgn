@@ -1,0 +1,19 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Burlingame"]
+[Black "Young, Franklin"]
+[Result "1-0"]
+[ECO "C00"]
+[Opening "French"]
+[Variation "Schlechter variation"]
+[HashCode "6971f289"]
+[Epoch "Pawn"]
+
+1. e4 e6 2. d4 d5 3. Bd3 dxe4 4. Bxe4 Nf6 5. Bg5 Be7 6. Bd3 Nbd7 7. Nf3 O-O
+8. c3 b6 9. Nbd2 Bb7 10. Qc2 h6 11. h4 Bd6 12. O-O-O e5 13. Be4 Bxe4 14.
+Nxe4 hxg5 15. hxg5 Nxe4 16. Qxe4 f5 17. Qd5+ Rf7 18. g6 Qf6 19. gxf7+ Kf8
+20. Qxa8+ Kxf7 21. Rh8 Qe7 22. Qg8+ Kf6 23. dxe5+ Nxe5 24. Rxd6+ cxd6 25.
+Nxe5 dxe5 26. Qf8+ Qxf8 27. Rxf8+ 1-0
+

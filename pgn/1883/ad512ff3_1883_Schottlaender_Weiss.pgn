@@ -1,0 +1,17 @@
+[Event "DSB-03.Kongress"]
+[Site "Nuremberg"]
+[Date "1883.??.??"]
+[Round "6"]
+[White "Schottlaender, Adolf"]
+[Black "Weiss, Max"]
+[Result "0-1"]
+[ECO "B13"]
+[Opening "Caro-Kann"]
+[Variation "exchange variation"]
+[HashCode "ad512ff3"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "DEU"]
+
+1. e4 c6 2. d4 d5 3. exd5 cxd5 4. Bd3 Nf6 5. Nf3 Bg4 6. c3 Qb6 7. Nbd2 Nc6 8.
+h3 Bh5 9. Nf1 e6 10. Ng3 Bg6 11. O-O Bd6 12. Qe1 Bxd3 13. Ne2 Qa6 0-1

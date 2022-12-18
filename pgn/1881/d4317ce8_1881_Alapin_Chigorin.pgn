@@ -1,0 +1,23 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1881.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Chigorin, Mikhail"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Schmidt variation"]
+[HashCode "d4317ce8"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 Bc5 7. O-O h6 8.
+e5 Nh7 9. Qg4 Ng5 10. Kh1 d5 11. Qa4 Bd7 12. f4 Nh7 13. f5 Qe7 14. Bf4 Rb8 15.
+Nd2 Rb4 16. Qa6 O-O 17. Nb3 Bb6 18. c3 Rxf4 19. Rxf4 Qxe5 20. Rff1 c5 21. Rae1
+Qd6 22. Bb1 c4 23. Nd4 Nf6 24. Qa3 c5 25. Nf3 Bc6 26. b3 Bc7 27. Qb2 Ng4 28. g3
+d4 29. Be4 Ne3 30. Bxc6 Qxc6 31. cxd4 cxd4 32. Qxd4 Bb6 33. Qc3 Nxf1 34. Rxf1
+Rd8 35. Qxc4 Qf6 36. Qc2 Rd5 37. Re1 Rc5 38. Qd3 g5 39. fxg6 Rc3 40. gxf7+ Kg7
+41. f8=Q+ Kxf8 42. Re6 Qxf3+ 43. Qxf3+ Rxf3 44. Rxh6 Rf1+ 45. Kg2 Rf2+ 46. Kh3
+Rxa2 0-1

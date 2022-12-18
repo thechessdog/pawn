@@ -1,0 +1,18 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "Steinitz, William"]
+[Result "1-0"]
+[ECO "C46"]
+[Opening "Three knights"]
+[Variation "Steinitz variation"]
+[HashCode "6cb66d91"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. Nc3 Nc6 3. Nf3 g6 4. Bc4 Bg7 5. a3 d6 6. d3 h6 7. Bd2 f5 8. h3 f4
+9. Qe2 g5 10. g3 Nf6 11. gxf4 exf4 12. O-O-O Qe7 13. d4 g4 14. Nh4 Nxd4 15. Qd3
+Nd7 16. hxg4 Ne5 17. Qxd4 1-0

@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1846.01.01"]
+[Round "1"]
+[White "Saint Amant, Pierre"]
+[Black "Horwitz, Bernhard"]
+[Result "0-1"]
+[ECO "A85"]
+[Opening "Dutch with c4 & Nc3"]
+[HashCode "f3c531f9"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+[BlackCountry "DEU"]
+
+1. d4 f5 2. c4 Nf6 3. Nc3 e6 4. Nf3 b6 5. e3 Bb7 6. Be2 Ne4 7. O-O Be7 8. Nd2
+Nxc3 9. bxc3 O-O 10. f4 c5 11. Bf3 Nc6 12. Nb3 Qc7 13. Bb2 a5 14. a4 Rf6 15.
+Qc2 Rh6 16. d5 Nd8 17. Rad1 g5 18. g3 gxf4 19. exf4 Rb8 20. Rd2 Nf7 21. Rfd1
+Rd8 22. Ba3 Nd6 23. Qd3 Ba6 24. Qb1 Nxc4 25. Ra2 Nxa3 26. Rxa3 c4 27. Nd4 Bxa3
+28. dxe6 dxe6 29. Nc6 Rxd1+ 30. Qxd1 Bb7 0-1

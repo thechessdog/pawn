@@ -1,0 +1,19 @@
+[Event "Berlin m2"]
+[Site "Berlin"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Neumann, Gustav Richard"]
+[Black "Mayet, Carl"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[HashCode "d38eebb7"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O h6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Nge7 10. d5 Na5 11. Bd3 d6 12. Ne2 c5 13. Bb2 O-O 14. Ng3 g6
+15. Qd2 Kh7 16. Bf6 Qd7 17. Rfe1 Ng8 18. e5 c4 19. Ng5+ hxg5 20. Bf5 Qxf5 21.
+Nxf5 Nxf6 22. exf6 Bxf5 23. Qxg5 Rh8 24. Re7 Kg8 25. Rae1 Rf8 26. g4 Bd3 27. h4
+c3 28. h5 Nc4 29. hxg6 Bxg6 30. Qxg6+ fxg6 31. Rg7# 1-0

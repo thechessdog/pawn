@@ -1,0 +1,19 @@
+[Event "Brighton"]
+[Site "Brighton"]
+[Date "1882.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Smith, A (Pawn Era)"]
+[Result "1-0"]
+[ECO "C51"]
+[Opening "Evans gambit"]
+[Variation "Morphy attack"]
+[HashCode "24885c9c"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. b4 Bxb4 5. c3 Bc5 6. O-O d6 7. d4 exd4 8.
+cxd4 Bb6 9. Nc3 Na5 10. Bd3 c6 11. Bb2 d5 12. Re1 Ne7 13. Ba3 Be6 14. exd5 cxd5
+15. Nb5 Nc8 16. Rc1 Nc6 17. Ne5 a6 18. Rxc6 bxc6 19. Nxc6 Qf6 20. Qa4 Kd7 21.
+Ne5+ Kd8 22. Nc3 Bc7 23. Nxd5 Qh4 24. Qd7+ Bxd7 25. Nxf7# 1-0

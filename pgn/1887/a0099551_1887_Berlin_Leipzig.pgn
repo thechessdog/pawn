@@ -1,0 +1,24 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Berlin"]
+[Black "Leipzig"]
+[Result "0-1"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Paulsen variation"]
+[HashCode "a0099551"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Nc6 3. g3 Bc5 4. Bg2 Nf6 5. d3 O-O 6. Nge2 d5 7. Nxd5 Nxd5
+8. exd5 Nb4 9. Nc3 Bd4 10. O-O Bxc3 11. bxc3 Nxd5 12. c4 Ne7 13. Bb2 f6 14.
+a4 c6 15. a5 Qc7 16. Qe2 Ng6 17. Ba3 Re8 18. Bc5 Be6 19. Qe3 a6 20. Rab1
+Qf7 21. Bb6 Re7 22. Rb3 Rae8 23. Bc5 Rc7 24. Rfb1 Bc8 25. Bd6 Rd7 26. c5
+Rdd8 27. Qc1 Nf8 28. Qb2 Rd7 29. Rb4 Ne6 30. Re4 Ng5 31. Re3 Rdd8 32. Rbe1
+Bh3 33. Bxh3 Nxh3+ 34. Kg2 Ng5 35. f3 Ne6 36. Re4 Ng5 37. R4e3 Qd7 38. d4
+exd4 39. Qb3+ Kh8 40. Re7 Rxe7 41. Rxe7 Qh3+ 42. Kg1 Qh5 43. g4 Qh3 44. Bc7
+Rf8 45. Bg3 f5 46. Rxb7 f4 47. Bxf4 Nxf3+ 48. Kf2 Qh4+ 49. Kxf3 Qf6 50. Kg2
+Qxf4 51. Qd3 Qf2+ 52. Kh1 Qe1+ 53. Kg2 h5 54. Qxd4 Qe2+ 55. Kh3 hxg4+ 56.
+Kh4 Qxh2+ 57. Kxg4 Qg2+ 58. Kh4 Qh1+ 0-1
+

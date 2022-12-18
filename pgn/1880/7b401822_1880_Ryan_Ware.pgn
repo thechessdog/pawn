@@ -1,0 +1,23 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Ryan"]
+[Black "Ware"]
+[Result "1-0"]
+[ECO "B00"]
+[Opening "Corn stalk defence"]
+[HashCode "7b401822"]
+[Epoch "Pawn"]
+
+1. e4 a5 2. Bc4 e6 3. Nc3 c6 4. e5 d6 5. d4 d5 6. Bd3 c5 7. Bb5+ Bd7 8. Qg4
+cxd4 9. Qxd4 Nc6 10. Bxc6 bxc6 11. Nf3 c5 12. Qg4 f5 13. Qg3 g6 14. h4 Ne7
+15. h5 Rg8 16. Bg5 Qb6 17. Bc1 g5 18. a4 h6 19. Ra3 c4 20. Ra1 Nc6 21. O-O
+Bc5 22. Nb5 Nb4 23. Nd6+ Bxd6 24. exd6 Nxc2 25. Rb1 O-O-O 26. b3 Bxa4 27.
+Be3 Nxe3 28. fxe3 Qxe3+ 29. Kh1 Bxb3 30. Rfe1 Qd3 31. Qe5 Rge8 32. Nd4 Qc3
+33. Rec1 Qb4 34. d7+ Rxd7 35. Rxb3 Qd6 36. Qe1 Rb7 37. Rxb7 Kxb7 38. Qxa5
+Qb6 39. Qd2 f4 40. Qd1 Kc7 41. Rb1 Qa6 42. Nb5+ Kd7 43. Qd4 Kc6 44. Na7+
+Kd7 45. Qc5 Re7 46. Nb5 Qc6 47. Qa7+ Ke8 48. Qb8+ Kf7 49. Qh8 e5 50. Qh7+
+Ke8 51. Qg8+ Kd7 52. Na7 Qa6 53. Qxd5+ Kc7 54. Nb5+ Kc8 55. Qxc4+ Kb7 56.
+Nc7+ 1-0
+

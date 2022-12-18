@@ -1,0 +1,18 @@
+[Event "Germany"]
+[Site "Germany"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Taubenhaus, Jean"]
+[Black "Halpern, Jakob"]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna"]
+[Variation "Steinitz gambit, Zukertort defence"]
+[HashCode "3a40cee2"]
+[Epoch "Pawn"]
+[WhiteCountry "FRA"]
+
+1. e4 e5 2. Nc3 Nc6 3. f4 exf4 4. d4 Qh4+ 5. Ke2 d5 6. exd5 Bg4+ 7. Nf3 Bxf3+
+8. gxf3 Qe7+ 9. Kd3 Nb4+ 10. Kc4 c6 11. Bh3 cxd5+ 12. Kb3 Nc6 13. Re1 Nxd4+ 14.
+Qxd4 Qxe1 15. Qa4+ b5 16. Qxb5+ Ke7 17. Qd7+ Kf6 18. Nxd5+ Ke5 19. Bxf4+ Kd4
+20. Nc3+ Kc5 21. Na4# 1-0

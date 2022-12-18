@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Solomons, S."]
+[Black "Wilson"]
+[Result "0-1"]
+[ECO "B40"]
+[Opening "Sicilian defence"]
+[HashCode "77028bde"]
+[Epoch "Pawn"]
+
+1. e4 c5 2. Nf3 e6 3. Be2 Nc6 4. c3 d5 5. d3 Be7 6. O-O b6 7. h3 Bb7 8. Nh2
+Qc7 9. exd5 exd5 10. a3 O-O-O 11. b4 Bd6 12. Ng4 f5 13. Ne3 Nce7 14. d4 c4
+15. Qc2 Rf8 16. f4 g6 17. Nd1 Nf6 18. Be3 Ne4 19. Rf3 h6 20. Nf2 g5 21.
+fxg5 f4 22. Bd2 hxg5 23. a4 Nf5 24. Ng4 Nfg3 25. Be1 Qd7 26. a5 Qxg4 27.
+Rxg3 Qh4 28. Bg4+ Kc7 29. Re3 Qh7 30. Re2 b5 31. a6 Bc8 32. Bf3 Bf5 33. Qa2
+g4 34. Qa5+ Kc6 35. Bxe4 Bxe4 36. Na3 Rb8 37. Nxb5 Rxb5 38. Qa2 gxh3 39.
+gxh3 Qxh3 0-1
+

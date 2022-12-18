@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1851.01.01"]
+[Round "1"]
+[White "Deacon, Frederick"]
+[Black "Gilby"]
+[Result "0-1"]
+[ECO "A34"]
+[Opening "English"]
+[Variation "symmetrical variation"]
+[HashCode "a670aa9a"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. c4 c5 2. Nc3 e6 3. e3 b6 4. f4 Bb7 5. Nf3 Na6 6. Be2 Nh6 7. O-O Nc7 8. a3
+Be7 9. Rb1 Rb8 10. b4 O-O 11. Qa4 cxb4 12. axb4 Na6 13. Ne5 Rc8 14. c5 Nb8 15.
+Qxa7 d6 16. cxd6 Qxd6 17. Qxb7 f6 18. Nc4 Qd8 19. Qxb6 Qd7 20. Ra1 Nc6 21. b5
+Nd8 22. Ra7 Qe8 23. Ne4 Qg6 24. f5 Nxf5 25. Rd7 Re8 26. Rf4 h5 27. Bd3 e5 28.
+Ned6 Bxd6 29. Rxf5 Rxc4 30. Bxc4+ Kh7 31. Bd3 e4 32. Rf4 Bxf4 33. exf4 exd3 34.
+Rxd8 Re1+ 35. Kf2 Re2+ 36. Kf3 Qxg2# 0-1

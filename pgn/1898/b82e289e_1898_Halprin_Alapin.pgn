@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Halprin, Alexander"]
+[Black "Alapin, Semyon Zinovyevich"]
+[Result "0-1"]
+[ECO "D05"]
+[Opening "Queen's pawn game"]
+[HashCode "b82e289e"]
+[Epoch "Pawn"]
+[BlackCountry "RUS"]
+
+1. d4 d5 2. Nf3 e6 3. e3 Nf6 4. Bd3 Bd6 5. Nbd2 Nbd7 6. e4 dxe4 7. Nxe4 Nxe4 8.
+Bxe4 O-O 9. O-O e5 10. Qd3 exd4 11. Bxh7+ Kh8 12. Bf5 Nc5 13. Qe2 Bxf5 14. Nxd4
+Qh4 15. f4 Bg4 16. Qc4 Rae8 17. b4 Ne6 18. Nf3 Bxf3 19. Rxf3 Qe1+ 20. Rf1 Qxb4
+0-1

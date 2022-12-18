@@ -1,0 +1,22 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1843.01.01"]
+[Round "1"]
+[White "Kornik"]
+[Black "Sroda"]
+[Result "1-0"]
+[ECO "C24"]
+[Opening "Bishop's opening"]
+[Variation "Berlin defence"]
+[HashCode "8648d44f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Bc4 Nf6 3. d3 d5 4. exd5 Bc5 5. Nf3 c6 6. Nxe5 cxd5 7. Bb5+ Bd7
+8. Nxd7 Nbxd7 9. O-O O-O 10. Bxd7 Qxd7 11. Bf4 Qf5 12. Bg3 Rfe8 13. d4 Be7
+14. Nd2 Nh5 15. Nf3 g6 16. c3 f6 17. Qb3 b6 18. Rae1 Qd7 19. Re2 Rf8 20.
+Rfe1 Rae8 21. Nd2 Ng7 22. Nf1 Nf5 23. Ne3 Nxe3 24. Rxe3 Kg7 25. Qd1 Bd8 26.
+Qe2 Rxe3 27. Qxe3 Kf7 28. Qf4 g5 29. Qd6 Qxd6 30. Bxd6 Rg8 31. g3 h5 32. h3
+a6 33. Kf1 b5 34. a4 bxa4 35. Ra1 a5 36. Rxa4 Ke6 37. Bc5 Bc7 38. Ra1 Kd7
+39. b4 Ra8 40. Ke2 Re8+ 41. Kd3 axb4 42. cxb4 f5 43. Ra7 Rb8 44. Ra6 Rh8
+45. Rg6 h4 46. gxh4 Rxh4 47. Rg7+ Kc8 48. Rxg5 1-0
+

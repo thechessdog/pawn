@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Noa, Joseph"]
+[Black "Mason, James"]
+[Result "0-1"]
+[ECO "C11"]
+[Opening "French defence"]
+[HashCode "f5551a1e"]
+[Epoch "Pawn"]
+[BlackCountry "IRE"]
+[WhiteCountry "HUN"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. exd5 exd5 5. Bd3 Bd6 6. Nf3 c6 7. O-O O-O 8.
+Re1 Bg4 9. h3 Bh5 10. Bg5 Nbd7 11. Bf5 Qc7 12. Qd3 Rae8 13. Bxf6 Nxf6 14. Nd1
+Bxf3 15. Rxe8 Rxe8 0-1

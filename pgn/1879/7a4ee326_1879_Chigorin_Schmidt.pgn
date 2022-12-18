@@ -1,0 +1,19 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Schmidt, (Pawn Era)"]
+[Result "1-0"]
+[ECO "C59"]
+[Opening "Two knights defence"]
+[HashCode "7a4ee326"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ c6 7. dxc6 bxc6 8.
+Be2 h6 9. Nf3 e4 10. Ne5 Bd6 11. f4 Qc7 12. d4 exd3 13. Bxd3 O-O 14. O-O Bxe5
+15. fxe5 Qxe5 16. Bd2 Ng4 17. Rf4 Qc5+ 18. Kh1 Qh5 19. Qg1 Nf6 20. Nc3 Nb7 21.
+Rxf6 gxf6 22. Ne4 Qh4 23. g3 Qh3 24. Nxf6+ Kg7 25. Qd4 Rg8 26. Nd7+ f6 27.
+Qxf6# 1-0

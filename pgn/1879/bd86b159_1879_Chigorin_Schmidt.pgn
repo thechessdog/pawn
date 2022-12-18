@@ -1,0 +1,20 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1879.01.01"]
+[Round "1"]
+[White "Chigorin, Mikhail"]
+[Black "Von Schmidt, Eugen"]
+[Result "0-1"]
+[ECO "C68"]
+[Opening "Ruy Lopez"]
+[Variation "exchange variation"]
+[HashCode "bd86b159"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Bxc6 dxc6 5. d3 Bd6 6. Nc3 Ne7 7. h3 f5 8. Bg5
+h6 9. Bxe7 Qxe7 10. Qe2 O-O 11. O-O-O fxe4 12. Nxe4 Be6 13. g4 Qf7 14. Nh4 Be7
+15. Ng2 Bd5 16. Rdf1 Bxe4 17. Qxe4 Qxa2 18. c4 a5 19. Qe2 a4 20. Qc2 a3 21.
+bxa3 Bxa3+ 22. Kd1 Qa1+ 23. Ke2 Qd4 24. Ne3 g6 25. Nd1 Bc5 26. Qd2 e4 27. f4
+exd3+ 28. Kf3 Rae8 29. Kg3 Re2 0-1

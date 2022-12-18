@@ -1,0 +1,20 @@
+[Event "Russia m"]
+[Site "Russia"]
+[Date "1849.??.??"]
+[Round "?"]
+[White "Shumov, Ilia S"]
+[Black "Jaenisch, Carl"]
+[Result "0-1"]
+[ECO "C77"]
+[Opening "Ruy Lopez"]
+[Variation "Wormald (Alapin) attack"]
+[HashCode "0bc8b470"]
+[Epoch "Pawn"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. Qe2 b5 6. Bb3 Bc5 7. a4 Rb8 8. axb5
+axb5 9. O-O O-O 10. d3 d6 11. Be3 Bg4 12. Nbd2 Qe7 13. h3 Bh5 14. g4 Bg6 15. c3
+Ra8 16. Nh4 Na5 17. Nxg6 hxg6 18. Ba2 Nb7 19. f4 c6 20. f5 gxf5 21. Bxc5 Nxc5
+22. exf5 d5 23. d4 Nce4 24. Nxe4 Nxe4 25. Kg2 exd4 26. cxd4 Qh4 27. Qd3 Rfe8
+28. Rf3 Ra7 29. Bxd5 Rxa1 30. Bxe4 Qe1 31. Rf1 Qxf1+ 32. Qxf1 Rxf1 33. Bxc6
+Ree1 34. Bxb5 Rf4 0-1

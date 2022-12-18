@@ -1,0 +1,17 @@
+[Event "Glasgow"]
+[Site "Glasgow"]
+[Date "1878.01.01"]
+[Round "1"]
+[White "Crum, J."]
+[Black "Jenkin"]
+[Result "0-1"]
+[ECO "C20"]
+[Opening "KP"]
+[Variation "Lopez opening"]
+[HashCode "dfb79c35"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. c3 Nf6 3. Qc2 Bc5 4. Nf3 Nc6 5. Bb5 Ng4 6. O-O f5 7. Bxc6 dxc6
+8. b4 Bb6 9. Bb2 O-O 10. d4 fxe4 11. Qxe4 Bf5 12. Qe2 e4 13. Ne1 Qh4 14. h3
+Rf6 15. f3 Ne5 16. fxe4 Bg4 17. Nf3 Bxf3 18. Rxf3 Rxf3 19. gxf3 Qg3+ 0-1
+

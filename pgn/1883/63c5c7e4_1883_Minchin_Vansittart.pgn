@@ -1,0 +1,15 @@
+[Event "London"]
+[Site "London"]
+[Date "1883.01.01"]
+[Round "1"]
+[White "Minchin, James Innes"]
+[Black "Vansittart, C."]
+[Result "1-0"]
+[ECO "C25"]
+[Opening "Vienna game"]
+[HashCode "63c5c7e4"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nc3 Bb4 3. f4 Nf6 4. Bc4 O-O 5. fxe5 Bxc3 6. exf6 Bxf6 7. Nf3 Re8
+8. O-O Rxe4 9. d3 Re8 10. Ng5 d5 11. Qh5 h6 12. Nxf7 Qe7 13. Bxd5 Qc5+ 14. Kh1
+Be6 15. Ng5 Bxd5 16. Qxe8+ Qf8 17. Qxf8+ Kxf8 18. Nh7+ Ke7 1-0

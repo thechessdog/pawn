@@ -1,0 +1,16 @@
+[Event "Budapest"]
+[Site "Budapest"]
+[Date "1816.01.01"]
+[Round "1"]
+[White "Heltay, JJ."]
+[Black "Janny"]
+[Result "0-1"]
+[ECO "A40"]
+[Opening "Queen's pawn"]
+[Variation "Charlick (Englund) gambit"]
+[HashCode "0d82e45b"]
+[Epoch "Pawn"]
+
+1. d4 e5 2. d5 f5 3. c4 Nf6 4. Nc3 Bc5 5. Nf3 O-O 6. a3 d6 7. b4 Bd4 8. Bb2
+f4 9. Ng5 Bxf2+ 10. Kxf2 Ng4+ 11. Kg1 Qxg5 12. h4 f3 0-1
+

@@ -1,0 +1,18 @@
+[Event "DSB-08.Kongress"]
+[Site "Kiel"]
+[Date "1893.??.??"]
+[Round "4"]
+[White "Walbrodt, Carl August"]
+[Black "Seuffert, Paul Klemens"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 6.d4"]
+[HashCode "ffc0377c"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 d5 7. Nxe5 Bd7 8.
+Nxf7 Kxf7 9. Qh5+ Ke6 10. Bb3 Be8 11. Qg4+ Kf7 12. Qxe4 Be7 13. Bxd5+ Kf8 14.
+c3 1-0

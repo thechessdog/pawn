@@ -1,0 +1,19 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1864.01.01"]
+[Round "1"]
+[White "Von Schmidt, Eugen"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[ECO "A00"]
+[Opening "Van't Kruijs opening"]
+[HashCode "3066c808"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+[WhiteCountry "EST"]
+
+1. e3 d5 2. d4 Nf6 3. c4 e6 4. Nc3 Be7 5. Nf3 O-O 6. Bd3 b6 7. Bd2 Bb7 8. O-O
+Nbd7 9. Qe2 c5 10. Rfd1 Ne4 11. cxd5 exd5 12. Rac1 f5 13. a4 Ndf6 14. Bb1 Qe8
+15. Ne5 Nxd2 16. Rxd2 Ne4 17. Rdc2 Nxc3 18. Rxc3 Bd6 19. Nd3 cxd4 20. R3c2 Qxa4
+21. exd4 Rae8 22. Qf3 Qxd4 23. Ba2 Kh8 24. Rd1 Qe4 25. Qh3 Re6 26. g3 d4 27. f3
+Qxf3 28. Nf2 Rh6 0-1

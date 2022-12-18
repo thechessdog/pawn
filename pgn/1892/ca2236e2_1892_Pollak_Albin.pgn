@@ -1,0 +1,29 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1892.01.01"]
+[Round "1"]
+[White "Pollak, Siegmund"]
+[Black "Albin, Adolf"]
+[Result "0-1"]
+[ECO "C29"]
+[Opening "Vienna gambit"]
+[Variation "Bardeleben variation"]
+[HashCode "ca2236e2"]
+[Epoch "Pawn"]
+[BlackCountry "ROU"]
+
+1. e4 e5 2. Nc3 Nf6 3. f4 d5 4. fxe5 Nxe4 5. Qf3 f5 6. d3 Nxc3 7. bxc3 d4 8.
+Bd2 c5 9. Qd1 Nc6 10. Nf3 Be7 11. g3 O-O 12. Bg2 g5 13. Qe2 g4 14. Ng1 dxc3 15.
+Bxc3 Nd4 16. Qd2 Bg5 17. Qd1 Re8 18. Ne2 Rxe5 19. Bxd4 Qxd4 20. Kf1 Qe3 21. h4
+gxh3 22. Rxh3 f4 23. g4 Qxe2+ 24. Qxe2 Rxe2 25. Kxe2 Bxg4+ 26. Kf2 Bxh3 27.
+Bxh3 Re8 28. Bg2 Re7 29. Be4 Kg7 30. a4 c4 31. Rb1 cxd3 32. cxd3 b6 33. Rb5 h6
+34. Kf3 Rd7 35. a5 bxa5 36. Rxa5 Kf6 37. Kg4 Ke7 38. Bf5 Rc7 39. Ra6 Kd8 40.
+Rd6+ Ke8 41. Ra6 Kf8 42. Be4 Rf7 43. Bd5 Re7 44. Be4 Ke8 45. Rd6 a5 46. Ra6 Re5
+47. Kf3 Rc5 48. Kg4 Re5 49. Kf3 Kd8 50. d4 Rb5 51. Bc6 Rb3+ 52. Kg4 Rg3+ 53.
+Kh5 Kc7 54. Bd5 Ra3 55. Kg4 a4 56. Bf3 Ra1 57. d5 Kb7 58. Ra5 Kb6 59. Ra8 Kc5
+60. Rc8+ Kd6 61. Rc6+ Ke5 62. Re6+ Kd4 63. Ra6 a3 64. Kf5 a2 65. Be4 Bd8 66. d6
+f3 67. Bxf3 Rf1 68. Rxa2 Rxf3+ 69. Kg4 Rf8 70. Ra8 Ke5 71. d7 h5+ 72. Kh3 Ke6
+73. Ra2 Kxd7 74. Re2 Rf3+ 75. Kg2 Rd3 76. Re1 Kd6 77. Re2 h4 78. Re1 Kd5 79.
+Re8 h3+ 80. Kh1 Bc7 81. Re1 Bg3 82. Rg1 Ke4 83. Rf1 Bf4 84. Rb1 Kf5 85. Re1 Rd2
+86. Rf1 Kg4 87. Rg1+ Kh4 88. Rb1 Re2 89. Rd1 Kg3 90. Rg1+ Rg2 91. Re1 Rh2+ 92.
+Kg1 Rf2 93. Kh1 Bd2 94. Rg1+ Rg2 95. Re1 Rh2+ 96. Kg1 Bxe1 0-1

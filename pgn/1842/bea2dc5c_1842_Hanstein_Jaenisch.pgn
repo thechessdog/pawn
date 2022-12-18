@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Hanstein, Wilhelm"]
+[Black "Jaenisch, Carl"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "bea2dc5c"]
+[Epoch "Pawn"]
+[BlackCountry "FIN"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 Bf6
+8. Ne5 Bxe5 9. Qh5 Qe7 10. Rxf7 Qc5 11. Rf8+ Ke7 12. d4 Qxc4 13. Qe8+ Kd6 14.
+Qxe5+ Kc6 15. Na3 d6 16. d5+ Kc5 17. Be3+ Kb4 18. c3+ Ka4 19. b3+ Kxa3 20. Bc1#
+1-0

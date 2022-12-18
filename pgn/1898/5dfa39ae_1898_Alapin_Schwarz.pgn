@@ -1,0 +1,19 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Schwarz, Adolf"]
+[Result "1-0"]
+[ECO "C20"]
+[Opening "Alapin's opening"]
+[HashCode "5dfa39ae"]
+[Epoch "Pawn"]
+[BlackCountry "AUT"]
+[WhiteCountry "RUS"]
+
+1. e4 e5 2. Ne2 Nf6 3. f4 Nxe4 4. d3 Nc5 5. fxe5 d5 6. d4 Ne4 7. Nd2 f5 8. Nxe4
+fxe4 9. Nf4 g6 10. Be3 c6 11. Be2 Bh6 12. Nxd5 cxd5 13. Bxh6 Qh4+ 14. g3 Qxh6
+15. O-O Nc6 16. c3 Bh3 17. Rf4 O-O-O 18. Bg4+ Kb8 19. Bxh3 Qxh3 20. Qb3 Qc8 21.
+Raf1 Na5 22. Qb5 Nc4 23. Rf7 Nb6 24. Qb4 h5 25. a4 Nc4 26. a5 Ka8 27. R1f6 Rhe8
+28. e6 Nd6 29. Rd7 Qb8 30. Rxd8 1-0

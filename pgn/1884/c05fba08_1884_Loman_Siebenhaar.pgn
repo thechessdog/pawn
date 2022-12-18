@@ -1,0 +1,17 @@
+[Event "Gouda"]
+[Site "Gouda"]
+[Date "1884.01.01"]
+[Round "1"]
+[White "Loman, Rudolf"]
+[Black "Siebenhaar, William"]
+[Result "1-0"]
+[ECO "C58"]
+[Opening "Two knights defence"]
+[HashCode "c05fba08"]
+[Epoch "Pawn"]
+[WhiteCountry "NLD"]
+
+1. e4 e5 2. Bc4 Nf6 3. Nf3 Nc6 4. Ng5 d5 5. exd5 Na5 6. Bb5+ Bd7 7. Qe2 Bd6 8.
+O-O h6 9. Bxd7+ Qxd7 10. Ne4 Nxd5 11. Nxd6+ cxd6 12. d4 Nc6 13. dxe5 dxe5 14.
+f4 f6 15. fxe5 Nxe5 16. c4 Ne7 17. Qh5+ g6 18. Qh4 Ng4 19. h3 Qd4+ 20. Kh1 Nf5
+21. Re1+ Kf7 22. Qxg4 1-0

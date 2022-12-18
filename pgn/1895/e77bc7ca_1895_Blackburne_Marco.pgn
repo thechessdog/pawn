@@ -1,0 +1,18 @@
+[Event "Hastings"]
+[Site "Hastings"]
+[Date "1895.01.01"]
+[Round "1"]
+[White "Blackburne, Joseph Henry"]
+[Black "Marco, Georg"]
+[Result "0-1"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, Tartakower variation"]
+[HashCode "e77bc7ca"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+[BlackCountry "AUT"]
+
+1. e4 e5 2. f4 d5 3. Nf3 dxe4 4. Nxe5 Bd6 5. d4 Nf6 6. Be2 O-O 7. O-O Nc6 8.
+Nc3 Nxd4 9. Bf3 Re8 10. Bd2 c6 11. Kh1 Bf5 12. Be1 Qc7 13. Bf2 Nxf3 14. Qxf3
+Bxe5 15. Rac1 Bxc3 16. h4 h6 17. g3 Re6 0-1

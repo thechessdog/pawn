@@ -1,0 +1,19 @@
+[Event "Paris 1680"]
+[Site "Paris 1680"]
+[Date "1801.01.01"]
+[Round "1"]
+[White "Lafon"]
+[Black "Maubisson"]
+[Result "0-1"]
+[ECO "C37"]
+[Opening "KGA"]
+[Variation "Muzio gambit"]
+[HashCode "901e0296"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 g4 5. O-O gxf3 6. Qxf3 Qf6 7. c3 Nc6
+8. d4 Nxd4 9. Qd3 Ne6 10. Nd2 Bd6 11. Nf3 Ne7 12. Bd2 b6 13. Rae1 Be5 14.
+Bxe6 fxe6 15. Nxe5 Qxe5 16. Bxf4 Qg7 17. Bxc7 Rg8 18. Qh3 Ba6 19. Rf3 Qg5
+20. Ree3 Qc5 21. Bg3 Be2 22. Bf2 Bxf3 23. Rxf3 Qd6 24. Rd3 Qf4 25. Qh5+ Ng6
+26. Be3 Qxe4 27. Qb5 Ne5 0-1
+

@@ -1,0 +1,17 @@
+[Event "St Petersburg"]
+[Site "St Petersburg"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "Verigin"]
+[Black "De Mingrelie, D."]
+[Result "0-1"]
+[ECO "C40"]
+[Opening "Latvian"]
+[Variation "Fraser defence"]
+[HashCode "78235803"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 f5 3. Nxe5 Nc6 4. Qh5+ g6 5. Nxg6 Nf6 6. Qxf5 d5 7. Qg5
+dxe4 8. Nxh8 Bg4 9. Bb5 Bd6 10. O-O Qe7 11. d3 O-O-O 12. Bxc6 bxc6 13. Nc3
+Rg8 14. Qe3 Bf3 15. g3 Ng4 16. Qxa7 Qh4 0-1
+

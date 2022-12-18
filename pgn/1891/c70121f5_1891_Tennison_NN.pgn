@@ -1,0 +1,15 @@
+[Event "New Orleans"]
+[Site "New Orleans"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Tennison"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "A06"]
+[Opening "Tennison (Lemberg, Zukertort) gambit"]
+[HashCode "c70121f5"]
+[Epoch "Pawn"]
+
+1. Nf3 d5 2. e4 dxe4 3. Ng5 f5 4. Bc4 Nh6 5. Nxh7 Rxh7 6. Qh5+ Kd7 7. Qg6
+Rh8 8. Be6+ Kc6 9. Bxc8+ Qd6 10. Qe8+ Kb6 11. Qa4 1-0
+

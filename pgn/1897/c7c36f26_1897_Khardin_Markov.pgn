@@ -1,0 +1,21 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1897.01.01"]
+[Round "1"]
+[White "Khardin"]
+[Black "Markov, Andrei"]
+[Result "0-1"]
+[ECO "C45"]
+[Opening "Scotch"]
+[Variation "Mieses variation"]
+[HashCode "c7c36f26"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Nxd4 Nf6 5. Nxc6 bxc6 6. e5 Ne4 7. Qf3
+Qh4 8. Bd3 Nc5 9. O-O Nxd3 10. Qxd3 Bc5 11. Nc3 O-O 12. Ne4 Ba6 13. c4 Bb6
+14. Bg5 Qh5 15. Kh1 d5 16. exd6 f5 17. Be7 fxe4 18. Qxe4 cxd6 19. Bxf8 Rxf8
+20. Qxc6 Qf7 21. f3 Bxc4 22. Rfd1 Bc7 23. b3 Be6 24. Rd4 Rc8 25. Qa6 Bb8
+26. Re1 Qd7 27. Rde4 Bf7 28. g4 Re8 29. Rxe8+ Bxe8 30. Qe2 Bf7 31. Qe7 Qc8
+32. Kg2 h6 33. b4 d5 34. Qc5 Qa6 35. a3 Bd6 36. Qc3 Qc4 37. Qxc4 dxc4 38.
+Rd1 Be5 39. Rd8+ Kh7 40. Rc8 Bb2 0-1
+

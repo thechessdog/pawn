@@ -1,0 +1,17 @@
+[Event "Vienna"]
+[Site "Vienna"]
+[Date "1873.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Bird, Henry"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham defence"]
+[HashCode "213dd99d"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. Kf1 d6 6. d4 Bg4 7. Bxf4 Qf6 8.
+Be3 Ne7 1-0

@@ -1,0 +1,15 @@
+[Event "corr England"]
+[Site "corr England"]
+[Date "1857.01.01"]
+[Round "1"]
+[White "Sherborne, D."]
+[Black "Wake, D."]
+[Result "0-1"]
+[ECO "B00"]
+[Opening "KP"]
+[Variation "Nimzovich defence"]
+[HashCode "8d7f26d1"]
+[Epoch "Pawn"]
+
+1. e4 Nc6 2. d4 d5 3. e5 Bf5 4. Ne2 Nb4 5. Na3 c5 6. c3 Nd3+ 0-1
+

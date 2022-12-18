@@ -1,0 +1,18 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Von der Lasa, Tassilo"]
+[Black "NN"]
+[Result "1-0"]
+[ECO "C38"]
+[Opening "KGA"]
+[Variation "Hanstein gambit"]
+[HashCode "6ecee4b3"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 g5 4. Bc4 Bg7 5. O-O h6 6. d4 d6 7. c3 c6 8. Qb3 Qe7
+9. g3 g4 10. Bxf4 gxf3 11. Rxf3 Be6 12. d5 Bg4 13. dxc6 Bxf3 14. cxb7 Qxe4 15.
+bxa8=Q Qxa8 16. Bxf7+ Kf8 17. Bxg8 Rxg8 18. Bxd6+ Ke8 19. Qe6+ Kd8 20. Qe7+ Kc8
+21. Qc7# 1-0

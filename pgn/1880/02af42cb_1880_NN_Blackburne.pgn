@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1880.01.01"]
+[Round "1"]
+[White "NN"]
+[Black "Blackburne, Joseph Henry"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Variation "Jerome gambit"]
+[HashCode "02af42cb"]
+[Epoch "Pawn"]
+[BlackCountry "ENG"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Bc5 4. Bxf7+ Kxf7 5. Nxe5+ Nxe5 6. Qh5+ g6 7. Qxe5
+d6 8. Qxh8 Qh4 9. O-O Nf6 10. c3 Ng4 11. h3 Bxf2+ 12. Kh1 Bf5 13. Qxa8 Qxh3+
+14. gxh3 Bxe4# 0-1

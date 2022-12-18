@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1842.01.01"]
+[Round "1"]
+[White "Jaenisch, Carl"]
+[Black "Von der Lasa, Tassilo"]
+[Result "1-0"]
+[ECO "C35"]
+[Opening "KGA"]
+[Variation "Cunningham, three pawns gambit"]
+[HashCode "bfa304fb"]
+[Epoch "Pawn"]
+[WhiteCountry "FIN"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 exf4 3. Nf3 Be7 4. Bc4 Bh4+ 5. g3 fxg3 6. O-O gxh2+ 7. Kh1 Bf6
+8. Ne5 Qe7 9. Bxf7+ Kd8 10. d4 Bxe5 11. dxe5 Qxe5 12. Nc3 Nf6 13. Bf4 Qe7 14.
+e5 Qxf7 15. exf6 gxf6 16. Be5 Rf8 17. Rxf6 Qg7 18. Bxc7+ Ke8 19. Qe2+ Qe7 20.
+Re1 Nc6 21. Qh5+ Rf7 22. Qxf7# 1-0

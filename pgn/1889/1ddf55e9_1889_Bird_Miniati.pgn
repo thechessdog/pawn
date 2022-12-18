@@ -1,0 +1,20 @@
+[Event "London"]
+[Site "London"]
+[Date "1889.01.01"]
+[Round "1"]
+[White "Bird, Henry"]
+[Black "Miniati, N."]
+[Result "1-0"]
+[ECO "A03"]
+[Opening "Bird's opening"]
+[Variation "Lasker variation"]
+[HashCode "1ddf55e9"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. f4 d5 2. Nf3 Nf6 3. e3 c5 4. b3 a6 5. Bb2 e6 6. Bd3 Nc6 7. O-O Be7 8. c3 Qc7
+9. c4 dxc4 10. bxc4 b6 11. Nc3 Bb7 12. Be2 h6 13. Qe1 O-O-O 14. Na4 Rdg8 15.
+Rb1 Nd7 16. Ne5 Ncxe5 17. Bxe5 Qc6 18. Nxb6+ Nxb6 19. Bf3 Nd5 20. cxd5 exd5 21.
+d3 f6 22. Bg4+ Kd8 23. Qa5+ Ke8 24. Bc7 Ba8 25. Rf2 Kf7 26. Rfb2 h5 27. Bf5 d4
+28. e4 Bd6 29. Bxd6 Qxd6 30. Rb6 Bc6 31. Qxa6 Ra8 32. Rb7+ Bxb7 33. Rxb7+ Qe7
+34. Qe6+ Kf8 35. Qxe7+ Kg8 36. Qxg7# 1-0

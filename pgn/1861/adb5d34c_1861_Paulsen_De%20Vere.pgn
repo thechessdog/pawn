@@ -1,0 +1,19 @@
+[Event "London"]
+[Site "London"]
+[Date "1861.01.01"]
+[Round "1"]
+[White "Paulsen, Louis"]
+[Black "De Vere, Cecil Valentine"]
+[Result "1-0"]
+[ECO "C15"]
+[Opening "French"]
+[Variation "Winawer (Nimzovich) variation"]
+[HashCode "adb5d34c"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Bb4 4. exd5 exd5 5. Nf3 Nf6 6. Bd3 Nc6 7. O-O O-O 8.
+Ne2 Bg4 9. c3 Bd6 10. Ng3 h6 11. h3 Be6 12. Qe2 Qe7 13. Ne5 Nh7 14. f4 Qh4 15.
+Ng6 Qxg3 16. Rf3 Bg4 17. hxg4 Qxg4 18. Nxf8 Nxf8 19. Qf2 Ne7 20. f5 Nh7 21. Bf4
+Bxf4 22. Rxf4 Qg5 23. Re1 Qf6 24. Rf3 Ng5 25. Rfe3 Ne4 26. Bxe4 dxe4 27. Rxe4
+Nxf5 28. Re8+ Rxe8 29. Rxe8+ Kh7 30. g4 Nd6 31. Qxf6 gxf6 32. Re7 1-0

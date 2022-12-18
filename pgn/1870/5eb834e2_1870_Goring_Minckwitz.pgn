@@ -1,0 +1,21 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1870.01.01"]
+[Round "1"]
+[White "Goering, Carl Theodor"]
+[Black "Minckwitz, Johannes"]
+[Result "1-0"]
+[ECO "C80"]
+[Opening "Ruy Lopez"]
+[Variation "open, 7.Bb3"]
+[HashCode "5eb834e2"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bb5 a6 4. Ba4 Nf6 5. O-O Nxe4 6. d4 b5 7. Bb3 d5 8. Nxe5
+Nxe5 9. dxe5 Bb7 10. Be3 Be7 11. Qg4 O-O 12. Bh6 Bg5 13. Bxg5 Qxg5 14. Qxg5
+Nxg5 15. Nc3 Rad8 16. f4 Ne4 17. Nxe4 dxe4 18. f5 c5 19. c3 c4 20. Bc2 Rd2 21.
+Rf2 Rfd8 22. Re1 e3 23. Rxe3 Rxf2 24. Kxf2 Rd2+ 25. Re2 Rxe2+ 26. Kxe2 Bxg2 27.
+Ke3 Kf8 28. Be4 Bxe4 29. Kxe4 Ke7 30. Kd5 Kd7 31. Kc5 g6 32. a4 h5 33. e6+ Ke7
+34. axb5 axb5 35. Kxb5 g5 36. Kxc4 g4 37. Kd4 fxe6 38. fxe6 h4 39. Ke3 g3 40.
+Kf3 1-0

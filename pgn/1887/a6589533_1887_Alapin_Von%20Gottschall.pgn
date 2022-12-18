@@ -1,0 +1,24 @@
+[Event "Frankfurt"]
+[Site "Frankfurt"]
+[Date "1887.01.01"]
+[Round "1"]
+[White "Alapin, Semyon Zinovyevich"]
+[Black "Von Gottschall, Hermann"]
+[Result "1-0"]
+[ECO "B31"]
+[Opening "Sicilian"]
+[Variation "Nimzovich-Rossolimo attack (with ...g6, without ...d6)"]
+[HashCode "a6589533"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "DEU"]
+
+1. e4 c5 2. Nf3 Nc6 3. Bb5 g6 4. Bxc6 bxc6 5. O-O Bg7 6. d3 e6 7. Nc3 d5 8. Na4
+Qa5 9. c4 Ne7 10. Rb1 O-O 11. Be3 f5 12. Bxc5 Qc7 13. e5 Re8 14. Bd6 Qd8 15.
+Nc5 h6 16. Nd4 Kf7 17. b4 Qb6 18. Qa4 a5 19. a3 Ra7 20. bxa5 Qxa5 21. Qxa5 Rxa5
+22. a4 Bxe5 23. Ncb3 Rxa4 24. Bxe5 dxc4 25. dxc4 Rxc4 26. Rfc1 Ba6 27. Nc5 Bb5
+28. Rxc4 Bxc4 29. Rb7 Bd5 30. Bd6 Kf6 31. Nd7+ Kf7 32. Ne5+ Kf6 33. f4 c5 34.
+Rxe7 Rxe7 35. Bxe7+ Kxe7 36. Ne2 g5 37. g3 Bb7 38. Kf2 Ba6 39. Ke3 Bb5 40. Nc3
+Ba6 41. Na4 gxf4+ 42. gxf4 Kd6 43. Nf7+ Kd5 44. Ne5 Bf1 45. Nd7 c4 46. Ne5 h5
+47. h4 Kd6 48. Kd4 Be2 49. Nb6 c3 50. Kxc3 Kc5 51. Nbd7+ Kd5 52. Nf6+ Kd6 53.
+Kd4 Ke7 54. Nfd7 Bb5 55. Nb6 Kd6 56. Nbc4+ 1-0

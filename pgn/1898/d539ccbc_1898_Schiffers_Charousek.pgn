@@ -1,0 +1,16 @@
+[Event "Cologne"]
+[Site "Cologne"]
+[Date "1898.01.01"]
+[Round "1"]
+[White "Schiffers, Emanuel Stepanovich"]
+[Black "Charousek, Rudolf"]
+[Result "0-1"]
+[ECO "C46"]
+[Opening "Three knights game"]
+[HashCode "d539ccbc"]
+[Epoch "Pawn"]
+[WhiteCountry "RUS"]
+[BlackCountry "HUN"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Bc5 4. Bb5 Nge7 5. d3 O-O 6. Bg5 d6 7. Nd5 f6 8. Be3
+Nxd5 9. Bc4 0-1

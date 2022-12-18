@@ -1,0 +1,15 @@
+[Event "New York"]
+[Site "New York"]
+[Date "1868.01.01"]
+[Round "1"]
+[White "McKenzie"]
+[Black "Ferrin"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor's defence"]
+[HashCode "499ca440"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 f6 4. Bc4 Qe7 5. O-O Nc6 6. Nc3 Bg4 7. Nd5 Qd8 8.
+c3 Nge7 9. dxe5 Nxe5 10. Nxe5 Bxd1 11. Nxf6+ gxf6 12. Bf7# 1-0
+

@@ -1,0 +1,19 @@
+[Event "Berlin"]
+[Site "Berlin"]
+[Date "1862.01.01"]
+[Round "1"]
+[White "Schallopp, Emil"]
+[Black "Amelung, Friedrich"]
+[Result "0-1"]
+[ECO "C55"]
+[Opening "two knights"]
+[Variation "Max Lange attack"]
+[HashCode "e56a1267"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "EST"]
+
+1. e4 e5 2. Nf3 Nc6 3. Bc4 Nf6 4. d4 exd4 5. O-O Bc5 6. e5 Ng8 7. Ng5 Nh6 8. f4
+O-O 9. Qh5 d5 10. Bd3 Bg4 11. Bxh7+ Kh8 12. Qh4 d3+ 13. Kh1 Be2 14. Re1 Nd4 15.
+f5 f6 16. e6 fxg5 17. Bxg5 Rf6 18. Bg6 Nf3 19. Bxf6 Qxf6 20. Qxf6 gxf6 21. e7
+Ng4 22. g3 Nxe1 23. e8=Q+ Rxe8 24. Bxe8 Bf3# 0-1

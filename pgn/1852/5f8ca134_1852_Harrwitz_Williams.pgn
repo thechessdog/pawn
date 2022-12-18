@@ -1,0 +1,27 @@
+[Event "London m1"]
+[Site "Londen m"]
+[Date "1852.01.01"]
+[Round "1"]
+[White "Harrwitz, Daniel"]
+[Black "Williams, Elijah"]
+[Result "1-0"]
+[ECO "C01"]
+[Opening "French"]
+[Variation "exchange variation"]
+[HashCode "5f8ca134"]
+[Epoch "Pawn"]
+[WhiteCountry "DEU"]
+[BlackCountry "ENG"]
+
+1. e4 e6 2. d4 d5 3. exd5 exd5 4. c4 Nf6 5. Nc3 Nc6 6. Nf3 h6 7. cxd5 Nxd5 8.
+Bc4 Nxc3 9. bxc3 Bd6 10. O-O O-O 11. h3 Qf6 12. Bd3 Ne7 13. Be3 Nd5 14. c4 Ne7
+15. c5 Bf4 16. Qd2 Ng6 17. Bxg6 fxg6 18. Bxf4 Qxf4 19. Qxf4 Rxf4 20. Kh2 Be6
+21. Rad1 Bd5 22. Ne5 Kh7 23. a3 Raf8 24. f3 R8f6 25. Rd3 Ra6 26. g3 Rff6 27.
+Re1 Ra4 28. Ree3 Ra5 29. Kg2 Rb5 30. Kf2 c6 31. Rd2 g5 32. h4 gxh4 33. gxh4 Rb1
+34. Ng4 Rf7 35. Kg2 Rf4 36. Kg3 Rf5 37. Kg2 Rh5 38. Kg3 Rg1+ 39. Kh2 Rb1 40.
+Kg3 Rf5 41. Kg2 b5 42. cxb6 Rxb6 43. Rdd3 Rb7 44. Re5 Rf4 45. Kg3 Rbf7 46. Ree3
+R4f5 47. Ne5 R7f6 48. Rd2 Re6 49. Rc3 Ref6 50. Rb2 Rf4 51. Rb4 a6 52. Ra4 a5
+53. Rxc6 Bxf3 54. Rxa5 Rf8 55. Rc7 Be4 56. Raa7 Rf1 57. Rxg7+ Kh8 58. Raf7
+R1xf7 59. Rxf7 Ra8 60. Kf4 Bg2 61. Ng4 Bd5 62. Rf6 Kg7 63. Rxh6 Rxa3 64. Rd6
+Bf7 65. Rd7 Kf8 66. Ne5 Be6 67. Ng6+ Kg8 68. Re7 Bd5 69. h5 Bf7 70. Kg5 Rd3 71.
+Rxf7 Rg3+ 72. Kf4 Rg1 73. Rf5 Kg7 74. d5 Rd1 75. Ke5 Re1+ 76. Kd6 1-0

@@ -1,0 +1,18 @@
+[Event "London"]
+[Site "London"]
+[Date "1872.01.01"]
+[Round "1"]
+[White "Steinitz, William"]
+[Black "Zukertort, Johannes Hermann"]
+[Result "1/2-1/2"]
+[ECO "C33"]
+[Opening "KGA"]
+[Variation "bishop's gambit, Bledow variation"]
+[HashCode "2c5a55da"]
+[Epoch "Pawn"]
+[WhiteCountry "AUT"]
+[BlackCountry "POL"]
+
+1. e4 e5 2. f4 exf4 3. Bc4 d5 4. Bxd5 Qh4+ 5. Kf1 g5 6. Nc3 Bg7 7. d4 Ne7 8.
+Nf3 Qh5 9. h4 h6 10. Kg1 g4 11. Ne5 Bxe5 12. dxe5 Qxe5 13. Qf1 f3 14. gxf3 Qg3+
+15. Qg2 Qe1+ 16. Qf1 1/2-1/2

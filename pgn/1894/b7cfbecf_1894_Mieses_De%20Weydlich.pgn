@@ -1,0 +1,25 @@
+[Event "DSB-09.Kongress"]
+[Site "Leipzig"]
+[Date "1894.01.01"]
+[Round "3"]
+[White "Mieses, Jacques"]
+[Black "De Weydlich, Kasimir"]
+[Result "1-0"]
+[ECO "B25"]
+[Opening "Sicilian"]
+[Variation "closed, 6.Ne2 e5 (Botvinnik)"]
+[HashCode "b7cfbecf"]
+[Epoch "Pawn"]
+[WhiteCountry "ENG"]
+
+1. e4 c5 2. Nc3 Nc6 3. g3 d6 4. Bg2 e5 5. d3 g6 6. Nge2 Bg7 7. O-O Nge7 8. Be3
+Be6 9. b3 Qd7 10. Qd2 O-O 11. Bh6 Nd4 12. Nxd4 cxd4 13. Ne2 Rac8 14. Bxg7 Kxg7
+15. f4 f5 16. Rf2 Rc7 17. g4 fxg4 18. Raf1 Rf7 19. fxe5 Rxf2 20. Rxf2 dxe5 21.
+Qg5 Nc6 22. Ng3 Qe7 23. Nh5+ Kh8 24. Nf6 Rc8 25. Qh6 Qg7 26. Qh4 Nb4 27. Nxh7
+Qxh7 28. Qf6+ Qg7 29. Qxe6 Rc7 30. Qxg4 Rf7 31. Qh3+ Kg8 32. Qe6 Nc6 33. Bh3
+Nd8 34. Qd5 Qf8 35. Rxf7 Nxf7 36. Be6 Kg7 37. Bxf7 Qxf7 38. Qxe5+ Kh7 39. Qxd4
+Qf3 40. Qf2 Qg4+ 41. Kf1 Qd1+ 42. Kg2 Qg4+ 43. Qg3 Qe2+ 44. Kh3 Qf1+ 45. Qg2
+Qf4 46. Qg4 Qf1+ 47. Kh4 Qf2+ 48. Kg5 Qc5+ 49. Kf6 Qf8+ 50. Ke5 Qc5+ 51. Kf4
+Qf2+ 52. Kg5 Qc5+ 53. Kh4 Qf2+ 54. Qg3 Qxc2 55. e5 Qe2 56. Kg5 Kg7 57. d4 Qd2+
+58. Qf4 Qg2+ 59. Kh4 Qg1 60. d5 Qe1+ 61. Kh3 Qc3+ 62. Kg4 Qd3 63. d6 Qe2+ 64.
+Kh3 Qxa2 65. d7 Qxb3+ 66. Kh4 Qd1 67. Qf6+ 1-0

@@ -1,0 +1,18 @@
+[Event "Casino Espagnol"]
+[Site "Casino Espagnol"]
+[Date "1891.01.01"]
+[Round "1"]
+[White "Blackburne, Henry"]
+[Black "Jover"]
+[Result "1-0"]
+[ECO "B01"]
+[Opening "Scandinavian"]
+[Variation "Anderssen counter-attack"]
+[HashCode "71c6811d"]
+[Epoch "Pawn"]
+
+1. e4 d5 2. exd5 Qxd5 3. Nc3 Qa5 4. d4 e5 5. dxe5 Qxe5+ 6. Be2 Bb4 7. Bd2
+Ne7 8. Nf3 Qd6 9. O-O Bxc3 10. Bxc3 Qxd1 11. Raxd1 O-O 12. Ne5 Be6 13. Bb4
+Re8 14. Bxe7 f6 15. Bb5 c6 16. Bc4 Bxc4 17. Nxc4 Rxe7 18. Rd8+ Kf7 19. Rfd1
+Re2 20. Ne3 1-0
+

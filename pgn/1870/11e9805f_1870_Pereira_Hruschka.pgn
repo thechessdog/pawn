@@ -1,0 +1,18 @@
+[Event "cr."]
+[Site "cr."]
+[Date "1870.01.01"]
+[Round "1"]
+[White "Pereira"]
+[Black "Hruschka"]
+[Result "1-0"]
+[ECO "C41"]
+[Opening "Philidor"]
+[Variation "Hanham variation"]
+[HashCode "11e9805f"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 d6 3. d4 Nd7 4. Bc4 Qe7 5. O-O Nb6 6. Bb3 Bg4 7. dxe5 dxe5
+8. Be3 Nf6 9. Nc3 h6 10. Qe2 c6 11. h3 Bh5 12. Rfd1 g5 13. Nb5 Nc8 14. g4
+Bg6 15. Nxe5 Qxe5 16. Bd4 Qe7 17. Qd3 Bxe4 18. Qc3 Bg7 19. Bc5 cxb5 20.
+Bxe7 Nxe7 21. Qe5 Kf8 22. Re1 Ng6 23. Qe6 Kg8 24. Rxe4 Nxe4 25. Qxg6 1-0
+

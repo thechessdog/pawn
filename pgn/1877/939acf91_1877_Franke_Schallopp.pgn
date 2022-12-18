@@ -1,0 +1,20 @@
+[Event "Leipzig"]
+[Site "Leipzig"]
+[Date "1877.01.01"]
+[Round "7"]
+[White "Franke, August Wilhelm"]
+[Black "Schallopp, Emil"]
+[Result "1-0"]
+[ECO "C31"]
+[Opening "KGD"]
+[Variation "Falkbeer, 3...e4"]
+[HashCode "939acf91"]
+[Epoch "Pawn"]
+[BlackCountry "DEU"]
+
+1. e4 e5 2. f4 d5 3. exd5 e4 4. Bc4 Nf6 5. d3 Bg4 6. Ne2 exd3 7. Qxd3 Bc5 8.
+Be3 Qe7 9. Bxc5 Qxc5 10. Nbc3 O-O 11. O-O-O Re8 12. h3 Re3 13. Qd4 Qxd4 14.
+Rxd4 Bxe2 15. Nxe2 Nbd7 16. g4 Nb6 17. Nc3 Rd8 18. g5 c5 19. Rd3 Rxd3 20. cxd3
+Nfxd5 21. Nxd5 Nxd5 22. Bxd5 Rxd5 23. Re1 Kf8 24. Kc2 Rd4 25. Re4 Rxe4 26. dxe4
+b5 27. a3 a5 28. Kc3 Ke7 29. a4 b4+ 30. Kc4 Kd6 31. Kb5 h6 32. h4 h5 33. b3 g6
+34. Kc4 Kc6 35. e5 1-0

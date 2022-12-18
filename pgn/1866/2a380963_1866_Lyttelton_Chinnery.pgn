@@ -1,0 +1,17 @@
+[Event "London"]
+[Site "London"]
+[Date "1866.01.01"]
+[Round "1"]
+[White "Lyttelton, George Baron"]
+[Black "Chinnery"]
+[Result "0-1"]
+[ECO "C50"]
+[Opening "Giuoco Piano"]
+[Variation "four knights variation"]
+[HashCode "2a380963"]
+[Epoch "Pawn"]
+
+1. e4 e5 2. Nf3 Nc6 3. Nc3 Nf6 4. Bc4 Bc5 5. O-O d6 6. h3 O-O 7. d3 Ne7 8. Bg5
+c6 9. Bxf6 gxf6 10. Qd2 Ng6 11. d4 exd4 12. Nxd4 Ne5 13. Bb3 Bxh3 14. f4 Kh8
+15. fxe5 Rg8 16. Rf2 dxe5 17. Qh6 Bxg2 18. Rxg2 Qxd4+ 19. Kh2 Rxg2+ 20. Kxg2
+Qf2+ 21. Kh3 Rg8 22. Ne2 Qg2+ 23. Kh4 Qg4# 0-1
